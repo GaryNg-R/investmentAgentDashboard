@@ -24,7 +24,8 @@ const FILTERS = [
 const activeFilter = ref('month')
 
 function inWindow(ts: string, filter: string, now: Date): boolean {
-  const d = new Date(ts)
+  const d = new Date(ts.replace(' ', 'T'))
+  if (isNaN(d.getTime())) return true
   const y = now.getFullYear(), m = now.getMonth()
   if (filter === 'week') {
     const start = new Date(now); start.setDate(now.getDate() - 7)

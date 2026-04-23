@@ -8,7 +8,7 @@ defineEmits<{ 'update:modelValue': [value: string] }>()
     <button
       v-for="opt in options"
       :key="opt.key"
-      class="px-3 py-1 rounded-full text-xs font-medium transition-colors"
+      class="px-3 py-1 rounded-full text-xs font-medium transition-colors cursor-pointer"
       :class="modelValue === opt.key
         ? 'bg-accent text-white'
         : 'bg-slate-100 text-slate-600 hover:bg-slate-200'"
