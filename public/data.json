@@ -1,71 +1,304 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-23T07:18:43.002828+00:00",
+    "generated_at": "2026-04-23T14:54:14.856355+00:00",
     "date_et": "2026-04-23",
-    "run_id": "20260423T071843_e2e89d"
+    "run_id": "20260423T145414_6131da"
   },
   "account": {
-    "total_value": 10000.0,
-    "cash": 10000.0,
+    "total_value": 10360.881469726562,
+    "cash": 5165.145782470703,
     "starting_cash": 10000.0,
-    "profit_dollars": 0.0,
-    "profit_percent": 0.0,
-    "vs_voo_dollars": 0.0,
-    "vs_voo_percent": 0.0
+    "profit_dollars": 360.8814697265625,
+    "profit_percent": 3.608814697265625,
+    "vs_voo_dollars": 219.89845216336107,
+    "vs_voo_percent": 2.1684135727524367
   },
-  "positions": [],
+  "positions": [
+    {
+      "ticker": "META",
+      "shares": 3.0,
+      "avg_cost": 674.1589965820312,
+      "current_price": 664.3150024414062,
+      "market_value": 1992.9450073242188,
+      "profit_dollars": -29.531982421875,
+      "profit_percent": -1.4601887967873746,
+      "portfolio_pct": 19.15871206586674
+    },
+    {
+      "ticker": "COIN",
+      "shares": 12.0,
+      "avg_cost": 195.9031982421875,
+      "current_price": 201.81500244140625,
+      "market_value": 2421.780029296875,
+      "profit_dollars": 70.941650390625,
+      "profit_percent": 3.0177170420210375,
+      "portfolio_pct": 23.281217543709648
+    },
+    {
+      "ticker": "AAPL",
+      "shares": 3.0,
+      "avg_cost": 274.1401062011719,
+      "current_price": 274.1401062011719,
+      "market_value": 822.4203186035156,
+      "profit_dollars": 0.0,
+      "profit_percent": 0.0,
+      "portfolio_pct": 7.906145941476963
+    }
+  ],
   "allocation": [
     {
+      "label": "COIN",
+      "pct": 23.3
+    },
+    {
+      "label": "META",
+      "pct": 19.2
+    },
+    {
+      "label": "AAPL",
+      "pct": 7.9
+    },
+    {
       "label": "Cash",
-      "pct": 100.0
+      "pct": 49.6
     }
   ],
   "snapshots": [
     {
+      "date": "2026-04-16",
+      "total_value": 9982.029479980469,
+      "cash": 3165.985885620117,
+      "profit_percent": -0.1797052001953125
+    },
+    {
+      "date": "2026-04-17",
+      "total_value": 10409.921264648438,
+      "cash": 5238.8861083984375,
+      "profit_percent": 4.099212646484375
+    },
+    {
+      "date": "2026-04-18",
+      "total_value": 10409.921264648438,
+      "cash": 5238.8861083984375,
+      "profit_percent": 4.099212646484375
+    },
+    {
+      "date": "2026-04-21",
+      "total_value": 10409.921264648438,
+      "cash": 5238.8861083984375,
+      "profit_percent": 4.099212646484375
+    },
+    {
+      "date": "2026-04-22",
+      "total_value": 10409.921264648438,
+      "cash": 5238.8861083984375,
+      "profit_percent": 4.099212646484375
+    },
+    {
       "date": "2026-04-23",
-      "total_value": 10000.0,
-      "cash": 10000.0,
-      "profit_percent": 0.0
+      "total_value": 10360.881469726562,
+      "cash": 5165.145782470703,
+      "profit_percent": 3.608814697265625
     }
   ],
   "benchmark": {
-    "voo_shares": 22.22222222222222,
-    "voo_price": 450.0,
-    "total_value": 10000.0,
+    "voo_shares": 15.507242234216525,
+    "voo_price": 653.951416015625,
+    "total_value": 10140.983017563201,
     "total_deposited": 10000.0,
     "snapshots": [
       {
-        "date": "2026-04-23",
-        "voo_shares": 22.22222222222222,
-        "voo_price": 450.0,
+        "date": "2026-04-16",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 644.8599853515625,
         "total_value": 10000.0
+      },
+      {
+        "date": "2026-04-17",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 652.780029296875,
+        "total_value": 10122.818039965601
+      },
+      {
+        "date": "2026-04-18",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 652.780029296875,
+        "total_value": 10122.818039965601
+      },
+      {
+        "date": "2026-04-21",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 647.25,
+        "total_value": 10037.062536096646
+      },
+      {
+        "date": "2026-04-22",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 653.9000244140625,
+        "total_value": 10140.186075548967
+      },
+      {
+        "date": "2026-04-23",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 653.951416015625,
+        "total_value": 10140.983017563201
       }
     ]
   },
-  "trades": [],
+  "trades": [
+    {
+      "id": 9,
+      "timestamp": "2026-04-23 14:54:12",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "shares": 3.0,
+      "price": 274.1401062011719,
+      "total": 822.4203186035156,
+      "reasoning": "Highest momentum score in the screened list (95), MACD bullish with rising histogram confirming building momentum, RSI 63.8 in the sweet spot bullish zone, and price 5.3% above SMA-20.",
+      "realized_profit": null
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-04-23 14:54:12",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 2.0,
+      "price": 374.3399963378906,
+      "total": 748.6799926757812,
+      "reasoning": "Down -6.1% against a -7% stop-loss, RSI at 48 (neutral) and lowest score of our holdings at 75 \u2014 proactively exiting before auto-stop fires to redeploy into stronger momentum.",
+      "realized_profit": -49.039794921875
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-04-17 14:34:54",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 2.0,
+      "price": 398.8598937988281,
+      "total": 797.7197875976562,
+      "reasoning": "Score-95 momentum leader with RSI 59.8 in the ideal bullish zone, MACD crossover confirmed, and price well above SMA-20 \u2014 strong setup in today's risk-on tape.",
+      "realized_profit": null
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-04-17 14:34:54",
+      "action": "SELL",
+      "ticker": "MSTR",
+      "shares": 17.0,
+      "price": 168.86000061035156,
+      "total": 2870.6200103759766,
+      "reasoning": "MSTR is up +17.3% from avg cost of $143.69, well past the +12% profit target \u2014 locking in gains and freeing a position slot.",
+      "realized_profit": 427.89178466796875
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-04-16 18:28:25",
+      "action": "BUY",
+      "ticker": "MSTR",
+      "shares": 17.0,
+      "price": 143.6898956298828,
+      "total": 2442.728225708008,
+      "reasoning": "Score 95 with RSI 59.9 in bullish momentum zone, MACD bullish crossover, price well above SMA-20 \u2014 strong momentum at a reasonable price (~$2,444 within 25% limit)",
+      "realized_profit": null
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-04-16 18:28:25",
+      "action": "SELL",
+      "ticker": "TSLA",
+      "shares": 6.0,
+      "price": 385.375,
+      "total": 2312.25,
+      "reasoning": "TSLA is the weakest position (score 80, RSI below bullish zone at 54.7) and slightly underwater \u2014 rotating into higher-momentum MSTR",
+      "realized_profit": -17.97052001953125
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-04-16 18:27:20",
+      "action": "BUY",
+      "ticker": "COIN",
+      "shares": 12.0,
+      "price": 195.9031982421875,
+      "total": 2350.83837890625,
+      "reasoning": "Score 95 with RSI 59.5 in bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 strong setup using available cash to fill the third position slot",
+      "realized_profit": null
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-04-16 15:47:48",
+      "action": "BUY",
+      "ticker": "META",
+      "shares": 3.0,
+      "price": 674.1589965820312,
+      "total": 2022.4769897460938,
+      "reasoning": "Score 95, RSI 67.4 bullish zone, MACD rising, price well above SMA-20 indicating strong trend continuation.",
+      "realized_profit": null
+    },
+    {
+      "id": 1,
+      "timestamp": "2026-04-16 15:47:47",
+      "action": "BUY",
+      "ticker": "TSLA",
+      "shares": 6.0,
+      "price": 388.3700866699219,
+      "total": 2330.2205200195312,
+      "reasoning": "Score 95, RSI 55.5 in bullish zone, MACD crossover confirmed, price above SMA-20 \u2014 clean momentum setup.",
+      "realized_profit": null
+    }
+  ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "SELL",
+        "ticker": "TSLA",
+        "shares": 2,
+        "reasoning": "Down -6.1% against a -7% stop-loss, RSI at 48 (neutral) and lowest score of our holdings at 75 \u2014 proactively exiting before auto-stop fires to redeploy into stronger momentum."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAPL",
+        "conviction": "high",
+        "reasoning": "Highest momentum score in the screened list (95), MACD bullish with rising histogram confirming building momentum, RSI 63.8 in the sweet spot bullish zone, and price 5.3% above SMA-20."
+      }
+    ],
     "skip_new_buys": false,
-    "market_direction": null,
-    "briefing": "ok"
+    "market_direction": "neutral",
+    "briefing": "Markets were essentially flat today \u2014 NASDAQ dipped 0.2% and S&P500 held steady, a neutral backdrop that favors stock-picking over macro bets. TSLA is sitting at -6.1% against our -7% stop-loss, so selling it proactively rather than waiting for the auto-trigger frees up ~$749 in capital with control intact. We're swapping our weakest position for AAPL, which carries the top momentum score in today's screened universe and has the rare combination of MACD histogram rising plus RSI in the bullish (not yet overbought) zone."
   },
   "education": {
-    "market_education": null,
-    "daily_lesson": null
+    "market_education": {
+      "summary_en": "U.S. equity markets traded sideways on April 23, with the S&P 500 essentially flat and the NASDAQ slipping 0.2% as investors digested a mix of ongoing earnings reports and continued uncertainty around Federal Reserve rate policy. Technology stocks showed resilience in leaders like Apple and NVIDIA, which benefit from strong AI-driven demand narratives, while more speculative names like Tesla faced continued pressure from softening EV delivery expectations. With no major macro catalyst to break the stalemate, markets are in a consolidation phase where individual stock momentum is more decisive than index direction.",
+      "summary_zh": "\u7f8e\u80a14\u670823\u65e5\u6574\u9ad4\u6a6b\u884c\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u6536\u5e73\uff0c\u90a3\u65af\u9054\u514b\u5fae\u8dcc0.2%\uff0c\u5e02\u5834\u5728\u7b49\u5f85\u806f\u6e96\u6703\u5229\u7387\u653f\u7b56\u65b9\u5411\u660e\u6717\u53ca\u4f01\u696d\u8ca1\u5831\u6f6e\u6d88\u5316\u4e4b\u9593\u7dad\u6301\u89c0\u671b\u3002\u860b\u679c\u3001\u8f1d\u9054\u7b49AI\u76f8\u95dc\u9f8d\u982d\u80a1\u6191\u85c9\u5f37\u52c1\u7684\u9700\u6c42\u6558\u4e8b\u76f8\u5c0d\u6297\u8dcc\uff0c\u800c\u7279\u65af\u62c9\u5247\u56e0\u96fb\u52d5\u8eca\u4ea4\u4ed8\u524d\u666f\u8da8\u5f31\u6301\u7e8c\u627f\u58d3\u3002\u6574\u9ad4\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u500b\u80a1\u52d5\u80fd\u7684\u512a\u52a3\u5728\u6b64\u76e4\u6574\u671f\u9593\u6bd4\u6307\u6578\u8d70\u5411\u66f4\u80fd\u6c7a\u5b9a\u7372\u5229\u7a7a\u9593\u3002",
+      "sources": []
+    },
+    "daily_lesson": {
+      "term": "Proactive Stop-Loss Management",
+      "explanation_en": "A stop-loss is a pre-set price level where you exit a losing position to cap your downside \u2014 ours is set at -7% from average cost. Rather than waiting for the automatic trigger to fire, exiting a position that is close to the stop-loss (TSLA at -6.1%) is called proactive management: you reclaim control of the exit price, avoid the emotional stress of watching it hit the limit, and immediately free capital to deploy into stronger opportunities.",
+      "explanation_zh": "\u6b62\u640d\uff08Stop-Loss\uff09\u662f\u6295\u8cc7\u4eba\u9810\u5148\u8a2d\u5b9a\u7684\u51fa\u5834\u50f9\u4f4d\uff0c\u7576\u8667\u640d\u9054\u5230\u4e00\u5b9a\u6bd4\u4f8b\u6642\u81ea\u52d5\u5e73\u5009\uff0c\u6211\u5011\u7684\u898f\u5247\u662f\u8667\u640d\u8d85\u904e7%\u5373\u51fa\u5834\u3002\u300c\u4e3b\u52d5\u5f0f\u6b62\u640d\u7ba1\u7406\u300d\u662f\u6307\u5728\u50f9\u683c\u9084\u672a\u5230\u9054\u6b62\u640d\u7dda\u6642\u4fbf\u4e3b\u52d5\u96e2\u5834\u2014\u2014\u5c31\u50cf\u4eca\u5929\u7684\u7279\u65af\u62c9\u5df2\u8dcc\u81f3-6.1%\uff0c\u8207\u6b62\u640d\u7dda\u50c5\u5dee\u4e00\u6b65\u4e4b\u9059\uff0c\u6b64\u6642\u4e3b\u52d5\u8ce3\u51fa\u53ef\u4ee5\u638c\u63e1\u66f4\u597d\u7684\u51fa\u5834\u50f9\u683c\uff0c\u907f\u514d\u88ab\u52d5\u89f8\u767c\uff0c\u4e26\u7acb\u5373\u91cb\u653e\u8cc7\u91d1\u6295\u5165\u66f4\u5177\u52d5\u80fd\u7684\u6a19\u7684\u3002"
+    }
   },
   "stats": {
-    "win_rate": null,
-    "winners_count": 0,
-    "losers_count": 0,
-    "avg_winner": null,
-    "avg_loser": null,
-    "best_trade": null,
-    "worst_trade": null,
-    "max_drawdown_percent": null,
-    "daily_volatility": null,
-    "total_realized_profit": 0.0,
-    "per_ticker_realized": {}
+    "win_rate": 33.33333333333333,
+    "winners_count": 1,
+    "losers_count": 2,
+    "avg_winner": 427.89178466796875,
+    "avg_loser": -33.505157470703125,
+    "best_trade": {
+      "ticker": "MSTR",
+      "realized_profit": 427.89178466796875
+    },
+    "worst_trade": {
+      "ticker": "TSLA",
+      "realized_profit": -49.039794921875
+    },
+    "max_drawdown_percent": 0.47108708774207203,
+    "daily_volatility": 1.771179479052375,
+    "total_realized_profit": 360.8814697265625,
+    "per_ticker_realized": {
+      "TSLA": -67.01031494140625,
+      "MSTR": 427.89178466796875
+    }
   },
   "dividends": []
 }
