@@ -11,7 +11,7 @@ function actionClass(action: string) {
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <p class="text-sm font-semibold text-slate-700 mb-3">Today's Plan</p>
 
     <div v-if="!plan" class="text-slate-400 text-sm text-center py-4">No plan available for today.</div>

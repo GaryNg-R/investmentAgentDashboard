@@ -14,7 +14,7 @@ const { data, loading, error, schemaMismatch, reload } = useData()
 </script>
 
 <template>
-  <div class="min-h-screen bg-slate-100">
+  <div class="min-h-screen bg-slate-300">
     <div class="max-w-2xl mx-auto px-4 lg:px-0">
 
       <!-- Loading -->

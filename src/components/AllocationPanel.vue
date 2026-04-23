@@ -48,7 +48,7 @@ const sorted = () => [...props.positions].sort((a, b) => (b.market_value ?? 0) -
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <p class="text-sm font-semibold text-slate-700 mb-3">Allocation & Positions</p>
     <div class="flex flex-col lg:flex-row gap-4">
       <div class="flex-shrink-0 w-40 h-40 mx-auto lg:mx-0">

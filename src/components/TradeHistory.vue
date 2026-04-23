@@ -66,7 +66,7 @@ function exportCSV() {
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <div class="flex items-center justify-between mb-3">
       <p class="text-sm font-semibold text-slate-700">
         Trade History

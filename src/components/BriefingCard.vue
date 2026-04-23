@@ -8,7 +8,7 @@ const showContext = ref(false)
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm border-l-4 border-amber-400 p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md border-l-4 border-amber-400 p-5 mb-3">
     <p class="text-sm font-semibold text-slate-700 mb-2">Claude's Briefing</p>
     <p class="text-sm text-slate-600 leading-relaxed">{{ briefing ?? 'No briefing available today.' }}</p>
 

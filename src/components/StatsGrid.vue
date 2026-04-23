@@ -6,7 +6,7 @@ defineProps<{ stats: Stats }>()
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <p class="text-sm font-semibold text-slate-700 mb-3">Performance</p>
     <div class="grid grid-cols-2 lg:grid-cols-3 gap-3">
       <div class="bg-slate-50 rounded-lg p-3">

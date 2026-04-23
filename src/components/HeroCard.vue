@@ -8,7 +8,7 @@ const isPositive = () => props.account.profit_dollars >= 0
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <p class="text-xs uppercase tracking-widest text-slate-400 mb-1">Total Portfolio</p>
     <p class="text-4xl font-bold tabular text-slate-900">{{ formatCurrency(account.total_value) }}</p>
 

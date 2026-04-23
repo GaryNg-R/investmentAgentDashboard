@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { ref, watch, onBeforeUnmount, onMounted } from 'vue'
-import { Chart, LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend } from 'chart.js'
+import { Chart, LineController, LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend } from 'chart.js'
 import type { Snapshot, BenchmarkSnapshot } from '../types/data'
 
-Chart.register(LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend)
+Chart.register(LineController, LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend)
 
 const props = defineProps<{ snapshots: Snapshot[]; benchmarkSnapshots: BenchmarkSnapshot[] }>()
 const canvas = ref<HTMLCanvasElement | null>(null)
@@ -51,7 +51,7 @@ onBeforeUnmount(() => { if (chart) chart.destroy() })
 </script>
 
 <template>
-  <div class="bg-white rounded-xl shadow-sm p-5 mb-3">
+  <div class="bg-white rounded-xl shadow-md p-5 mb-3">
     <div class="flex items-center justify-between mb-3">
       <p class="text-sm font-semibold text-slate-700">Equity Curve</p>
       <div class="flex gap-4 text-xs text-slate-500">
