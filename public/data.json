@@ -1,32 +1,47 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-23T07:18:42.172043+00:00",
+    "generated_at": "2026-04-23T07:18:42.871029+00:00",
     "date_et": "2026-04-23",
-    "run_id": "20260423T071842_7e970e"
+    "run_id": "20260423T071842_c875bb"
   },
   "account": {
-    "total_value": 10100.0,
-    "cash": 10100.0,
+    "total_value": 10000.0,
+    "cash": 8500.0,
     "starting_cash": 10000.0,
-    "profit_dollars": 100.0,
-    "profit_percent": 1.0,
-    "vs_voo_dollars": 100.0,
-    "vs_voo_percent": 1.0000000000000009
+    "profit_dollars": 0.0,
+    "profit_percent": 0.0,
+    "vs_voo_dollars": 0.0,
+    "vs_voo_percent": 0.0
   },
-  "positions": [],
+  "positions": [
+    {
+      "ticker": "NVDA",
+      "shares": 15.0,
+      "avg_cost": 100.0,
+      "current_price": 202.5,
+      "market_value": 3037.5,
+      "profit_dollars": 1537.5,
+      "profit_percent": 102.49999999999999,
+      "portfolio_pct": 26.327193932827736
+    }
+  ],
   "allocation": [
     {
+      "label": "NVDA",
+      "pct": 26.3
+    },
+    {
       "label": "Cash",
-      "pct": 100.0
+      "pct": 73.7
     }
   ],
   "snapshots": [
     {
-      "date": "2026-04-20",
-      "total_value": 10100.0,
-      "cash": 10100.0,
-      "profit_percent": 1.0
+      "date": "2026-04-23",
+      "total_value": 10000.0,
+      "cash": 8500.0,
+      "profit_percent": 0.0
     }
   ],
   "benchmark": {
@@ -43,16 +58,35 @@
       }
     ]
   },
-  "trades": [],
+  "trades": [
+    {
+      "id": 1,
+      "timestamp": "2026-04-23 07:18:42",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 15.0,
+      "price": 100.0,
+      "total": 1500.0,
+      "reasoning": "strong momentum",
+      "realized_profit": null
+    }
+  ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "NVDA",
+        "conviction": "high",
+        "reasoning": "strong momentum"
+      }
+    ],
     "skip_new_buys": false,
     "market_direction": null,
-    "briefing": "ok"
+    "briefing": "Buy NVDA high conviction."
   },
   "education": {
-    "market_education": {},
-    "daily_lesson": {}
+    "market_education": null,
+    "daily_lesson": null
   },
   "stats": {
     "win_rate": null,
