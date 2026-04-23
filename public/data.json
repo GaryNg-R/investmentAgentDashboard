@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "generated_at": "2026-04-22T20:42:47+00:00",
+    "date_et": "2026-04-22",
+    "run_id": "20260422T204247_a1b2c3"
+  },
+  "account": {
+    "total_value": 10409.92,
+    "cash": 5238.89,
+    "starting_cash": 10000.0,
+    "profit_dollars": 409.92,
+    "profit_percent": 4.0992,
+    "vs_voo_dollars": 314.86,
+    "vs_voo_percent": 3.12
+  },
+  "positions": [
+    { "ticker": "META", "shares": 3, "avg_cost": 674.16, "current_price": 681.0, "market_value": 2043.0, "profit_dollars": 20.52, "profit_percent": 1.02, "portfolio_pct": 19.63 },
+    { "ticker": "COIN", "shares": 12, "avg_cost": 195.90, "current_price": 193.0, "market_value": 2316.0, "profit_dollars": -34.8, "profit_percent": -1.48, "portfolio_pct": 22.25 },
+    { "ticker": "TSLA", "shares": 2, "avg_cost": 398.86, "current_price": 402.0, "market_value": 804.0, "profit_dollars": 6.28, "profit_percent": 0.79, "portfolio_pct": 7.73 }
+  ],
+  "allocation": [
+    { "label": "COIN", "pct": 22.3 },
+    { "label": "META", "pct": 19.6 },
+    { "label": "TSLA", "pct": 7.7 },
+    { "label": "Cash", "pct": 50.4 }
+  ],
+  "snapshots": [
+    { "date": "2026-04-16", "total_value": 10050.0, "cash": 5200.0, "profit_percent": 0.5 },
+    { "date": "2026-04-17", "total_value": 10200.0, "cash": 5238.89, "profit_percent": 2.0 },
+    { "date": "2026-04-18", "total_value": 10180.0, "cash": 5238.89, "profit_percent": 1.8 },
+    { "date": "2026-04-21", "total_value": 10250.0, "cash": 5238.89, "profit_percent": 2.5 },
+    { "date": "2026-04-22", "total_value": 10409.92, "cash": 5238.89, "profit_percent": 4.1 }
+  ],
+  "benchmark": {
+    "voo_shares": 15.507,
+    "voo_price": 651.0,
+    "total_value": 10095.06,
+    "total_deposited": 10000.0,
+    "snapshots": [
+      { "date": "2026-04-16", "voo_shares": 15.507, "voo_price": 645.0, "total_value": 9951.02 },
+      { "date": "2026-04-21", "voo_shares": 15.507, "voo_price": 648.5, "total_value": 10055.29 },
+      { "date": "2026-04-22", "voo_shares": 15.507, "voo_price": 651.0, "total_value": 10095.06 }
+    ]
+  },
+  "trades": [
+    { "id": 7, "timestamp": "2026-04-17 14:34:55", "action": "BUY",  "ticker": "TSLA", "shares": 2,  "price": 398.86,  "total": 797.72,  "reasoning": "tsla re-buy",        "realized_profit": null },
+    { "id": 6, "timestamp": "2026-04-17 14:34:54", "action": "SELL", "ticker": "MSTR", "shares": 17, "price": 168.86,  "total": 2870.62, "reasoning": "mstr sell profit",   "realized_profit": 427.89 },
+    { "id": 5, "timestamp": "2026-04-16 18:28:26", "action": "BUY",  "ticker": "MSTR", "shares": 17, "price": 143.69,  "total": 2442.73, "reasoning": "mstr buy",           "realized_profit": null },
+    { "id": 4, "timestamp": "2026-04-16 18:28:25", "action": "SELL", "ticker": "TSLA", "shares": 6,  "price": 385.375, "total": 2312.25, "reasoning": "sell tsla",          "realized_profit": -17.97 },
+    { "id": 3, "timestamp": "2026-04-16 18:27:20", "action": "BUY",  "ticker": "COIN", "shares": 12, "price": 195.90,  "total": 2350.80, "reasoning": "coin buy",           "realized_profit": null },
+    { "id": 2, "timestamp": "2026-04-16 15:47:48", "action": "BUY",  "ticker": "META", "shares": 3,  "price": 674.16,  "total": 2022.48, "reasoning": "meta buy",           "realized_profit": null },
+    { "id": 1, "timestamp": "2026-04-16 15:47:47", "action": "BUY",  "ticker": "TSLA", "shares": 6,  "price": 388.37,  "total": 2330.22, "reasoning": "initial buy",        "realized_profit": null }
+  ],
+  "today_plan": {
+    "decisions": [
+      { "action": "SELL", "ticker": "TSLA", "shares": 2, "conviction": null, "reasoning": "Weakest holding at -2.8% — rotating into AAPL" },
+      { "action": "BUY",  "ticker": "AAPL", "shares": null, "conviction": "high", "reasoning": "Score 95, RSI 63, MACD crossover — ideal setup" }
+    ],
+    "skip_new_buys": false,
+    "market_direction": "risk_on",
+    "briefing": "Market is firmly risk-on with NASDAQ up 1.6% — a strong tailwind for large-cap tech. Rotating out of TSLA into AAPL for higher quality."
+  },
+  "education": {
+    "market_education": {
+      "summary_en": "Markets surged on April 22 in a broad risk-on session, NASDAQ gaining 1.6%.",
+      "summary_zh": "美股於4月22日全面走強，那斯達克指數上漲1.6%。",
+      "sources": []
+    },
+    "daily_lesson": {
+      "term": "Portfolio Rotation",
+      "explanation_en": "Selling a weaker position to buy a stronger one — improving average quality without adding risk.",
+      "explanation_zh": "賣出較弱的持倉，買入更強的標的，在不增加風險的情況下提升整體質量。"
+    }
+  },
+  "stats": {
+    "win_rate": 50.0,
+    "winners_count": 1,
+    "losers_count": 1,
+    "avg_winner": 427.89,
+    "avg_loser": -17.97,
+    "best_trade": { "ticker": "MSTR", "realized_profit": 427.89 },
+    "worst_trade": { "ticker": "TSLA", "realized_profit": -17.97 },
+    "max_drawdown_percent": 0.196,
+    "daily_volatility": 1.32,
+    "total_realized_profit": 409.92,
+    "per_ticker_realized": { "MSTR": 427.89, "TSLA": -17.97 }
+  },
+  "dividends": []
+}
