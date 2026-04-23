@@ -1,69 +1,79 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-23T15:13:18.055018+00:00",
+    "generated_at": "2026-04-23T15:30:49.657668+00:00",
     "date_et": "2026-04-23",
-    "run_id": "20260423T151318_6b47e2"
+    "run_id": "20260423T153049_fa621f"
   },
   "account": {
-    "total_value": 10360.881469726562,
-    "cash": 1433.4458312988281,
+    "total_value": 10344.234436035156,
+    "cash": 256.935791015625,
     "starting_cash": 10000.0,
-    "profit_dollars": 360.8814697265625,
-    "profit_percent": 3.608814697265625,
-    "vs_voo_dollars": 212.63227182693117,
-    "vs_voo_percent": 2.0952606472349977
+    "profit_dollars": 344.23443603515625,
+    "profit_percent": 3.442344360351562,
+    "vs_voo_dollars": 193.96922092612112,
+    "vs_voo_percent": 1.9109768741548905
   },
   "positions": [
-    {
-      "ticker": "META",
-      "shares": 3.0,
-      "avg_cost": 674.1589965820312,
-      "current_price": 666.8099975585938,
-      "market_value": 2000.4299926757812,
-      "profit_dollars": -22.0469970703125,
-      "profit_percent": -1.0900987839214096,
-      "portfolio_pct": 19.20366869195417
-    },
     {
       "ticker": "COIN",
       "shares": 12.0,
       "avg_cost": 195.9031982421875,
-      "current_price": 202.58999633789062,
-      "market_value": 2431.0799560546875,
-      "profit_dollars": 80.2415771484375,
-      "profit_percent": 3.413317472967693,
-      "portfolio_pct": 23.337809476290573
+      "current_price": 202.72999572753906,
+      "market_value": 2432.7599487304688,
+      "profit_dollars": 81.92156982421875,
+      "profit_percent": 3.484781027878809,
+      "portfolio_pct": 23.33008478898872
     },
     {
       "ticker": "AAPL",
       "shares": 3.0,
       "avg_cost": 274.1401062011719,
-      "current_price": 273.4200134277344,
-      "market_value": 820.2600402832031,
-      "profit_dollars": -2.1602783203125,
-      "profit_percent": -0.26267326711731676,
-      "portfolio_pct": 7.87430808002318
+      "current_price": 273.75,
+      "market_value": 821.25,
+      "profit_dollars": -1.170318603515625,
+      "profit_percent": -0.14230176189017885,
+      "portfolio_pct": 7.875759440612096
     },
     {
       "ticker": "GOOGL",
       "shares": 6.0,
       "avg_cost": 341.1099853515625,
-      "current_price": 341.1099853515625,
-      "market_value": 2046.659912109375,
-      "profit_dollars": 0.0,
-      "profit_percent": 0.0,
-      "portfolio_pct": 19.647465305536716
+      "current_price": 340.9800109863281,
+      "market_value": 2045.8800659179688,
+      "profit_dollars": -0.77984619140625,
+      "profit_percent": -0.03810335985926002,
+      "portfolio_pct": 19.61991993121892
     },
     {
       "ticker": "MSFT",
       "shares": 4.0,
       "avg_cost": 421.260009765625,
-      "current_price": 421.260009765625,
-      "market_value": 1685.0400390625,
+      "current_price": 422.1000061035156,
+      "market_value": 1688.4000244140625,
+      "profit_dollars": 3.3599853515625,
+      "profit_percent": 0.19940092067081586,
+      "portfolio_pct": 16.191698547103496
+    },
+    {
+      "ticker": "QQQ",
+      "shares": 3.0,
+      "avg_cost": 656.2000122070312,
+      "current_price": 656.2000122070312,
+      "market_value": 1968.6000366210938,
       "profit_dollars": 0.0,
       "profit_percent": 0.0,
-      "portfolio_pct": 16.1759975411838
+      "portfolio_pct": 18.878807090664104
+    },
+    {
+      "ticker": "NVDA",
+      "shares": 6.0,
+      "avg_cost": 202.2899932861328,
+      "current_price": 202.2899932861328,
+      "market_value": 1213.7399597167969,
+      "profit_dollars": 0.0,
+      "profit_percent": 0.0,
+      "portfolio_pct": 11.639724744216386
     }
   ],
   "allocation": [
@@ -76,12 +86,16 @@
       "pct": 19.6
     },
     {
-      "label": "META",
-      "pct": 19.2
+      "label": "QQQ",
+      "pct": 18.9
     },
     {
       "label": "MSFT",
       "pct": 16.2
+    },
+    {
+      "label": "NVDA",
+      "pct": 11.6
     },
     {
       "label": "AAPL",
@@ -89,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 13.8
+      "pct": 2.5
     }
   ],
   "snapshots": [
@@ -125,15 +139,15 @@
     },
     {
       "date": "2026-04-23",
-      "total_value": 10360.881469726562,
-      "cash": 1433.4458312988281,
-      "profit_percent": 3.608814697265625
+      "total_value": 10344.234436035156,
+      "cash": 256.935791015625,
+      "profit_percent": 3.442344360351562
     }
   ],
   "benchmark": {
     "voo_shares": 15.507242234216525,
-    "voo_price": 654.4199829101562,
-    "total_value": 10148.249197899631,
+    "voo_price": 654.5499877929688,
+    "total_value": 10150.265215109035,
     "total_deposited": 10000.0,
     "snapshots": [
       {
@@ -169,12 +183,45 @@
       {
         "date": "2026-04-23",
         "voo_shares": 15.507242234216525,
-        "voo_price": 654.4199829101562,
-        "total_value": 10148.249197899631
+        "voo_price": 654.5499877929688,
+        "total_value": 10150.265215109035
       }
     ]
   },
   "trades": [
+    {
+      "id": 14,
+      "timestamp": "2026-04-23 15:30:46",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 6.0,
+      "price": 202.2899932861328,
+      "total": 1213.7399597167969,
+      "reasoning": "RSI 62.1 in bullish zone with rising MACD histogram and price above SMA-20, representing solid risk/reward at a non-overbought level",
+      "realized_profit": null
+    },
+    {
+      "id": 13,
+      "timestamp": "2026-04-23 15:30:46",
+      "action": "BUY",
+      "ticker": "QQQ",
+      "shares": 3.0,
+      "price": 656.2000122070312,
+      "total": 1968.6000366210938,
+      "reasoning": "Top-scored candidate at 95 with bullish MACD crossover, RSI 68.7 in momentum zone, and price holding above SMA-20",
+      "realized_profit": null
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-04-23 15:30:45",
+      "action": "SELL",
+      "ticker": "META",
+      "shares": 3.0,
+      "price": 668.6099853515625,
+      "total": 2005.8299560546875,
+      "reasoning": "Score fell to 30 with MACD bearish and price below SMA-20; rotating capital into higher-momentum candidates",
+      "realized_profit": -16.64703369140625
+    },
     {
       "id": 11,
       "timestamp": "2026-04-23 15:13:14",
@@ -300,40 +347,46 @@
   "today_plan": {
     "decisions": [
       {
-        "action": "BUY",
-        "ticker": "GOOGL",
-        "conviction": "high",
-        "reasoning": "Score 90 with RSI 67.7 in bullish momentum zone, MACD crossover confirmed, and price well above SMA-20 \u2014 fills an open slot with strong technical setup and diversifies away from current holdings."
+        "action": "SELL",
+        "ticker": "META",
+        "shares": 3,
+        "reasoning": "Score fell to 30 with MACD bearish and price below SMA-20; rotating capital into higher-momentum candidates"
       },
       {
         "action": "BUY",
-        "ticker": "MSFT",
+        "ticker": "QQQ",
         "conviction": "high",
-        "reasoning": "Score 90 with RSI 63.9 cleanly in bullish zone (not overbought), MACD bullish, price 8% above SMA-20 \u2014 fills the second open slot with a large-cap anchor that complements the higher-beta positions already held."
+        "reasoning": "Top-scored candidate at 95 with bullish MACD crossover, RSI 68.7 in momentum zone, and price holding above SMA-20"
+      },
+      {
+        "action": "BUY",
+        "ticker": "NVDA",
+        "conviction": "medium",
+        "reasoning": "RSI 62.1 in bullish zone with rising MACD histogram and price above SMA-20, representing solid risk/reward at a non-overbought level"
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were essentially flat today \u2014 a coin-flip session with NASDAQ barely red and S&P500 barely green, reflecting a pause after recent momentum. Our existing positions (META, COIN, AAPL) are all holding above stop-loss levels with COIN the standout at +3.4% from cost. With two open slots and over $5,000 in idle cash, the rules strongly favor deployment \u2014 I'm adding GOOGL and MSFT, both scoring 90 with RSIs in the healthy 60\u201368 range, avoiding the overbought names like AMD and SOXL whose RSIs are above 84."
+    "briefing": "Markets were virtually flat today (NASDAQ -0.0%, S&P500 +0.1%), an ideal backdrop for a low-friction rotation trade. I sold META \u2014 its momentum has deteriorated to a score of 30 with bearish MACD and price below SMA-20 \u2014 and redeployed into QQQ and NVDA, the two strongest technically-sound setups not already at overbought extremes. This keeps us nearly fully deployed and improves overall portfolio quality without chasing extended names like AMD or SOXL."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities traded in a tight range today, with the S&P 500 edging up 0.1% while the NASDAQ dipped 0.1%, reflecting a market in consolidation mode after a strong multi-week rebound. Investors appear to be in a wait-and-see posture ahead of a busy stretch of mega-cap earnings reports, with traders reluctant to add aggressive risk without fresh catalysts. The relative strength of large-cap tech names like GOOGL, MSFT, and META \u2014 all holding above their 20-day moving averages \u2014 suggests institutional money is rotating into quality rather than exiting the market entirely.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6574\u7406\uff0c\u6a19\u666e500\u5fae\u53470.1%\uff0c\u7d0d\u6307\u5fae\u8dcc0.1%\uff0c\u6574\u9ad4\u5448\u73fe\u76e4\u6574\u683c\u5c40\uff0c\u5ef6\u7e8c\u8fd1\u671f\u5f37\u52e2\u53cd\u5f48\u5f8c\u7684\u7372\u5229\u56de\u5410\u58d3\u529b\u3002\u5e02\u5834\u9032\u5165\u89c0\u671b\u6a21\u5f0f\uff0c\u6295\u8cc7\u8005\u975c\u5019\u5927\u578b\u79d1\u6280\u80a1\u8ca1\u5831\u9678\u7e8c\u51fa\u7210\uff0c\u77ed\u671f\u98a8\u96aa\u504f\u597d\u8da8\u65bc\u5be9\u614e\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0cGOOGL\u3001MSFT\u3001META\u7b49\u5927\u578b\u79d1\u6280\u80a1\u80a1\u50f9\u5747\u7dad\u6301\u65bc20\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u50be\u5411\u8f49\u5165\u512a\u8cea\u85cd\u7c4c\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u5e02\u5834\u3002",
+      "summary_en": "U.S. equities were flat on April 23rd, with the S&P 500 up just 0.1% and the NASDAQ unchanged, as the market paused to digest its recent rebound without fresh macro catalysts to drive direction. Beneath the surface, divergence was visible: broad index ETFs like QQQ maintained bullish technical structure while individual mega-caps like META and MSFT slipped below their 20-day moving averages. The session's consolidation tone suggests investors are waiting on upcoming earnings reports before committing to a new directional move.",
+      "summary_zh": "\u7f8e\u80a14\u670823\u65e5\u8d70\u52e2\u6301\u5e73\uff0c\u6a19\u666e500\u50c5\u5fae\u53470.1%\uff0c\u7d0d\u6307\u6536\u5e73\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u53cd\u5f48\u5f8c\u9032\u5165\u6574\u56fa\uff0c\u7f3a\u4e4f\u65b0\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u5f15\u9818\u65b9\u5411\u3002\u677f\u584a\u5167\u90e8\u51fa\u73fe\u5206\u5316\uff1aQQQ\u7b49\u5927\u76e4ETF\u4ecd\u7dad\u6301\u770b\u6f32\u6280\u8853\u683c\u5c40\uff0c\u4f46META\u3001MSFT\u7b49\u500b\u5225\u5de8\u982d\u80a1\u50f9\u8dcc\u783420\u65e5\u5747\u7dda\uff0c\u52d5\u80fd\u660e\u986f\u8f49\u5f31\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u4eca\u65e5\u7e2e\u91cf\u6a6b\u76e4\u683c\u5c40\u986f\u793a\u5e02\u5834\u6b63\u975c\u5019\u5373\u5c07\u5230\u4f86\u7684\u8ca1\u5831\u5b63\uff0c\u65b9\u5411\u9078\u64c7\u5c1a\u672a\u660e\u6717\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Idle Cash Opportunity Cost",
-      "explanation_en": "Opportunity cost is what you give up by not acting \u2014 in investing, cash sitting idle earns nothing while the market moves. With two open position slots and $5,000+ in cash on a day when multiple stocks show strong momentum signals, leaving that cash undeployed means missing potential gains. This is why the portfolio rules explicitly flag open slots + ample cash as a signal to act rather than wait.",
-      "explanation_zh": "\u6a5f\u6703\u6210\u672c\u662f\u6307\u56e0\u70ba\u300c\u4e0d\u884c\u52d5\u300d\u800c\u653e\u68c4\u7684\u6f5b\u5728\u6536\u76ca\u3002\u5728\u6295\u8cc7\u4e0a\uff0c\u9592\u7f6e\u73fe\u91d1\u4e0d\u7522\u751f\u56de\u5831\uff0c\u800c\u5e02\u5834\u537b\u6301\u7e8c\u6ce2\u52d5\u3002\u4eca\u65e5\u7d44\u5408\u6709\u5169\u500b\u7a7a\u4f4d\u52a0\u4e0a\u903e5,000\u7f8e\u5143\u73fe\u91d1\uff0c\u5728\u591a\u6a94\u80a1\u7968\u5448\u73fe\u5f37\u52e2\u52d5\u80fd\u8a0a\u865f\u7684\u80cc\u666f\u4e0b\uff0c\u82e5\u4e0d\u9032\u884c\u90e8\u7f72\uff0c\u4fbf\u662f\u767d\u767d\u653e\u68c4\u6f5b\u5728\u7372\u5229\u7a7a\u9593\u3002\u9019\u6b63\u662f\u6295\u8cc7\u7d00\u5f8b\u4e2d\u300c\u6709\u7a7a\u4f4d\uff0b\u6709\u8db3\u5920\u73fe\u91d1\u5c31\u61c9\u7a4d\u6975\u5efa\u5009\u300d\u539f\u5247\u7684\u6838\u5fc3\u908f\u8f2f\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation means selling positions that have lost upward momentum and redeploying that capital into assets with stronger current price trends. Indicators like RSI and MACD help identify which stocks are accelerating versus stalling. The goal is to keep your portfolio aligned with the market's current leaders rather than holding laggards waiting for a recovery that may not come.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u52d5\u80fd\u5df2\u6d88\u9000\u7684\u6301\u80a1\uff0c\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u7576\u524d\u6280\u8853\u8da8\u52e2\u66f4\u5f37\u7684\u8cc7\u7522\u4e0a\u3002\u4ea4\u6613\u8005\u900f\u904eRSI\u3001MACD\u7b49\u6307\u6a19\u8fa8\u8b58\u54ea\u4e9b\u80a1\u7968\u4ecd\u5728\u52a0\u901f\u4e0a\u884c\u3001\u54ea\u4e9b\u5df2\u958b\u59cb\u6eef\u6f32\u3002\u9019\u4e00\u7b56\u7565\u7684\u6838\u5fc3\u7406\u5ff5\u662f\u8b93\u6295\u8cc7\u7d44\u5408\u6301\u7e8c\u5411\u5e02\u5834\u5f37\u52e2\u80a1\u50be\u659c\uff0c\u800c\u975e\u62bc\u6ce8\u843d\u5f8c\u80a1\u7684\u81ea\u7136\u5fa9\u7526\u3002"
     }
   },
   "stats": {
-    "win_rate": 33.33333333333333,
+    "win_rate": 25.0,
     "winners_count": 1,
-    "losers_count": 2,
+    "losers_count": 3,
     "avg_winner": 427.89178466796875,
-    "avg_loser": -33.505157470703125,
+    "avg_loser": -27.885782877604168,
     "best_trade": {
       "ticker": "MSTR",
       "realized_profit": 427.89178466796875
@@ -342,10 +395,11 @@
       "ticker": "TSLA",
       "realized_profit": -49.039794921875
     },
-    "max_drawdown_percent": 0.47108708774207203,
-    "daily_volatility": 1.771179479052375,
-    "total_realized_profit": 360.8814697265625,
+    "max_drawdown_percent": 0.6310021655624849,
+    "daily_volatility": 1.7944678557466494,
+    "total_realized_profit": 344.23443603515625,
     "per_ticker_realized": {
+      "META": -16.64703369140625,
       "TSLA": -67.01031494140625,
       "MSTR": 427.89178466796875
     }
