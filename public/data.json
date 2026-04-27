@@ -1,109 +1,95 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-27T13:01:35.030681+00:00",
+    "generated_at": "2026-04-27T14:01:36.800461+00:00",
     "date_et": "2026-04-27",
-    "run_id": "20260427T130135_1acb13"
+    "run_id": "20260427T140136_6d0c3d"
   },
   "account": {
-    "total_value": 10437.68391418457,
-    "cash": 369.6235656738281,
+    "total_value": 10418.663558959961,
+    "cash": 1173.0235290527344,
     "starting_cash": 10000.0,
-    "profit_dollars": 437.6839141845703,
-    "profit_percent": 4.376839141845703,
-    "vs_voo_dollars": 158.4202318165062,
-    "vs_voo_percent": 1.5411632263918174
+    "profit_dollars": 418.66355895996094,
+    "profit_percent": 4.186635589599609,
+    "vs_voo_dollars": 140.1826646212121,
+    "vs_voo_percent": 1.3638461370145016
   },
   "positions": [
-    {
-      "ticker": "AAPL",
-      "shares": 3.0,
-      "avg_cost": 274.1401062011719,
-      "current_price": 271.05999755859375,
-      "market_value": 813.1799926757812,
-      "profit_dollars": -9.240325927734375,
-      "profit_percent": -1.1235527282964766,
-      "portfolio_pct": 7.747564526195308
-    },
     {
       "ticker": "GOOGL",
       "shares": 6.0,
       "avg_cost": 341.1099853515625,
-      "current_price": 344.3999938964844,
-      "market_value": 2066.3999633789062,
-      "profit_dollars": 19.74005126953125,
-      "profit_percent": 0.9645008021477448,
-      "portfolio_pct": 19.687605692961004
+      "current_price": 349.6000061035156,
+      "market_value": 2097.6000366210938,
+      "profit_dollars": 50.94012451171875,
+      "profit_percent": 2.488939379245362,
+      "portfolio_pct": 20.35297721185125
     },
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 663.8800048828125,
-      "market_value": 1991.6400146484375,
-      "profit_dollars": 23.03997802734375,
-      "profit_percent": 1.1703737477771048,
-      "portfolio_pct": 18.97533100349346
+      "current_price": 663.1699829101562,
+      "market_value": 1989.5099487304688,
+      "profit_dollars": 20.909912109375,
+      "profit_percent": 1.0621716814180693,
+      "portfolio_pct": 19.304180941229195
     },
     {
       "ticker": "AMZN",
       "shares": 8.0,
       "avg_cost": 255.44500732421875,
-      "current_price": 263.989990234375,
-      "market_value": 2111.919921875,
-      "profit_dollars": 68.35986328125,
-      "profit_percent": 3.345136003895622,
-      "portfolio_pct": 20.121296657882258
+      "current_price": 261.4798889160156,
+      "market_value": 2091.839111328125,
+      "profit_dollars": 48.279052734375,
+      "profit_percent": 2.362497374684335,
+      "portfolio_pct": 20.29707905245007
     },
     {
       "ticker": "MSTR",
       "shares": 7.0,
       "avg_cost": 174.6999969482422,
-      "current_price": 171.02000427246094,
-      "market_value": 1197.1400299072266,
-      "profit_dollars": -25.75994873046875,
-      "profit_percent": -2.1064640755955537,
-      "portfolio_pct": 11.405740072475655
+      "current_price": 170.6195068359375,
+      "market_value": 1194.3365478515625,
+      "profit_dollars": -28.563430786132812,
+      "profit_percent": -2.3357127553434367,
+      "portfolio_pct": 11.588627058216886
     },
     {
       "ticker": "AAOI",
       "shares": 12.0,
       "avg_cost": 163.66000366210938,
-      "current_price": 162.1699981689453,
-      "market_value": 1946.0399780273438,
-      "profit_dollars": -17.88006591796875,
-      "profit_percent": -0.9104273859362189,
-      "portfolio_pct": 18.540877095009694
+      "current_price": 146.64999389648438,
+      "market_value": 1759.7999267578125,
+      "profit_dollars": -204.1201171875,
+      "profit_percent": -10.393504451303617,
+      "portfolio_pct": 17.07530853423092
     }
   ],
   "allocation": [
     {
-      "label": "AMZN",
-      "pct": 20.1
+      "label": "GOOGL",
+      "pct": 20.4
     },
     {
-      "label": "GOOGL",
-      "pct": 19.7
+      "label": "AMZN",
+      "pct": 20.3
     },
     {
       "label": "QQQ",
-      "pct": 19.0
+      "pct": 19.3
     },
     {
       "label": "AAOI",
-      "pct": 18.5
+      "pct": 17.1
     },
     {
       "label": "MSTR",
-      "pct": 11.4
-    },
-    {
-      "label": "AAPL",
-      "pct": 7.7
+      "pct": 11.6
     },
     {
       "label": "Cash",
-      "pct": 3.6
+      "pct": 11.3
     }
   ],
   "snapshots": [
@@ -157,15 +143,15 @@
     },
     {
       "date": "2026-04-27",
-      "total_value": 10437.68391418457,
-      "cash": 369.6235656738281,
-      "profit_percent": 4.376839141845703
+      "total_value": 10418.663558959961,
+      "cash": 1173.0235290527344,
+      "profit_percent": 4.186635589599609
     }
   ],
   "benchmark": {
     "voo_shares": 15.659583726863751,
-    "voo_price": 656.4199829101562,
-    "total_value": 10279.263682368064,
+    "voo_price": 656.3699951171875,
+    "total_value": 10278.480894338749,
     "total_deposited": 10100.0,
     "snapshots": [
       {
@@ -219,12 +205,23 @@
       {
         "date": "2026-04-27",
         "voo_shares": 15.659583726863751,
-        "voo_price": 656.4199829101562,
-        "total_value": 10279.263682368064
+        "voo_price": 656.3699951171875,
+        "total_value": 10278.480894338749
       }
     ]
   },
   "trades": [
+    {
+      "id": 23,
+      "timestamp": "2026-04-27 14:01:34",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "shares": 3.0,
+      "price": 267.79998779296875,
+      "total": 803.3999633789062,
+      "reasoning": "Score has fallen to 20 with RSI below 40 and all signals bearish \u2014 momentum has deteriorated and the position is drifting toward stop-loss; better to rotate capital now into score-100 names.",
+      "realized_profit": -19.020355224609375
+    },
     {
       "id": 22,
       "timestamp": "2026-04-24 19:01:47",
@@ -469,29 +466,48 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "SELL",
+        "ticker": "AAPL",
+        "shares": 3,
+        "reasoning": "Score has fallen to 20 with RSI below 40 and all signals bearish \u2014 momentum has deteriorated and the position is drifting toward stop-loss; better to rotate capital now into score-100 names."
+      },
+      {
+        "action": "BUY",
+        "ticker": "VZ",
+        "conviction": "high",
+        "reasoning": "Score 100 with all 5 bullish signals confirmed, RSI at 69.5 in the upper momentum zone with MACD rising, and telecom offers relative defensiveness in a flat, directionless tape."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SOFI",
+        "conviction": "medium",
+        "reasoning": "Score 100 with RSI at 55.6 \u2014 early in the bullish zone with significant room to run \u2014 all 5 signals firing including a volume surge that suggests fresh institutional accumulation."
+      }
+    ],
     "skip_new_buys": false,
-    "market_direction": "risk_on",
-    "briefing": "Markets are broadly positive with NASDAQ up 1.6% and S&P 500 up 0.8% \u2014 a clear risk-on session led by tech and growth names. Despite favorable conditions, available cash sits at just $269.62 (below the $500 threshold for new positions), so no new buys are opened today. All six current holdings remain within their stop-loss and profit-target bands, and AAOI continues to show strong momentum at score 90 \u2014 the full portfolio is held as-is."
+    "market_direction": "neutral",
+    "briefing": "Markets were essentially unchanged today \u2014 NASDAQ off 0.2%, S&P 500 flat \u2014 with no dominant catalyst driving price action. AAPL's momentum has broken down significantly (score 20, RSI 39.7, full bearish signal stack), so we're exiting that position and redeploying the freed capital into VZ and SOFI, both scoring 100 with confirmed bullish momentum. After selling AAPL we'll have roughly $1,170 in cash across two fresh buys, keeping us active while we still have slots available."
   },
   "education": {
     "market_education": {
-      "summary_en": "Today's session was decidedly risk-on, with the NASDAQ surging 1.6% versus a more modest 0.8% gain in the S&P 500 \u2014 a spread that signals investors were actively rotating into high-growth technology and semiconductor names. This kind of outperformance by the NASDAQ typically reflects positive sentiment around AI infrastructure spending, cooling trade tensions, or stable rate expectations from the Federal Reserve. When growth stocks lead the broader market by this margin, it usually indicates rising risk appetite and growing conviction that forward earnings can justify stretched valuations.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u660e\u986f\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5927\u6f321.6%\uff0c\u9060\u512a\u65bc\u6a19\u666e500\u6307\u6578\u76840.8%\u6f32\u5e45\uff0c\u986f\u793a\u8cc7\u91d1\u7a4d\u6975\u6e67\u5165\u9ad8\u6210\u9577\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u3002\u9019\u7a2e\u90a3\u65af\u9054\u514b\u5927\u5e45\u8dd1\u8d0f\u5927\u5e02\u7684\u8d70\u52e2\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u4eba\u5de5\u667a\u6167\u57fa\u5efa\u6295\u8cc7\u3001\u8cbf\u6613\u6469\u64e6\u7de9\u89e3\u6216\u806f\u5132\u5c40\u5229\u7387\u653f\u7b56\u8da8\u65bc\u7a69\u5b9a\u62b1\u6301\u6b63\u9762\u9810\u671f\u3002\u7576\u6210\u9577\u80a1\u4ee5\u5982\u6b64\u5927\u7684\u5dee\u8ddd\u9818\u8dd1\u5927\u76e4\uff0c\u5f80\u5f80\u610f\u5473\u8457\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u6295\u8cc7\u8005\u5c0d\u4f01\u696d\u672a\u4f86\u76c8\u5229\u524d\u666f\u7684\u4fe1\u5fc3\u986f\u8457\u589e\u5f37\u3002",
+      "summary_en": "U.S. equity markets were virtually unchanged on April 27, with the S&P 500 flat and the NASDAQ slipping just 0.2%, reflecting a broadly neutral sentiment as investors digested recent earnings and awaited fresh economic data. There was no single dominant theme \u2014 defensive sectors and growth names both traded sideways \u2014 pointing to a market in a consolidation phase rather than a trend move. The tight-range session suggests participants are positioning carefully ahead of upcoming macro catalysts rather than making aggressive directional bets.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670827\u65e5\u7a84\u5e45\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6536\u5e73\uff0c\u7d0d\u6307\u50c5\u5fae\u8dcc0.2%\uff0c\u5e02\u5834\u6574\u9ad4\u60c5\u7dd2\u4e2d\u6027\u3002\u6295\u8cc7\u8005\u6d88\u5316\u8fd1\u671f\u8ca1\u5831\u6578\u64da\uff0c\u975c\u5f85\u65b0\u4e00\u8f2a\u5b8f\u89c0\u6307\u6a19\u51fa\u7210\uff0c\u5404\u677f\u584a\u5747\u7f3a\u4e4f\u660e\u78ba\u4e3b\u7dda\uff0c\u9632\u5b88\u80a1\u8207\u6210\u9577\u80a1\u540c\u6b65\u6a6b\u76e4\u3002\u9019\u7a2e\u7a84\u5e45\u9707\u76ea\u683c\u5c40\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u591a\u7a7a\u96d9\u65b9\u7686\u672a\u6562\u8f15\u6613\u52a0\u78bc\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u65b9\u5411\u4fe1\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "A 'risk-on' day means investors feel confident and are willing to buy higher-risk, higher-reward assets \u2014 especially tech stocks, growth names, and speculative plays. You can identify it when the NASDAQ significantly outperforms the S&P 500, as happened today (+1.6% vs +0.8%). The opposite state, 'risk-off,' occurs when fear rises and investors flee to safer assets like bonds, gold, and defensive dividend stocks.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u8cb7\u5165\u79d1\u6280\u80a1\u3001\u6210\u9577\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u5927\u5e45\u8dd1\u8d0f\u6a19\u666e500\uff08+1.6% \u5c0d\u6bd4 +0.8%\uff09\uff0c\u6b63\u662f\u98a8\u96aa\u504f\u597d\u5347\u6eab\u7684\u5178\u578b\u8a0a\u865f\u3002\u76f8\u53cd\u5730\uff0c\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u5247\u767c\u751f\u5728\u5e02\u5834\u6050\u614c\u5347\u6eab\u6642\uff0c\u8cc7\u91d1\u6703\u8f49\u5411\u50b5\u5238\u3001\u9ec3\u91d1\u53ca\u9632\u79a6\u6027\u9ad8\u606f\u80a1\u7b49\u907f\u96aa\u8cc7\u7522\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation means selling positions where price momentum has weakened and redeploying that capital into stocks showing stronger momentum signals \u2014 before the weak position hits a stop-loss. Today we sold AAPL (RSI below 40, bearish MACD, score 20) and used the proceeds to buy VZ and SOFI (both score 100 with rising MACD and volume surges). The discipline is to always hold the strongest-trending names and cut the ones losing steam early, rather than waiting for a larger loss.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u4e3b\u52d5\u8ce3\u51fa\u52d5\u80fd\u6e1b\u5f31\u7684\u6301\u5009\uff0c\u5728\u89f8\u53ca\u6b62\u640d\u4e4b\u524d\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u6a19\u7684\u3002\u4eca\u5929\u6211\u5011\u8ce3\u51faAAPL\uff08RSI\u4f4e\u65bc40\u3001MACD\u770b\u8dcc\u3001\u8a55\u5206\u50c520\uff09\uff0c\u4e26\u7528\u6240\u5f97\u8cc7\u91d1\u8cb7\u5165VZ\u8207SOFI\uff08\u5169\u8005\u8a55\u5206\u5747\u70ba100\uff0cMACD\u5411\u4e0a\u3001\u6210\u4ea4\u91cf\u6fc0\u589e\uff09\u3002\u9019\u4e00\u7b56\u7565\u7684\u6838\u5fc3\u7d00\u5f8b\u662f\uff1a\u59cb\u7d42\u6301\u6709\u8da8\u52e2\u6700\u5f37\u7684\u80a1\u7968\uff0c\u76e1\u65e9\u5254\u9664\u5931\u53bb\u52d5\u80fd\u7684\u5009\u4f4d\uff0c\u907f\u514d\u7b49\u5230\u66f4\u5927\u8667\u640d\u624d\u88ab\u8feb\u96e2\u5834\u3002"
     }
   },
   "stats": {
-    "win_rate": 37.5,
+    "win_rate": 33.33333333333333,
     "winners_count": 3,
-    "losers_count": 5,
+    "losers_count": 6,
     "avg_winner": 155.28710428873697,
-    "avg_loser": -25.635479736328126,
+    "avg_loser": -24.532958984375,
     "best_trade": {
       "ticker": "MSTR",
       "realized_profit": 427.89178466796875
@@ -501,9 +517,10 @@
       "realized_profit": -49.039794921875
     },
     "max_drawdown_percent": 0.8476273063152515,
-    "daily_volatility": 1.4770167713831404,
-    "total_realized_profit": 337.6839141845703,
+    "daily_volatility": 1.4720775880671801,
+    "total_realized_profit": 318.66355895996094,
     "per_ticker_realized": {
+      "AAPL": -19.020355224609375,
       "NVO": 15.999984741210938,
       "NVDA": -18.839996337890625,
       "COIN": 21.96954345703125,
