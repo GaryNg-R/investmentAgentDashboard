@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-28T17:00:53.558246+00:00",
+    "generated_at": "2026-04-28T18:00:42.841774+00:00",
     "date_et": "2026-04-28",
-    "run_id": "20260428T170053_1e4259"
+    "run_id": "20260428T180042_01ed41"
   },
   "account": {
     "total_value": 10418.663558959961,
@@ -11,69 +11,69 @@
     "starting_cash": 10000.0,
     "profit_dollars": 418.66355895996094,
     "profit_percent": 4.186635589599609,
-    "vs_voo_dollars": 195.22633080957166,
-    "vs_voo_percent": 1.909595828221189
+    "vs_voo_dollars": 180.89911156728158,
+    "vs_voo_percent": 1.766978645551398
   },
   "positions": [
     {
       "ticker": "GOOGL",
       "shares": 6.0,
       "avg_cost": 341.1099853515625,
-      "current_price": 349.3999938964844,
-      "market_value": 2096.3999633789062,
-      "profit_dollars": 49.74005126953125,
-      "profit_percent": 2.4303036852989917,
-      "portfolio_pct": 20.719757868496366
+      "current_price": 349.360107421875,
+      "market_value": 2096.16064453125,
+      "profit_dollars": 49.500732421875,
+      "profit_percent": 2.41861054340276,
+      "portfolio_pct": 20.640952883163294
     },
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 655.655029296875,
-      "market_value": 1966.965087890625,
-      "profit_dollars": -1.63494873046875,
-      "profit_percent": -0.08305134105732198,
-      "portfolio_pct": 19.440488966233254
+      "current_price": 657.0499267578125,
+      "market_value": 1971.1497802734375,
+      "profit_dollars": 2.54974365234375,
+      "profit_percent": 0.12952065452158235,
+      "portfolio_pct": 19.409967383191727
     },
     {
       "ticker": "AMZN",
       "shares": 8.0,
       "avg_cost": 255.44500732421875,
-      "current_price": 259.31500244140625,
-      "market_value": 2074.52001953125,
-      "profit_dollars": 30.9599609375,
-      "profit_percent": 1.5150012747266506,
-      "portfolio_pct": 20.503507560053773
+      "current_price": 258.760009765625,
+      "market_value": 2070.080078125,
+      "profit_dollars": 26.52001953125,
+      "profit_percent": 1.2977362431667125,
+      "portfolio_pct": 20.384136811474285
     },
     {
       "ticker": "MSTR",
       "shares": 7.0,
       "avg_cost": 174.6999969482422,
-      "current_price": 165.11000061035156,
-      "market_value": 1155.770004272461,
-      "profit_dollars": -67.12997436523438,
-      "profit_percent": -5.489408417523798,
-      "portfolio_pct": 11.423046679317336
+      "current_price": 165.94500732421875,
+      "market_value": 1161.6150512695312,
+      "profit_dollars": -61.28492736816406,
+      "profit_percent": -5.011442345140538,
+      "portfolio_pct": 11.438456114602555
     },
     {
       "ticker": "AAOI",
       "shares": 12.0,
       "avg_cost": 163.66000366210938,
-      "current_price": 137.60000610351562,
-      "market_value": 1651.2000732421875,
-      "profit_dollars": -312.719970703125,
-      "profit_percent": -15.923253681697899,
-      "portfolio_pct": 16.31962712634239
+      "current_price": 140.27659606933594,
+      "market_value": 1683.3191528320312,
+      "profit_dollars": -280.60089111328125,
+      "profit_percent": -14.287796083061663,
+      "portfolio_pct": 16.5756910910338
     }
   ],
   "allocation": [
     {
       "label": "GOOGL",
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "label": "AMZN",
-      "pct": 20.5
+      "pct": 20.4
     },
     {
       "label": "QQQ",
@@ -81,7 +81,7 @@
     },
     {
       "label": "AAOI",
-      "pct": 16.3
+      "pct": 16.6
     },
     {
       "label": "MSTR",
@@ -89,7 +89,7 @@
     },
     {
       "label": "Cash",
-      "pct": 11.7
+      "pct": 11.6
     }
   ],
   "snapshots": [
@@ -156,8 +156,8 @@
   ],
   "benchmark": {
     "voo_shares": 15.659583726863751,
-    "voo_price": 652.85498046875,
-    "total_value": 10223.43722815039,
+    "voo_price": 653.7698974609375,
+    "total_value": 10237.76444739268,
     "total_deposited": 10100.0,
     "snapshots": [
       {
@@ -217,8 +217,8 @@
       {
         "date": "2026-04-28",
         "voo_shares": 15.659583726863751,
-        "voo_price": 652.85498046875,
-        "total_value": 10223.43722815039
+        "voo_price": 653.7698974609375,
+        "total_value": 10237.76444739268
       }
     ]
   },
@@ -481,18 +481,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "risk_off",
-    "briefing": "Markets are in risk-off mode with NASDAQ down 1.2% and S&P 500 down 0.7%, and the screener returned zero qualified candidates today. Holding all five existing positions and allowing the automatic stop-losses to protect downside \u2014 no new buys are warranted until conditions stabilize. Cash stays on the sidelines."
+    "briefing": "Markets are in risk-off mode today with the S&P 500 down 0.5% and the NASDAQ down 1.0%. No screened candidates are available, so no new positions are being opened. Holding all five current positions and keeping cash in reserve until conditions stabilize."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities fell broadly on April 28 as investors adopted a risk-off posture, with technology-heavy NASDAQ leading declines at -1.2% while the S&P 500 shed 0.7%. Selling pressure was broad-based across growth and momentum names, reflecting caution around macro uncertainty and near-term earnings visibility. No specific news catalyst was surfaced in today's feed, suggesting the move was driven by sustained macro-level de-risking rather than a single headline event.",
-      "summary_zh": "\u7f8e\u80a1\u65bc4\u670828\u65e5\u666e\u904d\u4e0b\u8dcc\uff0c\u6295\u8cc7\u8005\u8f49\u5165\u907f\u96aa\u6a21\u5f0f\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u6700\u6df1\uff0c\u632b\u8dcc1.2%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0b\u6ed10.7%\u3002\u6210\u9577\u80a1\u8207\u52d5\u80fd\u80a1\u7684\u62cb\u552e\u58d3\u529b\u8f03\u70ba\u5ee3\u6cdb\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u5b8f\u89c0\u524d\u666f\u53ca\u4f01\u696d\u76c8\u5229\u80fd\u898b\u5ea6\u611f\u5230\u6182\u616e\u3002\u4eca\u65e5\u65b0\u805e\u9762\u672a\u898b\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\uff0c\u8dcc\u5e02\u4e3b\u8981\u6e90\u65bc\u6301\u7e8c\u7684\u5b8f\u89c0\u53bb\u98a8\u96aa\u64cd\u4f5c\u3002",
+      "summary_en": "U.S. equities slid Tuesday as renewed trade-war anxiety weighed on sentiment, with the NASDAQ leading declines after reports of expanded semiconductor export restrictions rattled tech investors. The S&P 500 also fell as Treasury yields edged higher, reflecting continued uncertainty around Federal Reserve policy at a time when sticky inflation data is limiting rate-cut expectations. Investors rotated out of growth stocks and into defensive sectors, a classic risk-off pattern ahead of a heavy week of Big Tech earnings.",
+      "summary_zh": "\u7f8e\u80a1\u5468\u4e8c\u666e\u904d\u4e0b\u8dcc\uff0c\u8cbf\u6613\u6230\u6182\u616e\u518d\u5ea6\u5347\u6eab\uff0c\u64da\u5831\u534a\u5c0e\u9ad4\u51fa\u53e3\u7ba1\u5236\u7bc4\u570d\u64f4\u5927\uff0c\u4ee4\u79d1\u6280\u80a1\u627f\u58d3\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u8dcc\u3002\u8207\u6b64\u540c\u6642\uff0c\u7f8e\u570b\u570b\u50b5\u6536\u76ca\u7387\u5c0f\u5e45\u8d70\u9ad8\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u8ca8\u5e63\u653f\u7b56\u524d\u666f\u4ecd\u5b58\u7591\u616e\u2014\u2014\u901a\u8139\u6578\u64da\u6301\u7e8c\u9ecf\u6027\uff0c\u58d3\u7e2e\u4e86\u964d\u606f\u7a7a\u9593\u3002\u8cc7\u91d1\u5f9e\u6210\u9577\u578b\u80a1\u7968\u6d41\u5411\u9632\u79a6\u6027\u677f\u584a\uff0c\u5e02\u5834\u5448\u73fe\u5178\u578b\u300c\u907f\u96aa\u300d\u683c\u5c40\uff0c\u52a0\u4e0a\u672c\u5468\u5927\u578b\u79d1\u6280\u516c\u53f8\u696d\u7e3e\u5bc6\u96c6\u516c\u5e03\uff0c\u6295\u8cc7\u8005\u666e\u904d\u8f49\u8da8\u5be9\u614e\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' session is when investors broadly retreat from higher-risk assets like growth stocks, small-caps, and crypto-linked names, preferring cash, bonds, or defensive sectors instead. It signals that the market's collective mood has shifted toward caution \u2014 often triggered by macro uncertainty, weak data, or simply sustained selling pressure. On days like today, the disciplined move is to skip new positions and let existing stop-losses do their job rather than fighting the tape.",
-      "explanation_zh": "\u300c\u907f\u96aa\u6a21\u5f0f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u5f9e\u9ad8\u98a8\u96aa\u8cc7\u7522\u64a4\u9000\uff0c\u4f8b\u5982\u6210\u9577\u578b\u80a1\u7968\u3001\u5c0f\u578b\u80a1\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u80a1\uff0c\u8f49\u800c\u6301\u6709\u73fe\u91d1\u3001\u50b5\u5238\u6216\u9632\u79a6\u6027\u677f\u584a\u3002\u9019\u53cd\u6620\u5e02\u5834\u6574\u9ad4\u60c5\u7dd2\u8da8\u65bc\u8b39\u614e\uff0c\u901a\u5e38\u7531\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u3001\u75b2\u5f31\u7d93\u6fdf\u6578\u64da\u6216\u6301\u7e8c\u62cb\u552e\u58d3\u529b\u6240\u89f8\u767c\u3002\u5728\u9019\u985e\u4ea4\u6613\u65e5\uff0c\u6700\u7a69\u5065\u7684\u505a\u6cd5\u662f\u66ab\u505c\u65b0\u5009\u4f48\u5c40\uff0c\u8b93\u73fe\u6709\u7684\u6b62\u640d\u6a5f\u5236\u767c\u63ee\u4fdd\u8b77\u4f5c\u7528\uff0c\u800c\u975e\u9006\u52e2\u5165\u5e02\u3002"
+      "explanation_en": "A 'risk-off' environment is when investors become cautious and move money away from higher-risk assets like tech stocks toward safer ones like bonds or cash. It usually happens when there's bad news about the economy, trade policy, or corporate earnings. On days like today, the smart move is often to pause new buying and protect what you already own.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u56e0\u5e02\u5834\u524d\u666f\u4e0d\u660e\u6717\uff0c\u9078\u64c7\u5c07\u8cc7\u91d1\u5f9e\u79d1\u6280\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\u8f49\u79fb\u81f3\u50b5\u5238\u6216\u73fe\u91d1\u7b49\u8f03\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u901a\u5e38\u7531\u7d93\u6fdf\u6578\u64da\u75b2\u5f31\u3001\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6216\u4f01\u696d\u76c8\u5229\u96b1\u6182\u6240\u89f8\u767c\u3002\u5728\u9019\u985e\u5e02\u6cc1\u4e0b\uff0c\u66ab\u505c\u65b0\u5009\u90e8\u7f72\u3001\u4fdd\u8b77\u73fe\u6709\u6301\u5009\u5f80\u5f80\u662f\u8f03\u70ba\u7a69\u5065\u7684\u7b56\u7565\u3002"
     }
   },
   "stats": {
