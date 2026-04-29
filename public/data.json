@@ -1,85 +1,85 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-04-29T18:01:25.186866+00:00",
+    "generated_at": "2026-04-29T19:01:21.160364+00:00",
     "date_et": "2026-04-29",
-    "run_id": "20260429T180125_34963a"
+    "run_id": "20260429T190121_890daa"
   },
   "account": {
-    "total_value": 10244.543441772461,
-    "cash": 164.6735382080078,
+    "total_value": 10133.103454589844,
+    "cash": 89.27848815917969,
     "starting_cash": 10000.0,
-    "profit_dollars": 244.54344177246094,
-    "profit_percent": 2.4454344177246092,
-    "vs_voo_dollars": 24.003198380136382,
-    "vs_voo_percent": 0.234852540164443
+    "profit_dollars": 133.10345458984375,
+    "profit_percent": 1.3310345458984374,
+    "vs_voo_dollars": -95.58007819169507,
+    "vs_voo_percent": -0.9344318639380567
   },
   "positions": [
     {
       "ticker": "GOOGL",
       "shares": 6.0,
       "avg_cost": 341.1099853515625,
-      "current_price": 348.94000244140625,
-      "market_value": 2093.6400146484375,
-      "profit_dollars": 46.9801025390625,
-      "profit_percent": 2.2954523250833017,
-      "portfolio_pct": 20.462740411502843
+      "current_price": 351.25,
+      "market_value": 2107.5,
+      "profit_dollars": 60.840087890625,
+      "profit_percent": 2.9726525413751133,
+      "portfolio_pct": 20.49237406361978
     },
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 659.0499877929688,
-      "market_value": 1977.1499633789062,
-      "profit_dollars": 8.5499267578125,
-      "profit_percent": 0.43431507664134755,
-      "portfolio_pct": 19.324194308556226
+      "current_price": 660.6300048828125,
+      "market_value": 1981.8900146484375,
+      "profit_dollars": 13.28997802734375,
+      "profit_percent": 0.6750979264510568,
+      "portfolio_pct": 19.270999541223567
     },
     {
       "ticker": "AMZN",
       "shares": 8.0,
       "avg_cost": 255.44500732421875,
-      "current_price": 263.2301025390625,
-      "market_value": 2105.8408203125,
-      "profit_dollars": 62.28076171875,
-      "profit_percent": 3.04765996266377,
-      "portfolio_pct": 20.58198818923355
-    },
-    {
-      "ticker": "MSTR",
-      "shares": 7.0,
-      "avg_cost": 174.6999969482422,
-      "current_price": 159.33999633789062,
-      "market_value": 1115.3799743652344,
-      "profit_dollars": -107.52000427246094,
-      "profit_percent": -8.7922157290605,
-      "portfolio_pct": 10.901459045459175
+      "current_price": 263.7200012207031,
+      "market_value": 2109.760009765625,
+      "profit_dollars": 66.199951171875,
+      "profit_percent": 3.239442408041076,
+      "portfolio_pct": 20.51434937346776
     },
     {
       "ticker": "LITE",
       "shares": 1.0,
       "avg_cost": 871.1599731445312,
-      "current_price": 847.7999877929688,
-      "market_value": 847.7999877929688,
-      "profit_dollars": -23.3599853515625,
-      "profit_percent": -2.681480562891624,
-      "portfolio_pct": 8.286195788054766
+      "current_price": 854.3499755859375,
+      "market_value": 854.3499755859375,
+      "profit_dollars": -16.80999755859375,
+      "profit_percent": -1.9296108724918264,
+      "portfolio_pct": 8.307311639834618
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 148.22999572753906,
-      "market_value": 1926.9899444580078,
+      "current_price": 150.36000061035156,
+      "market_value": 1954.6800079345703,
+      "profit_dollars": 27.6900634765625,
+      "profit_percent": 1.4369594172610334,
+      "portfolio_pct": 19.00642177806619
+    },
+    {
+      "ticker": "ETSY",
+      "shares": 17.0,
+      "avg_cost": 69.81500244140625,
+      "current_price": 69.81500244140625,
+      "market_value": 1186.8550415039062,
       "profit_dollars": 0.0,
       "profit_percent": 0.0,
-      "portfolio_pct": 18.83394219308605
+      "portfolio_pct": 11.540440080565137
     }
   ],
   "allocation": [
     {
       "label": "AMZN",
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "label": "GOOGL",
@@ -91,11 +91,11 @@
     },
     {
       "label": "EAT",
-      "pct": 18.8
+      "pct": 19.0
     },
     {
-      "label": "MSTR",
-      "pct": 10.9
+      "label": "ETSY",
+      "pct": 11.5
     },
     {
       "label": "LITE",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 1.6
+      "pct": 0.9
     }
   ],
   "snapshots": [
@@ -169,15 +169,15 @@
     },
     {
       "date": "2026-04-29",
-      "total_value": 10244.543441772461,
-      "cash": 164.6735382080078,
-      "profit_percent": 2.4454344177246092
+      "total_value": 10133.103454589844,
+      "cash": 89.27848815917969,
+      "profit_percent": 1.3310345458984374
     }
   ],
   "benchmark": {
     "voo_shares": 15.659583726863751,
-    "voo_price": 652.6699829101562,
-    "total_value": 10220.540243392325,
+    "voo_price": 653.1900024414062,
+    "total_value": 10228.683532781539,
     "total_deposited": 10100.0,
     "snapshots": [
       {
@@ -243,12 +243,34 @@
       {
         "date": "2026-04-29",
         "voo_shares": 15.659583726863751,
-        "voo_price": 652.6699829101562,
-        "total_value": 10220.540243392325
+        "voo_price": 653.1900024414062,
+        "total_value": 10228.683532781539
       }
     ]
   },
   "trades": [
+    {
+      "id": 28,
+      "timestamp": "2026-04-29 19:01:18",
+      "action": "BUY",
+      "ticker": "ETSY",
+      "shares": 17.0,
+      "price": 69.81500244140625,
+      "total": 1186.8550415039062,
+      "reasoning": "Score 95 with RSI 69.0 (top of bullish zone), full green signals across MACD and price vs SMA-20 \u2014 strong momentum but RSI near threshold warrants medium sizing.",
+      "realized_profit": null
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-04-29 19:01:17",
+      "action": "SELL",
+      "ticker": "MSTR",
+      "shares": 7.0,
+      "price": 158.77999877929688,
+      "total": 1111.4599914550781,
+      "reasoning": "MSTR is a crypto-adjacent proxy not appearing in today's momentum screener \u2014 exiting to rotate into higher-conviction names with cleaner technical setups.",
+      "realized_profit": -111.43998718261719
+    },
     {
       "id": 26,
       "timestamp": "2026-04-29 18:01:22",
@@ -540,45 +562,45 @@
     "decisions": [
       {
         "action": "SELL",
-        "ticker": "AAOI",
-        "shares": 12,
-        "reasoning": "Stop-loss triggered \u2014 AAOI is down -9.1% from avg cost of $163.66 vs current $148.70, well past the -7% threshold at $152.20."
+        "ticker": "MSTR",
+        "shares": 7,
+        "reasoning": "MSTR is a crypto-adjacent proxy not appearing in today's momentum screener \u2014 exiting to rotate into higher-conviction names with cleaner technical setups."
       },
       {
         "action": "BUY",
-        "ticker": "EAT",
+        "ticker": "AAOI",
         "conviction": "high",
-        "reasoning": "Top score (95) with RSI 64.6 in the ideal bullish momentum zone, MACD bullish crossover with rising histogram, and price 8% above SMA-20 \u2014 cleanest setup in today's screener."
+        "reasoning": "Score 95 with RSI 59.3 (healthy bullish zone, not overbought), MACD crossover, and price well above SMA-20 \u2014 ideal momentum setup with room to run."
       },
       {
         "action": "BUY",
         "ticker": "ETSY",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 66.8 in bullish zone, MACD bullish with rising histogram, and price above SMA-20 \u2014 strong momentum redeployment target for freed AAOI capital."
+        "reasoning": "Score 95 with RSI 69.0 (top of bullish zone), full green signals across MACD and price vs SMA-20 \u2014 strong momentum but RSI near threshold warrants medium sizing."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were essentially flat today with both NASDAQ and S&P 500 off just 0.2%, offering no directional signal. AAOI breached our -7% stop-loss at -9.1% below cost, so we're exiting all 12 shares to enforce discipline and free up ~$1,784. Those proceeds get redeployed into EAT and ETSY, the two cleanest momentum setups in today's screener \u2014 both score 95 with RSI in the ideal 55\u201370 zone rather than the overbought readings seen across much of the rest of the list."
+    "briefing": "Market was essentially flat today with both NASDAQ and S&P 500 near unchanged \u2014 a consolidation session after recent recovery. With only $164 cash and 4 open slots, I sold MSTR to free up capital, as it has no current screener signal and carries crypto volatility risk. Rotating that into AAOI (clean RSI 59, plenty of runway) and ETSY (RSI 69, near top of zone but all signals green) fills two more slots with high-momentum names."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities drifted marginally lower on April 29, with both the S&P 500 and NASDAQ shedding roughly 0.2% in a low-conviction session ahead of key macro data. Investors remained cautious as markets digested ongoing uncertainty around trade tariff negotiations and awaited the Federal Reserve's next policy signals. The muted price action reflects a market in a 'wait-and-see' posture rather than any decisive directional move.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670829\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u5747\u4e0b\u6ed1\u7d040.2%\uff0c\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u6574\u9ad4\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u91cd\u8981\u5b8f\u89c0\u6578\u64da\u516c\u5e03\u4e4b\u969b\uff0c\u5c0d\u8cbf\u6613\u95dc\u7a05\u8ac7\u5224\u7684\u4e0d\u78ba\u5b9a\u6027\u4fdd\u6301\u8b39\u614e\u614b\u5ea6\uff0c\u4e26\u5bc6\u5207\u95dc\u6ce8\u806f\u5132\u5c40\u4e0b\u4e00\u6b65\u653f\u7b56\u52d5\u5411\u3002\u6574\u9ad4\u4f86\u770b\uff0c\u6b64\u6b21\u8dcc\u5e45\u53cd\u6620\u7684\u662f\u5e02\u5834\u89c0\u671b\u60c5\u7dd2\uff0c\u800c\u975e\u8da8\u52e2\u6027\u8f49\u8b8a\u3002",
+      "summary_en": "U.S. equities drifted sideways on April 29, with the S&P 500 and NASDAQ both finishing essentially flat as investors paused to digest recent tariff developments and awaited upcoming earnings from major tech names. Ongoing uncertainty around U.S.\u2013China trade negotiations continued to cap upside, while resilient consumer spending data offered some support. The result was a neutral, low-conviction session where neither bulls nor bears pressed their case.",
+      "summary_zh": "\u7f8e\u80a1\u65bc4\u670829\u65e5\u6a6b\u76e4\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u6536\u76e4\u5e7e\u4e4e\u6301\u5e73\uff0c\u5e02\u5834\u6d88\u5316\u8fd1\u671f\u95dc\u7a05\u52d5\u614b\u4e4b\u9918\uff0c\u4ea6\u975c\u5f85\u5927\u578b\u79d1\u6280\u4f01\u696d\u8ca1\u5831\u51fa\u7210\u3002\u4e2d\u7f8e\u8cbf\u6613\u8ac7\u5224\u6301\u7e8c\u5b58\u5728\u4e0d\u78ba\u5b9a\u6027\uff0c\u9650\u5236\u4e86\u4e0a\u884c\u7a7a\u9593\uff0c\u4f46\u7a69\u5065\u7684\u6d88\u8cbb\u652f\u51fa\u6578\u64da\u63d0\u4f9b\u4e86\u4e00\u5b9a\u652f\u6490\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u7576\u65e5\u5e02\u5834\u65b9\u5411\u611f\u4e0d\u8db3\uff0c\u591a\u7a7a\u96d9\u65b9\u5747\u672a\u898b\u7a4d\u6975\u9032\u653b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Stop-Loss",
-      "explanation_en": "A stop-loss is a pre-set price level at which you automatically sell a position to limit further losses. In today's case, AAOI fell -9.1% below our average purchase price, triggering our -7% stop-loss rule and forcing a sale. This discipline prevents a small loss from becoming a catastrophic one \u2014 protecting the overall portfolio even when it feels painful on any single trade.",
-      "explanation_zh": "\u6b62\u8755\uff08Stop-Loss\uff09\u662f\u6295\u8cc7\u8005\u9810\u5148\u8a2d\u5b9a\u7684\u8ce3\u51fa\u50f9\u4f4d\uff0c\u4e00\u65e6\u80a1\u50f9\u8dcc\u81f3\u8a72\u6c34\u5e73\u4fbf\u81ea\u52d5\u8ce3\u51fa\uff0c\u4ee5\u63a7\u5236\u640d\u5931\u4e0d\u518d\u64f4\u5927\u3002\u4eca\u65e5AAOI\u8f03\u5e73\u5747\u6301\u5009\u6210\u672c\u4e0b\u8dcc9.1%\uff0c\u89f8\u767c\u4e86\u6211\u5011\u8a2d\u5b9a\u76847%\u6b62\u8755\u898f\u5247\uff0c\u9808\u5f37\u5236\u5e73\u5009\u96e2\u5834\u3002\u9019\u7a2e\u7d00\u5f8b\u7684\u6838\u5fc3\u5728\u65bc\uff1a\u5be7\u9858\u627f\u53d7\u4e00\u7b46\u5c0f\u640d\u5931\uff0c\u4e5f\u4e0d\u8b93\u55ae\u4e00\u5009\u4f4d\u7684\u8667\u640d\u4fb5\u8755\u6574\u9ad4\u7d44\u5408\u7684\u56de\u5831\u3002"
+      "term": "Portfolio Rotation",
+      "explanation_en": "Portfolio rotation means selling a position that has lost momentum or carries elevated risk, and redeploying that capital into assets showing stronger signals. Rather than holding idle cash or a weakening stock, you actively redirect funds toward where the evidence is better. Today's exit from MSTR (no screener signal, crypto volatility) into AAOI and ETSY (both score 95 with clean technicals) is a textbook example.",
+      "explanation_zh": "\u6295\u8cc7\u7d44\u5408\u8f2a\u52d5\uff08Portfolio Rotation\uff09\u662f\u6307\u8ce3\u51fa\u52d5\u80fd\u6e1b\u5f31\u6216\u98a8\u96aa\u504f\u9ad8\u7684\u6301\u5009\uff0c\u4e26\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u8a0a\u865f\u66f4\u5f37\u7684\u8cc7\u7522\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u4e0d\u8b93\u8cc7\u91d1\u9592\u7f6e\uff0c\u4e5f\u4e0d\u6200\u68e7\u75b2\u5f31\u90e8\u4f4d\uff0c\u800c\u662f\u4e3b\u52d5\u8ffd\u8e64\u5f37\u52e2\u6a5f\u6703\u3002\u4eca\u65e5\u5c07MSTR\uff08\u7121\u6280\u8853\u8a0a\u865f\u3001\u5177\u52a0\u5bc6\u8ca8\u5e63\u6ce2\u52d5\u98a8\u96aa\uff09\u8f49\u5009\u81f3\u52d5\u80fd\u8a55\u520695\u5206\u7684AAOI\u8207ETSY\uff0c\u6b63\u662f\u8f2a\u52d5\u7b56\u7565\u7684\u5178\u578b\u61c9\u7528\u3002"
     }
   },
   "stats": {
-    "win_rate": 30.0,
+    "win_rate": 27.27272727272727,
     "winners_count": 3,
-    "losers_count": 7,
+    "losers_count": 8,
     "avg_winner": 155.28710428873697,
-    "avg_loser": -45.902553013392854,
+    "avg_loser": -54.0947322845459,
     "best_trade": {
       "ticker": "MSTR",
       "realized_profit": 427.89178466796875
@@ -587,10 +609,11 @@
       "ticker": "AAOI",
       "realized_profit": -174.1201171875
     },
-    "max_drawdown_percent": 1.67123274690791,
-    "daily_volatility": 1.4762100491739971,
-    "total_realized_profit": 144.54344177246094,
+    "max_drawdown_percent": 2.740851576155734,
+    "daily_volatility": 1.6424282082283297,
+    "total_realized_profit": 33.10345458984375,
     "per_ticker_realized": {
+      "MSTR": 316.45179748535156,
       "AAOI": -174.1201171875,
       "AAPL": -19.020355224609375,
       "NVO": 15.999984741210938,
@@ -598,8 +621,7 @@
       "COIN": 21.96954345703125,
       "MSFT": -25.6800537109375,
       "META": -16.64703369140625,
-      "TSLA": -67.01031494140625,
-      "MSTR": 427.89178466796875
+      "TSLA": -67.01031494140625
     }
   },
   "dividends": []
