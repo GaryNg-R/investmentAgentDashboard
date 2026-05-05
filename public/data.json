@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-05T18:01:12.435509+00:00",
+    "generated_at": "2026-05-05T19:01:14.019612+00:00",
     "date_et": "2026-05-05",
-    "run_id": "20260505T180112_2feeca"
+    "run_id": "20260505T190114_cd6dbf"
   },
   "account": {
     "total_value": 10539.085968017578,
@@ -11,81 +11,81 @@
     "starting_cash": 10000.0,
     "profit_dollars": 539.0859680175781,
     "profit_percent": 5.390859680175781,
-    "vs_voo_dollars": 14.258294935019876,
-    "vs_voo_percent": 0.1354729538373789
+    "vs_voo_dollars": 10.701313357656545,
+    "vs_voo_percent": 0.10164249985793461
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 682.14501953125,
-      "market_value": 2046.43505859375,
-      "profit_dollars": 77.83502197265625,
-      "profit_percent": 3.95382609594239,
-      "portfolio_pct": 18.945287661663574
+      "current_price": 682.3300170898438,
+      "market_value": 2046.9900512695312,
+      "profit_dollars": 78.3900146484375,
+      "profit_percent": 3.982018347565723,
+      "portfolio_pct": 18.806509578674472
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 143.44000244140625,
-      "market_value": 1864.7200317382812,
-      "profit_dollars": -62.26991271972656,
-      "profit_percent": -3.231460179582869,
-      "portfolio_pct": 17.26302394077645
+      "current_price": 143.77999877929688,
+      "market_value": 1869.1399841308594,
+      "profit_dollars": -57.84996032714844,
+      "profit_percent": -3.002089372262891,
+      "portfolio_pct": 17.172530464248904
     },
     {
       "ticker": "XMTR",
       "shares": 41.0,
       "avg_cost": 50.439998626708984,
-      "current_price": 54.66999816894531,
-      "market_value": 2241.469924926758,
-      "profit_dollars": 173.42998123168945,
-      "profit_percent": 8.386200748222183,
-      "portfolio_pct": 20.75086249836131
+      "current_price": 55.70000076293945,
+      "market_value": 2283.7000312805176,
+      "profit_dollars": 215.66008758544922,
+      "profit_percent": 10.428236081364984,
+      "portfolio_pct": 20.9812580605655
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 96.91999816894531,
-      "market_value": 2132.239959716797,
-      "profit_dollars": 74.139892578125,
-      "profit_percent": 3.6023463466088876,
-      "portfolio_pct": 19.73964393880524
+      "current_price": 98.51000213623047,
+      "market_value": 2167.2200469970703,
+      "profit_dollars": 109.11997985839844,
+      "profit_percent": 5.301976400501526,
+      "portfolio_pct": 19.911110240945217
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 274.0520935058594,
-      "market_value": 1918.3646545410156,
-      "profit_dollars": -0.405242919921875,
-      "profit_percent": -0.021119933164373866,
-      "portfolio_pct": 17.75964991785369
+      "current_price": 274.1199951171875,
+      "market_value": 1918.8399658203125,
+      "profit_dollars": 0.070068359375,
+      "profit_percent": 0.003651733304119467,
+      "portfolio_pct": 17.629143910475946
     }
   ],
   "allocation": [
     {
       "label": "XMTR",
-      "pct": 20.8
+      "pct": 21.0
     },
     {
       "label": "OLED",
-      "pct": 19.7
+      "pct": 19.9
     },
     {
       "label": "QQQ",
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "label": "AMZN",
-      "pct": 17.8
+      "pct": 17.6
     },
     {
       "label": "EAT",
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "label": "Cash",
@@ -186,8 +186,8 @@
   ],
   "benchmark": {
     "voo_shares": 15.810522561996239,
-    "voo_price": 665.6849975585938,
-    "total_value": 10524.827673082558,
+    "voo_price": 665.9099731445312,
+    "total_value": 10528.384654659922,
     "total_deposited": 10200.0,
     "snapshots": [
       {
@@ -277,8 +277,8 @@
       {
         "date": "2026-05-05",
         "voo_shares": 15.810522561996239,
-        "voo_price": 665.6849975585938,
-        "total_value": 10524.827673082558
+        "voo_price": 665.9099731445312,
+        "total_value": 10528.384654659922
       }
     ]
   },
@@ -695,25 +695,25 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "BLLN",
+        "ticker": "NVTS",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI at 59.5 \u2014 the lowest among top-tier candidates, giving the most runway before overbought territory \u2014 combined with full signal set (MACD crossover, histogram rising, price above SMA-20) in a risk-on tape."
+        "reasoning": "Score 95 with RSI in the bullish momentum zone (65.2), confirmed MACD crossover with rising histogram, and price above SMA-20 \u2014 cleanest setup available within the $598 cash constraint."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Markets are firmly risk-on today with the S&P 500 up 0.9% and NASDAQ up 1.0%, a constructive backdrop for momentum names. The portfolio has 5 open slots and just under $600 cash, so deploying into the highest-conviction low-RSI candidate makes sense. BLLN earns the buy \u2014 score 95, RSI only 59.5 (most headroom), and every technical signal firing \u2014 while existing holdings AMZN, QQQ, EAT, XMTR, and OLED remain in good standing with no stop-loss or profit-target triggers visible."
+    "briefing": "Markets pushed broadly higher in a classic risk-on session with NASDAQ +1.1% and S&P 500 +0.9%, favoring momentum names. With 5 open slots and just under $600 in cash, I'm deploying into NVTS \u2014 the top-scoring name with a textbook momentum setup. Limited cash prevents filling all available slots today, but NVTS is the highest-conviction entry and makes full use of deployable capital."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities posted broad gains on May 5, 2026, with both the S&P 500 (+0.9%) and NASDAQ (+100%) advancing as investor sentiment shifted to risk-on, likely supported by easing macro concerns and continued strength in technology and growth sectors. Momentum stocks with solid technical setups led the charge, rewarding traders positioned in high-score names with MACD crossovers and above-average price action. The move reflects a market willing to look past near-term uncertainty and rotate back into equities.",
-      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5168\u9762\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.9%\u3001\u7d0d\u6307\u4e0a\u6f321.0%\uff0c\u5e02\u5834\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\u3002\u79d1\u6280\u80a1\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u6280\u8853\u9762\u5f37\u52e2\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0cMACD\u91d1\u53c9\u4e14\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\u7684\u500b\u80a1\u666e\u904d\u53d7\u5230\u8ffd\u6367\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u5e02\u5834\u5df2\u9010\u6b65\u6d88\u5316\u77ed\u671f\u4e0d\u78ba\u5b9a\u56e0\u7d20\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u80a1\u7968\u8cc7\u7522\u3002",
+      "summary_en": "U.S. equities rallied broadly on 2026-05-05, with the NASDAQ gaining 1.1% and the S&P 500 adding 0.9%, driven by renewed risk appetite across technology and growth sectors. Momentum stocks with RSI readings in the 55\u201370 zone and confirmed MACD crossovers outperformed, suggesting steady institutional accumulation rather than late-cycle speculation. With no major macro headwinds in play, buyers maintained control through the entire session.",
+      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u80a1\u5168\u7dda\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f321.1%\uff0c\u6a19\u666e500\u53470.9%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u677f\u584a\u8cb7\u6c23\u660e\u986f\u56de\u5347\u3002RSI\u4ecb\u65bc55\u81f370\u5340\u9593\u4e14MACD\u5448\u9ec3\u91d1\u4ea4\u53c9\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u5e02\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u7a69\u6b65\u5e03\u5c40\uff0c\u800c\u975e\u672b\u5347\u6bb5\u7684\u6295\u6a5f\u8ffd\u9ad8\u3002\u5b8f\u89c0\u9762\u7f3a\u4e4f\u91cd\u5927\u5229\u7a7a\uff0c\u591a\u982d\u5f97\u4ee5\u4e3b\u5c0e\u5168\u65e5\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks that have been trending upward \u2014 using indicators like RSI and MACD to confirm strength before entering. The idea is that stocks already in motion tend to stay in motion, especially in risk-on markets. Today's buy of BLLN exemplifies this: RSI in the sweet spot (not yet overbought), MACD bullish crossover, and price above its 20-day moving average all confirm upward momentum.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u900f\u904eRSI\u3001MACD\u7b49\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u8da8\u52e2\u5f37\u5ea6\u5f8c\u518d\u9032\u5834\u3002\u6838\u5fc3\u6982\u5ff5\u662f\uff1a\u5df2\u7d93\u5728\u4e0a\u5347\u8ecc\u9053\u4e2d\u7684\u80a1\u7968\uff0c\u5f80\u5f80\u6703\u7e7c\u7e8c\u5411\u4e0a\u904b\u884c\uff0c\u5728\u98a8\u96aa\u504f\u597d\u5e02\u5834\u4e2d\u5c24\u70ba\u660e\u986f\u3002\u4eca\u65e5\u8cb7\u5165BLLN\u6b63\u662f\u6b64\u7b56\u7565\u7684\u9ad4\u73fe\uff1aRSI\u8655\u65bc\u751c\u871c\u5340\u9593\uff08\u5c1a\u672a\u8d85\u8cb7\uff09\u3001MACD\u51fa\u73fe\u91d1\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u4e09\u91cd\u4fe1\u865f\u5171\u540c\u78ba\u8a8d\u4e0a\u884c\u52d5\u80fd\u3002"
+      "explanation_en": "Momentum investing buys stocks already in an uptrend, betting the trend persists \u2014 rather than waiting for a dip. The RSI 'sweet spot' of 55\u201370 means a stock has real buying pressure without being overbought and vulnerable to reversal. On a risk-on day like today, momentum strategies tend to shine because capital keeps flowing into the names already moving.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8da8\u52e2\u5ef6\u7e8c\uff0c\u800c\u975e\u7b49\u5f85\u56de\u8abf\u5165\u5e02\u3002RSI 55\u81f370\u7684\u300c\u6700\u4f73\u5340\u9593\u300d\u4ee3\u8868\u80a1\u7968\u5177\u5099\u771f\u5be6\u8cb7\u76e4\u652f\u6490\uff0c\u540c\u6642\u53c8\u672a\u9054\u8d85\u8cb7\u6c34\u5e73\u3001\u4e0d\u6613\u53cd\u8f49\u3002\u5728\u4eca\u5929\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u74b0\u5883\u4e0b\uff0c\u52d5\u80fd\u7b56\u7565\u5f80\u5f80\u8868\u73fe\u7a81\u51fa\uff0c\u56e0\u70ba\u8cc7\u91d1\u6703\u6301\u7e8c\u6d41\u5165\u5df2\u5728\u5f37\u52e2\u4e0a\u884c\u7684\u500b\u80a1\u3002"
     }
   },
   "stats": {
