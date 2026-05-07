@@ -1,95 +1,95 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-07T13:01:34.313706+00:00",
+    "generated_at": "2026-05-07T14:01:28.261859+00:00",
     "date_et": "2026-05-07",
-    "run_id": "20260507T130134_f737f6"
+    "run_id": "20260507T140128_23c4f0"
   },
   "account": {
-    "total_value": 10539.085968017578,
-    "cash": 598.5860786437988,
+    "total_value": 11593.196086883545,
+    "cash": 1406.3961086273193,
     "starting_cash": 10000.0,
-    "profit_dollars": 539.0859680175781,
-    "profit_percent": 5.390859680175781,
-    "vs_voo_dollars": -127.64075905981008,
-    "vs_voo_percent": -1.1966253783908698
+    "profit_dollars": 1593.196086883545,
+    "profit_percent": 15.931960868835448,
+    "vs_voo_dollars": 921.5681364118464,
+    "vs_voo_percent": 8.635684646137909
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 695.77001953125,
-      "market_value": 2087.31005859375,
-      "profit_dollars": 118.71002197265625,
-      "profit_percent": 6.030174731501591,
-      "portfolio_pct": 19.143984836893406
+      "current_price": 697.5599975585938,
+      "market_value": 2092.6799926757812,
+      "profit_dollars": 124.0799560546875,
+      "profit_percent": 6.302954066162592,
+      "portfolio_pct": 17.94419490925304
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 147.11000061035156,
-      "market_value": 1912.4300079345703,
-      "profit_dollars": -14.5599365234375,
-      "profit_percent": -0.755579268346036,
-      "portfolio_pct": 17.540053966963132
-    },
-    {
-      "ticker": "XMTR",
-      "shares": 41.0,
-      "avg_cost": 50.439998626708984,
-      "current_price": 56.400001525878906,
-      "market_value": 2312.400062561035,
-      "profit_dollars": 244.3601188659668,
-      "profit_percent": 11.816025101979248,
-      "portfolio_pct": 21.20842160092122
+      "current_price": 142.17999267578125,
+      "market_value": 1848.3399047851562,
+      "profit_dollars": -78.65003967285156,
+      "profit_percent": -4.081497150467641,
+      "portfolio_pct": 15.849041241898853
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 93.9800033569336,
-      "market_value": 2067.560073852539,
-      "profit_dollars": 9.460006713867188,
-      "profit_percent": 0.4596475586835393,
-      "portfolio_pct": 18.962845764210865
+      "current_price": 94.71499633789062,
+      "market_value": 2083.7299194335938,
+      "profit_dollars": 25.629852294921875,
+      "profit_percent": 1.2453161391007803,
+      "portfolio_pct": 17.867450323711054
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 274.989990234375,
-      "market_value": 1924.929931640625,
-      "profit_dollars": 6.1600341796875,
-      "profit_percent": 0.3210407974316736,
-      "portfolio_pct": 17.654698338510048
+      "current_price": 273.80999755859375,
+      "market_value": 1916.6699829101562,
+      "profit_dollars": -2.09991455078125,
+      "profit_percent": -0.10944066579114133,
+      "portfolio_pct": 16.43495415946429
+    },
+    {
+      "ticker": "PTON",
+      "shares": 427.0,
+      "avg_cost": 5.420000076293945,
+      "current_price": 5.420000076293945,
+      "market_value": 2314.3400325775146,
+      "profit_dollars": 0.0,
+      "profit_percent": 0.0,
+      "portfolio_pct": 19.844872974466302
     }
   ],
   "allocation": [
     {
-      "label": "XMTR",
-      "pct": 21.2
+      "label": "PTON",
+      "pct": 19.8
     },
     {
       "label": "QQQ",
-      "pct": 19.1
+      "pct": 17.9
     },
     {
       "label": "OLED",
-      "pct": 19.0
+      "pct": 17.9
     },
     {
       "label": "AMZN",
-      "pct": 17.7
+      "pct": 16.4
     },
     {
       "label": "EAT",
-      "pct": 17.5
+      "pct": 15.8
     },
     {
       "label": "Cash",
-      "pct": 5.5
+      "pct": 12.2
     }
   ],
   "snapshots": [
@@ -191,15 +191,15 @@
     },
     {
       "date": "2026-05-07",
-      "total_value": 10539.085968017578,
-      "cash": 598.5860786437988,
-      "profit_percent": 5.390859680175781
+      "total_value": 11593.196086883545,
+      "cash": 1406.3961086273193,
+      "profit_percent": 15.931960868835448
     }
   ],
   "benchmark": {
     "voo_shares": 15.810522561996239,
-    "voo_price": 674.6599731445312,
-    "total_value": 10666.726727077388,
+    "voo_price": 674.969970703125,
+    "total_value": 10671.627950471699,
     "total_deposited": 10200.0,
     "snapshots": [
       {
@@ -301,12 +301,34 @@
       {
         "date": "2026-05-07",
         "voo_shares": 15.810522561996239,
-        "voo_price": 674.6599731445312,
-        "total_value": 10666.726727077388
+        "voo_price": 674.969970703125,
+        "total_value": 10671.627950471699
       }
     ]
   },
   "trades": [
+    {
+      "id": 39,
+      "timestamp": "2026-05-07 14:01:25",
+      "action": "BUY",
+      "ticker": "PTON",
+      "shares": 427.0,
+      "price": 5.420000076293945,
+      "total": 2314.3400325775146,
+      "reasoning": "Top screener score of 100 with RSI at 59.9 \u2014 the only candidate in the ideal bullish momentum zone (55\u201370) without being overbought, with MACD crossover and volume surge confirming the move.",
+      "realized_profit": null
+    },
+    {
+      "id": 38,
+      "timestamp": "2026-05-07 14:01:25",
+      "action": "SELL",
+      "ticker": "XMTR",
+      "shares": 41.0,
+      "price": 76.1500015258789,
+      "total": 3122.150062561035,
+      "reasoning": "Up +50.6% from avg cost of $50.44 \u2014 far exceeds the +12% profit target, and RSI at 90.7 is extremely overbought; locking in gains before reversal.",
+      "realized_profit": 1054.1101188659668
+    },
     {
       "id": 37,
       "timestamp": "2026-05-04 15:01:28",
@@ -718,52 +740,59 @@
   "today_plan": {
     "decisions": [
       {
-        "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "high",
-        "reasoning": "Score 90 with RSI 67.9 in the ideal bullish momentum zone (not overbought), MACD bullish crossover, and price above SMA-20 \u2014 best risk-adjusted entry on a NASDAQ-led risk-on session."
+        "action": "SELL",
+        "ticker": "XMTR",
+        "shares": 41,
+        "reasoning": "Up +50.6% from avg cost of $50.44 \u2014 far exceeds the +12% profit target, and RSI at 90.7 is extremely overbought; locking in gains before reversal."
       },
       {
         "action": "BUY",
-        "ticker": "CCL",
-        "conviction": "medium",
-        "reasoning": "Score 90, RSI 68.5 still below overbought threshold, consumer cyclical cruise line stands to benefit from elevated risk appetite with MACD confirming the bullish trend."
+        "ticker": "PTON",
+        "conviction": "high",
+        "reasoning": "Top screener score of 100 with RSI at 59.9 \u2014 the only candidate in the ideal bullish momentum zone (55\u201370) without being overbought, with MACD crossover and volume surge confirming the move."
+      },
+      {
+        "action": "BUY",
+        "ticker": "IONQ",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 64.9 \u2014 second-cleanest setup on the screener, RSI in healthy bullish range, MACD crossover confirmed, and volume surge supporting the breakout above SMA-20."
       }
     ],
     "skip_new_buys": false,
-    "market_direction": "risk_on",
-    "briefing": "Markets are firmly risk-on today with NASDAQ up 2% and S&P 500 up 1.5%, creating ideal conditions for momentum plays. With $598 in cash and 5 open slots, I'm deploying into NVDA and CCL \u2014 both score 90 with RSIs in the 55-70 sweet spot, meaning strong momentum without overbought risk. The five existing positions (QQQ, AMZN, EAT, XMTR, OLED) are left to run with stop-loss and profit targets handling exits automatically."
+    "market_direction": "neutral",
+    "briefing": "Markets were essentially flat today \u2014 NASDAQ barely positive and S&P 500 unchanged \u2014 signaling a pause after recent momentum. XMTR has run 50%+ from our cost basis and its RSI just hit 90.7, making it a clear trim. We're rotating that capital into PTON and IONQ, the only two screener candidates with RSI in the healthy 55\u201370 zone rather than extreme overbought territory, giving us better risk-adjusted entries."
   },
   "education": {
     "market_education": {
-      "summary_en": "Equities rallied broadly today with the S&P 500 gaining 1.5% and the NASDAQ surging 2.0%, fueled by renewed enthusiasm for technology and AI-related growth stocks. Institutional investors rotated back into higher-beta names \u2014 semiconductors, consumer cyclicals, and tech \u2014 as macro fears receded and risk appetite climbed. The broad-based advance signals a classic risk-on session where investors favor equities over safe havens like bonds and cash.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.5%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u52c1\u53472.0%\uff0c\u4e3b\u8981\u7531\u79d1\u6280\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u6210\u9577\u80a1\u5e36\u52d5\u3002\u6a5f\u69cb\u6295\u8cc7\u8005\u91cd\u8fd4\u9ad8\u8c9d\u4ed6\u503c\u677f\u584a\uff0c\u5305\u62ec\u534a\u5c0e\u9ad4\u3001\u6d88\u8cbb\u9031\u671f\u53ca\u79d1\u6280\u80a1\uff0c\u5b8f\u89c0\u5c64\u9762\u7684\u6182\u616e\u4ea6\u6709\u6240\u7d13\u7de9\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u6b64\u6b21\u5ee3\u6cdb\u4e0a\u6f32\u662f\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u5e02\u6cc1\uff0c\u6295\u8cc7\u8005\u7531\u50b5\u5238\u53ca\u73fe\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u5411\u80a1\u7968\u3002",
+      "summary_en": "Today's session was a textbook neutral day, with the S&P 500 flat and NASDAQ up just 0.2%, reflecting a market digesting recent gains after the sharp April recovery. Traders appeared cautious ahead of upcoming economic data, keeping buying interest subdued across sectors. The lack of a directional catalyst meant most moves were rotational \u2014 momentum names held gains while laggards saw mild selling pressure.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u73fe\u5178\u578b\u7684\u76e4\u6574\u683c\u5c40\uff0c\u6a19\u666e500\u5e7e\u4e4e\u6301\u5e73\uff0c\u90a3\u65af\u9054\u514b\u5fae\u53470.2%\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u5f37\u52c1\u53cd\u5f48\u5f8c\u9032\u5165\u6d88\u5316\u968e\u6bb5\u3002\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5f8c\u7e8c\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u4e4b\u969b\u4fdd\u6301\u8b39\u614e\uff0c\u5404\u677f\u584a\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u76e4\u9762\u4ee5\u8cc7\u91d1\u8f2a\u52d5\u70ba\u4e3b\uff0c\u5f37\u52e2\u52d5\u80fd\u80a1\u7dad\u6301\u6f32\u52e2\uff0c\u5f31\u52e2\u500b\u80a1\u5247\u627f\u53d7\u8f15\u5fae\u8ce3\u58d3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Sweet Spot",
-      "explanation_en": "The Relative Strength Index (RSI) measures how overbought or oversold a stock is on a 0\u2013100 scale. A reading in the 55\u201370 range is often called the 'sweet spot' \u2014 it confirms strong upward momentum without signaling that a stock is overextended and due for a pullback. Today's top buys (NVDA at 67.9, CCL at 68.5) sit right in this zone, making them more attractive entries than the many stocks on the list with RSI above 80.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u7968\u7684\u8d85\u8cb7\u6216\u8d85\u8ce3\u7a0b\u5ea6\u3002RSI\u4ecb\u4e4e55\u81f370\u7684\u5340\u9593\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u751c\u871c\u5340\u9593\u300d\u2014\u2014\u9019\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u51fa\u73fe\u904e\u5ea6\u5ef6\u4f38\u3001\u9762\u81e8\u56de\u8abf\u7684\u98a8\u96aa\u3002\u4eca\u65e5\u8cb7\u5165\u7684NVDA\uff08RSI 67.9\uff09\u53caCCL\uff08RSI 68.5\uff09\u5747\u843d\u5728\u6b64\u5340\u9593\uff0c\u76f8\u6bd4\u540d\u55ae\u4e0a\u773e\u591aRSI\u8d85\u904e80\u7684\u80a1\u7968\uff0c\u73fe\u6642\u9032\u5834\u98a8\u96aa\u66f4\u4f4e\u3001\u52dd\u7b97\u66f4\u9ad8\u3002"
+      "term": "Profit Target",
+      "explanation_en": "A profit target is a pre-set price level at which you plan to sell a winning position and lock in gains. Without one, it's easy to hold too long and give back profits when the stock reverses \u2014 as XMTR's RSI of 90.7 warns it might. Setting a target (we use +12%) removes emotion and enforces discipline.",
+      "explanation_zh": "\u76ee\u6a19\u7372\u5229\u50f9\uff08Profit Target\uff09\u662f\u6295\u8cc7\u8005\u9810\u5148\u8a2d\u5b9a\u7684\u51fa\u5834\u50f9\u4f4d\uff0c\u4e00\u65e6\u6301\u5009\u76c8\u5229\u9054\u5230\u8a72\u6c34\u5e73\u5373\u7372\u5229\u4e86\u7d50\u3002\u7f3a\u4e4f\u76ee\u6a19\u7372\u5229\u7684\u7d00\u5f8b\uff0c\u5bb9\u6613\u5728\u80a1\u50f9\u56de\u843d\u524d\u904e\u5ea6\u6301\u6709\u800c\u5410\u56de\u6536\u76ca\u2014\u2014\u4eca\u65e5XMTR\u7684RSI\u9ad8\u905490.7\u6b63\u662f\u6b64\u985e\u8b66\u793a\u3002\u8a2d\u5b9a\u660e\u78ba\u7684\u76ee\u6a19\u7372\u5229\uff08\u672c\u7d44\u5408\u63a1\u7528+12%\uff09\u6709\u52a9\u6392\u9664\u60c5\u7dd2\u5e72\u64fe\uff0c\u78ba\u4fdd\u4ea4\u6613\u7d00\u5f8b\u3002"
     }
   },
   "stats": {
-    "win_rate": 43.75,
-    "winners_count": 7,
+    "win_rate": 47.05882352941176,
+    "winners_count": 8,
     "losers_count": 9,
-    "avg_winner": 123.85126386369977,
+    "avg_winner": 240.13362073898315,
     "avg_loser": -58.65254211425781,
     "best_trade": {
-      "ticker": "MSTR",
-      "realized_profit": 427.89178466796875
+      "ticker": "XMTR",
+      "realized_profit": 1054.1101188659668
     },
     "worst_trade": {
       "ticker": "AAOI",
       "realized_profit": -174.1201171875
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 1.4560925311105755,
-    "total_realized_profit": 339.0859680175781,
+    "daily_volatility": 2.7465731339699198,
+    "total_realized_profit": 1393.196086883545,
     "per_ticker_realized": {
+      "XMTR": 1054.1101188659668,
       "AMD": 17.550048828125,
       "LITE": 108.72674560546875,
       "ETSY": -95.11502075195312,
