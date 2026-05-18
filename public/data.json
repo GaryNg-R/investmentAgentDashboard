@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-18T15:01:36.441799+00:00",
+    "generated_at": "2026-05-18T16:01:10.724775+00:00",
     "date_et": "2026-05-18",
-    "run_id": "20260518T150136_c03355"
+    "run_id": "20260518T160110_76ad7f"
   },
   "account": {
     "total_value": 12460.479672908783,
@@ -11,69 +11,69 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2460.479672908783,
     "profit_percent": 24.60479672908783,
-    "vs_voo_dollars": 1532.7302657732052,
-    "vs_voo_percent": 14.02603782964098
+    "vs_voo_dollars": 1563.0073649992428,
+    "vs_voo_percent": 14.342843191854593
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 705.219970703125,
-      "market_value": 2115.659912109375,
-      "profit_dollars": 147.05987548828125,
-      "profit_percent": 7.470276986314341,
-      "portfolio_pct": 17.24874592525867
+      "current_price": 702.60009765625,
+      "market_value": 2107.80029296875,
+      "profit_dollars": 139.20025634765625,
+      "profit_percent": 7.071027824757113,
+      "portfolio_pct": 17.280139380549848
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 133.92999267578125,
-      "market_value": 1741.0899047851562,
-      "profit_dollars": -185.90003967285156,
-      "profit_percent": -9.647172275470203,
-      "portfolio_pct": 14.19491725904546
+      "current_price": 133.08999633789062,
+      "market_value": 1730.1699523925781,
+      "profit_dollars": -196.8199920654297,
+      "profit_percent": -10.213856726729729,
+      "portfolio_pct": 14.184255514678545
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.58000183105469,
-      "market_value": 1992.7600402832031,
-      "profit_dollars": -65.34002685546875,
-      "profit_percent": -3.1747740500445856,
-      "portfolio_pct": 16.24675659264286
+      "current_price": 89.58000183105469,
+      "market_value": 1970.7600402832031,
+      "profit_dollars": -87.34002685546875,
+      "profit_percent": -4.243721102292929,
+      "portfolio_pct": 16.15665786522247
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 267.3399963378906,
-      "market_value": 1871.3799743652344,
-      "profit_dollars": -47.389923095703125,
-      "profit_percent": -2.469807513574873,
-      "portfolio_pct": 15.257158072849213
+      "current_price": 265.3568115234375,
+      "market_value": 1857.4976806640625,
+      "profit_dollars": -61.272216796875,
+      "profit_percent": -3.1933071744535426,
+      "portfolio_pct": 15.228111945897215
     },
     {
       "ticker": "NSIT",
       "shares": 17.0,
       "avg_cost": 80.9175033569336,
-      "current_price": 91.25499725341797,
-      "market_value": 1551.3349533081055,
-      "profit_dollars": 175.73739624023438,
-      "profit_percent": 12.77534954444264,
-      "portfolio_pct": 12.647865709146721
+      "current_price": 91.12999725341797,
+      "market_value": 1549.2099533081055,
+      "profit_dollars": 173.61239624023438,
+      "profit_percent": 12.620871224160545,
+      "portfolio_pct": 12.70071173829943
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 119.45999908447266,
-      "market_value": 2150.279983520508,
-      "profit_dollars": -219.0601043701172,
-      "profit_percent": -9.24561676433466,
-      "portfolio_pct": 17.53099961464751
+      "current_price": 118.8499984741211,
+      "market_value": 2139.2999725341797,
+      "profit_dollars": -230.0401153564453,
+      "profit_percent": -9.709037403796486,
+      "portfolio_pct": 17.538379620457317
     }
   ],
   "allocation": [
@@ -83,7 +83,7 @@
     },
     {
       "label": "QQQ",
-      "pct": 17.2
+      "pct": 17.3
     },
     {
       "label": "OLED",
@@ -91,7 +91,7 @@
     },
     {
       "label": "AMZN",
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "label": "EAT",
@@ -99,11 +99,11 @@
     },
     {
       "label": "NSIT",
-      "pct": 12.6
+      "pct": 12.7
     },
     {
       "label": "Cash",
-      "pct": 7.0
+      "pct": 6.9
     }
   ],
   "snapshots": [
@@ -254,8 +254,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.10479818581185,
-    "voo_price": 678.5399780273438,
-    "total_value": 10927.749407135578,
+    "voo_price": 676.6599731445312,
+    "total_value": 10897.47230790954,
     "total_deposited": 10400.0,
     "snapshots": [
       {
@@ -399,8 +399,8 @@
       {
         "date": "2026-05-18",
         "voo_shares": 16.10479818581185,
-        "voo_price": 678.5399780273438,
-        "total_value": 10927.749407135578
+        "voo_price": 676.6599731445312,
+        "total_value": 10897.47230790954
       }
     ]
   },
@@ -951,23 +951,29 @@
         "action": "BUY",
         "ticker": "FLY",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 63.3 sitting in the ideal bullish momentum zone (55\u201370), MACD bullish crossover with rising histogram, and price 6.5% above SMA-20 \u2014 cleanest technical setup among today's candidates in a neutral market."
+        "reasoning": "Score 95 with RSI at 63.2 \u2014 ideal bullish momentum zone with room to run, all three signals clean (MACD crossover, histogram rising, price above SMA-20), and low enough price to deploy most remaining cash efficiently."
+      },
+      {
+        "action": "BUY",
+        "ticker": "TME",
+        "conviction": "medium",
+        "reasoning": "Score 95 but RSI only 58.0 gives more upside headroom than peers near 70, MACD and price signals all bullish, and low unit price maximises shares acquired with remaining cash after FLY purchase."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets drifted mildly lower today (S&P 500 -0.1%, NASDAQ -0.4%) in a neutral, low-conviction session with no major catalyst. The portfolio is performing well at +24.6% overall, and with $843 in cash and 4 open slots the rules call for deploying. FLY stands out among score-95 candidates as the most technically clean entry \u2014 RSI in the sweet spot, MACD bullish, and price trending above its moving average without being overbought."
+    "briefing": "Markets pulled back slightly today (NASDAQ -0.7%, S&P -0.4%) but conditions remain neutral rather than risk-off, so holding idle cash while 4 slots sit empty would be a drag on performance. FLY and TME both score 95 and offer the cleanest risk/reward \u2014 RSI in the momentum sweet spot rather than overbought territory \u2014 so deploying the remaining $843 across two small positions makes sense. No existing holdings need to be trimmed today."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities edged lower on Monday with the NASDAQ falling 0.4% and the S&P 500 slipping 0.1%, as investors paused after a period of recent strength with no major macro catalyst to extend gains. The session reflected quiet consolidation rather than a directional breakdown, with modest sector rotation continuing as traders balanced growth and defensive exposures. Lingering uncertainty over Federal Reserve rate timing kept institutional buyers cautious and kept volume subdued.",
-      "summary_zh": "\u7f8e\u80a1\u5468\u4e00\u5c0f\u5e45\u6536\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u53cd\u5f48\u5f8c\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\uff0c\u6295\u8cc7\u8005\u9078\u64c7\u89c0\u671b\u6574\u56fa\u3002\u672c\u8f2a\u56de\u8abf\u5c6c\u6b63\u5e38\u6280\u8853\u6027\u4f11\u6574\uff0c\u4e26\u975e\u8da8\u52e2\u9006\u8f49\uff0c\u6210\u4ea4\u91cf\u6eab\u548c\uff0c\u6a5f\u69cb\u8cc7\u91d1\u6301\u8b39\u614e\u614b\u5ea6\u3002\u5e02\u5834\u7e7c\u7e8c\u5728\u6210\u9577\u80a1\u8207\u9632\u79a6\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u806f\u5132\u5c40\u5229\u7387\u524d\u666f\u7684\u4e0d\u78ba\u5b9a\u6027\u4ee4\u4e3b\u52d5\u5165\u5e02\u610f\u6b32\u53d7\u58d3\u3002",
+      "summary_en": "U.S. equities drifted lower on May 18 as investors digested lingering concerns about the federal deficit and debt-ceiling negotiations following Moody's downgrade of U.S. sovereign credit last week, which rattled bond markets and pushed Treasury yields higher. Tech-heavy NASDAQ led the decline as rising yields compress valuations on growth stocks, while defensive sectors held up better. With no major catalysts scheduled, the session reflected a cautious 'wait and see' tone ahead of upcoming Fed minutes.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc5\u670818\u65e5\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u6295\u8cc7\u8005\u6301\u7e8c\u6d88\u5316\u4e0a\u9031\u7a46\u8fea\u4e0b\u8abf\u7f8e\u570b\u4e3b\u6b0a\u4fe1\u7528\u8a55\u7d1a\u6240\u5e36\u4f86\u7684\u5f71\u97ff\uff0c\u6b64\u8209\u4ee4\u50b5\u5e02\u627f\u58d3\u3001\u7f8e\u50b5\u5b73\u606f\u7387\u8d70\u9ad8\u3002\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u8dcc\u5e45\u8f03\u5927\uff0c\u56e0\u5229\u7387\u4e0a\u5347\u5f80\u5f80\u58d3\u7e2e\u6210\u9577\u578b\u80a1\u7968\u7684\u4f30\u503c\u3002\u9632\u5b88\u6027\u677f\u584a\u76f8\u5c0d\u6297\u8dcc\uff0c\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\u5be9\u614e\uff0c\u5e02\u5834\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u806f\u5132\u5c40\u6703\u8b70\u7d00\u9304\u4ee5\u5c0b\u6c42\u65b9\u5411\u6307\u5f15\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks that are already trending upward, based on the observation that rising assets tend to keep rising in the short term. Traders use indicators like RSI and MACD to find stocks in the 'sweet spot' \u2014 strong enough to be in an uptrend, but not so extended (overbought) that a reversal is likely. Today's FLY buy is a textbook example: RSI of 63 signals healthy momentum, while staying comfortably below the overbought threshold of 70.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u4f9d\u64da\u662f\u5f37\u52e2\u8cc7\u7522\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u6f32\u52e2\u3002\u4ea4\u6613\u8005\u5229\u7528RSI\u548cMACD\u7b49\u6307\u6a19\uff0c\u5c0b\u627e\u8655\u65bc\u300c\u751c\u871c\u5340\u9593\u300d\u7684\u500b\u80a1\u2014\u2014\u8da8\u52e2\u5411\u4e0a\u4f46\u5c1a\u672a\u8d85\u8cb7\u81f3\u53cd\u8f49\u98a8\u96aa\u9ad8\u7684\u6c34\u5e73\u3002\u4eca\u65e5\u8cb7\u5165FLY\u6b63\u662f\u5178\u578b\u64cd\u4f5c\uff1aRSI 63\u986f\u793a\u52d5\u80fd\u5065\u5eb7\uff0c\u540c\u6642\u8ddd\u96e2\u8d85\u8cb7\u8b66\u6212\u7dda70\u4ecd\u6709\u8db3\u5920\u7de9\u885d\u7a7a\u9593\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a scale from 0 to 100. A reading between 55 and 70 is often called the 'momentum zone' \u2014 the stock is trending upward but is not yet overbought (above 70), meaning buyers are still in control with room left to run. Today's top buys were selected partly because their RSI sat in this sweet spot rather than flashing an overbought warning.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u5347\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u8655\u65bc55\u81f370\u7684\u5340\u9593\uff0c\u901a\u5e38\u7a31\u70ba\u300c\u52d5\u80fd\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u50f9\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u72c0\u614b\uff08\u9ad8\u65bc70\uff09\uff0c\u610f\u5473\u8457\u591a\u65b9\u4ecd\u5360\u4e3b\u5c0e\uff0c\u80a1\u50f9\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\u3002\u4eca\u65e5\u9078\u80a1\u7684\u91cd\u8981\u4f9d\u64da\u4e4b\u4e00\uff0c\u6b63\u662f\u512a\u5148\u6311\u9078RSI\u843d\u5728\u6b64\u751c\u871c\u5340\u9593\u3001\u800c\u975e\u5df2\u986f\u793a\u8d85\u8cb7\u8a0a\u865f\u7684\u6a19\u7684\u3002"
     }
   },
   "stats": {
