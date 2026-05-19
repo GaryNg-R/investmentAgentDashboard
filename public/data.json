@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-19T19:01:16.201716+00:00",
+    "generated_at": "2026-05-19T20:01:16.408121+00:00",
     "date_et": "2026-05-19",
-    "run_id": "20260519T190116_a15467"
+    "run_id": "20260519T200116_a2c392"
   },
   "account": {
     "total_value": 12460.479672908783,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2460.479672908783,
     "profit_percent": 24.60479672908783,
-    "vs_voo_dollars": 1582.332336455118,
-    "vs_voo_percent": 14.54597265062385
+    "vs_voo_dollars": 1596.8270480058982,
+    "vs_voo_percent": 14.69880438136868
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 703.030029296875,
-      "market_value": 2109.090087890625,
-      "profit_dollars": 140.49005126953125,
-      "profit_percent": 7.1365462082723745,
-      "portfolio_pct": 17.429950126841366
+      "current_price": 701.530029296875,
+      "market_value": 2104.590087890625,
+      "profit_dollars": 135.99005126953125,
+      "profit_percent": 6.9079573676603525,
+      "portfolio_pct": 17.443861701928206
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 127.31500244140625,
-      "market_value": 1655.0950317382812,
-      "profit_dollars": -271.89491271972656,
-      "profit_percent": -14.109825196633327,
-      "portfolio_pct": 13.67804249994522
+      "current_price": 126.43000030517578,
+      "market_value": 1643.5900039672852,
+      "profit_dollars": -283.39994049072266,
+      "profit_percent": -14.706871787565698,
+      "portfolio_pct": 13.622869787727973
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 88.83509826660156,
-      "market_value": 1954.3721618652344,
-      "profit_dollars": -103.7279052734375,
-      "profit_percent": -5.03998357172438,
-      "portfolio_pct": 16.15132966874231
+      "current_price": 87.61000061035156,
+      "market_value": 1927.4200134277344,
+      "profit_dollars": -130.6800537109375,
+      "profit_percent": -6.349548100089171,
+      "portfolio_pct": 15.975390338106218
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 259.25,
-      "market_value": 1814.75,
-      "profit_dollars": -104.0198974609375,
-      "profit_percent": -5.421176223297257,
-      "portfolio_pct": 14.997463680804952
+      "current_price": 259.3399963378906,
+      "market_value": 1815.3799743652344,
+      "profit_dollars": -103.38992309570312,
+      "profit_percent": -5.388344023559914,
+      "portfolio_pct": 15.046748243985295
     },
     {
       "ticker": "NSIT",
       "shares": 17.0,
       "avg_cost": 80.9175033569336,
-      "current_price": 88.7699966430664,
-      "market_value": 1509.089942932129,
-      "profit_dollars": 133.4923858642578,
-      "profit_percent": 9.704319782945891,
-      "portfolio_pct": 12.471426703508813
+      "current_price": 88.55000305175781,
+      "market_value": 1505.3500518798828,
+      "profit_dollars": 129.75249481201172,
+      "profit_percent": 9.43244585928047,
+      "portfolio_pct": 12.477070128322207
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 123.05000305175781,
-      "market_value": 2214.9000549316406,
-      "profit_dollars": -154.44003295898438,
-      "profit_percent": -6.518272060153222,
-      "portfolio_pct": 18.3043852489049
+      "current_price": 123.63999938964844,
+      "market_value": 2225.519989013672,
+      "profit_dollars": -143.82009887695312,
+      "profit_percent": -6.070048770625968,
+      "portfolio_pct": 18.446187277324487
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 18.3
+      "pct": 18.4
     },
     {
       "label": "QQQ",
@@ -87,7 +87,7 @@
     },
     {
       "label": "OLED",
-      "pct": 16.2
+      "pct": 16.0
     },
     {
       "label": "AMZN",
@@ -95,7 +95,7 @@
     },
     {
       "label": "EAT",
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "label": "NSIT",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 6.9
+      "pct": 7.1
     }
   ],
   "snapshots": [
@@ -260,8 +260,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.10479818581185,
-    "voo_price": 675.4600219726562,
-    "total_value": 10878.147336453665,
+    "voo_price": 674.5599975585938,
+    "total_value": 10863.652624902885,
     "total_deposited": 10400.0,
     "snapshots": [
       {
@@ -411,8 +411,8 @@
       {
         "date": "2026-05-19",
         "voo_shares": 16.10479818581185,
-        "voo_price": 675.4600219726562,
-        "total_value": 10878.147336453665
+        "voo_price": 674.5599975585938,
+        "total_value": 10863.652624902885
       }
     ]
   },
@@ -961,31 +961,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "MRVL",
+        "ticker": "CORT",
         "conviction": "high",
-        "reasoning": "Score-95 semiconductor name with AI data-center tailwinds; MACD bullish crossover, histogram rising, and RSI 55.3 in the ideal momentum entry zone \u2014 all three signals aligned."
+        "reasoning": "Top-ranked score of 100 with a full signal suite \u2014 RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional interest; strongest setup on the screener today."
       },
       {
         "action": "BUY",
-        "ticker": "SEZL",
+        "ticker": "WAY",
         "conviction": "medium",
-        "reasoning": "Score-95 fintech with RSI 66.8 at the top of the bullish zone and all momentum signals firing; deploying idle cash into a high-scoring slot while market is only mildly negative."
+        "reasoning": "Score 95 with volume surge and MACD bullish crossover, RSI at 58.6 leaves room to run without overbought risk \u2014 an earlier-stage momentum entry compared to higher-RSI alternatives."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets slipped modestly today \u2014 NASDAQ -0.7%, S&P 500 -0.5% \u2014 a soft neutral session rather than a true risk-off move. No existing positions appear near their stop-loss or profit-target thresholds, so the book stays intact. With four open slots and over $800 in idle cash, I'm deploying into MRVL (AI semiconductor, all signals aligned) and SEZL (fintech momentum) to reduce cash drag rather than sit on dead weight."
+    "briefing": "Both major indices dipped under 1% today in a mild risk-off session, but conditions don't warrant sitting on the sidelines \u2014 this is noise, not a trend break. With 4 open slots and $843 in cash, deploying into CORT (perfect score, volume-confirmed breakout) and WAY (early-stage momentum with volume) is the disciplined move. Existing holdings are all well within range \u2014 no stop-loss triggers, no sells needed."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities pulled back modestly on Tuesday, with the S&P 500 losing 0.5% and the NASDAQ falling 0.7%, as investors digested lingering uncertainty around interest rate policy and mixed corporate earnings signals. The sell-off was broad but shallow, suggesting profit-taking rather than a decisive shift in sentiment. Defensive and value names held up relatively better than high-growth tech, keeping the day's tone 'neutral' rather than outright bearish.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5468\u4e8c\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.5%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.7%\uff0c\u5e02\u5834\u5728\u6d88\u5316\u5229\u7387\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u8207\u4f01\u696d\u696d\u7e3e\u8a0a\u865f\u4e4b\u969b\u7dad\u6301\u89c0\u671b\u60c5\u7dd2\u3002\u8dcc\u52e2\u96d6\u5c6c\u5ee3\u6cdb\uff0c\u4f46\u5e45\u5ea6\u6eab\u548c\uff0c\u66f4\u50cf\u662f\u7372\u5229\u4e86\u7d50\uff0c\u800c\u975e\u8da8\u52e2\u6027\u8f49\u5f31\u3002\u9632\u79a6\u578b\u53ca\u50f9\u503c\u80a1\u8868\u73fe\u76f8\u5c0d\u6297\u8dcc\uff0c\u4ee4\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\u7dad\u6301\u300c\u4e2d\u6027\u300d\u57fa\u8abf\uff0c\u4e26\u672a\u9677\u5165\u660e\u78ba\u7684\u770b\u7a7a\u683c\u5c40\u3002",
+      "summary_en": "U.S. equities slipped modestly on May 19, with the S&P 500 and NASDAQ each falling less than 1%, reflecting mild profit-taking after a strong recent rally. Treasury yields ticked up slightly as investors reassessed the pace of Federal Reserve rate cuts, weighing on growth and tech names. No single catalyst drove the move \u2014 it reads as a routine consolidation day rather than a meaningful trend reversal.",
+      "summary_zh": "\u7f8e\u80a15\u670819\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u8207\u7d0d\u65af\u9054\u514b\u5404\u8dcc\u4e0d\u8db31%\uff0c\u4e3b\u8981\u56e0\u8fd1\u671f\u5927\u6f32\u5f8c\u5e02\u5834\u51fa\u73fe\u6280\u8853\u6027\u7372\u5229\u56de\u5410\u3002\u7f8e\u570b\u570b\u50b5\u6b96\u5229\u7387\u5fae\u5347\uff0c\u5e02\u5834\u91cd\u65b0\u8a55\u4f30\u806f\u6e96\u6703\u964d\u606f\u6b65\u4f10\uff0c\u5c0d\u6210\u9577\u80a1\u548c\u79d1\u6280\u80a1\u69cb\u6210\u4e00\u5b9a\u58d3\u529b\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u6b64\u6b21\u4e0b\u8dcc\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u5e02\u5834\u666e\u904d\u8996\u4e4b\u70ba\u5065\u5eb7\u6574\u56fa\uff0c\u800c\u975e\u8da8\u52e2\u9006\u8f49\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Drag",
-      "explanation_en": "Cash drag refers to the performance cost of holding uninvested cash in a portfolio. While cash feels 'safe,' it earns near-zero returns \u2014 so every dollar sitting idle is a dollar that isn't compounding. In an actively managed portfolio, the goal is to deploy cash into high-conviction ideas promptly, which is why today's two buys were prioritized despite a mildly negative market.",
-      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\uff08Cash Drag\uff09\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u6301\u6709\u9592\u7f6e\u73fe\u91d1\u6240\u5e36\u4f86\u7684\u7e3e\u6548\u640d\u5931\u3002\u73fe\u91d1\u96d6\u7136\u611f\u89ba\u5b89\u5168\uff0c\u4f46\u56de\u5831\u63a5\u8fd1\u96f6\uff0c\u6bcf\u4e00\u5206\u9592\u7f6e\u8cc7\u91d1\u90fd\u662f\u653e\u68c4\u8907\u5229\u589e\u9577\u7684\u6a5f\u6703\u3002\u5728\u4e3b\u52d5\u7ba1\u7406\u7684\u7d44\u5408\u4e2d\uff0c\u76ee\u6a19\u662f\u5c07\u73fe\u91d1\u8fc5\u901f\u90e8\u7f72\u5230\u9ad8\u4fe1\u5ff5\u7684\u6295\u8cc7\u6a19\u7684\uff0c\u9019\u6b63\u662f\u4eca\u5929\u5373\u4f7f\u5e02\u5834\u8f15\u5fae\u4e0b\u8dcc\u4ecd\u9078\u64c7\u9032\u884c\u5169\u7b46\u8cb7\u5165\u7684\u539f\u56e0\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, suggesting real conviction from buyers or sellers rather than a random fluctuation. When a stock breaks above a key level (like its 20-day moving average) on surging volume \u2014 as CORT did today \u2014 it signals that institutional money is participating, making the move more likely to continue. Without volume, price breakouts often fail and reverse quickly.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u50f9\u683c\u7a81\u7834\u4f34\u96a8\u8457\u7570\u5e38\u9ad8\u7684\u4ea4\u6613\u91cf\uff0c\u4ee3\u8868\u5e02\u5834\u53c3\u8207\u8005\uff08\u5c24\u5176\u662f\u6a5f\u69cb\u6295\u8cc7\u8005\uff09\u5c0d\u6b64\u8d70\u52e2\u6709\u771f\u5be6\u7684\u4fe1\u5ff5\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u7576\u80a1\u50f9\u7a81\u7834\u91cd\u8981\u6280\u8853\u4f4d\uff08\u598220\u65e5\u5747\u7dda\uff09\u4e14\u540c\u6b65\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\u6642\u2014\u2014\u5982\u4eca\u65e5CORT\u7684\u8868\u73fe\u2014\u2014\u610f\u5473\u8457\u5927\u8cc7\u91d1\u6b63\u5728\u7a4d\u6975\u8cb7\u5165\uff0c\u7a81\u7834\u7684\u6301\u7e8c\u6027\u66f4\u9ad8\u3002\u53cd\u4e4b\uff0c\u82e5\u7f3a\u4e4f\u6210\u4ea4\u91cf\u652f\u6490\uff0c\u50f9\u683c\u7a81\u7834\u5f80\u5f80\u66c7\u82b1\u4e00\u73fe\uff0c\u5bb9\u6613\u5feb\u901f\u56de\u843d\u3002"
     }
   },
   "stats": {
