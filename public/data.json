@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-20T19:01:16.332631+00:00",
+    "generated_at": "2026-05-20T20:01:31.217491+00:00",
     "date_et": "2026-05-20",
-    "run_id": "20260520T190116_db2aff"
+    "run_id": "20260520T200131_99071e"
   },
   "account": {
     "total_value": 12460.479672908783,
@@ -11,99 +11,99 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2460.479672908783,
     "profit_percent": 24.60479672908783,
-    "vs_voo_dollars": 1497.1383079173665,
-    "vs_voo_percent": 13.655857808989591
+    "vs_voo_dollars": 1484.7372987674516,
+    "vs_voo_percent": 13.527443048093657
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 711.3099975585938,
-      "market_value": 2133.9299926757812,
-      "profit_dollars": 165.3299560546875,
-      "profit_percent": 8.398351771772795,
-      "portfolio_pct": 17.08931938430929
+      "current_price": 713.1500244140625,
+      "market_value": 2139.4500732421875,
+      "profit_dollars": 170.85003662109375,
+      "profit_percent": 8.678758175497185,
+      "portfolio_pct": 17.19718766242432
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 133.7949981689453,
-      "market_value": 1739.334976196289,
-      "profit_dollars": -187.65496826171875,
-      "profit_percent": -9.738243253495506,
-      "portfolio_pct": 13.929253080719276
+      "current_price": 131.13499450683594,
+      "market_value": 1704.7549285888672,
+      "profit_dollars": -222.23501586914062,
+      "profit_percent": -11.532754309812823,
+      "portfolio_pct": 13.703049578977867
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.4000015258789,
-      "market_value": 1988.800033569336,
-      "profit_dollars": -69.30003356933594,
-      "profit_percent": -3.3671848456660394,
-      "portfolio_pct": 15.927063718980811
+      "current_price": 90.66000366210938,
+      "market_value": 1994.5200805664062,
+      "profit_dollars": -63.579986572265625,
+      "profit_percent": -3.089256328564207,
+      "portfolio_pct": 16.032220873467125
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 264.42999267578125,
-      "market_value": 1851.0099487304688,
-      "profit_dollars": -67.75994873046875,
-      "profit_percent": -3.5314265050819214,
-      "portfolio_pct": 14.823588545997366
+      "current_price": 265.010009765625,
+      "market_value": 1855.070068359375,
+      "profit_dollars": -63.6998291015625,
+      "profit_percent": -3.319826373441389,
+      "portfolio_pct": 14.911302905132647
     },
     {
       "ticker": "NSIT",
       "shares": 17.0,
       "avg_cost": 80.9175033569336,
-      "current_price": 91.42500305175781,
-      "market_value": 1554.2250518798828,
-      "profit_dollars": 178.62749481201172,
-      "profit_percent": 12.98544722576869,
-      "portfolio_pct": 12.446822715756023
+      "current_price": 92.18000030517578,
+      "market_value": 1567.0600051879883,
+      "profit_dollars": 191.4624481201172,
+      "profit_percent": 13.91849288597352,
+      "portfolio_pct": 12.59623925070525
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 132.02999877929688,
-      "market_value": 2376.5399780273438,
-      "profit_dollars": 7.19989013671875,
-      "profit_percent": 0.30387744560252916,
-      "portfolio_pct": 19.032232010180696
+      "current_price": 129.82000732421875,
+      "market_value": 2336.7601318359375,
+      "profit_dollars": -32.5799560546875,
+      "profit_percent": -1.3750645684509044,
+      "portfolio_pct": 18.78319247167819
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 19.0
+      "pct": 18.8
     },
     {
       "label": "QQQ",
-      "pct": 17.1
+      "pct": 17.2
     },
     {
       "label": "OLED",
-      "pct": 15.9
+      "pct": 16.0
     },
     {
       "label": "AMZN",
-      "pct": 14.8
+      "pct": 14.9
     },
     {
       "label": "EAT",
-      "pct": 13.9
+      "pct": 13.7
     },
     {
       "label": "NSIT",
-      "pct": 12.4
+      "pct": 12.6
     },
     {
       "label": "Cash",
-      "pct": 6.9
+      "pct": 6.8
     }
   ],
   "snapshots": [
@@ -266,8 +266,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.10479818581185,
-    "voo_price": 680.75,
-    "total_value": 10963.341364991416,
+    "voo_price": 681.52001953125,
+    "total_value": 10975.742374141331,
     "total_deposited": 10400.0,
     "snapshots": [
       {
@@ -423,8 +423,8 @@
       {
         "date": "2026-05-20",
         "voo_shares": 16.10479818581185,
-        "voo_price": 680.75,
-        "total_value": 10963.341364991416
+        "voo_price": 681.52001953125,
+        "total_value": 10975.742374141331
       }
     ]
   },
@@ -973,31 +973,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "DAL",
+        "ticker": "SMMT",
         "conviction": "high",
-        "reasoning": "Top score 95 with RSI 67.7 in the sweet spot, MACD fully bullish, and airlines are direct beneficiaries of risk-on sentiment \u2014 travel demand remains robust heading into summer."
+        "reasoning": "Score 100 with all 5 bullish signals firing \u2014 RSI at 69.9 (peak momentum zone), MACD crossover, histogram rising, price above SMA-20, and confirmed by volume surge; clean technical setup in risk-on conditions."
       },
       {
         "action": "BUY",
-        "ticker": "ENPH",
+        "ticker": "COMP",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 64.2 and MACD bullish, adds clean energy exposure to a tech-heavy portfolio while momentum confirms the breakout above SMA-20."
+        "reasoning": "Score 100 with volume surge and all technical signals aligned; low per-share price allows meaningful position with remaining cash, and RSI at 66.7 still has room before overbought territory."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.3% and S&P 500 up 0.9%, creating a favorable backdrop for momentum names. With 4 open slots and $843 in cash, I'm deploying into DAL (top-ranked at 95) and ENPH (clean energy diversification at 90) to put idle capital to work. Existing positions in QQQ, AMZN, and the rest remain intact as the broad rally supports all of them."
+    "briefing": "Markets are firmly risk-on today with NASDAQ +1.5% and S&P 500 +1.1%, a supportive backdrop for momentum names. With 4 open slots and $843 cash, deploying into SMMT and COMP \u2014 both score 100 with volume surges confirming institutional interest. Two slots remain unfilled as cash is largely committed after these two entries; will look to reload if profits trigger on existing names."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on May 20 with the NASDAQ leading at +1.3% as risk appetite returned to markets. Technology and growth stocks outperformed as investors rotated back into higher-beta names following recent consolidation. Cyclical sectors including travel, consumer discretionary, and energy also participated in the move, reflecting renewed confidence in the economic outlook.",
-      "summary_zh": "\u7f8e\u80a15\u670820\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f321.3%\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u96a8\u8457\u6295\u8cc7\u8005\u91cd\u65b0\u4f48\u5c40\u9ad8Beta\u6210\u9577\u80a1\uff0c\u79d1\u6280\u53ca\u6210\u9577\u985e\u80a1\u8dd1\u8d0f\u5927\u5e02\u3002\u822a\u7a7a\u3001\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u53ca\u80fd\u6e90\u7b49\u5468\u671f\u6027\u677f\u584a\u4ea6\u540c\u6b65\u4e0a\u63da\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u7d93\u6fdf\u524d\u666f\u7684\u4fe1\u5fc3\u6709\u6240\u6062\u5fa9\u3002",
+      "summary_en": "U.S. equities rallied broadly today with the NASDAQ outperforming at +1.5%, reflecting renewed appetite for growth and tech names as macro fears receded. The risk-on tone was broad-based, with cyclicals, small caps, and momentum stocks all participating in the move higher. No single sector dominated \u2014 the breadth of gains suggests institutional rotation back into equities rather than a narrow short-squeeze event.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u4ee5\u6f32\u5e451.5%\u9818\u8dd1\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u6210\u9577\u80a1\u53ca\u79d1\u6280\u985e\u80a1\u7684\u9700\u6c42\u91cd\u71c3\uff0c\u5b8f\u89c0\u5c64\u9762\u7684\u6182\u616e\u66ab\u6642\u9000\u5834\u3002\u6b64\u756a\u4e0a\u6f32\u5c6c\u65bc\u5168\u9762\u6027\u7684\u98a8\u96aa\u504f\u597d\u56de\u6b78\uff0c\u9031\u671f\u80a1\u3001\u5c0f\u578b\u80a1\u8207\u52d5\u80fd\u80a1\u5747\u6709\u53c3\u8207\uff0c\u4e26\u975e\u7531\u55ae\u4e00\u677f\u584a\u4e3b\u5c0e\u3002\u5e02\u5834\u5ee3\u5ea6\u5f37\u52c1\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u5728\u7cfb\u7d71\u6027\u56de\u6d41\u80a1\u7968\u5e02\u5834\uff0c\u800c\u975e\u7d14\u7cb9\u7684\u8ecb\u7a7a\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Sentiment",
-      "explanation_en": "Risk-on is when investors feel confident and shift money into higher-risk, higher-reward assets like growth stocks, airlines, and small caps \u2014 and away from safe havens like bonds or gold. On risk-on days, momentum stocks and cyclicals tend to outperform. Today's NASDAQ +1.3% and S&P +0.9% is a classic risk-on signal, which is why the top screener candidates are all showing bullish momentum.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u300d\uff08Risk-On\uff09\u662f\u6307\u7576\u6295\u8cc7\u8005\u4fe1\u5fc3\u589e\u5f37\u6642\uff0c\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u6d41\u5411\u6210\u9577\u80a1\u3001\u822a\u7a7a\u80a1\u3001\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u5728\u9019\u985e\u884c\u60c5\u4e0b\uff0c\u52d5\u80fd\u80a1\u8207\u5468\u671f\u6027\u677f\u584a\u5f80\u5f80\u8dd1\u8d0f\u5927\u5e02\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6f321.3%\u3001\u6a19\u666e\u6f320.9%\uff0c\u6b63\u662f\u5178\u578b\u7684Risk-On\u8a0a\u865f\uff0c\u4e5f\u662f\u70ba\u4f55\u7be9\u9078\u51fa\u7684\u5019\u9078\u80a1\u666e\u904d\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u52d5\u80fd\u7684\u539f\u56e0\u3002"
+      "term": "Volume Surge as Confirmation Signal",
+      "explanation_en": "A volume surge \u2014 typically defined as trading volume more than 1.5x the 20-day average \u2014 is used by technical traders to confirm that a price move has real conviction behind it. When price breaks above a moving average AND volume spikes simultaneously, it suggests large institutional buyers are participating, not just retail noise. Without volume confirmation, a breakout is considered 'weak' and more likely to fail.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\uff08\u901a\u5e38\u5b9a\u7fa9\u70ba\u8d85\u904e20\u65e5\u5747\u91cf\u76841.5\u500d\uff09\u662f\u6280\u8853\u4ea4\u6613\u8005\u7528\u4f86\u78ba\u8a8d\u50f9\u683c\u7a81\u7834\u771f\u5be6\u6027\u7684\u91cd\u8981\u6307\u6a19\u3002\u7576\u80a1\u50f9\u7a81\u7834\u5747\u7dda\u7684\u540c\u6642\u4f34\u96a8\u6210\u4ea4\u91cf\u98c6\u5347\uff0c\u610f\u5473\u8457\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u7a4d\u6975\u4ecb\u5165\uff0c\u800c\u975e\u53ea\u662f\u6563\u6236\u77ed\u7dda\u7092\u4f5c\u3002\u82e5\u7a81\u7834\u6642\u7f3a\u4e4f\u6210\u4ea4\u91cf\u914d\u5408\uff0c\u5247\u8a72\u7a81\u7834\u88ab\u8996\u70ba\u300c\u865b\u5047\u7a81\u7834\u300d\uff0c\u5f8c\u7e8c\u56de\u843d\u7684\u6982\u7387\u8f03\u9ad8\u3002"
     }
   },
   "stats": {
