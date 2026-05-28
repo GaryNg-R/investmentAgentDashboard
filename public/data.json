@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-26T21:01:41.881450+00:00",
-    "date_et": "2026-05-26",
-    "run_id": "20260526T210141_8c709a"
+    "generated_at": "2026-05-28T13:01:13.686977+00:00",
+    "date_et": "2026-05-28",
+    "run_id": "20260528T130113_6479e7"
   },
   "account": {
     "total_value": 12560.479672908783,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2560.479672908783,
     "profit_percent": 25.60479672908783,
-    "vs_voo_dollars": 1347.357143693629,
-    "vs_voo_percent": 12.015896019892459
+    "vs_voo_dollars": 1348.1694786447042,
+    "vs_voo_percent": 12.024011602304686
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 730.280029296875,
-      "market_value": 2190.840087890625,
-      "profit_dollars": 222.24005126953125,
-      "profit_percent": 11.289243479390777,
-      "portfolio_pct": 16.57355274549894
+      "current_price": 729.4500122070312,
+      "market_value": 2188.3500366210938,
+      "profit_dollars": 219.75,
+      "profit_percent": 11.162755049887076,
+      "portfolio_pct": 16.58990643321286
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 139.67999267578125,
-      "market_value": 1815.8399047851562,
-      "profit_dollars": -111.15003967285156,
-      "profit_percent": -5.768065370165386,
-      "portfolio_pct": 13.736702466638912
+      "current_price": 141.47999572753906,
+      "market_value": 1839.2399444580078,
+      "profit_dollars": -87.75,
+      "profit_percent": -4.553734193183914,
+      "portfolio_pct": 13.9432988672594
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 93.37000274658203,
-      "market_value": 2054.1400604248047,
-      "profit_dollars": -3.9600067138671875,
-      "profit_percent": -0.1924107956214535,
-      "portfolio_pct": 15.539426554345805
+      "current_price": 91.80000305175781,
+      "market_value": 2019.6000671386719,
+      "profit_dollars": -38.5,
+      "profit_percent": -1.8706573414346002,
+      "portfolio_pct": 15.31061100173631
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 265.2900085449219,
-      "market_value": 1857.0300598144531,
-      "profit_dollars": -61.739837646484375,
-      "profit_percent": -3.2176780409252426,
-      "portfolio_pct": 14.04830312190655
+      "current_price": 271.8500061035156,
+      "market_value": 1902.9500427246094,
+      "profit_dollars": -15.819854736328125,
+      "profit_percent": -0.824478993404168,
+      "portfolio_pct": 14.426285844391124
     },
     {
       "ticker": "NSIT",
       "shares": 17.0,
       "avg_cost": 80.9175033569336,
-      "current_price": 100.0999984741211,
-      "market_value": 1701.6999740600586,
-      "profit_dollars": 326.1024169921875,
-      "profit_percent": 23.706236996181133,
-      "portfolio_pct": 12.873241836766395
+      "current_price": 102.83000183105469,
+      "market_value": 1748.1100311279297,
+      "profit_dollars": 372.5124740600586,
+      "profit_percent": 27.080047659729818,
+      "portfolio_pct": 13.252441961319834
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 147.57000732421875,
-      "market_value": 2656.2601318359375,
-      "profit_dollars": 286.9200439453125,
-      "profit_percent": 12.10970284138279,
-      "portfolio_pct": 20.094422976866174
+      "current_price": 141.63999938964844,
+      "market_value": 2549.519989013672,
+      "profit_dollars": 180.17990112304688,
+      "profit_percent": 7.604644940754679,
+      "portfolio_pct": 19.327939936268145
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 20.1
+      "pct": 19.3
     },
     {
       "label": "QQQ",
@@ -87,19 +87,19 @@
     },
     {
       "label": "OLED",
-      "pct": 15.5
+      "pct": 15.3
     },
     {
       "label": "AMZN",
-      "pct": 14.0
+      "pct": 14.4
     },
     {
       "label": "EAT",
-      "pct": 13.7
+      "pct": 13.9
     },
     {
       "label": "NSIT",
-      "pct": 12.9
+      "pct": 13.3
     },
     {
       "label": "Cash",
@@ -286,12 +286,18 @@
       "total_value": 12560.479672908783,
       "cash": 943.0820822715759,
       "profit_percent": 25.60479672908783
+    },
+    {
+      "date": "2026-05-28",
+      "total_value": 12560.479672908783,
+      "cash": 943.0820822715759,
+      "profit_percent": 25.60479672908783
     }
   ],
   "benchmark": {
     "voo_shares": 16.250666469351515,
-    "voo_price": 690.010009765625,
-    "total_value": 11213.122529215154,
+    "voo_price": 689.9600219726562,
+    "total_value": 11212.310194264079,
     "total_deposited": 10500.0,
     "snapshots": [
       {
@@ -473,6 +479,12 @@
         "voo_shares": 16.250666469351515,
         "voo_price": 690.010009765625,
         "total_value": 11213.122529215154
+      },
+      {
+        "date": "2026-05-28",
+        "voo_shares": 16.250666469351515,
+        "voo_price": 689.9600219726562,
+        "total_value": 11212.310194264079
       }
     ]
   },
@@ -1021,43 +1033,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "INTC",
+        "ticker": "BLLN",
         "conviction": "high",
-        "reasoning": "Score 95 with MACD histogram rising (confirming accelerating momentum), RSI 64.2 in the ideal bullish zone, and price holding above SMA-20 \u2014 semiconductor recovery name best positioned in today's risk-on tape."
+        "reasoning": "Top screener score of 100 with volume surge, RSI at 69.9 (still in bullish zone, not overbought), MACD bullish crossover with rising histogram \u2014 strongest setup in today's list."
       },
       {
         "action": "BUY",
-        "ticker": "SEDG",
-        "conviction": "high",
-        "reasoning": "Score 95 with volume surge confirming institutional accumulation, RSI 65.8 in sweet spot, and a clean 8% gap above SMA-20 \u2014 strong technical setup on a high-participation day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MOD",
+        "ticker": "APLD",
         "conviction": "medium",
-        "reasoning": "Score 95 with volume surge and 7% breakout above SMA-20 showing sustained demand; RSI 62 leaves meaningful upside before reaching overbought territory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AMKR",
-        "conviction": "medium",
-        "reasoning": "Score 90, MACD bullish, RSI 61.9 in momentum zone \u2014 semiconductor packaging exposure complements INTC in an AI/chip infrastructure cycle."
+        "reasoning": "Score 95 with RSI 67.2 in bullish momentum zone, MACD bullish with rising histogram \u2014 AI/data center infrastructure play with room before overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "market_direction": "risk_on",
-    "briefing": "Risk-on session with NASDAQ +1.2% and S&P 500 +0.6% gives a green light to deploy the remaining $943 cash across all 4 open slots. I'm prioritizing the three score-95 names (INTC, SEDG, MOD) for their combination of volume confirmation and ideal RSI positioning, with AMKR rounding out the semiconductor theme. Existing portfolio sits at a strong +25.6% cumulative P&L with no positions flagged for exit."
+    "market_direction": "neutral",
+    "briefing": "Markets were essentially flat today \u2014 NASDAQ eked out +0.1% and S&P500 was unchanged, signaling a consolidation session rather than a directional move. With 4 open position slots and $943 in idle cash, conditions favor deploying into top momentum names rather than sitting on the sidelines. Buying BLLN (perfect score, volume-confirmed breakout) and APLD (AI infrastructure with rising momentum) to put cash to work in the two cleanest technical setups."
   },
   "education": {
     "market_education": {
-      "summary_en": "Markets advanced broadly today, with the NASDAQ outpacing the broader index as technology and growth names attracted fresh capital in a clear risk-on session. Semiconductor stocks showed particular strength, with multiple names printing volume surges that suggest institutional buyers rather than retail momentum \u2014 a more durable signal. Clean energy names like SEDG also participated, reflecting confidence that the current macro environment supports longer-duration growth assets.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u4e0a\u6f32\uff0c\u7d0d\u6307\u6f32\u5e45\u660e\u986f\u8d85\u8d8a\u5927\u76e4\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u53d7\u5230\u8cc7\u91d1\u7a4d\u6975\u8ffd\u6367\uff0c\u5448\u73fe\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u74b0\u5883\u3002\u534a\u5c0e\u9ad4\u677f\u584a\u8868\u73fe\u5c24\u70ba\u4eae\u773c\uff0c\u591a\u96bb\u500b\u80a1\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u986f\u793a\u80cc\u5f8c\u63a8\u52d5\u529b\u4f86\u81ea\u6a5f\u69cb\u8cb7\u76e4\u800c\u975e\u6563\u6236\u8ffd\u6367\uff0c\u4fe1\u865f\u66f4\u5177\u6301\u7e8c\u6027\u3002\u6e05\u6f54\u80fd\u6e90\u500b\u80a1\u5982SEDG\u4ea6\u540c\u6b65\u8d70\u5f37\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u7576\u524d\u5b8f\u89c0\u74b0\u5883\u6709\u5229\u9577\u7dda\u6210\u9577\u8cc7\u7522\u7684\u4fe1\u5fc3\u3002",
+      "summary_en": "U.S. equities treaded water on Thursday as investors digested mixed macro signals ahead of upcoming economic data releases. The flat session reflects a market in a holding pattern \u2014 no major catalyst drove fresh buying or selling, with sector rotation continuing quietly beneath the surface. Defensive caution persists as traders await clearer signals on Fed policy and economic growth momentum.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u5e7e\u4e4e\u539f\u5730\u8e0f\u6b65\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u6d88\u5316\u8907\u96dc\u7684\u5b8f\u89c0\u4fe1\u865f\u3002\u672c\u6b21\u5e73\u76e4\u8d70\u52e2\u53cd\u6620\u5e02\u5834\u76ee\u524d\u8655\u65bc\u89c0\u671b\u683c\u5c40\u2014\u2014\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u63a8\u52d5\u65b9\u5411\u6027\u7a81\u7834\uff0c\u8cc7\u91d1\u8f2a\u52d5\u5728\u76e4\u9762\u4e0b\u6084\u7136\u9032\u884c\u3002\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u653f\u7b56\u8d70\u5411\u53ca\u7d93\u6fdf\u589e\u9577\u52d5\u80fd\u4ecd\u6301\u5be9\u614e\u614b\u5ea6\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u6307\u5f15\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward on the belief that strong recent performance tends to persist in the short term. Today's top picks all share the same fingerprint: price above the 20-day moving average, a bullish MACD crossover, and RSI in the 55\u201370 zone \u2014 strong but not yet overextended. The strategy works until it doesn't, which is exactly why the -7% stop-loss rule exists: it cuts losing momentum trades before they become large drawdowns.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8fd1\u671f\u5f37\u52e2\u8868\u73fe\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u3002\u4eca\u65e5\u7cbe\u9078\u500b\u80a1\u5747\u5177\u5099\u76f8\u540c\u7684\u6280\u8853\u7279\u5fb5\uff1a\u50f9\u683c\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3001MACD\u51fa\u73fe\u91d1\u53c9\uff0c\u4e14RSI\u8655\u65bc55\u81f370\u7684\u5f37\u52e2\u800c\u672a\u904e\u71b1\u5340\u9593\u3002\u6b64\u7b56\u7565\u6709\u6548\uff0c\u76f4\u81f3\u8da8\u52e2\u9006\u8f49\u70ba\u6b62\u2014\u2014\u9019\u6b63\u662f\u8a2d\u7f6e7%\u6b62\u640d\u7684\u610f\u7fa9\u6240\u5728\uff1a\u5728\u640d\u5931\u64f4\u5927\u6210\u91cd\u5927\u56de\u64a4\u524d\uff0c\u63d0\u524d\u65ac\u65b7\u5931\u6548\u7684\u52d5\u80fd\u4ea4\u6613\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, betting that what's moving up will continue moving up. The logic is that rising prices attract more buyers, creating a self-reinforcing cycle \u2014 at least until momentum exhausts. Indicators like RSI (measures overbought/oversold), MACD (trend direction), and volume surges are the classic tools for confirming momentum.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff1a\u8cb7\u5165\u8fd1\u671f\u80a1\u50f9\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u300c\u6f32\u52e2\u5ef6\u7e8c\u300d\u3002\u5176\u908f\u8f2f\u5728\u65bc\u50f9\u683c\u4e0a\u6f32\u5438\u5f15\u66f4\u591a\u8cb7\u5bb6\uff0c\u5f62\u6210\u81ea\u6211\u5f37\u5316\u7684\u6b63\u5faa\u74b0\u2014\u2014\u76f4\u81f3\u52d5\u91cf\u8017\u76e1\u70ba\u6b62\u3002RSI\uff08\u8861\u91cf\u8d85\u8cb7\u8d85\u8ce3\uff09\u3001MACD\uff08\u5224\u65b7\u8da8\u52e2\u65b9\u5411\uff09\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u662f\u78ba\u8a8d\u52d5\u91cf\u8a0a\u865f\u7684\u7d93\u5178\u5de5\u5177\u3002"
     }
   },
   "stats": {
@@ -1075,7 +1075,7 @@
       "realized_profit": -174.1201171875
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 2.2895257570265555,
+    "daily_volatility": 2.2558550783748377,
     "total_realized_profit": 2060.479672908783,
     "per_ticker_realized": {
       "AAOI": 234.4786376953125,
