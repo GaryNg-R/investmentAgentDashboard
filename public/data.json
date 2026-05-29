@@ -1,123 +1,109 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-29T13:01:28.117614+00:00",
+    "generated_at": "2026-05-29T14:01:45.002587+00:00",
     "date_et": "2026-05-29",
-    "run_id": "20260529T130128_33f426"
+    "run_id": "20260529T140145_4fdde8"
   },
   "account": {
-    "total_value": 12560.479672908783,
-    "cash": 67.94205236434937,
+    "total_value": 12984.842069149017,
+    "cash": 1867.9020056724548,
     "starting_cash": 10000.0,
-    "profit_dollars": 2560.479672908783,
-    "profit_percent": 25.60479672908783,
-    "vs_voo_dollars": 1283.9801395803388,
-    "vs_voo_percent": 11.386336121288787
+    "profit_dollars": 2984.8420691490173,
+    "profit_percent": 29.848420691490173,
+    "vs_voo_dollars": 1661.783543221829,
+    "vs_voo_percent": 14.67610133266315
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 735.5999755859375,
-      "market_value": 2206.7999267578125,
-      "profit_dollars": 238.19989013671875,
-      "profit_percent": 12.099963715614127,
-      "portfolio_pct": 16.603501450992844
+      "current_price": 741.3800048828125,
+      "market_value": 2224.1400146484375,
+      "profit_dollars": 255.53997802734375,
+      "profit_percent": 12.980797179398246,
+      "portfolio_pct": 16.65160275074833
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 140.02000427246094,
-      "market_value": 1820.2600555419922,
-      "profit_dollars": -106.72988891601562,
-      "profit_percent": -5.538684268849927,
-      "portfolio_pct": 13.695256242725353
+      "current_price": 142.22500610351562,
+      "market_value": 1848.9250793457031,
+      "profit_dollars": -78.06486511230469,
+      "profit_percent": -4.051129863797057,
+      "portfolio_pct": 13.842458538756597
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 94.1500015258789,
-      "market_value": 2071.300033569336,
-      "profit_dollars": 13.199966430664062,
-      "profit_percent": 0.6413666002652468,
-      "portfolio_pct": 15.58402857269274
+      "current_price": 95.2156982421875,
+      "market_value": 2094.745361328125,
+      "profit_dollars": 36.645294189453125,
+      "profit_percent": 1.7805399637540569,
+      "portfolio_pct": 15.682856021239392
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 274.0,
-      "market_value": 1918.0,
-      "profit_dollars": -0.7698974609375,
-      "profit_percent": -0.04012453301233707,
-      "portfolio_pct": 14.43063115820884
-    },
-    {
-      "ticker": "NSIT",
-      "shares": 17.0,
-      "avg_cost": 80.9175033569336,
-      "current_price": 103.37999725341797,
-      "market_value": 1757.4599533081055,
-      "profit_dollars": 381.8623962402344,
-      "profit_percent": 27.759746611805998,
-      "portfolio_pct": 13.222761398077267
+      "current_price": 272.56500244140625,
+      "market_value": 1907.9550170898438,
+      "profit_dollars": -10.81488037109375,
+      "profit_percent": -0.5636361288242443,
+      "portfolio_pct": 14.284401522221243
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 143.25999450683594,
-      "market_value": 2578.679901123047,
-      "profit_dollars": 209.33981323242188,
-      "profit_percent": 8.835363665280859,
-      "portfolio_pct": 19.401448659120508
+      "current_price": 145.1300048828125,
+      "market_value": 2612.340087890625,
+      "profit_dollars": 243.0,
+      "profit_percent": 10.256020283535486,
+      "portfolio_pct": 19.55796357554653
     },
     {
       "ticker": "INFQ",
       "shares": 49.0,
       "avg_cost": 17.860000610351562,
-      "current_price": 17.770000457763672,
-      "market_value": 870.7300224304199,
-      "profit_dollars": -4.410007476806641,
-      "profit_percent": -0.5039202100347466,
-      "portfolio_pct": 6.551190715366164
+      "current_price": 16.344999313354492,
+      "market_value": 800.9049663543701,
+      "profit_dollars": -74.23506355285645,
+      "profit_percent": -8.48264974928939,
+      "portfolio_pct": 5.996183357612251
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 19.4
+      "pct": 19.6
     },
     {
       "label": "QQQ",
-      "pct": 16.6
+      "pct": 16.7
     },
     {
       "label": "OLED",
-      "pct": 15.6
+      "pct": 15.7
     },
     {
       "label": "AMZN",
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "label": "EAT",
-      "pct": 13.7
-    },
-    {
-      "label": "NSIT",
-      "pct": 13.2
+      "pct": 13.8
     },
     {
       "label": "INFQ",
-      "pct": 6.6
+      "pct": 6.0
     },
     {
       "label": "Cash",
-      "pct": 0.5
+      "pct": 13.9
     }
   ],
   "snapshots": [
@@ -309,15 +295,15 @@
     },
     {
       "date": "2026-05-29",
-      "total_value": 12560.479672908783,
-      "cash": 67.94205236434937,
-      "profit_percent": 25.60479672908783
+      "total_value": 12984.842069149017,
+      "cash": 1867.9020056724548,
+      "profit_percent": 29.848420691490173
     }
   ],
   "benchmark": {
     "voo_shares": 16.250666469351515,
-    "voo_price": 693.9099731445312,
-    "total_value": 11276.499533328444,
+    "voo_price": 696.7750244140625,
+    "total_value": 11323.058525927188,
     "total_deposited": 10500.0,
     "snapshots": [
       {
@@ -509,12 +495,23 @@
       {
         "date": "2026-05-29",
         "voo_shares": 16.250666469351515,
-        "voo_price": 693.9099731445312,
-        "total_value": 11276.499533328444
+        "voo_price": 696.7750244140625,
+        "total_value": 11323.058525927188
       }
     ]
   },
   "trades": [
+    {
+      "id": 51,
+      "timestamp": "2026-05-29 14:01:42",
+      "action": "SELL",
+      "ticker": "NSIT",
+      "shares": 17.0,
+      "price": 105.87999725341797,
+      "total": 1799.9599533081055,
+      "reasoning": "NSIT has dropped off today's screened candidate list entirely, signalling fading momentum \u2014 rotating the capital into a higher-conviction name.",
+      "realized_profit": 424.3623962402344
+    },
     {
       "id": 50,
       "timestamp": "2026-05-28 19:01:18",
@@ -1067,28 +1064,41 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "SELL",
+        "ticker": "NSIT",
+        "shares": 17,
+        "reasoning": "NSIT has dropped off today's screened candidate list entirely, signalling fading momentum \u2014 rotating the capital into a higher-conviction name."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NVDA",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 58.9 sitting in the ideal 55\u201370 bullish momentum zone, MACD bullish crossover with a rising histogram, and price well above SMA-20 \u2014 best risk-adjusted entry available today."
+      }
+    ],
     "skip_new_buys": false,
-    "market_direction": "risk_on",
-    "briefing": "Markets are risk-on today with NASDAQ up 0.9% and S&P 500 up 0.6% \u2014 a favorable backdrop for the portfolio's growth-heavy holdings. However, available cash is only $67.94, well below the $500 threshold that would trigger new position sizing, so no buys are executed despite 3 open slots and strong candidates like SOC (score 100) and PATH (score 95). Existing positions are left to run; INFQ is slightly underwater but retains strong technicals and stays."
+    "market_direction": "neutral",
+    "briefing": "It was a quiet, mildly positive session (NASDAQ +0.6%, S&P 500 +0.4%) with no strong directional catalyst. Cash of only $67.94 makes new buys impossible without freeing up capital first, so I'm rotating out of NSIT \u2014 absent from today's screened list \u2014 and deploying the proceeds into NVDA, which scores 95 with clean, non-overbought momentum. The portfolio moves to 8 positions, leaving 2 slots open for future opportunities as the market develops."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities advanced broadly in a risk-on session, with the NASDAQ leading at +0.9% and the S&P 500 adding 0.6%, driven by renewed optimism around AI infrastructure spending and resilient corporate earnings. Cooling concerns about near-term Federal Reserve rate moves gave investors confidence to rotate back into growth and momentum names. Small-cap and technology momentum stocks outperformed as traders extended the May rally into month-end.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e94\u5168\u7dda\u4e0a\u63da\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.9%\u9818\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u8ddf\u6f320.6%\u3002\u6295\u8cc7\u8005\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u7684\u6301\u7e8c\u6a02\u89c0\u9810\u671f\uff0c\u52a0\u4e0a\u4f01\u696d\u76c8\u5229\u5c55\u73fe\u97cc\u6027\uff0c\u5171\u540c\u63d0\u632f\u5e02\u5834\u4fe1\u5fc3\u3002\u806f\u5132\u5c40\u77ed\u671f\u52a0\u606f\u7684\u6182\u616e\u9032\u4e00\u6b65\u964d\u6eab\uff0c\u4fc3\u4f7f\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u6210\u9577\u53ca\u52d5\u80fd\u985e\u80a1\u3002\u5c0f\u578b\u80a1\u8207\u79d1\u6280\u52d5\u80fd\u80a1\u8dd1\u8d0f\u5927\u5e02\uff0c\u53cd\u6620\u4ea4\u6613\u54e1\u6b63\u70ba\u4e94\u6708\u5347\u5e02\u5ef6\u4f38\u81f3\u6708\u5e95\u7a4d\u6975\u90e8\u7f72\u3002",
+      "summary_en": "U.S. equities posted a modest Friday advance, with the NASDAQ up 0.6% and the S&P 500 gaining 0.4%, reflecting a calm, risk-neutral session lacking a major macro catalyst. Technology and semiconductor names remained in favour with institutional buyers, supporting AI-adjacent stocks across the board. The muted volume and narrow range suggest markets are in a consolidation phase after recent momentum-driven gains rather than initiating a new directional move.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5468\u4e94\u5c0f\u5e45\u6536\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.6%\u3001\u6a19\u666e500\u4e0a\u53470.4%\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u73fe\u4f4e\u6ce2\u52d5\u7684\u4e2d\u6027\u683c\u5c40\uff0c\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u79d1\u6280\u80a1\u53ca\u534a\u5c0e\u9ad4\u677f\u584a\u6301\u7e8c\u53d7\u5230\u6a5f\u69cb\u8cc7\u91d1\u9752\u775e\uff0c\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u500b\u80a1\u666e\u904d\u8d70\u5f37\u3002\u6210\u4ea4\u91cf\u504f\u4f4e\u3001\u6ce2\u52d5\u5340\u9593\u6536\u7a84\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u5f37\u52e2\u52d5\u80fd\u63a8\u5347\u5f8c\u6b63\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u800c\u975e\u555f\u52d5\u65b0\u7684\u55ae\u908a\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Drag",
-      "explanation_en": "Cash drag is the performance penalty from holding uninvested cash in a rising market \u2014 your idle dollars earn nothing while stocks climb. Today's portfolio has only $67.94 in cash, which is too little to deploy but illustrates how aggressive position-sizing can leave a portfolio unable to act on new opportunities. Managing cash levels deliberately \u2014 keeping enough to act on high-conviction setups without hoarding \u2014 is a core skill in active portfolio management.",
-      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u5728\u4e0a\u6f32\u5e02\u5834\u4e2d\uff0c\u6301\u6709\u672a\u6295\u8cc7\u73fe\u91d1\u6240\u5e36\u4f86\u7684\u8868\u73fe\u640d\u8017\u2014\u2014\u9592\u7f6e\u8cc7\u91d1\u5750\u4eab\u96f6\u6536\u76ca\uff0c\u800c\u80a1\u7968\u537b\u7bc0\u7bc0\u6500\u5347\u3002\u4eca\u65e5\u6295\u8cc7\u7d44\u5408\u50c5\u991867.94\u7f8e\u5143\u73fe\u91d1\uff0c\u96d6\u7136\u91d1\u984d\u4e0d\u8db3\u4ee5\u5165\u5e02\uff0c\u537b\u6e05\u695a\u8aaa\u660e\u7a4d\u6975\u5efa\u5009\u5f8c\u73fe\u91d1\u4e0d\u8db3\u7684\u56f0\u5883\u3002\u5982\u4f55\u6709\u610f\u8b58\u5730\u7ba1\u7406\u73fe\u91d1\u6c34\u4f4d\u2014\u2014\u7559\u6709\u8db3\u5920\u8cc7\u91d1\u628a\u63e1\u9ad8\u4fe1\u5ff5\u8cb7\u5165\u6a5f\u6703\uff0c\u540c\u6642\u907f\u514d\u56e4\u7a4d\u904e\u591a\u9592\u7f6e\u73fe\u91d1\u2014\u2014\u662f\u4e3b\u52d5\u7ba1\u7406\u6295\u8cc7\u7d44\u5408\u7684\u6838\u5fc3\u6280\u5de7\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving, on a scale of 0\u2013100. The ideal buy zone is 55\u201370: the stock is in a confirmed uptrend but not yet 'overbought,' meaning buying energy isn't exhausted. Today's three score-95 candidates \u2014 CLS, NVDA, and ONDS \u2014 all sit in this sweet spot, while most other high-scorers have RSIs above 80, making them riskier entries prone to sharp pullbacks.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u6f32\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u6700\u7406\u60f3\u7684\u8cb7\u5165\u5340\u9593\u70ba55\u81f370\uff1a\u6b64\u6642\u80a1\u7968\u8655\u65bc\u78ba\u8a8d\u4e0a\u5347\u8da8\u52e2\u4e2d\uff0c\u4f46\u5c1a\u672a\u9054\u5230\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u5373\u8cb7\u76e4\u52d5\u80fd\u4ecd\u672a\u8017\u76e1\u3002\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u7684\u4e09\u652f\u80a1\u7968\u2014\u2014CLS\u3001NVDA\u53caONDS\u2014\u2014\u7684RSI\u5747\u843d\u5728\u9019\u4e00\u9ec3\u91d1\u5340\u9593\uff1b\u76f8\u6bd4\u4e4b\u4e0b\uff0c\u5176\u4ed6\u8a31\u591a\u9ad8\u8a55\u5206\u80a1\u7968\u7684RSI\u5df2\u8d85\u904e80\uff0c\u9032\u5834\u98a8\u96aa\u8f03\u9ad8\uff0c\u4e00\u65e6\u7372\u5229\u4e86\u7d50\u6f6e\u6e67\u73fe\uff0c\u56de\u8abf\u5e45\u5ea6\u5f80\u5f80\u66f4\u70ba\u5287\u70c8\u3002"
     }
   },
   "stats": {
-    "win_rate": 59.09090909090909,
-    "winners_count": 13,
+    "win_rate": 60.86956521739131,
+    "winners_count": 14,
     "losers_count": 9,
-    "avg_winner": 199.10404245670026,
+    "avg_winner": 215.19392486980982,
     "avg_loser": -58.65254211425781,
     "best_trade": {
       "ticker": "XMTR",
@@ -1099,9 +1109,10 @@
       "realized_profit": -174.1201171875
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 2.2235908170179814,
-    "total_realized_profit": 2060.479672908783,
+    "daily_volatility": 2.2657040357719893,
+    "total_realized_profit": 2484.8420691490173,
     "per_ticker_realized": {
+      "NSIT": 424.3623962402344,
       "AAOI": 234.4786376953125,
       "NVDA": 78.50990295410156,
       "SMCI": 63.12492370605469,
