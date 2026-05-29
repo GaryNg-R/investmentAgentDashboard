@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-29T19:01:26.796698+00:00",
+    "generated_at": "2026-05-29T20:01:17.187636+00:00",
     "date_et": "2026-05-29",
-    "run_id": "20260529T190126_f94ce8"
+    "run_id": "20260529T200117_905f6e"
   },
   "account": {
     "total_value": 12897.377076625824,
@@ -11,69 +11,69 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2897.377076625824,
     "profit_percent": 28.973770766258237,
-    "vs_voo_dollars": 1611.2078809798932,
-    "vs_voo_percent": 14.275950085893442
+    "vs_voo_dollars": 1593.5755507903377,
+    "vs_voo_percent": 14.097695780911668
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 736.3660278320312,
-      "market_value": 2209.0980834960938,
-      "profit_dollars": 240.498046875,
-      "profit_percent": 12.216704378802664,
-      "portfolio_pct": 16.815663533740658
+      "current_price": 738.3099975585938,
+      "market_value": 2214.9299926757812,
+      "profit_dollars": 246.3299560546875,
+      "profit_percent": 12.512950902789191,
+      "portfolio_pct": 16.942572510626754
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 143.77499389648438,
-      "market_value": 1869.0749206542969,
-      "profit_dollars": -57.91502380371094,
-      "profit_percent": -3.0054658027808405,
-      "portfolio_pct": 14.227405844893646
+      "current_price": 142.52000427246094,
+      "market_value": 1852.7600555419922,
+      "profit_dollars": -74.22988891601562,
+      "profit_percent": -3.8521160491521815,
+      "portfolio_pct": 14.17224096906613
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 92.91500091552734,
-      "market_value": 2044.1300201416016,
-      "profit_dollars": -13.970046997070312,
-      "profit_percent": -0.6787836616949603,
-      "portfolio_pct": 15.55992596920854
+      "current_price": 92.12000274658203,
+      "market_value": 2026.6400604248047,
+      "profit_dollars": -31.460006713867188,
+      "profit_percent": -1.5285946109318822,
+      "portfolio_pct": 15.502294108721463
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 269.67498779296875,
-      "market_value": 1887.7249145507812,
-      "profit_dollars": -31.04498291015625,
-      "profit_percent": -1.6179627870562978,
-      "portfolio_pct": 14.369369673757811
+      "current_price": 270.6400146484375,
+      "market_value": 1894.4801025390625,
+      "profit_dollars": -24.289794921875,
+      "profit_percent": -1.2659045232060973,
+      "portfolio_pct": 14.491368401414773
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 138.00999450683594,
-      "market_value": 2484.179901123047,
-      "profit_dollars": 114.83981323242188,
-      "profit_percent": 4.846911332794837,
-      "portfolio_pct": 18.90958744052532
+      "current_price": 137.27999877929688,
+      "market_value": 2471.0399780273438,
+      "profit_dollars": 101.69989013671875,
+      "profit_percent": 4.292329778088551,
+      "portfolio_pct": 18.901624043570422
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 19.43000030517578,
-      "market_value": 1534.9700241088867,
-      "profit_dollars": -12.63998794555664,
-      "profit_percent": -0.8167424510763619,
-      "portfolio_pct": 11.684198022997592
+      "current_price": 19.05500030517578,
+      "market_value": 1505.3450241088867,
+      "profit_dollars": -42.26498794555664,
+      "profit_percent": -2.730984396349964,
+      "portfolio_pct": 11.514773518265908
     }
   ],
   "allocation": [
@@ -83,15 +83,15 @@
     },
     {
       "label": "QQQ",
-      "pct": 16.8
+      "pct": 16.9
     },
     {
       "label": "OLED",
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "label": "AMZN",
-      "pct": 14.4
+      "pct": 14.5
     },
     {
       "label": "EAT",
@@ -99,11 +99,11 @@
     },
     {
       "label": "WT",
-      "pct": 11.7
+      "pct": 11.5
     },
     {
       "label": "Cash",
-      "pct": 8.4
+      "pct": 8.5
     }
   ],
   "snapshots": [
@@ -302,8 +302,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.250666469351515,
-    "voo_price": 694.5050048828125,
-    "total_value": 11286.16919564593,
+    "voo_price": 695.5900268554688,
+    "total_value": 11303.801525835486,
     "total_deposited": 10500.0,
     "snapshots": [
       {
@@ -495,8 +495,8 @@
       {
         "date": "2026-05-29",
         "voo_shares": 16.250666469351515,
-        "voo_price": 694.5050048828125,
-        "total_value": 11286.16919564593
+        "voo_price": 695.5900268554688,
+        "total_value": 11303.801525835486
       }
     ]
   },
@@ -1089,25 +1089,31 @@
     "decisions": [
       {
         "action": "BUY",
+        "ticker": "NTAP",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI at 67.9 in the ideal bullish momentum zone (55\u201370), MACD bullish crossover, price well above SMA-20, and a volume surge \u2014 the cleanest setup on the board without being overbought."
+      },
+      {
+        "action": "BUY",
         "ticker": "TBBB",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate (95) with RSI at 62.5 \u2014 ideal bullish zone with room to run before overbought \u2014 plus confirmed MACD crossover, rising histogram, and price above SMA-20; deploys idle cash in neutral market conditions."
+        "reasoning": "Score 95 with RSI 64.7 in the sweet spot momentum zone, MACD above signal with a rising histogram confirming strengthening trend \u2014 affordable price allows meaningful share allocation from remaining cash."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets drifted flat today with the S&P 500 up just 0.1% and NASDAQ unchanged \u2014 a quiet, directionless session. Despite the neutral tape, momentum screener produced three score-95 names; TBBB stands out as the cleanest setup with RSI in the optimal 55\u201370 range (not yet overbought) and all three bullish signals confirmed. With $1,100 in idle cash and four open slots, deploying into the highest-conviction name is the right call rather than holding cash in a low-risk-appetite market."
+    "briefing": "Markets drifted in a narrow +0.2% band today on both the NASDAQ and S&P 500 \u2014 essentially a flat, consolidating session with no directional conviction. I'm deploying remaining cash into NTAP and TBBB, the two highest-scoring candidates that sit in the ideal RSI 55\u201370 zone rather than overbought territory above 70. The rest of the high-scorers (SAIL, IOT, DDOG, OKTA, etc.) are already extended with RSIs in the 80s\u201390s, making them poor risk/reward entries today."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities finished essentially flat on Friday, with the S&P 500 eking out a 0.1% gain and the NASDAQ closing unchanged as investors paused after recent strong gains. Trading volume was lighter than average heading into the long weekend, and sector rotation \u2014 with money moving out of high-beta tech and into defensive names \u2014 kept the headline indices anchored near the flatline. In the absence of major catalysts, participants appear to be in a wait-and-see posture ahead of next week's economic data releases.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e94\u5e7e\u4e4e\u6301\u5e73\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u6f320.1%\uff0c\u7d0d\u6307\u6536\u76e4\u5e7e\u7121\u8b8a\u52d5\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u5f37\u52c1\u5347\u52e2\u5f8c\u51fa\u73fe\u77ed\u66ab\u5598\u606f\u3002\u7531\u65bc\u9577\u5047\u524d\u5915\u6210\u4ea4\u91cf\u8f03\u5e73\u65e5\u504f\u6de1\uff0c\u8cc7\u91d1\u5f9e\u9ad8Beta\u79d1\u6280\u80a1\u8f2a\u52d5\u81f3\u9632\u79a6\u6027\u677f\u584a\uff0c\u4ee4\u5927\u76e4\u6307\u6578\u96e3\u4ee5\u7a81\u7834\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u8005\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u975c\u5019\u4e0b\u9031\u4e00\u7cfb\u5217\u7d93\u6fdf\u6578\u64da\u51fa\u7210\u3002",
+      "summary_en": "U.S. equity markets traded nearly flat on May 29, 2026, with both the S&P 500 and NASDAQ edging up just 0.2% in a low-conviction session. Trading volume was subdued as investors awaited fresh catalysts, with no major macro data releases driving directional movement. The muted price action reflects a market in consolidation after a prolonged rally, with many leading technology and software names already trading at elevated RSI levels above 80.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc2026\u5e745\u670829\u65e5\u8fd1\u4e4e\u6a6b\u76e4\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u5747\u50c5\u5fae\u53470.2%\uff0c\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u52d5\u80fd\u3002\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u65b0\u50ac\u5316\u5291\u4e4b\u969b\uff0c\u591a\u6578\u79d1\u6280\u8207\u8edf\u4ef6\u9f8d\u982d\u80a1\u7684RSI\u5df2\u5347\u81f380\u4ee5\u4e0a\uff0c\u986f\u793a\u5e02\u5834\u5728\u7d93\u6b77\u4e00\u8f2a\u5f37\u52c1\u53cd\u5f48\u5f8c\u6b63\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u4eca\u65e5\u884c\u60c5\u53cd\u6620\u51fa\u8cc7\u91d1\u614b\u5ea6\u5be9\u614e\uff0c\u77ed\u7dda\u7372\u5229\u4e86\u7d50\u58d3\u529b\u5236\u7d04\u4e86\u5927\u76e4\u9032\u4e00\u6b65\u4e0a\u884c\u7a7a\u9593\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks already trending upward, on the premise that assets moving in a strong direction tend to keep moving that way for a period. Technical indicators like RSI and MACD help identify when momentum is healthy (RSI 55\u201370) versus dangerously extended (RSI above 70), letting traders ride a trend without chasing an overheated move. Today's buy of TBBB is a textbook momentum entry \u2014 confirmed trend, not yet overbought.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\uff1a\u5df2\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\u7684\u80a1\u7968\uff0c\u5f80\u5f80\u6703\u5728\u4e00\u6bb5\u6642\u9593\u5167\u6301\u7e8c\u8d70\u5f37\u3002\u6280\u8853\u6307\u6a19\u5982\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8207MACD\uff0c\u53ef\u5354\u52a9\u5224\u65b7\u52d5\u80fd\u662f\u5426\u5065\u5eb7\uff08RSI\u4ecb\u65bc55\u81f370\u70ba\u7406\u60f3\u5340\u9593\uff09\u6216\u5df2\u904e\u5ea6\u5ef6\u4f38\uff08RSI\u9ad8\u65bc70\u5247\u9700\u8b39\u614e\u8ffd\u9ad8\uff09\u3002\u4eca\u65e5\u8cb7\u5165TBBB\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u9032\u5834\u2014\u2014\u8da8\u52e2\u78ba\u7acb\uff0c\u5c1a\u672a\u8d85\u8cb7\uff0c\u52dd\u7387\u76f8\u5c0d\u8f03\u9ad8\u3002"
+      "term": "RSI Bullish Momentum Zone (55\u201370)",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock is moving up or down on a scale of 0\u2013100. While many traders flag anything above 70 as 'overbought' and due for a pullback, the 55\u201370 zone is often the sweet spot \u2014 the stock has strong upward momentum but hasn't yet attracted the crowd of late buyers who push it to extremes. Stocks entering positions in the 55\u201370 range historically offer better risk/reward than chasing ones already above 80.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u96d6\u7136\u8a31\u591a\u6295\u8cc7\u8005\u5c07RSI\u8d85\u904e70\u8996\u70ba\u300c\u8d85\u8cb7\u300d\u8a0a\u865f\u3001\u9810\u793a\u53ef\u80fd\u56de\u8abf\uff0c\u4f4655\u81f370\u7684\u5340\u9593\u5f80\u5f80\u662f\u6700\u4f73\u5165\u5834\u751c\u871c\u9ede\u2014\u2014\u80a1\u7968\u52d5\u80fd\u5f37\u52c1\uff0c\u537b\u5c1a\u672a\u5438\u5f15\u5927\u6279\u8ffd\u9ad8\u7684\u6563\u6236\u63a8\u5347\u81f3\u6975\u7aef\u6c34\u5e73\u3002\u6b77\u53f2\u6578\u64da\u986f\u793a\uff0c\u5728RSI 55\u201370\u5340\u9593\u5efa\u5009\uff0c\u76f8\u6bd4\u8ffd\u8cb7RSI\u5df2\u8d85\u904e80\u7684\u80a1\u7968\uff0c\u5f80\u5f80\u80fd\u7372\u5f97\u66f4\u4f73\u7684\u98a8\u96aa\u56de\u5831\u6bd4\u3002"
     }
   },
   "stats": {
