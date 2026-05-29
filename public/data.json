@@ -1,89 +1,79 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-29T15:01:15.600133+00:00",
+    "generated_at": "2026-05-29T16:01:36.011723+00:00",
     "date_et": "2026-05-29",
-    "run_id": "20260529T150115_1d01b1"
+    "run_id": "20260529T160136_96a9ae"
   },
   "account": {
-    "total_value": 12984.842069149017,
-    "cash": 320.2919936180115,
+    "total_value": 12897.377076625824,
+    "cash": 1107.9670310020447,
     "starting_cash": 10000.0,
-    "profit_dollars": 2984.8420691490173,
-    "profit_percent": 29.848420691490173,
-    "vs_voo_dollars": 1690.2222095431935,
-    "vs_voo_percent": 14.964843709243535
+    "profit_dollars": 2897.377076625824,
+    "profit_percent": 28.973770766258237,
+    "vs_voo_dollars": 1591.9528646121234,
+    "vs_voo_percent": 14.081319150505077
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 737.2600708007812,
-      "market_value": 2211.7802124023438,
-      "profit_dollars": 243.18017578125,
-      "profit_percent": 12.35294987592526,
-      "portfolio_pct": 16.7172734975655
+      "current_price": 737.8399047851562,
+      "market_value": 2213.5197143554688,
+      "profit_dollars": 244.919677734375,
+      "profit_percent": 12.441312261415746,
+      "portfolio_pct": 16.733483481566182
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 144.1199951171875,
-      "market_value": 1873.5599365234375,
-      "profit_dollars": -53.43000793457031,
-      "profit_percent": -2.772718564942913,
-      "portfolio_pct": 14.160906991262209
+      "current_price": 144.7899932861328,
+      "market_value": 1882.2699127197266,
+      "profit_dollars": -44.72003173828125,
+      "profit_percent": -2.320719517343375,
+      "portfolio_pct": 14.229343559976298
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 94.05500030517578,
-      "market_value": 2069.210006713867,
-      "profit_dollars": 11.109939575195312,
-      "profit_percent": 0.5398153254346472,
-      "portfolio_pct": 15.63968671578048
+      "current_price": 94.22000122070312,
+      "market_value": 2072.8400268554688,
+      "profit_dollars": 14.739959716796875,
+      "profit_percent": 0.716192567705879,
+      "portfolio_pct": 15.669991156783073
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 271.05010986328125,
-      "market_value": 1897.3507690429688,
-      "profit_dollars": -21.41912841796875,
-      "profit_percent": -1.1162947910696417,
-      "portfolio_pct": 14.340724973055163
+      "current_price": 272.489990234375,
+      "market_value": 1907.429931640625,
+      "profit_dollars": -11.3399658203125,
+      "profit_percent": -0.5910018619386517,
+      "portfolio_pct": 14.419545055936926
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 140.0050048828125,
-      "market_value": 2520.090087890625,
-      "profit_dollars": 150.75,
-      "profit_percent": 6.362531101822939,
-      "portfolio_pct": 19.047568561078972
-    },
-    {
-      "ticker": "INFQ",
-      "shares": 49.0,
-      "avg_cost": 17.860000610351562,
-      "current_price": 16.135000228881836,
-      "market_value": 790.61501121521,
-      "profit_dollars": -84.5250186920166,
-      "profit_percent": -9.658456453074955,
-      "portfolio_pct": 5.975696545096496
+      "current_price": 139.35000610351562,
+      "market_value": 2508.3001098632812,
+      "profit_dollars": 138.96002197265625,
+      "profit_percent": 5.864925119144441,
+      "portfolio_pct": 18.961926646959824
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 19.59000015258789,
-      "market_value": 1547.6100120544434,
-      "profit_dollars": 0.0,
-      "profit_percent": 0.0,
-      "portfolio_pct": 11.697283343982843
+      "current_price": 19.440000534057617,
+      "market_value": 1535.7600421905518,
+      "profit_dollars": -11.849969863891602,
+      "profit_percent": -0.7656948308418369,
+      "portfolio_pct": 11.609842519576514
     }
   ],
   "allocation": [
@@ -97,11 +87,11 @@
     },
     {
       "label": "OLED",
-      "pct": 15.6
+      "pct": 15.7
     },
     {
       "label": "AMZN",
-      "pct": 14.3
+      "pct": 14.4
     },
     {
       "label": "EAT",
@@ -109,15 +99,11 @@
     },
     {
       "label": "WT",
-      "pct": 11.7
-    },
-    {
-      "label": "INFQ",
-      "pct": 6.0
+      "pct": 11.6
     },
     {
       "label": "Cash",
-      "pct": 2.5
+      "pct": 8.4
     }
   ],
   "snapshots": [
@@ -309,15 +295,15 @@
     },
     {
       "date": "2026-05-29",
-      "total_value": 12984.842069149017,
-      "cash": 320.2919936180115,
-      "profit_percent": 29.848420691490173
+      "total_value": 12897.377076625824,
+      "cash": 1107.9670310020447,
+      "profit_percent": 28.973770766258237
     }
   ],
   "benchmark": {
     "voo_shares": 16.250666469351515,
-    "voo_price": 695.0250244140625,
-    "total_value": 11294.619859605824,
+    "voo_price": 695.6898803710938,
+    "total_value": 11305.4242120137,
     "total_deposited": 10500.0,
     "snapshots": [
       {
@@ -509,12 +495,23 @@
       {
         "date": "2026-05-29",
         "voo_shares": 16.250666469351515,
-        "voo_price": 695.0250244140625,
-        "total_value": 11294.619859605824
+        "voo_price": 695.6898803710938,
+        "total_value": 11305.4242120137
       }
     ]
   },
   "trades": [
+    {
+      "id": 53,
+      "timestamp": "2026-05-29 16:01:32",
+      "action": "SELL",
+      "ticker": "INFQ",
+      "shares": 49.0,
+      "price": 16.075000762939453,
+      "total": 787.6750373840332,
+      "reasoning": "INFQ has dropped off the screener entirely, signaling loss of momentum; rotating proceeds into a higher-conviction name with score 95.",
+      "realized_profit": -87.46499252319336
+    },
     {
       "id": 52,
       "timestamp": "2026-05-29 15:01:12",
@@ -1091,46 +1088,40 @@
   "today_plan": {
     "decisions": [
       {
-        "action": "BUY",
-        "ticker": "CRM",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 68.8 in the bullish momentum zone (not overbought), full MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 cleanest setup on the screener today."
+        "action": "SELL",
+        "ticker": "INFQ",
+        "shares": 49,
+        "reasoning": "INFQ has dropped off the screener entirely, signaling loss of momentum; rotating proceeds into a higher-conviction name with score 95."
       },
       {
         "action": "BUY",
-        "ticker": "HUBS",
+        "ticker": "TBBB",
         "conviction": "high",
-        "reasoning": "Score 95 mirroring CRM's setup \u2014 RSI 68.7 in bullish zone, MACD bullish crossover with rising histogram, and price $11 above SMA-20 \u2014 strong momentum without overbought risk."
-      },
-      {
-        "action": "BUY",
-        "ticker": "WT",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 63.7 and clean MACD signals; low price point allows a meaningful position from remaining cash and adds diversification beyond large-cap tech."
+        "reasoning": "Score 95 with RSI 55.3 places it in the healthy bullish momentum zone \u2014 not overbought \u2014 with MACD bullish crossover and rising histogram; best risk-adjusted entry in today's screener."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets drifted slightly positive today in a quiet, low-conviction session. With 4 open slots and $1,867 in idle cash, the risk rules strongly favor deploying capital into the best setups rather than sitting out. CRM and HUBS are the top picks \u2014 both score 95 and their RSI sits in the bullish momentum zone (55\u201370) rather than overbought territory, making them the safest high-momentum entries on the screener. WT fills a third slot at a low price point to stretch coverage. Existing holdings are untouched as no stop-loss or profit-target triggers were flagged."
+    "briefing": "Markets were quiet today with the S&P 500 up 0.3% and NASDAQ up 0.2% \u2014 a broadly neutral session. Cash sits at $320 which is below the $500 threshold for a standalone new buy, so the right move is to rotate: sell INFQ which has disappeared from the screener (momentum gone) and redeploy into TBBB, the only score-95 name with an RSI still in the healthy 55\u201370 zone rather than overbought. This fills one of three open slots without adding risk in a stretched market where most candidates are RSI 70+."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities edged higher on Friday in a low-volume, range-bound session as investors digested mixed economic data and awaited fresh catalysts heading into the weekend. Technology and enterprise software names continued to lead quietly, supported by resilient earnings outlooks and easing concerns around AI infrastructure spending. The S&P 500 and NASDAQ finished fractionally positive, reflecting a market in a 'wait and see' posture rather than a directional conviction move.",
-      "summary_zh": "\u9031\u4e94\u7f8e\u80a1\u5728\u4f4e\u6210\u4ea4\u91cf\u4e0b\u5c0f\u5e45\u6536\u7d05\uff0c\u5448\u73fe\u5340\u9593\u9707\u76ea\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u6df7\u96dc\u7684\u7d93\u6fdf\u6578\u64da\u4e26\u7b49\u5f85\u65b0\u7684\u5e02\u5834\u50ac\u5316\u5291\u3002\u79d1\u6280\u80a1\u53ca\u4f01\u696d\u8edf\u4ef6\u677f\u584a\u6301\u7e8c\u9818\u6f32\uff0c\u53d7\u60e0\u65bc\u7a69\u5065\u7684\u76c8\u5229\u524d\u666f\u8207AI\u57fa\u790e\u8a2d\u65bd\u652f\u51fa\u7591\u616e\u7684\u7de9\u89e3\u3002\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u6307\u5747\u5fae\u5e45\u6536\u9ad8\uff0c\u53cd\u6620\u51fa\u5e02\u5834\u6574\u9ad4\u8655\u65bc\u300c\u975c\u89c0\u5176\u8b8a\u300d\u7684\u89c0\u671b\u6a21\u5f0f\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u52d5\u529b\u3002",
+      "summary_en": "U.S. equities edged higher in a low-conviction session, with the S&P 500 gaining 0.3% and the NASDAQ adding 0.2% as investors balanced resilient economic data against lingering uncertainty around Federal Reserve rate-cut timing. Breadth was positive but narrow, with technology and enterprise software names driving most of the gains while defensive sectors lagged. The muted tape reflects a market that has already priced in significant optimism \u2014 evidenced by the large number of individual stocks hitting RSI readings above 80 \u2014 leaving limited room for further upside without fresh catalysts.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.3%\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.2%\uff0c\u5e02\u5834\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u6a02\u89c0\u3002\u79d1\u6280\u80a1\u8207\u4f01\u696d\u8edf\u4ef6\u677f\u584a\u70ba\u4e3b\u8981\u52d5\u529b\uff0c\u60df\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u5728\u806f\u5132\u5c40\u6e1b\u606f\u6642\u6a5f\u4ecd\u5b58\u8b8a\u6578\u7684\u80cc\u666f\u4e0b\uff0c\u4e0d\u5c11\u500b\u80a1RSI\u5df2\u5347\u81f380\u4ee5\u4e0a\u7684\u8d85\u8cb7\u6c34\u5e73\uff0c\u610f\u5473\u77ed\u671f\u4e0a\u884c\u7a7a\u9593\u53d7\u9650\uff0c\u6295\u8cc7\u8005\u9700\u7559\u610f\u7372\u5229\u56de\u5410\u98a8\u96aa\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Bullish Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price is moving, on a scale from 0 to 100. A reading between 55 and 70 is the 'sweet spot' \u2014 the stock has strong upward momentum but hasn't yet entered overbought territory (above 70), meaning buyers are still in control without the stock being stretched too far. Today's top buys (CRM, HUBS, WT) all sit in this zone, which is why they rank above higher-RSI names like DELL or PLTR that risk a pullback.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6a19\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u79fb\u52d5\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u843d\u572855\u81f370\u7684\u5340\u9593\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u300c\u9ec3\u91d1\u5730\u5e36\u300d\u2014\u2014\u80a1\u7968\u5177\u5099\u5f37\u52c1\u7684\u4e0a\u5347\u52d5\u80fd\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff08>70\uff09\uff0c\u610f\u5373\u8cb7\u65b9\u4ecd\u4e3b\u5c0e\u5e02\u5834\uff0c\u4e14\u80a1\u50f9\u672a\u904e\u5ea6\u62c9\u4f38\u3002\u4eca\u65e5\u8cb7\u5165\u6a19\u7684\uff08CRM\u3001HUBS\u3001WT\uff09\u7684RSI\u5747\u5728\u6b64\u5340\u9593\uff0c\u9019\u4e5f\u662f\u5b83\u5011\u512a\u5148\u65bcDELL\u3001PLTR\u7b49RSI\u5df2\u8d85\u904e80\u7684\u500b\u80a1\u7684\u4e3b\u8981\u539f\u56e0\u2014\u2014\u5f8c\u8005\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u66f4\u9ad8\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation is the strategy of selling positions that have lost their price momentum and redeploying that capital into stocks showing stronger, fresher momentum signals. The idea is that stocks in motion tend to stay in motion \u2014 so you want your money in names where buyers are actively in control, not ones where the trend has already faded. Today's trade \u2014 out of INFQ (off the screener) and into TBBB (score 95, RSI 55) \u2014 is a textbook example.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u5df2\u5931\u53bb\u50f9\u683c\u8da8\u52e2\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u80a1\u7968\u3002\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u7576\u8cb7\u76e4\u529b\u91cf\u6301\u7e8c\u63a8\u52d5\u67d0\u96bb\u80a1\u7968\u4e0a\u6f32\uff0c\u5f80\u5f80\u6703\u5438\u5f15\u66f4\u591a\u8cc7\u91d1\u8ddf\u9032\uff0c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002\u4eca\u65e5\u5c07INFQ\u63db\u5165TBBB\u7684\u64cd\u4f5c\uff0c\u6b63\u662f\u52d5\u80fd\u8f2a\u52d5\u7684\u5178\u578b\u61c9\u7528\uff1a\u653e\u68c4\u8a0a\u865f\u6d88\u9000\u7684\u6301\u5009\uff0c\u8ffd\u5165\u6280\u8853\u9762\u6700\u4f73\u3001\u4e14RSI\u4ecd\u8655\u5065\u5eb7\u5340\u9593\u7684\u5019\u9078\u6a19\u7684\u3002"
     }
   },
   "stats": {
-    "win_rate": 60.86956521739131,
+    "win_rate": 58.333333333333336,
     "winners_count": 14,
-    "losers_count": 9,
+    "losers_count": 10,
     "avg_winner": 215.19392486980982,
-    "avg_loser": -58.65254211425781,
+    "avg_loser": -61.533787155151366,
     "best_trade": {
       "ticker": "XMTR",
       "realized_profit": 1054.1101188659668
@@ -1140,9 +1131,10 @@
       "realized_profit": -174.1201171875
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 2.2657040357719893,
-    "total_realized_profit": 2484.8420691490173,
+    "daily_volatility": 2.244134911286381,
+    "total_realized_profit": 2397.377076625824,
     "per_ticker_realized": {
+      "INFQ": -87.46499252319336,
       "NSIT": 424.3623962402344,
       "AAOI": 234.4786376953125,
       "NVDA": 78.50990295410156,
