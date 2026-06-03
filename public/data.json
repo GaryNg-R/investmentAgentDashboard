@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-03T17:01:17.274196+00:00",
+    "generated_at": "2026-06-03T18:01:41.640743+00:00",
     "date_et": "2026-06-03",
-    "run_id": "20260603T170117_e79310"
+    "run_id": "20260603T180141_1d4cce"
   },
   "account": {
     "total_value": 12997.377076625824,
@@ -11,109 +11,109 @@
     "starting_cash": 10000.0,
     "profit_dollars": 2997.377076625824,
     "profit_percent": 29.97377076625824,
-    "vs_voo_dollars": 1616.759954318004,
-    "vs_voo_percent": 14.206259088963623
+    "vs_voo_dollars": 1609.4312829475602,
+    "vs_voo_percent": 14.132762063558445
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 743.4550170898438,
-      "market_value": 2230.3650512695312,
-      "profit_dollars": 261.7650146484375,
-      "profit_percent": 13.297013602505622,
-      "portfolio_pct": 17.1752037269923
+      "current_price": 744.5900268554688,
+      "market_value": 2233.7700805664062,
+      "profit_dollars": 265.1700439453125,
+      "profit_percent": 13.469980646777316,
+      "portfolio_pct": 17.095165235238394
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 139.3300018310547,
-      "market_value": 1811.290023803711,
-      "profit_dollars": -115.69992065429688,
-      "profit_percent": -6.004178744525782,
-      "portfolio_pct": 13.94806430893004
+      "current_price": 141.14999389648438,
+      "market_value": 1834.9499206542969,
+      "profit_dollars": -92.04002380371094,
+      "profit_percent": -4.776362433463474,
+      "portfolio_pct": 14.042972625015535
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.7750015258789,
-      "market_value": 1997.050033569336,
-      "profit_dollars": -61.05003356933594,
-      "profit_percent": -2.966329701072911,
-      "portfolio_pct": 15.378532388689747
+      "current_price": 90.85320281982422,
+      "market_value": 1998.7704620361328,
+      "profit_dollars": -59.32960510253906,
+      "profit_percent": -2.8827366584280627,
+      "portfolio_pct": 15.296700234769611
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 248.4425048828125,
-      "market_value": 1739.0975341796875,
-      "profit_dollars": -179.67236328125,
-      "profit_percent": -9.363934858421855,
-      "portfolio_pct": 13.392137055610851
+      "current_price": 249.00999450683594,
+      "market_value": 1743.0699615478516,
+      "profit_dollars": -175.69993591308594,
+      "profit_percent": -9.156904960078094,
+      "portfolio_pct": 13.339810246578915
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 143.11500549316406,
-      "market_value": 2576.070098876953,
-      "profit_dollars": 206.73001098632812,
-      "profit_percent": 8.7252147567543,
-      "portfolio_pct": 19.83734848160427
+      "current_price": 144.22999572753906,
+      "market_value": 2596.139923095703,
+      "profit_dollars": 226.79983520507812,
+      "profit_percent": 9.572278642657558,
+      "portfolio_pct": 19.868401562557665
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.5,
-      "market_value": 1461.5,
-      "profit_dollars": -86.11001205444336,
-      "profit_percent": -5.564064033168978,
-      "portfolio_pct": 11.25446268659534
+      "current_price": 18.549999237060547,
+      "market_value": 1465.4499397277832,
+      "profit_dollars": -82.16007232666016,
+      "profit_percent": -5.308835668334372,
+      "portfolio_pct": 11.215168956540172
     },
     {
       "ticker": "NN",
       "shares": 42.0,
       "avg_cost": 21.65999984741211,
-      "current_price": 20.770000457763672,
-      "market_value": 872.3400192260742,
-      "profit_dollars": -37.379974365234375,
-      "profit_percent": -4.108953813103432,
-      "portfolio_pct": 6.717562912352867
+      "current_price": 21.34000015258789,
+      "market_value": 896.2800064086914,
+      "profit_dollars": -13.439987182617188,
+      "profit_percent": -1.4773762561334998,
+      "portfolio_pct": 6.859280164909348
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 19.8
+      "pct": 19.9
     },
     {
       "label": "QQQ",
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "label": "OLED",
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "label": "EAT",
-      "pct": 13.9
+      "pct": 14.0
     },
     {
       "label": "AMZN",
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "label": "WT",
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "label": "NN",
-      "pct": 6.7
+      "pct": 6.9
     },
     {
       "label": "Cash",
@@ -334,8 +334,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.39444999090342,
-    "voo_price": 694.1749877929688,
-    "total_value": 11380.61712230782,
+    "voo_price": 694.6220092773438,
+    "total_value": 11387.945793678264,
     "total_deposited": 10600.0,
     "snapshots": [
       {
@@ -545,8 +545,8 @@
       {
         "date": "2026-06-03",
         "voo_shares": 16.39444999090342,
-        "voo_price": 694.1749877929688,
-        "total_value": 11380.61712230782
+        "voo_price": 694.6220092773438,
+        "total_value": 11387.945793678264
       }
     ]
   },
@@ -1150,18 +1150,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets pulled back mildly today with NASDAQ down 0.9% and S&P 500 down 0.6% \u2014 a neutral-to-soft session with no major catalyst. Portfolio is holding steady at +30% overall P&L. Cash is only $298.25, which falls below the $500 threshold to open new positions, so despite three open slots and several high-scoring candidates (NVTS, TPL, NBIX all at 95), no new buys are actionable today. Existing positions remain protected by auto stop-loss rules."
+    "briefing": "Markets dipped modestly today \u2014 NASDAQ off 0.8% and S&P 500 off 0.5% \u2014 a mild risk-off session with no major catalyst. Portfolio sits at a strong +30% overall, but cash has dwindled to $298, well below the $500 deployment threshold, so no new positions can be opened today. All 7 current holdings remain within normal ranges; holding steady and waiting for cash to replenish through a stop-loss or profit-target exit before redeploying into top candidates like POET, NBIX, or INCY."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities drifted lower on June 3, 2026, with the NASDAQ falling 0.9% and the S&P 500 declining 0.6% in a broad but modest pullback. The move reflected cautious sentiment as investors digested ongoing macro uncertainty, with technology names leading the weakness on the NASDAQ. No single headline dominated, but the mild risk-off tone suggested institutional players were trimming exposure heading into the week.",
-      "summary_zh": "2026\u5e746\u67083\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u6307\u4e0b\u8dcc0.9%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6574\u9ad4\u5448\u73fe\u6eab\u548c\u7684\u98a8\u96aa\u898f\u907f\u60c5\u7dd2\u3002\u79d1\u6280\u677f\u584a\u9818\u8dcc\u7d0d\u6307\uff0c\u53cd\u6620\u51fa\u6295\u8cc7\u8005\u5728\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u7684\u80cc\u666f\u4e0b\u8da8\u65bc\u8b39\u614e\u3002\u5e02\u5834\u7f3a\u4e4f\u55ae\u4e00\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20\uff0c\u6a5f\u69cb\u8cc7\u91d1\u4f3c\u4e4e\u501f\u6a5f\u9069\u5ea6\u6e1b\u5009\uff0c\u975c\u5f85\u66f4\u660e\u6717\u7684\u65b9\u5411\u8a0a\u865f\u3002",
+      "summary_en": "U.S. equities retreated modestly on June 3rd, with the NASDAQ falling 0.8% and S&P 500 dropping 0.5%, reflecting a cautious, neutral tone across markets. The mild pullback came amid lingering uncertainty around interest rate policy and mixed economic signals, keeping institutional investors on the sidelines. Tech-heavy indices underperformed slightly, consistent with rotation away from growth names on risk-off days.",
+      "summary_zh": "\u7f8e\u80a16\u67083\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u6307\u6578\u6536\u8dcc0.5%\uff0c\u5e02\u5834\u6574\u9ad4\u60c5\u7dd2\u504f\u4e2d\u6027\u8b39\u614e\u3002\u5e02\u5834\u8d70\u5f31\u4e3b\u8981\u53d7\u5230\u5229\u7387\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u53ca\u7d93\u6fdf\u6578\u64da\u53c3\u5dee\u4e0d\u9f4a\u7684\u5f71\u97ff\uff0c\u6a5f\u69cb\u6295\u8cc7\u8005\u89c0\u671b\u60c5\u7dd2\u6fc3\u539a\u3002\u79d1\u6280\u80a1\u504f\u91cd\u7684\u6307\u6578\u8868\u73fe\u7565\u905c\u5927\u5e02\uff0c\u8207\u98a8\u96aa\u898f\u907f\u65e5\u8cc7\u91d1\u64a4\u51fa\u6210\u9577\u578b\u677f\u584a\u7684\u898f\u5f8b\u4e00\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to the cash reserves an investor keeps available to deploy when good opportunities arise. Today is a perfect example: the screener surfaced multiple high-conviction candidates (NVTS, TPL, NBIX at score 95) but with only $298 in cash, the portfolio can't act on any of them. Maintaining adequate cash buffers ensures you can buy when signals align, rather than watching from the sidelines.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u8005\u4fdd\u7559\u7684\u73fe\u91d1\u5132\u5099\uff0c\u4ee5\u4fbf\u5728\u512a\u8cea\u6a5f\u6703\u51fa\u73fe\u6642\u80fd\u5920\u8fc5\u901f\u90e8\u7f72\u3002\u4eca\u5929\u5c31\u662f\u4e00\u500b\u5178\u578b\u6848\u4f8b\uff1a\u9078\u80a1\u7cfb\u7d71\u7be9\u51fa\u591a\u96bb\u9ad8\u8a55\u5206\u6a19\u7684\uff08\u5982NVTS\u3001TPL\u3001NBIX\u5747\u905495\u5206\uff09\uff0c\u4f46\u5e33\u6236\u73fe\u91d1\u50c5\u5269\u7d04298\u7f8e\u5143\uff0c\u6839\u672c\u7121\u6cd5\u5efa\u5009\u3002\u4fdd\u6301\u5145\u8db3\u7684\u73fe\u91d1\u7de9\u885d\uff0c\u624d\u80fd\u78ba\u4fdd\u5728\u4fe1\u865f\u660e\u78ba\u6642\u679c\u65b7\u51fa\u64ca\uff0c\u800c\u4e0d\u662f\u4e7e\u77aa\u773c\u932f\u5931\u6a5f\u6703\u3002"
+      "explanation_en": "Dry powder refers to cash or liquid assets held in reserve so an investor can act quickly when a good opportunity appears. Today's situation is a perfect example of its importance: three portfolio slots are open and top-scoring candidates like POET and NBIX are flashing strong buy signals, but with only $298 in cash we can't pull the trigger. Maintaining a healthy cash cushion \u2014 typically 5\u201315% of portfolio value \u2014 ensures you're never forced to watch opportunities pass by.",
+      "explanation_zh": "\u300c\u5099\u7528\u73fe\u91d1\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u4eba\u9810\u7559\u7684\u73fe\u91d1\u6216\u6d41\u52d5\u8cc7\u7522\uff0c\u4ee5\u4fbf\u5728\u597d\u6a5f\u6703\u51fa\u73fe\u6642\u80fd\u8fc5\u901f\u51fa\u624b\u3002\u4eca\u5929\u7684\u60c5\u6cc1\u6b63\u662f\u6700\u4f73\u793a\u4f8b\uff1a\u7d44\u5408\u6709\u4e09\u500b\u7a7a\u4f4d\uff0cPOET\u3001NBIX\u7b49\u5f37\u52e2\u5019\u9078\u80a1\u6b63\u767c\u51fa\u8cb7\u5165\u8a0a\u865f\uff0c\u4f46\u73fe\u91d1\u50c5\u5269298\u7f8e\u5143\uff0c\u7121\u6cd5\u57f7\u884c\u4efb\u4f55\u8cb7\u55ae\u3002\u4fdd\u6301\u9069\u7576\u7684\u73fe\u91d1\u6bd4\u4f8b\uff08\u901a\u5e38\u70ba\u7d44\u5408\u7e3d\u503c\u76845\u81f315%\uff09\uff0c\u662f\u78ba\u4fdd\u4e0d\u932f\u5931\u826f\u6a5f\u7684\u95dc\u9375\u7d00\u5f8b\u4e4b\u4e00\u3002"
     }
   },
   "stats": {
