@@ -1,85 +1,95 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-03T15:01:22.875404+00:00",
+    "generated_at": "2026-06-03T16:01:46.616878+00:00",
     "date_et": "2026-06-03",
-    "run_id": "20260603T150122_3ec4d3"
+    "run_id": "20260603T160146_1228f9"
   },
   "account": {
     "total_value": 12997.377076625824,
-    "cash": 1207.9670310020447,
+    "cash": 298.2470374107361,
     "starting_cash": 10000.0,
     "profit_dollars": 2997.377076625824,
     "profit_percent": 29.97377076625824,
-    "vs_voo_dollars": 1597.086414201358,
-    "vs_voo_percent": 14.009172761404919
+    "vs_voo_dollars": 1615.6942750430826,
+    "vs_voo_percent": 14.195565833361679
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 745.7050170898438,
-      "market_value": 2237.1150512695312,
-      "profit_dollars": 268.5150146484375,
-      "profit_percent": 13.639896863423656,
-      "portfolio_pct": 17.1279873169639
+      "current_price": 743.2999877929688,
+      "market_value": 2229.8999633789062,
+      "profit_dollars": 261.2999267578125,
+      "profit_percent": 13.273388291016586,
+      "portfolio_pct": 17.109503894153967
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 137.41000366210938,
-      "market_value": 1786.3300476074219,
-      "profit_dollars": -140.65989685058594,
-      "profit_percent": -7.299461901974193,
-      "portfolio_pct": 13.676649478518552
+      "current_price": 138.76499938964844,
+      "market_value": 1803.9449920654297,
+      "profit_dollars": -123.04495239257812,
+      "profit_percent": -6.385344809216749,
+      "portfolio_pct": 13.841250447762118
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.8499984741211,
-      "market_value": 1998.699966430664,
-      "profit_dollars": -59.40010070800781,
-      "profit_percent": -2.886161934321803,
-      "portfolio_pct": 15.302613808804082
+      "current_price": 90.87000274658203,
+      "market_value": 1999.1400604248047,
+      "profit_dollars": -58.96000671386719,
+      "profit_percent": -2.864778426242311,
+      "portfolio_pct": 15.33893681803042
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 251.58999633789062,
-      "market_value": 1761.1299743652344,
-      "profit_dollars": -157.63992309570312,
-      "profit_percent": -8.215676267607924,
-      "portfolio_pct": 13.483710570600604
+      "current_price": 250.0399932861328,
+      "market_value": 1750.2799530029297,
+      "profit_dollars": -168.4899444580078,
+      "profit_percent": -8.78114382975085,
+      "portfolio_pct": 13.429491081916634
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 145.5050048828125,
-      "market_value": 2619.090087890625,
-      "profit_dollars": 249.75,
-      "profit_percent": 10.540909735855916,
-      "portfolio_pct": 20.05249653204882
+      "current_price": 143.81500244140625,
+      "market_value": 2588.6700439453125,
+      "profit_dollars": 219.3299560546875,
+      "profit_percent": 9.257006082649472,
+      "portfolio_pct": 19.86226329653341
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.364999771118164,
-      "market_value": 1450.834981918335,
-      "profit_dollars": -96.7750301361084,
-      "profit_percent": -6.253192301828037,
-      "portfolio_pct": 11.108004103411146
+      "current_price": 18.395000457763672,
+      "market_value": 1453.20503616333,
+      "profit_dollars": -94.40497589111328,
+      "profit_percent": -6.100049441124462,
+      "portfolio_pct": 11.150104324664634
+    },
+    {
+      "ticker": "NN",
+      "shares": 42.0,
+      "avg_cost": 21.65999984741211,
+      "current_price": 21.65999984741211,
+      "market_value": 909.7199935913086,
+      "profit_dollars": 0.0,
+      "profit_percent": 0.0,
+      "portfolio_pct": 6.980069971100952
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 20.1
+      "pct": 19.9
     },
     {
       "label": "QQQ",
@@ -91,19 +101,23 @@
     },
     {
       "label": "EAT",
-      "pct": 13.7
+      "pct": 13.8
     },
     {
       "label": "AMZN",
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "label": "WT",
-      "pct": 11.1
+      "pct": 11.2
+    },
+    {
+      "label": "NN",
+      "pct": 7.0
     },
     {
       "label": "Cash",
-      "pct": 9.2
+      "pct": 2.3
     }
   ],
   "snapshots": [
@@ -314,14 +328,14 @@
     {
       "date": "2026-06-03",
       "total_value": 12997.377076625824,
-      "cash": 1207.9670310020447,
+      "cash": 298.2470374107361,
       "profit_percent": 29.97377076625824
     }
   ],
   "benchmark": {
     "voo_shares": 16.39444999090342,
-    "voo_price": 695.375,
-    "total_value": 11400.290662424466,
+    "voo_price": 694.239990234375,
+    "total_value": 11381.682801582741,
     "total_deposited": 10600.0,
     "snapshots": [
       {
@@ -531,12 +545,23 @@
       {
         "date": "2026-06-03",
         "voo_shares": 16.39444999090342,
-        "voo_price": 695.375,
-        "total_value": 11400.290662424466
+        "voo_price": 694.239990234375,
+        "total_value": 11381.682801582741
       }
     ]
   },
   "trades": [
+    {
+      "id": 54,
+      "timestamp": "2026-06-03 16:01:42",
+      "action": "BUY",
+      "ticker": "NN",
+      "shares": 42.0,
+      "price": 21.65999984741211,
+      "total": 909.7199935913086,
+      "reasoning": "Score 95 with full MACD and RSI momentum alignment; low share price allows a slot-filling entry with minimal cash outlay in a mixed market.",
+      "realized_profit": null
+    },
     {
       "id": 53,
       "timestamp": "2026-05-29 16:01:32",
@@ -1125,31 +1150,37 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "MMED",
+        "ticker": "INCY",
         "conviction": "high",
-        "reasoning": "Top screener score of 100 with a volume surge confirmation \u2014 the strongest technical setup available today, RSI at 66.8 in the ideal momentum zone with all four bullish signals aligned."
+        "reasoning": "Highest score on the entire screener (100) with a rare volume surge signal on top of MACD crossover and RSI at 61.8 \u2014 strongest technical setup available today."
       },
       {
         "action": "BUY",
-        "ticker": "IRDM",
+        "ticker": "QCOM",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 64.3 and clean MACD momentum; Iridium's satellite communications business provides defensive characteristics on a mild down day, balancing the higher-beta MMED entry."
+        "reasoning": "Score 95 large-cap semiconductor with clean MACD crossover and RSI at 63.4, adding blue-chip tech diversification distinct from existing SYNA and QQQ exposure."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NN",
+        "conviction": "low",
+        "reasoning": "Score 95 with full MACD and RSI momentum alignment; low share price allows a slot-filling entry with minimal cash outlay in a mixed market."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets pulled back mildly today (S&P -0.4%, NASDAQ -0.6%) in a neutral tape \u2014 not a risk-off signal, just digestion after recent gains. With four open slots and $1,208 in cash, I deployed into two high-conviction momentum names rather than sitting idle. MMED earns the top slot as the only score-100 candidate with a volume surge; IRDM adds a defensive satellite-comms name to balance sector exposure."
+    "briefing": "Markets drifted lower today \u2014 NASDAQ -0.8%, S&P -0.5% \u2014 in a mild, directionless pullback without a sharp catalyst. Despite the headline weakness, the screener is still producing strong momentum setups, so I'm deploying the idle cash into three new positions (INCY, QCOM, NN) to fill open slots rather than sit on cash. No current holdings appear to be in stop-loss or profit-target territory, so all six existing positions are held."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities drifted lower on Tuesday, with the S&P 500 off 0.4% and the NASDAQ down 0.6% in light volume, reflecting a consolidation pause rather than broad selling pressure. Technology names led the modest decline as investors rotated toward defensive and value sectors following a strong May rally. No major macro catalyst drove the move \u2014 the session appeared to be routine profit-taking ahead of upcoming economic data.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.6%\uff0c\u6574\u9ad4\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u5448\u73fe\u6574\u7406\u683c\u5c40\u800c\u975e\u6050\u614c\u6027\u62cb\u552e\u3002\u79d1\u6280\u80a1\u627f\u58d3\u8f03\u660e\u986f\uff0c\u8cc7\u91d1\u5c0f\u5e45\u8f2a\u52d5\u81f3\u9632\u79a6\u6027\u677f\u584a\u53ca\u50f9\u503c\u80a1\uff0c\u5ef6\u7e8c5\u6708\u5f37\u52c1\u5347\u52e2\u5f8c\u7684\u7372\u5229\u4e86\u7d50\u8d70\u52e2\u3002\u672c\u6b21\u56de\u8abf\u7f3a\u4e4f\u660e\u78ba\u5b8f\u89c0\u50ac\u5316\u56e0\u7d20\uff0c\u5e02\u5834\u975c\u5f85\u5f8c\u7e8c\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u3002",
+      "summary_en": "U.S. equities declined modestly today with the NASDAQ shedding 0.8% and the S&P 500 falling 0.5%, reflecting a mild risk-off tone rather than a sharp directional move. Selling pressure was concentrated in growth and technology names, while no single macro headline drove the session \u2014 traders appeared to be trimming positions ahead of upcoming economic data. Notably, the pullback was shallow enough that many individual momentum names held their technical structures intact, suggesting broad market weakness does not always translate to weakness in every stock.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u6eab\u548c\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.8%\uff0c\u6a19\u666e500\u8dcc0.5%\uff0c\u6574\u9ad4\u5448\u73fe\u8f15\u5ea6\u907f\u96aa\u60c5\u7dd2\uff0c\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u884c\u60c5\u3002\u62cb\u552e\u58d3\u529b\u4e3b\u8981\u96c6\u4e2d\u65bc\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\uff0c\u5e02\u5834\u4e26\u7121\u55ae\u4e00\u5b8f\u89c0\u50ac\u5316\u5291\u4e3b\u5c0e\u76e4\u9762\uff0c\u6295\u8cc7\u8005\u4f3c\u4e4e\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u9032\u884c\u5009\u4f4d\u8abf\u6574\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\u6b64\u6b21\u56de\u8abf\u5e45\u5ea6\u6709\u9650\uff0c\u4e0d\u5c11\u52d5\u80fd\u500b\u80a1\u7684\u6280\u8853\u7d50\u69cb\u4f9d\u7136\u5b8c\u597d\uff0c\u986f\u793a\u5927\u76e4\u8d70\u5f31\u672a\u5fc5\u7b49\u540c\u65bc\u6240\u6709\u500b\u80a1\u540c\u6b65\u53d7\u58d3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Volume confirmation means a price move is more trustworthy when trading volume is significantly above average at the same time. When a stock breaks above a moving average or shows bullish MACD signals AND volume surges (as MMED did today at >1.5x its 20-day average), it signals that many participants agree with the move \u2014 not just a few large trades pushing the price temporarily.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u7576\u80a1\u50f9\u51fa\u73fe\u7a81\u7834\u6216\u6280\u8853\u4fe1\u865f\u6642\uff0c\u82e5\u540c\u6642\u4f34\u96a8\u986f\u8457\u653e\u91cf\uff0c\u5247\u8a72\u4fe1\u865f\u7684\u53ef\u4fe1\u5ea6\u5927\u5e45\u63d0\u5347\u3002\u4ee5\u4eca\u65e5MMED\u70ba\u4f8b\uff0c\u5176\u6210\u4ea4\u91cf\u8d85\u904e20\u65e5\u5747\u91cf\u76841.5\u500d\uff0c\u914d\u5408MACD\u91d1\u53c9\u53ca\u80a1\u50f9\u7ad9\u7a69\u5747\u7dda\uff0c\u4ee3\u8868\u5e02\u5834\u6709\u5927\u91cf\u53c3\u8207\u8005\u8a8d\u540c\u6b64\u4e0a\u5347\u8da8\u52e2\uff0c\u800c\u975e\u50c5\u7531\u5c11\u6578\u5927\u55ae\u77ed\u66ab\u63a8\u52d5\u80a1\u50f9\uff0c\u8a0a\u865f\u66f4\u5177\u53c3\u8003\u50f9\u503c\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that targets stocks showing strong recent price performance and bullish technical signals \u2014 such as RSI in the 55\u201370 range and a rising MACD histogram \u2014 betting that winners tend to keep winning in the near term. Today's screener illustrates this well: even on a down market day, INCY triggered a volume surge alongside all four momentum indicators, making it stand out from the index decline. The catch is that momentum can reverse sharply, which is exactly why stop-loss rules (-7%) are paired with this approach to limit damage when a trend breaks.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u5c08\u9580\u5c0b\u627e\u8fd1\u671f\u50f9\u683c\u8d70\u52e2\u5f37\u52c1\u3001\u6280\u8853\u8a0a\u865f\u770b\u6f32\u500b\u80a1\u7684\u7b56\u7565\u2014\u2014\u4f8b\u5982RSI\u7dad\u6301\u572855\u81f370\u7684\u9ec3\u91d1\u5340\u9593\uff0c\u4ee5\u53caMACD\u67f1\u72c0\u5716\u6301\u7e8c\u6500\u5347\u2014\u2014\u62bc\u6ce8\u5f37\u52e2\u80a1\u77ed\u671f\u5167\u4ecd\u6703\u7e7c\u7e8c\u8dd1\u8d0f\u3002\u4eca\u65e5\u7be9\u9078\u5668\u6e05\u695a\u5448\u73fe\u4e86\u9019\u4e00\u908f\u8f2f\uff1a\u5373\u4f7f\u5927\u76e4\u4e0b\u8dcc\uff0cINCY\u4ecd\u540c\u6642\u89f8\u767c\u6210\u4ea4\u91cf\u653e\u5927\u53ca\u56db\u9805\u52d5\u80fd\u6307\u6a19\u770b\u6f32\u8a0a\u865f\uff0c\u5728\u75b2\u8edf\u884c\u60c5\u4e2d\u812b\u7a4e\u800c\u51fa\u3002\u7136\u800c\uff0c\u52d5\u80fd\u8da8\u52e2\u4e00\u65e6\u53cd\u8f49\u5f80\u5f80\u4f86\u5f97\u8fc5\u901f\uff0c\u9019\u6b63\u662f\u70ba\u4f55\u6b62\u640d\u898f\u5247\uff08-7%\uff09\u5fc5\u9808\u8207\u52d5\u80fd\u7b56\u7565\u914d\u5957\u4f7f\u7528\uff0c\u4ee5\u4fbf\u5728\u8da8\u52e2\u7834\u58de\u6642\u53ca\u6642\u63a7\u5236\u640d\u5931\u3002"
     }
   },
   "stats": {
