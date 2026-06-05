@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-05T13:01:25.339100+00:00",
+    "generated_at": "2026-06-05T14:00:48.300126+00:00",
     "date_et": "2026-06-05",
-    "run_id": "20260605T130125_489567"
+    "run_id": "20260605T140048_85a5ea"
   },
   "account": {
     "total_value": 13099.437089443207,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3099.437089443207,
     "profit_percent": 30.994370894432066,
-    "vs_voo_dollars": 1687.9162688004835,
-    "vs_voo_percent": 14.791334961656899
+    "vs_voo_dollars": 1817.022562478849,
+    "vs_voo_percent": 16.104908733288113
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 740.6099853515625,
-      "market_value": 2221.8299560546875,
-      "profit_dollars": 253.22991943359375,
-      "profit_percent": 12.863451931466876,
-      "portfolio_pct": 16.95336860898987
+      "current_price": 723.7899780273438,
+      "market_value": 2171.3699340820312,
+      "profit_dollars": 202.7698974609375,
+      "profit_percent": 10.300207949247623,
+      "portfolio_pct": 16.95676651010713
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 136.5,
-      "market_value": 1774.5,
-      "profit_dollars": -152.4899444580078,
-      "profit_percent": -7.9133752045030885,
-      "portfolio_pct": 13.54007876015515
+      "current_price": 139.7050018310547,
+      "market_value": 1816.165023803711,
+      "profit_dollars": -110.82492065429688,
+      "profit_percent": -5.7511935115711195,
+      "portfolio_pct": 14.182883243007657
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.19999694824219,
-      "market_value": 1984.3999328613281,
-      "profit_dollars": -73.70013427734375,
-      "profit_percent": -3.5809791493669847,
-      "portfolio_pct": 15.141691396218073
+      "current_price": 87.19000244140625,
+      "market_value": 1918.1800537109375,
+      "profit_dollars": -139.92001342773438,
+      "profit_percent": -6.798503904732965,
+      "portfolio_pct": 14.979543920447567
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 253.7899932861328,
-      "market_value": 1776.5299530029297,
-      "profit_dollars": -142.2399444580078,
-      "profit_percent": -7.413079840695361,
-      "portfolio_pct": 13.555568038001912
+      "current_price": 252.9600067138672,
+      "market_value": 1770.7200469970703,
+      "profit_dollars": -148.0498504638672,
+      "profit_percent": -7.715873104939681,
+      "portfolio_pct": 13.827992144686718
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 141.08999633789062,
-      "market_value": 2539.6199340820312,
-      "profit_dollars": 170.27984619140625,
-      "profit_percent": 7.186804758915083,
-      "portfolio_pct": 19.378221430448423
+      "current_price": 131.0,
+      "market_value": 2358.0,
+      "profit_dollars": -11.340087890625,
+      "profit_percent": -0.4786179893963997,
+      "portfolio_pct": 18.414206995887266
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.969999313354492,
-      "market_value": 1498.6299457550049,
-      "profit_dollars": -48.98006629943848,
-      "profit_percent": -3.164884300174417,
-      "portfolio_pct": 11.435090165032292
+      "current_price": 18.492000579833984,
+      "market_value": 1460.8680458068848,
+      "profit_dollars": -86.7419662475586,
+      "profit_percent": -5.60489823482139,
+      "portfolio_pct": 11.408280996253307
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 19.4
+      "pct": 18.4
     },
     {
       "label": "QQQ",
@@ -87,15 +87,15 @@
     },
     {
       "label": "OLED",
-      "pct": 15.1
-    },
-    {
-      "label": "AMZN",
-      "pct": 13.6
+      "pct": 15.0
     },
     {
       "label": "EAT",
-      "pct": 13.5
+      "pct": 14.2
+    },
+    {
+      "label": "AMZN",
+      "pct": 13.8
     },
     {
       "label": "WT",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 10.0
+      "pct": 10.2
     }
   ],
   "snapshots": [
@@ -332,8 +332,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.39444999090342,
-    "voo_price": 696.0599975585938,
-    "total_value": 11411.520820642723,
+    "voo_price": 688.1849975585938,
+    "total_value": 11282.414526964358,
     "total_deposited": 10600.0,
     "snapshots": [
       {
@@ -555,8 +555,8 @@
       {
         "date": "2026-06-05",
         "voo_shares": 16.39444999090342,
-        "voo_price": 696.0599975585938,
-        "total_value": 11411.520820642723
+        "voo_price": 688.1849975585938,
+        "total_value": 11282.414526964358
       }
     ]
   },
@@ -1168,40 +1168,21 @@
     }
   ],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "ANDG",
-        "conviction": "high",
-        "reasoning": "Highest screener score (100) with all signals aligned \u2014 RSI in the sweet 55\u201370 zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge confirming institutional interest."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CAI",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 58.9, MACD bullish, and volume surge at an affordable $17 price point \u2014 strong momentum setup with room to run before overbought territory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SNAP",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 63.2, volume surge, and price above SMA-20; very affordable entry at ~$6 allows meaningful share count without straining limited cash reserves."
-      }
-    ],
-    "skip_new_buys": false,
-    "market_direction": "neutral",
-    "briefing": "Markets were mixed today with S&P 500 eking out a modest gain (+0.4%) while NASDAQ was essentially flat (-0.1%), suggesting rotation away from tech toward broader market names. With 4 open slots and $1,310 in cash, deploying into the top screener names makes sense \u2014 ANDG leads with a perfect score of 100, and CAI and SNAP offer solid momentum at low price points that maximize shares per dollar. Existing positions are left untouched as none appear to be at stop-loss thresholds."
+    "decisions": [],
+    "skip_new_buys": true,
+    "market_direction": "risk_off",
+    "briefing": "Markets sold off sharply today \u2014 NASDAQ down 1.8% and S&P 500 down 1.1% in a clear risk-off session with no screened candidates available. Holding all six current positions and keeping cash dry until conditions improve. No action is the right action when the market is giving no green lights."
   },
   "education": {
     "market_education": {
-      "summary_en": "Today's split between the S&P 500 (+0.4%) and NASDAQ (-0.1%) reflects a classic 'rotation day' where investors shifted capital from high-growth tech (NASDAQ-heavy) into value and broader market names. This type of divergence often occurs when rate-sensitive growth stocks face headwinds while defensive and cyclical sectors hold up. The neutral overall tone suggests the market is in a consolidation phase \u2014 neither a risk-on surge nor a risk-off retreat.",
-      "summary_zh": "\u4eca\u65e5\u6a19\u666e500\u4e0a\u6f320.4%\u800c\u7d0d\u6307\u5fae\u8dcc0.1%\uff0c\u5448\u73fe\u5178\u578b\u7684\u300c\u677f\u584a\u8f2a\u52d5\u300d\u683c\u5c40\uff0c\u8cc7\u91d1\u5f9e\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u6d41\u5411\u50f9\u503c\u80a1\u53ca\u5927\u76e4\u9632\u79a6\u578b\u677f\u584a\u3002\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u5e38\u898b\u65bc\u5347\u606f\u74b0\u5883\u6216\u5e02\u5834\u5c0d\u589e\u9577\u524d\u666f\u5b58\u7591\u4e4b\u969b\uff0c\u6210\u9577\u80a1\u4f30\u503c\u627f\u58d3\uff0c\u800c\u5468\u671f\u80a1\u8207\u9632\u79a6\u80a1\u5247\u76f8\u5c0d\u5f37\u52e2\u3002\u6574\u9ad4\u5e02\u5834\u57fa\u8abf\u4e2d\u6027\uff0c\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u65e2\u975e\u5168\u9762\u98a8\u96aa\u504f\u597d\uff0c\u4e5f\u672a\u898b\u907f\u96aa\u60c5\u7dd2\u4e3b\u5c0e\u3002",
+      "summary_en": "Today's risk-off session saw broad selling across equities, with tech-heavy NASDAQ bearing the brunt of the decline at -1.8% while the broader S&P 500 fell -1.1%. Risk-off moves typically reflect investor rotation away from growth and speculative assets toward safety, often triggered by macro concerns such as inflation data, central bank signals, or geopolitical uncertainty. When institutional investors reduce risk exposure simultaneously, selling pressure cascades across sectors, leaving few places to hide except cash, bonds, and defensive sectors.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u51fa\u73fe\u660e\u986f\u7684\u98a8\u96aa\u898f\u907f\u8d70\u52e2\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u6700\u6df1\uff0c\u4e0b\u632b1.8%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u56de\u843d1.1%\u3002\u98a8\u96aa\u898f\u907f\u60c5\u7dd2\u5347\u6eab\u6642\uff0c\u6295\u8cc7\u8005\u901a\u5e38\u6703\u6e1b\u6301\u6210\u9577\u578b\u53ca\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u5411\u73fe\u91d1\u3001\u50b5\u5238\u53ca\u9632\u79a6\u6027\u677f\u584a\u4ee5\u6c42\u4fdd\u503c\u3002\u7576\u6a5f\u69cb\u6295\u8cc7\u8005\u540c\u6b65\u64a4\u96e2\u98a8\u96aa\u8cc7\u7522\uff0c\u62cb\u552e\u58d3\u529b\u4fbf\u6703\u8513\u5ef6\u81f3\u5404\u500b\u884c\u696d\uff0c\u5e02\u5834\u6574\u9ad4\u627f\u58d3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money from one area of the market to another \u2014 for example, selling tech stocks and buying industrials or healthcare. It often happens when economic conditions shift: rising rates hurt growth stocks more, so money rotates to value names. Today's S&P up while NASDAQ was flat is a textbook rotation signal.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u5e02\u5834\u4e00\u500b\u9818\u57df\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u9818\u57df\uff0c\u4f8b\u5982\u6e1b\u6301\u79d1\u6280\u80a1\u3001\u589e\u6301\u5de5\u696d\u80a1\u6216\u91ab\u7642\u80a1\u3002\u9019\u901a\u5e38\u767c\u751f\u5728\u7d93\u6fdf\u74b0\u5883\u6539\u8b8a\u6642\uff1a\u5347\u606f\u74b0\u5883\u5c0d\u9ad8\u4f30\u503c\u6210\u9577\u80a1\u6253\u64ca\u66f4\u5927\uff0c\u8cc7\u91d1\u56e0\u6b64\u8f49\u5411\u50f9\u503c\u80a1\u3002\u4eca\u65e5\u6a19\u666e\u4e0a\u6f32\u800c\u7d0d\u6307\u8d70\u5e73\uff0c\u6b63\u662f\u677f\u584a\u8f2a\u52d5\u7684\u6559\u79d1\u66f8\u6848\u4f8b\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' environment is when investors collectively decide to reduce exposure to higher-risk assets like growth stocks and move into safer assets like cash, bonds, or gold. It usually happens when fear or uncertainty rises \u2014 whether from economic data, geopolitical events, or market sentiment shifts. On risk-off days, even fundamentally strong stocks often fall simply because broad selling pressure drags everything down.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u96c6\u9ad4\u6e1b\u5c11\u6301\u6709\u9ad8\u98a8\u96aa\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\uff09\uff0c\u8f49\u800c\u6301\u6709\u8f03\u5b89\u5168\u8cc7\u7522\uff08\u5982\u73fe\u91d1\u3001\u50b5\u5238\u6216\u9ec3\u91d1\uff09\u7684\u5e02\u5834\u72c0\u614b\u3002\u9019\u7a2e\u60c5\u7dd2\u901a\u5e38\u7531\u5b8f\u89c0\u7d93\u6fdf\u6578\u64da\u75b2\u5f31\u3001\u5730\u7de3\u653f\u6cbb\u4e0d\u78ba\u5b9a\u6027\u6216\u5e02\u5834\u6574\u9ad4\u60b2\u89c0\u60c5\u7dd2\u6240\u5f15\u767c\u3002\u5728\u98a8\u96aa\u898f\u907f\u7684\u4ea4\u6613\u65e5\uff0c\u5373\u4f7f\u57fa\u672c\u9762\u826f\u597d\u7684\u80a1\u7968\u4e5f\u53ef\u80fd\u56e0\u70ba\u6574\u9ad4\u62cb\u552e\u58d3\u529b\u800c\u4e0b\u8dcc\u3002"
     }
   },
   "stats": {
