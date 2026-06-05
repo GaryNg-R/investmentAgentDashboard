@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-05T18:00:57.048869+00:00",
+    "generated_at": "2026-06-05T19:00:52.718470+00:00",
     "date_et": "2026-06-05",
-    "run_id": "20260605T180057_88651a"
+    "run_id": "20260605T190052_0a9a1d"
   },
   "account": {
     "total_value": 13099.437089443207,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3099.437089443207,
     "profit_percent": 30.994370894432066,
-    "vs_voo_dollars": 1874.5852535296726,
-    "vs_voo_percent": 16.70031178079341
+    "vs_voo_dollars": 1968.2609633898064,
+    "vs_voo_percent": 17.68241685425258
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 716.389892578125,
-      "market_value": 2149.169677734375,
-      "profit_dollars": 180.56964111328125,
-      "profit_percent": 9.172489980403082,
-      "portfolio_pct": 16.931552760911114
+      "current_price": 708.7100830078125,
+      "market_value": 2126.1302490234375,
+      "profit_dollars": 157.53021240234375,
+      "profit_percent": 8.002144136537186,
+      "portfolio_pct": 16.930353241910804
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 141.50999450683594,
-      "market_value": 1839.6299285888672,
-      "profit_dollars": -87.36001586914062,
-      "profit_percent": -4.533496198067179,
-      "portfolio_pct": 14.492941864547952
+      "current_price": 141.11500549316406,
+      "market_value": 1834.4950714111328,
+      "profit_dollars": -92.494873046875,
+      "profit_percent": -4.799966565102675,
+      "portfolio_pct": 14.608065330804898
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.13999938964844,
-      "market_value": 1917.0799865722656,
-      "profit_dollars": -141.02008056640625,
-      "profit_percent": -6.8519545195128995,
-      "portfolio_pct": 15.103107621429437
+      "current_price": 86.80000305175781,
+      "market_value": 1909.6000671386719,
+      "profit_dollars": -148.5,
+      "profit_percent": -7.2153926026763155,
+      "portfolio_pct": 15.206125637074228
     },
     {
       "ticker": "AMZN",
       "shares": 7.0,
       "avg_cost": 274.1099853515625,
-      "current_price": 253.5399932861328,
-      "market_value": 1774.7799530029297,
-      "profit_dollars": -143.9899444580078,
-      "profit_percent": -7.504284106632393,
-      "portfolio_pct": 13.98204186695697
+      "current_price": 247.77999877929688,
+      "market_value": 1734.4599914550781,
+      "profit_dollars": -184.30990600585938,
+      "profit_percent": -9.60562838982164,
+      "portfolio_pct": 13.811487020978063
     },
     {
       "ticker": "SYNA",
       "shares": 18.0,
       "avg_cost": 131.6300048828125,
-      "current_price": 125.80000305175781,
-      "market_value": 2264.4000549316406,
-      "profit_dollars": -104.94003295898438,
-      "profit_percent": -4.429082743136733,
-      "portfolio_pct": 17.83935879939568
+      "current_price": 123.5199966430664,
+      "market_value": 2223.3599395751953,
+      "profit_dollars": -145.9801483154297,
+      "profit_percent": -6.161215481961175,
+      "portfolio_pct": 17.704592264848852
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.204999923706055,
-      "market_value": 1438.1949939727783,
-      "profit_dollars": -109.41501808166504,
-      "profit_percent": -7.069934752904398,
-      "portfolio_pct": 11.330363848515997
+      "current_price": 17.975000381469727,
+      "market_value": 1420.0250301361084,
+      "profit_dollars": -127.58498191833496,
+      "profit_percent": -8.244000809284415,
+      "portfolio_pct": 11.307644667396069
     }
   ],
   "allocation": [
     {
       "label": "SYNA",
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "label": "QQQ",
@@ -87,15 +87,15 @@
     },
     {
       "label": "OLED",
-      "pct": 15.1
+      "pct": 15.2
     },
     {
       "label": "EAT",
-      "pct": 14.5
+      "pct": 14.6
     },
     {
       "label": "AMZN",
-      "pct": 14.0
+      "pct": 13.8
     },
     {
       "label": "WT",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 10.4
+      "pct": 10.5
     }
   ],
   "snapshots": [
@@ -332,8 +332,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.39444999090342,
-    "voo_price": 684.6738891601562,
-    "total_value": 11224.851835913534,
+    "voo_price": 678.9600219726562,
+    "total_value": 11131.1761260534,
     "total_deposited": 10600.0,
     "snapshots": [
       {
@@ -555,8 +555,8 @@
       {
         "date": "2026-06-05",
         "voo_shares": 16.39444999090342,
-        "voo_price": 684.6738891601562,
-        "total_value": 11224.851835913534
+        "voo_price": 678.9600219726562,
+        "total_value": 11131.1761260534
       }
     ]
   },
@@ -1171,18 +1171,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "risk_off",
-    "briefing": "Market is in clear risk-off mode with NASDAQ down 2.8% and S&P 500 down 1.6% \u2014 a broad sell-off that leaves no screened candidates to act on. We're sitting tight with all 6 positions and letting the automated stop-losses do their job. Cash stays idle until conditions stabilize."
+    "briefing": "Markets are sharply lower today with NASDAQ falling 3.8% and the S&P 500 down 2.4% \u2014 a classic risk-off session where investors are fleeing equities. The screener returned zero candidates, which reinforces staying defensive. No new buys today; existing positions remain intact and the auto stop-loss system will handle any that breach the -7% threshold."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities sold off broadly on June 5, 2026, with tech-heavy NASDAQ bearing the brunt of a risk-off rotation as investors reduced exposure to higher-beta growth names. The move reflects ongoing macro uncertainty \u2014 likely a combination of sticky inflation data, hawkish Fed commentary, or geopolitical concern \u2014 pushing capital toward safer assets. When both NASDAQ and S&P 500 fall together at this magnitude, it signals broad institutional de-risking rather than sector-specific weakness.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc2026\u5e746\u67085\u65e5\u5168\u9762\u4e0b\u8dcc\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u6700\u70ba\u986f\u8457\uff0c\u53cd\u6620\u51fa\u5e02\u5834\u9032\u5165\u907f\u96aa\u6a21\u5f0f\uff0c\u6295\u8cc7\u8005\u7d1b\u7d1b\u6e1b\u6301\u9ad8\u6ce2\u52d5\u6210\u9577\u80a1\u3002\u6b64\u8f2a\u62cb\u552e\u53ef\u80fd\u6e90\u65bc\u901a\u8139\u6578\u64da\u6301\u7e8c\u504f\u9ad8\u3001\u806f\u6e96\u6703\u504f\u9df9\u6d3e\u8a00\u8ad6\u6216\u5730\u7de3\u653f\u6cbb\u98a8\u96aa\u5347\u6eab\uff0c\u4fc3\u4f7f\u8cc7\u91d1\u8f49\u5411\u8f03\u5b89\u5168\u8cc7\u7522\u3002\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u540c\u6b65\u5927\u5e45\u4e0b\u6ed1\uff0c\u986f\u793a\u70ba\u6a5f\u69cb\u5c64\u9762\u7684\u7cfb\u7d71\u6027\u53bb\u98a8\u96aa\u64cd\u4f5c\uff0c\u800c\u975e\u55ae\u4e00\u677f\u584a\u554f\u984c\u3002",
+      "summary_en": "Today's broad selloff reflects a risk-off rotation where investors moved away from equities \u2014 particularly in growth and tech \u2014 toward safer assets like bonds and cash. The NASDAQ's outsized drop of 3.8% versus the S&P 500's 2.4% decline indicates high-multiple tech and growth stocks bore the brunt of selling pressure. When risk appetite collapses this quickly, even fundamentally sound companies see their stock prices fall as institutional investors de-risk portfolios regardless of individual company quality.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u51fa\u73fe\u660e\u986f\u7684\u907f\u96aa\u60c5\u7dd2\uff0c\u6295\u8cc7\u8005\u5927\u5e45\u64a4\u51fa\u80a1\u5e02\uff0c\u5c24\u5176\u662f\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\uff0c\u8f49\u5411\u50b5\u5238\u8207\u73fe\u91d1\u7b49\u907f\u98a8\u6e2f\u8cc7\u7522\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u91cd\u632b3.8%\uff0c\u9060\u8d85\u6a19\u666e500\u76842.4%\u8dcc\u5e45\uff0c\u53cd\u6620\u51fa\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u627f\u53d7\u4e86\u6700\u5927\u7684\u62cb\u552e\u58d3\u529b\u3002\u7576\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6025\u901f\u6536\u7e2e\u6642\uff0c\u5373\u4f7f\u57fa\u672c\u9762\u5065\u5eb7\u7684\u4f01\u696d\u80a1\u50f9\u4ea6\u96e3\u9003\u4e0b\u8dcc\uff0c\u56e0\u70ba\u6a5f\u69cb\u6295\u8cc7\u8005\u4e0d\u5206\u80a1\u7968\u512a\u52a3\uff0c\u4e00\u5f8b\u9032\u884c\u53bb\u98a8\u96aa\u64cd\u4f5c\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors collectively move money out of riskier assets \u2014 like growth stocks and crypto \u2014 and into safer ones like bonds, gold, or cash. It usually happens when fear rises due to economic uncertainty, bad news, or unexpected events. On risk-off days, high-growth tech stocks tend to fall hardest because their valuations depend on future earnings that suddenly look less certain.",
-      "explanation_zh": "\u300c\u907f\u96aa\u6a21\u5f0f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u96c6\u9ad4\u5c07\u8cc7\u91d1\u5f9e\u9ad8\u98a8\u96aa\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\u3001\u52a0\u5bc6\u8ca8\u5e63\uff09\u64a4\u51fa\uff0c\u8f49\u5165\u50b5\u5238\u3001\u9ec3\u91d1\u6216\u73fe\u91d1\u7b49\u8f03\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u9019\u901a\u5e38\u767c\u751f\u65bc\u7d93\u6fdf\u524d\u666f\u4e0d\u660e\u6717\u3001\u8ca0\u9762\u6d88\u606f\u885d\u64ca\u6216\u7a81\u767c\u4e8b\u4ef6\u4ee4\u5e02\u5834\u6050\u614c\u6642\u3002\u5728\u907f\u96aa\u65e5\uff0c\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u5f80\u5f80\u8dcc\u5e45\u6700\u6df1\uff0c\u56e0\u5176\u4f30\u503c\u4f9d\u8cf4\u672a\u4f86\u76c8\u5229\u9810\u671f\uff0c\u800c\u4e0d\u78ba\u5b9a\u6027\u4e0a\u5347\u4ee4\u9019\u4e9b\u9810\u671f\u5927\u6253\u6298\u6263\u3002"
+      "explanation_en": "A 'risk-off' session is when investors collectively decide to reduce exposure to risky assets like stocks \u2014 especially volatile ones like tech \u2014 and move into safer havens like government bonds, gold, or cash. You can spot it when the NASDAQ falls much harder than the broader S&P 500, since the NASDAQ holds more growth stocks that investors dump first when fear spikes. Today's -3.8% NASDAQ versus -2.4% S&P 500 is a textbook example.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u96c6\u9ad4\u6c7a\u5b9a\u6e1b\u5c11\u5c0d\u9ad8\u98a8\u96aa\u8cc7\u7522\uff08\u5982\u80a1\u7968\uff0c\u5c24\u5176\u662f\u79d1\u6280\u6210\u9577\u80a1\uff09\u7684\u6301\u5009\uff0c\u8f49\u800c\u8cb7\u5165\u653f\u5e9c\u50b5\u5238\u3001\u9ec3\u91d1\u6216\u6301\u6709\u73fe\u91d1\u7b49\u907f\u98a8\u6e2f\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u8fa8\u8b58\u65b9\u6cd5\u4e4b\u4e00\uff0c\u662f\u89c0\u5bdf\u7d0d\u65af\u9054\u514b\u6307\u6578\u7684\u8dcc\u5e45\u662f\u5426\u9060\u5927\u65bc\u6a19\u666e500\u2014\u2014\u56e0\u70ba\u7d0d\u65af\u9054\u514b\u96c6\u4e2d\u4e86\u66f4\u591a\u9ad8\u589e\u9577\u80a1\u7968\uff0c\u7576\u6050\u614c\u60c5\u7dd2\u5347\u6eab\u6642\uff0c\u9019\u4e9b\u80a1\u7968\u5f80\u5f80\u662f\u6700\u5148\u88ab\u62cb\u552e\u7684\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u8dcc3.8%\u3001\u6a19\u666e500\u8dcc2.4%\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u907f\u96aa\u60c5\u7dd2\u6848\u4f8b\u3002"
     }
   },
   "stats": {
