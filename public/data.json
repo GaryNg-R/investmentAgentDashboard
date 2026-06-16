@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-16T18:01:06.125640+00:00",
+    "generated_at": "2026-06-16T19:01:25.074412+00:00",
     "date_et": "2026-06-16",
-    "run_id": "20260616T180106_f6e7a9"
+    "run_id": "20260616T190125_557184"
   },
   "account": {
     "total_value": 13155.735246181488,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3155.735246181488,
     "profit_percent": 31.55735246181488,
-    "vs_voo_dollars": 1615.7465445243615,
-    "vs_voo_percent": 14.001283591311854
+    "vs_voo_dollars": 1624.843573106391,
+    "vs_voo_percent": 14.091222250404446
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 734.0900268554688,
-      "market_value": 2202.2700805664062,
-      "profit_dollars": 233.6700439453125,
-      "profit_percent": 11.869858762493163,
-      "portfolio_pct": 16.275106014358418
+      "current_price": 732.9500122070312,
+      "market_value": 2198.8500366210938,
+      "profit_dollars": 230.25,
+      "profit_percent": 11.69612901131513,
+      "portfolio_pct": 16.268587845627927
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 157.0399932861328,
-      "market_value": 2041.5199127197266,
-      "profit_dollars": 114.52996826171875,
-      "profit_percent": 5.943464759175578,
-      "portfolio_pct": 15.08713817761709
+      "current_price": 156.47500610351562,
+      "market_value": 2034.1750793457031,
+      "profit_dollars": 107.18513488769531,
+      "profit_percent": 5.562308988480093,
+      "portfolio_pct": 15.050210528488783
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.05999755859375,
-      "market_value": 1981.3199462890625,
-      "profit_dollars": -76.78012084960938,
-      "profit_percent": -3.730631084248249,
-      "portfolio_pct": 14.642251401755392
+      "current_price": 90.20500183105469,
+      "market_value": 1984.5100402832031,
+      "profit_dollars": -73.59002685546875,
+      "profit_percent": -3.5756291946377146,
+      "portfolio_pct": 14.682754795997619
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.549999237060547,
-      "market_value": 1465.4499397277832,
-      "profit_dollars": -82.16007232666016,
-      "profit_percent": -5.308835668334372,
-      "portfolio_pct": 10.829894724660976
+      "current_price": 18.51099967956543,
+      "market_value": 1462.368974685669,
+      "profit_dollars": -85.24103736877441,
+      "profit_percent": -5.507914571812406,
+      "portfolio_pct": 10.819600123323127
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 123.16000366210938,
-      "market_value": 2832.6800842285156,
-      "profit_dollars": 218.73004913330078,
-      "profit_percent": 8.36779763180643,
-      "portfolio_pct": 20.933930439505275
+      "current_price": 123.13500213623047,
+      "market_value": 2832.105049133301,
+      "profit_dollars": 218.15501403808594,
+      "profit_percent": 8.345798929172703,
+      "portfolio_pct": 20.95383905792528
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 110.05000305175781,
-      "market_value": 2531.1500701904297,
-      "profit_dollars": -32.199859619140625,
-      "profit_percent": -1.2561632434449843,
-      "portfolio_pct": 18.705578436594404
+      "current_price": 109.86000061035156,
+      "market_value": 2526.780014038086,
+      "profit_dollars": -36.569915771484375,
+      "profit_percent": -1.4266454745880572,
+      "portfolio_pct": 18.694836819396592
     }
   ],
   "allocation": [
     {
       "label": "ROAD",
-      "pct": 20.9
+      "pct": 21.0
     },
     {
       "label": "INOD",
@@ -95,7 +95,7 @@
     },
     {
       "label": "OLED",
-      "pct": 14.6
+      "pct": 14.7
     },
     {
       "label": "WT",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 3.6
+      "pct": 3.4
     }
   ],
   "snapshots": [
@@ -362,8 +362,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.688580930239425,
-    "voo_price": 691.4901123046875,
-    "total_value": 11539.988701657127,
+    "voo_price": 690.9450073242188,
+    "total_value": 11530.891673075097,
     "total_deposited": 10800.0,
     "snapshots": [
       {
@@ -615,8 +615,8 @@
       {
         "date": "2026-06-16",
         "voo_shares": 16.688580930239425,
-        "voo_price": 691.4901123046875,
-        "total_value": 11539.988701657127
+        "voo_price": 690.9450073242188,
+        "total_value": 11530.891673075097
       }
     ]
   },
@@ -1319,18 +1319,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets dipped mildly today with NASDAQ -0.6% and S&P 500 -0.3%, a neutral session with no strong directional catalyst. Cash sits at $477.14 \u2014 just below the $500 threshold that would trigger a new buy, so no new positions are opened. All six existing holdings remain healthy with none near the -7% stop-loss level."
+    "briefing": "Markets dipped modestly today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral-to-soft session without a clear directional catalyst. Cash sits at $477 \u2014 just below the $500 threshold that would require aggressively filling open slots \u2014 so no new entries are initiated. All six existing positions remain intact with INOD still appearing on the screener at score 90, reinforcing the existing hold."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities pulled back modestly on Monday, with the NASDAQ leading losses at -0.6% amid continued uncertainty around Federal Reserve rate policy and mixed signals from the technology sector. The S&P 500 shed -0.3% in a low-conviction session, as investors digested recent economic data without a clear directional catalyst. Breadth was mixed, with defensive sectors holding better than growth names.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u5c0f\u5e45\u56de\u843d\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc0.6%\uff0c\u4e3b\u8981\u53d7\u79d1\u6280\u677f\u584a\u62d6\u7d2f\uff0c\u5e02\u5834\u5c0d\u806f\u6e96\u6703\u5229\u7387\u8d70\u5411\u4ecd\u5b58\u5728\u4e0d\u78ba\u5b9a\u6027\u3002\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u6574\u9ad4\u4ea4\u6295\u6e05\u6de1\uff0c\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\u6d88\u5316\u8fd1\u671f\u7d93\u6fdf\u6578\u64da\u3002\u985e\u9632\u79a6\u80a1\u8868\u73fe\u76f8\u5c0d\u6297\u8dcc\uff0c\u6210\u9577\u578b\u500b\u80a1\u5247\u627f\u58d3\u8f03\u91cd\u3002",
+      "summary_en": "U.S. equities pulled back modestly on Monday, with the tech-heavy NASDAQ leading declines at -0.7% while the broader S&P 500 fell -0.4%. The mild selloff reflects a risk-off tone as investors digested mixed macro signals heading into the back half of June, with no single dominant catalyst driving the move. Rate sensitivity and sector rotation out of high-momentum names pressured growth stocks more than value, consistent with the neutral market designation.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u5c0f\u5e45\u56de\u843d\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.7%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u6574\u9ad4\u5448\u73fe\u4e2d\u6027\u504f\u5f31\u683c\u5c40\u3002\u5e02\u5834\u5728\u516d\u6708\u4e0b\u65ec\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u8005\u60c5\u7dd2\u8da8\u65bc\u8b39\u614e\uff0c\u5448\u73fe\u8f15\u5fae\u907f\u96aa\u50be\u5411\u3002\u5229\u7387\u654f\u611f\u6027\u8207\u8cc7\u91d1\u5f9e\u9ad8\u52d5\u80fd\u6210\u9577\u80a1\u8f2a\u52d5\u81f3\u9632\u79a6\u6027\u677f\u584a\uff0c\u4ee4\u79d1\u6280\u985e\u80a1\u627f\u58d3\u5e45\u5ea6\u5927\u65bc\u50f9\u503c\u578b\u80a1\u7968\uff0c\u8207\u7576\u65e5\u4e2d\u6027\u5e02\u6cc1\u7684\u5b9a\u6027\u76f8\u7b26\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Overbought",
-      "explanation_en": "RSI (Relative Strength Index) measures how quickly a stock's price has moved recently on a scale of 0\u2013100. When RSI exceeds 70, the stock is considered 'overbought,' meaning it may have risen too far too fast and could be due for a pullback. Today's screener showed many otherwise attractive stocks \u2014 MRNA (85.9), SSRM (84.0), CYTK (82.6) \u2014 with extreme overbought readings, which is why they scored lower despite bullish MACD signals.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u8d85\u904e70\uff0c\u4ee3\u8868\u80a1\u7968\u8655\u65bc\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u610f\u5473\u8457\u77ed\u671f\u6f32\u5e45\u53ef\u80fd\u904e\u5927\uff0c\u5b58\u5728\u56de\u8abf\u98a8\u96aa\u3002\u4eca\u65e5\u9078\u80a1\u540d\u55ae\u4e2d\uff0cMRNA\uff0885.9\uff09\u3001SSRM\uff0884.0\uff09\u3001CYTK\uff0882.6\uff09\u7b49\u80a1\u7968RSI\u5747\u9054\u6975\u7aef\u9ad8\u4f4d\uff0c\u5373\u4f7fMACD\u8d70\u52e2\u4ecd\u504f\u591a\uff0c\u6574\u9ad4\u8a55\u5206\u4ecd\u56e0\u6b64\u88ab\u4e0b\u8abf\uff0c\u53cd\u6620\u52d5\u80fd\u96d6\u5f37\u4f46\u9700\u8b66\u60d5\u904e\u71b1\u98a8\u96aa\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag refers to the opportunity cost of holding uninvested cash in a portfolio \u2014 idle cash earns little while the market moves. Today's portfolio has $477 sitting unused, just under the $500 action threshold. While holding some cash provides flexibility and safety during uncertain markets, too much idle cash over time will cause the portfolio to underperform a fully-invested benchmark like VOO.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\uff08Cash Drag\uff09\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u6301\u6709\u672a\u6295\u5165\u73fe\u91d1\u6240\u7522\u751f\u7684\u6a5f\u6703\u6210\u672c\u3002\u9592\u7f6e\u73fe\u91d1\u5e7e\u4e4e\u4e0d\u7522\u751f\u56de\u5831\uff0c\u800c\u5e02\u5834\u537b\u6301\u7e8c\u6ce2\u52d5\u3002\u672c\u65e5\u7d44\u5408\u6709477\u7f8e\u5143\u5c1a\u672a\u90e8\u7f72\uff0c\u7565\u4f4e\u65bc500\u7f8e\u5143\u7684\u884c\u52d5\u9580\u6abb\u3002\u9069\u5ea6\u6301\u6709\u73fe\u91d1\u53ef\u5728\u4e0d\u78ba\u5b9a\u5e02\u6cc1\u4e0b\u63d0\u4f9b\u9748\u6d3b\u6027\u8207\u5b89\u5168\u7de9\u885d\uff0c\u4f46\u82e5\u9577\u671f\u9592\u7f6e\u904e\u591a\u73fe\u91d1\uff0c\u7d44\u5408\u8868\u73fe\u5c07\u843d\u5f8c\u65bcVOO\u7b49\u5168\u984d\u6295\u5165\u7684\u57fa\u6e96\u6307\u6578\u3002"
     }
   },
   "stats": {
