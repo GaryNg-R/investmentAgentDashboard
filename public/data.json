@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-18T17:01:28.537378+00:00",
+    "generated_at": "2026-06-18T18:01:19.634786+00:00",
     "date_et": "2026-06-18",
-    "run_id": "20260618T170128_ae8e14"
+    "run_id": "20260618T180119_e46c3a"
   },
   "account": {
     "total_value": 13155.735246181488,
@@ -11,69 +11,69 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3155.735246181488,
     "profit_percent": 31.55735246181488,
-    "vs_voo_dollars": 1671.4043472093072,
-    "vs_voo_percent": 14.553780815901906
+    "vs_voo_dollars": 1667.3157263686098,
+    "vs_voo_percent": 14.513012198876996
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 738.9500122070312,
-      "market_value": 2216.8500366210938,
-      "profit_dollars": 248.25,
-      "profit_percent": 12.610484373763217,
-      "portfolio_pct": 16.730248989445172
+      "current_price": 739.7999877929688,
+      "market_value": 2219.3999633789062,
+      "profit_dollars": 250.7999267578125,
+      "profit_percent": 12.740014329588536,
+      "portfolio_pct": 16.759364711101803
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 165.71499633789062,
-      "market_value": 2154.294952392578,
-      "profit_dollars": 227.3050079345703,
-      "profit_percent": 11.795858540325852,
-      "portfolio_pct": 16.258154748783795
+      "current_price": 165.9499969482422,
+      "market_value": 2157.3499603271484,
+      "profit_dollars": 230.36001586914062,
+      "profit_percent": 11.95439636473726,
+      "portfolio_pct": 16.290806249973336
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.98500061035156,
-      "market_value": 1935.6700134277344,
-      "profit_dollars": -122.4300537109375,
-      "profit_percent": -5.948692955496043,
-      "portfolio_pct": 14.608223718826057
+      "current_price": 87.94000244140625,
+      "market_value": 1934.6800537109375,
+      "profit_dollars": -123.42001342773438,
+      "profit_percent": -5.996793615546707,
+      "portfolio_pct": 14.609358004166124
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.184999465942383,
-      "market_value": 1436.6149578094482,
-      "profit_dollars": -110.99505424499512,
-      "profit_percent": -7.172029993373448,
-      "portfolio_pct": 10.841926855254131
+      "current_price": 17.954999923706055,
+      "market_value": 1418.4449939727783,
+      "profit_dollars": -129.16501808166504,
+      "profit_percent": -8.346096049753466,
+      "portfolio_pct": 10.71110992560104
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 124.01000213623047,
-      "market_value": 2852.230049133301,
-      "profit_dollars": 238.28001403808594,
-      "profit_percent": 9.115706529922498,
-      "portfolio_pct": 21.525370732749145
+      "current_price": 123.58499908447266,
+      "market_value": 2842.454978942871,
+      "profit_dollars": 228.50494384765625,
+      "profit_percent": 8.7417487243337,
+      "portfolio_pct": 21.464242792211774
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 94.68499755859375,
-      "market_value": 2177.7549438476562,
-      "profit_dollars": -385.59498596191406,
-      "profit_percent": -15.04261987322814,
-      "portfolio_pct": 16.435203936527657
+      "current_price": 95.36000061035156,
+      "market_value": 2193.280014038086,
+      "profit_dollars": -370.0699157714844,
+      "profit_percent": -14.43696435932868,
+      "portfolio_pct": 16.562125022689866
     }
   ],
   "allocation": [
@@ -83,11 +83,11 @@
     },
     {
       "label": "QQQ",
-      "pct": 16.7
+      "pct": 16.8
     },
     {
       "label": "INOD",
-      "pct": 16.4
+      "pct": 16.6
     },
     {
       "label": "EAT",
@@ -99,11 +99,11 @@
     },
     {
       "label": "WT",
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "label": "Cash",
-      "pct": 3.7
+      "pct": 3.5
     }
   ],
   "snapshots": [
@@ -374,8 +374,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.688580930239425,
-    "voo_price": 688.155029296875,
-    "total_value": 11484.33089897218,
+    "voo_price": 688.4000244140625,
+    "total_value": 11488.419519812878,
     "total_deposited": 10800.0,
     "snapshots": [
       {
@@ -639,8 +639,8 @@
       {
         "date": "2026-06-18",
         "voo_shares": 16.688580930239425,
-        "voo_price": 688.155029296875,
-        "total_value": 11484.33089897218
+        "voo_price": 688.4000244140625,
+        "total_value": 11488.419519812878
       }
     ]
   },
@@ -1340,28 +1340,21 @@
     }
   ],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "IMOS",
-        "conviction": "high",
-        "reasoning": "Highest score on the board (100) with a rare volume surge signal confirming institutional conviction, RSI at 69 still in bullish momentum zone, and MACD histogram rising \u2014 deploying remaining cash into the strongest setup available."
-      }
-    ],
+    "decisions": [],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Risk-on session with NASDAQ up 1.5% and S&P 500 up 1.0% \u2014 a clean green day favoring momentum names. Cash is $477, just under the $500 soft threshold, but IMOS's perfect score of 100 with a volume surge confirmation is rare enough to deploy it. Existing six positions remain healthy with the portfolio up 31.6%, so no rotation needed today."
+    "briefing": "Markets are strongly bullish today with NASDAQ up 1.7% and S&P 500 up 1.1% in a clear risk-on environment. However, our cash sits at $477 \u2014 just below the $500 threshold needed to open new positions \u2014 so we're holding rather than forcing a thin buy. All six existing positions remain active with auto stop-loss and profit-target mechanisms in place to manage exits."
   },
   "education": {
     "market_education": {
-      "summary_en": "Equity markets rallied broadly on June 18 in a risk-on session, with the NASDAQ leading at +1.5% as technology and semiconductor names attracted buyers amid continued optimism around AI infrastructure spending and easing trade concerns. The S&P 500 gained 1.0%, reflecting broad participation beyond just mega-cap tech. Momentum stocks with strong technical setups \u2014 particularly those showing volume surges \u2014 outperformed as institutional money rotated into high-conviction growth names.",
-      "summary_zh": "6\u670818\u65e5\u7f8e\u80a1\u5168\u9762\u4e0a\u6f32\uff0c\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u90a3\u65af\u9054\u514b\u4ee51.5%\u7684\u6f32\u5e45\u9818\u5148\uff0c\u53d7\u60e0\u65bc\u5e02\u5834\u5c0dAI\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u6301\u7e8c\u6a02\u89c0\u60c5\u7dd2\u53ca\u8cbf\u6613\u7dca\u5f35\u614b\u52e2\u7de9\u548c\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.0%\uff0c\u986f\u793a\u6f32\u52e2\u4e26\u975e\u96c6\u4e2d\u65bc\u5927\u578b\u79d1\u6280\u80a1\uff0c\u800c\u662f\u6db5\u84cb\u66f4\u5ee3\u6cdb\u677f\u584a\u3002\u6280\u8853\u9762\u5f37\u52c1\u3001\u5c24\u5176\u662f\u6210\u4ea4\u91cf\u6025\u589e\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u6d41\u5165\u9ad8\u78ba\u4fe1\u5ea6\u6210\u9577\u985e\u80a1\u3002",
+      "summary_en": "Equities staged a broad risk-on rally today, with the NASDAQ surging 1.7% and the S&P 500 gaining 1.1%, driven by renewed investor appetite for growth assets as macro fears continued to ease. Technology and semiconductor names led the charge, reflecting improving sentiment around AI infrastructure spending and a softer rate outlook. The session underscores how quickly capital rotates back into high-beta names once uncertainty subsides.",
+      "summary_zh": "\u4eca\u65e5\u80a1\u5e02\u6380\u8d77\u5168\u9762\u98a8\u96aa\u504f\u597d\u884c\u60c5\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5f37\u52c1\u4e0a\u6f321.7%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u63da1.1%\u3002\u6295\u8cc7\u8005\u91cd\u62fe\u5c0d\u6210\u9577\u578b\u8cc7\u7522\u7684\u8208\u8da3\uff0c\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u964d\u6eab\uff0c\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u677f\u584a\u9818\u6f32\u3002\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u524d\u666f\u6a02\u89c0\uff0c\u52a0\u4e4b\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u5229\u7387\u653f\u7b56\u7684\u9810\u671f\u8da8\u65bc\u6eab\u548c\uff0c\u9032\u4e00\u6b65\u63d0\u632f\u5e02\u5834\u60c5\u7dd2\u3002\u6b64\u8f2a\u5347\u52e2\u518d\u6b21\u5370\u8b49\uff0c\u4e00\u65e6\u4e0d\u78ba\u5b9a\u56e0\u7d20\u6d88\u6563\uff0c\u8cc7\u91d1\u4fbf\u6703\u8fc5\u901f\u56de\u6d41\u9ad8\u8c9d\u5854\u503c\u80a1\u7968\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume spikes significantly above its recent average \u2014 typically 1.5x or more \u2014 on the same day its price is rising. It signals that institutional investors (funds, banks) are actively accumulating shares, not just retail traders, which makes the price move far more credible and sustainable. IMOS showing a volume surge today is why it earned the top score: price momentum backed by heavy volume is one of the most reliable bullish signals in technical analysis.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u96bb\u80a1\u7968\u7684\u4ea4\u6613\u91cf\u5728\u50f9\u683c\u4e0a\u6f32\u7684\u540c\u4e00\u5929\uff0c\u986f\u8457\u8d85\u904e\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\uff08\u901a\u5e38\u90541.5\u500d\u4ee5\u4e0a\uff09\u3002\u9019\u4e00\u4fe1\u865f\u8868\u660e\uff0c\u4e3b\u5c0e\u8cb7\u76e4\u7684\u4e0d\u53ea\u662f\u6563\u6236\uff0c\u800c\u662f\u6a5f\u69cb\u6295\u8cc7\u8005\uff08\u57fa\u91d1\u3001\u9280\u884c\uff09\u6b63\u5728\u7a4d\u6975\u5efa\u5009\uff0c\u56e0\u6b64\u50f9\u683c\u8d70\u52e2\u66f4\u5177\u8aaa\u670d\u529b\u548c\u6301\u7e8c\u6027\u3002\u4eca\u65e5IMOS\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u6b63\u662f\u5176\u7372\u5f97\u6eff\u5206\u8a55\u5206\u7684\u95dc\u9375\u539f\u56e0\u2014\u2014\u6709\u5927\u91cf\u6210\u4ea4\u91cf\u652f\u6490\u7684\u50f9\u683c\u52d5\u80fd\uff0c\u662f\u6280\u8853\u5206\u6790\u4e2d\u6700\u53ef\u9760\u7684\u770b\u6f32\u4fe1\u865f\u4e4b\u4e00\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the performance cost of holding idle cash in a rising market \u2014 your uninvested dollars earn little while stocks climb. Today is a perfect example: we have 4 open portfolio slots and a basket of high-momentum candidates scoring 95, yet $477 in cash sits just below the $500 buy threshold, unable to participate in a 1.7% NASDAQ rally. Managing the cash-vs-deployment balance is a core active portfolio skill.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\uff08Cash Drag\uff09\u662f\u6307\u5728\u5e02\u5834\u4e0a\u6f32\u671f\u9593\uff0c\u6301\u6709\u9592\u7f6e\u73fe\u91d1\u6240\u9020\u6210\u7684\u6a5f\u6703\u6210\u672c\u3002\u4eca\u65e5\u4fbf\u662f\u5178\u578b\u6848\u4f8b\uff1a\u7d44\u5408\u5c1a\u6709\u56db\u500b\u7a7a\u7f6e\u5009\u4f4d\uff0c\u4e14\u9078\u80a1\u5668\u7be9\u51fa\u591a\u96bb\u52d5\u80fd\u8a55\u5206\u9ad8\u905495\u7684\u5f37\u52e2\u5019\u9078\u80a1\uff0c\u4f46\u5e33\u6236\u73fe\u91d1\u50c5477\u7f8e\u5143\uff0c\u7565\u4f4e\u65bc500\u7f8e\u5143\u7684\u5efa\u5009\u9580\u6abb\uff0c\u7121\u6cd5\u628a\u63e1\u90a3\u65af\u9054\u514b1.7%\u7684\u5347\u5e45\u3002\u5982\u4f55\u5728\u6301\u73fe\u8207\u90e8\u7f72\u8cc7\u91d1\u4e4b\u9593\u53d6\u5f97\u5e73\u8861\uff0c\u6b63\u662f\u4e3b\u52d5\u7ba1\u7406\u7d44\u5408\u7684\u6838\u5fc3\u6280\u5de7\u4e4b\u4e00\u3002"
     }
   },
   "stats": {
