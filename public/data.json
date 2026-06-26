@@ -1,46 +1,31 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-26T02:13:39.235512+00:00",
+    "generated_at": "2026-06-26T02:13:40.667107+00:00",
     "date_et": "2026-06-25",
-    "run_id": "20260626T021339_aa3d3c"
+    "run_id": "20260626T021340_a97a49"
   },
   "account": {
     "total_value": 10000.0,
-    "cash": 8000.0,
+    "cash": 10000.0,
     "starting_cash": 10000.0,
     "profit_dollars": 0.0,
     "profit_percent": 0.0,
     "vs_voo_dollars": 0.0,
     "vs_voo_percent": 0.0
   },
-  "positions": [
-    {
-      "ticker": "NVDA",
-      "shares": 20.0,
-      "avg_cost": 100.0,
-      "current_price": 195.74000549316406,
-      "market_value": 3914.8001098632812,
-      "profit_dollars": 1914.8001098632812,
-      "profit_percent": 95.74000549316406,
-      "portfolio_pct": 32.8566159210891
-    }
-  ],
+  "positions": [],
   "allocation": [
     {
-      "label": "NVDA",
-      "pct": 32.9
-    },
-    {
       "label": "Cash",
-      "pct": 67.1
+      "pct": 100.0
     }
   ],
   "snapshots": [
     {
       "date": "2026-06-25",
       "total_value": 10000.0,
-      "cash": 8000.0,
+      "cash": 10000.0,
       "profit_percent": 0.0
     }
   ],
@@ -58,31 +43,12 @@
       }
     ]
   },
-  "trades": [
-    {
-      "id": 1,
-      "timestamp": "2026-06-26 02:13:38",
-      "action": "BUY",
-      "ticker": "NVDA",
-      "shares": 20.0,
-      "price": 100.0,
-      "total": 2000.0,
-      "reasoning": "strong momentum",
-      "realized_profit": null
-    }
-  ],
+  "trades": [],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "high",
-        "reasoning": "strong momentum"
-      }
-    ],
+    "decisions": [],
     "skip_new_buys": false,
     "market_direction": null,
-    "briefing": "Buy NVDA high conviction."
+    "briefing": "ok"
   },
   "education": {
     "market_education": null,
