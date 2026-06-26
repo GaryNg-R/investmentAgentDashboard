@@ -1,786 +1,73 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-05-08T01:43:32.811504+00:00",
-    "date_et": "2026-05-07",
-    "run_id": "20260508T014332_fdbce1"
+    "generated_at": "2026-06-26T02:09:54.282338+00:00",
+    "date_et": "2026-06-25",
+    "run_id": "20260626T020954_7b2634"
   },
   "account": {
-    "total_value": 11691.406095027924,
-    "cash": 105.21099996566772,
+    "total_value": 10000.0,
+    "cash": 9300.0,
     "starting_cash": 10000.0,
-    "profit_dollars": 1691.4060950279236,
-    "profit_percent": 16.914060950279236,
-    "vs_voo_dollars": 1058.19759858215,
-    "vs_voo_percent": 9.951818389866606
+    "profit_dollars": 0.0,
+    "profit_percent": 0.0,
+    "vs_voo_dollars": 0.0,
+    "vs_voo_percent": 0.0
   },
   "positions": [
     {
-      "ticker": "QQQ",
-      "shares": 3.0,
-      "avg_cost": 656.2000122070312,
-      "current_price": 694.9400024414062,
-      "market_value": 2084.8200073242188,
-      "profit_dollars": 116.219970703125,
-      "profit_percent": 5.903686301997892,
-      "portfolio_pct": 17.76534274956658
-    },
-    {
-      "ticker": "EAT",
-      "shares": 13.0,
-      "avg_cost": 148.22999572753906,
-      "current_price": 146.3000030517578,
-      "market_value": 1901.9000396728516,
-      "profit_dollars": -25.08990478515625,
-      "profit_percent": -1.3020257244888285,
-      "portfolio_pct": 16.206629810487996
-    },
-    {
-      "ticker": "OLED",
-      "shares": 22.0,
-      "avg_cost": 93.55000305175781,
-      "current_price": 92.73999786376953,
-      "market_value": 2040.2799530029297,
-      "profit_dollars": -17.820114135742188,
-      "profit_percent": -0.865852658005938,
-      "portfolio_pct": 17.385804310601973
-    },
-    {
-      "ticker": "AMZN",
-      "shares": 7.0,
-      "avg_cost": 274.1099853515625,
-      "current_price": 271.1700134277344,
-      "market_value": 1898.1900939941406,
-      "profit_dollars": -20.579803466796875,
-      "profit_percent": -1.0725519247529178,
-      "portfolio_pct": 16.17501631084149
-    },
-    {
-      "ticker": "SMCI",
-      "shares": 41.0,
-      "avg_cost": 33.6150016784668,
-      "current_price": 33.619998931884766,
-      "market_value": 1378.4199562072754,
-      "profit_dollars": 0.20488739013671875,
-      "profit_percent": 0.014866140617121867,
-      "portfolio_pct": 11.745907507043874
-    },
-    {
       "ticker": "NVDA",
-      "shares": 11.0,
-      "avg_cost": 212.32000732421875,
-      "current_price": 211.5,
-      "market_value": 2326.5,
-      "profit_dollars": -9.02008056640625,
-      "profit_percent": -0.38621293139208274,
-      "portfolio_pct": 19.82476653220217
+      "shares": 7.0,
+      "avg_cost": 100.0,
+      "current_price": 195.74000549316406,
+      "market_value": 1370.1800384521484,
+      "profit_dollars": 670.1800384521484,
+      "profit_percent": 95.74000549316406,
+      "portfolio_pct": 12.841208241233307
     }
   ],
   "allocation": [
     {
       "label": "NVDA",
-      "pct": 19.8
-    },
-    {
-      "label": "QQQ",
-      "pct": 17.8
-    },
-    {
-      "label": "OLED",
-      "pct": 17.4
-    },
-    {
-      "label": "EAT",
-      "pct": 16.2
-    },
-    {
-      "label": "AMZN",
-      "pct": 16.2
-    },
-    {
-      "label": "SMCI",
-      "pct": 11.7
+      "pct": 12.8
     },
     {
       "label": "Cash",
-      "pct": 0.9
+      "pct": 87.2
     }
   ],
   "snapshots": [
     {
-      "date": "2026-04-16",
-      "total_value": 9982.029479980469,
-      "cash": 3165.985885620117,
-      "profit_percent": -0.1797052001953125
-    },
-    {
-      "date": "2026-04-17",
-      "total_value": 10409.921264648438,
-      "cash": 5238.8861083984375,
-      "profit_percent": 4.099212646484375
-    },
-    {
-      "date": "2026-04-18",
-      "total_value": 10409.921264648438,
-      "cash": 5238.8861083984375,
-      "profit_percent": 4.099212646484375
-    },
-    {
-      "date": "2026-04-21",
-      "total_value": 10409.921264648438,
-      "cash": 5238.8861083984375,
-      "profit_percent": 4.099212646484375
-    },
-    {
-      "date": "2026-04-22",
-      "total_value": 10409.921264648438,
-      "cash": 5238.8861083984375,
-      "profit_percent": 4.099212646484375
-    },
-    {
-      "date": "2026-04-23",
-      "total_value": 10321.68392944336,
-      "cash": 2217.5436248779297,
-      "profit_percent": 3.216839294433594
-    },
-    {
-      "date": "2026-04-24",
-      "total_value": 10337.68391418457,
-      "cash": 269.6235656738281,
-      "profit_percent": 3.3768391418457036
-    },
-    {
-      "date": "2026-04-25",
-      "total_value": 10337.68391418457,
-      "cash": 269.6235656738281,
-      "profit_percent": 3.3768391418457036
-    },
-    {
-      "date": "2026-04-27",
-      "total_value": 10418.663558959961,
-      "cash": 1173.0235290527344,
-      "profit_percent": 4.186635589599609
-    },
-    {
-      "date": "2026-04-28",
-      "total_value": 10418.663558959961,
-      "cash": 1173.0235290527344,
-      "profit_percent": 4.186635589599609
-    },
-    {
-      "date": "2026-04-29",
-      "total_value": 10133.103454589844,
-      "cash": 89.27848815917969,
-      "profit_percent": 1.3310345458984374
-    },
-    {
-      "date": "2026-04-30",
-      "total_value": 10407.924194335938,
-      "cash": 670.2292976379395,
-      "profit_percent": 4.079241943359375
-    },
-    {
-      "date": "2026-05-01",
-      "total_value": 10421.535919189453,
-      "cash": 683.7559700012207,
-      "profit_percent": 4.215359191894532
-    },
-    {
-      "date": "2026-05-04",
-      "total_value": 10539.085968017578,
-      "cash": 598.5860786437988,
-      "profit_percent": 5.390859680175781
-    },
-    {
-      "date": "2026-05-05",
-      "total_value": 10539.085968017578,
-      "cash": 598.5860786437988,
-      "profit_percent": 5.390859680175781
-    },
-    {
-      "date": "2026-05-06",
-      "total_value": 10539.085968017578,
-      "cash": 598.5860786437988,
-      "profit_percent": 5.390859680175781
-    },
-    {
-      "date": "2026-05-07",
-      "total_value": 11691.406095027924,
-      "cash": 105.21099996566772,
-      "profit_percent": 16.914060950279236
+      "date": "2026-06-25",
+      "total_value": 10000.0,
+      "cash": 9300.0,
+      "profit_percent": 0.0
     }
   ],
   "benchmark": {
-    "voo_shares": 15.810522561996239,
-    "voo_price": 672.5399780273438,
-    "total_value": 10633.208496445774,
-    "total_deposited": 10200.0,
+    "voo_shares": 14.79924771695138,
+    "voo_price": 675.7100219726562,
+    "total_value": 10000.0,
+    "total_deposited": 10000.0,
     "snapshots": [
       {
-        "date": "2026-04-16",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 644.8599853515625,
+        "date": "2026-06-25",
+        "voo_shares": 14.79924771695138,
+        "voo_price": 675.7100219726562,
         "total_value": 10000.0
-      },
-      {
-        "date": "2026-04-17",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 652.780029296875,
-        "total_value": 10122.818039965601
-      },
-      {
-        "date": "2026-04-18",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 652.780029296875,
-        "total_value": 10122.818039965601
-      },
-      {
-        "date": "2026-04-21",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 647.25,
-        "total_value": 10037.062536096646
-      },
-      {
-        "date": "2026-04-22",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 653.9000244140625,
-        "total_value": 10140.186075548967
-      },
-      {
-        "date": "2026-04-23",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 651.1900024414062,
-        "total_value": 10098.161108358938
-      },
-      {
-        "date": "2026-04-24",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 656.4199829101562,
-        "total_value": 10179.263682368064
-      },
-      {
-        "date": "2026-04-25",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 656.4199829101562,
-        "total_value": 10179.263682368064
-      },
-      {
-        "date": "2026-04-27",
-        "voo_shares": 15.659583726863751,
-        "voo_price": 657.5,
-        "total_value": 10296.176300412917
-      },
-      {
-        "date": "2026-04-28",
-        "voo_shares": 15.659583726863751,
-        "voo_price": 654.260009765625,
-        "total_value": 10245.4394020635
-      },
-      {
-        "date": "2026-04-29",
-        "voo_shares": 15.659583726863751,
-        "voo_price": 654.239990234375,
-        "total_value": 10245.125904537717
-      },
-      {
-        "date": "2026-04-30",
-        "voo_shares": 15.659583726863751,
-        "voo_price": 660.5800170898438,
-        "total_value": 10344.408085911497
-      },
-      {
-        "date": "2026-05-01",
-        "voo_shares": 15.659583726863751,
-        "voo_price": 662.52001953125,
-        "total_value": 10374.787716573017
-      },
-      {
-        "date": "2026-05-04",
-        "voo_shares": 15.810522561996239,
-        "voo_price": 660.1199951171875,
-        "total_value": 10436.84207642514
-      },
-      {
-        "date": "2026-05-05",
-        "voo_shares": 15.810522561996239,
-        "voo_price": 665.2999877929688,
-        "total_value": 10518.740467496555
-      },
-      {
-        "date": "2026-05-06",
-        "voo_shares": 15.810522561996239,
-        "voo_price": 674.6599731445312,
-        "total_value": 10666.726727077388
-      },
-      {
-        "date": "2026-05-07",
-        "voo_shares": 15.810522561996239,
-        "voo_price": 672.5399780273438,
-        "total_value": 10633.208496445774
       }
     ]
   },
   "trades": [
     {
-      "id": 42,
-      "timestamp": "2026-05-07 19:01:33",
-      "action": "BUY",
-      "ticker": "NVDA",
-      "shares": 11.0,
-      "price": 212.32000732421875,
-      "total": 2335.5200805664062,
-      "reasoning": "Score 90 with RSI 68 in the bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 AI infrastructure demand remains structurally strong and technicals are clean",
-      "realized_profit": null
-    },
-    {
-      "id": 41,
-      "timestamp": "2026-05-07 19:01:33",
-      "action": "SELL",
-      "ticker": "PTON",
-      "shares": 427.0,
-      "price": 5.650000095367432,
-      "total": 2412.5500407218933,
-      "reasoning": "PTON has fallen off today's momentum screener entirely, signaling faded technical strength; rotating out frees ~$2,300 in cash needed to fill open portfolio slots",
-      "realized_profit": 98.21000814437866
-    },
-    {
-      "id": 40,
-      "timestamp": "2026-05-07 18:01:27",
-      "action": "BUY",
-      "ticker": "SMCI",
-      "shares": 41.0,
-      "price": 33.6150016784668,
-      "total": 1378.2150688171387,
-      "reasoning": "Score 90 with RSI 67.1 in bullish zone and confirmed MACD crossover; low per-share price ($33.56) allows flexible sizing and adds AI-server hardware exposure to the portfolio.",
-      "realized_profit": null
-    },
-    {
-      "id": 39,
-      "timestamp": "2026-05-07 14:01:25",
-      "action": "BUY",
-      "ticker": "PTON",
-      "shares": 427.0,
-      "price": 5.420000076293945,
-      "total": 2314.3400325775146,
-      "reasoning": "Top screener score of 100 with RSI at 59.9 \u2014 the only candidate in the ideal bullish momentum zone (55\u201370) without being overbought, with MACD crossover and volume surge confirming the move.",
-      "realized_profit": null
-    },
-    {
-      "id": 38,
-      "timestamp": "2026-05-07 14:01:25",
-      "action": "SELL",
-      "ticker": "XMTR",
-      "shares": 41.0,
-      "price": 76.1500015258789,
-      "total": 3122.150062561035,
-      "reasoning": "Up +50.6% from avg cost of $50.44 \u2014 far exceeds the +12% profit target, and RSI at 90.7 is extremely overbought; locking in gains before reversal.",
-      "realized_profit": 1054.1101188659668
-    },
-    {
-      "id": 37,
-      "timestamp": "2026-05-04 15:01:28",
-      "action": "BUY",
-      "ticker": "AMZN",
-      "shares": 7.0,
-      "price": 274.1099853515625,
-      "total": 1918.7698974609375,
-      "reasoning": "Score 95, RSI 69.3 in bullish momentum zone, MACD bullish crossover, price above SMA-20 \u2014 large-cap with strong technical setup and room before overbought.",
-      "realized_profit": null
-    },
-    {
-      "id": 36,
-      "timestamp": "2026-05-04 15:01:28",
-      "action": "SELL",
-      "ticker": "AMD",
-      "shares": 5.0,
-      "price": 346.7200012207031,
-      "total": 1733.6000061035156,
-      "reasoning": "Score dropped to 30 with bearish MACD, price now below SMA-20 \u2014 momentum has reversed and capital is better deployed into score-95 candidates.",
-      "realized_profit": 17.550048828125
-    },
-    {
-      "id": 35,
-      "timestamp": "2026-05-01 16:01:36",
-      "action": "BUY",
-      "ticker": "OLED",
-      "shares": 22.0,
-      "price": 93.55000305175781,
-      "total": 2058.100067138672,
-      "reasoning": "Score 95 with RSI 58 (least overbought among top candidates), MACD bullish crossover, and Universal Display benefits from rising OLED demand in risk-on tech environment.",
-      "realized_profit": null
-    },
-    {
-      "id": 34,
-      "timestamp": "2026-05-01 16:01:36",
-      "action": "SELL",
-      "ticker": "LITE",
-      "shares": 1.0,
-      "price": 979.88671875,
-      "total": 979.88671875,
-      "reasoning": "LITE has hit the +12% profit target (bought at $871.16, now $977.48 = +12.2%) \u2014 locking in gains per the rules.",
-      "realized_profit": 108.72674560546875
-    },
-    {
-      "id": 33,
-      "timestamp": "2026-05-01 15:01:54",
-      "action": "SELL",
-      "ticker": "ETSY",
-      "shares": 17.0,
-      "price": 64.22000122070312,
-      "total": 1091.7400207519531,
-      "reasoning": "ETSY has dropped off the screener entirely, signaling lost momentum; rotating proceeds into top-ranked names with confirmed technical strength",
-      "realized_profit": -95.11502075195312
-    },
-    {
-      "id": 32,
-      "timestamp": "2026-04-30 17:02:04",
-      "action": "BUY",
-      "ticker": "XMTR",
-      "shares": 41.0,
-      "price": 50.439998626708984,
-      "total": 2068.0399436950684,
-      "reasoning": "Score 95 with RSI 69 in the ideal bullish zone (not overbought), MACD histogram rising, and price 7.7% above SMA-20 \u2014 strongest risk/reward on the board",
-      "realized_profit": null
-    },
-    {
-      "id": 31,
-      "timestamp": "2026-04-30 17:02:04",
-      "action": "SELL",
-      "ticker": "GOOGL",
-      "shares": 6.0,
-      "price": 379.7001037597656,
-      "total": 2278.2006225585938,
-      "reasoning": "RSI overbought at 84.1 with gain at ~11% approaching the +12% auto-sell target \u2014 rotating proceeds into fresher score-95 momentum setups before a potential reversal",
-      "realized_profit": 231.54071044921875
-    },
-    {
-      "id": 30,
-      "timestamp": "2026-04-30 14:01:51",
-      "action": "BUY",
-      "ticker": "AMD",
-      "shares": 5.0,
-      "price": 343.2099914550781,
-      "total": 1716.0499572753906,
-      "reasoning": "Score 100 with all five bullish signals firing simultaneously: RSI 66.5 in optimal bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and confirmed volume surge \u2014 best risk/reward in today's screener",
-      "realized_profit": null
-    },
-    {
-      "id": 29,
-      "timestamp": "2026-04-30 14:01:51",
-      "action": "SELL",
-      "ticker": "AMZN",
-      "shares": 8.0,
-      "price": 260.8550109863281,
-      "total": 2086.840087890625,
-      "reasoning": "Score dropped to 35 with MACD below signal line and price below SMA-20 \u2014 momentum has reversed; rotating the capital into a stronger setup while still up slightly from cost",
-      "realized_profit": 43.280029296875
-    },
-    {
-      "id": 28,
-      "timestamp": "2026-04-29 19:01:18",
-      "action": "BUY",
-      "ticker": "ETSY",
-      "shares": 17.0,
-      "price": 69.81500244140625,
-      "total": 1186.8550415039062,
-      "reasoning": "Score 95 with RSI 69.0 (top of bullish zone), full green signals across MACD and price vs SMA-20 \u2014 strong momentum but RSI near threshold warrants medium sizing.",
-      "realized_profit": null
-    },
-    {
-      "id": 27,
-      "timestamp": "2026-04-29 19:01:17",
-      "action": "SELL",
-      "ticker": "MSTR",
-      "shares": 7.0,
-      "price": 158.77999877929688,
-      "total": 1111.4599914550781,
-      "reasoning": "MSTR is a crypto-adjacent proxy not appearing in today's momentum screener \u2014 exiting to rotate into higher-conviction names with cleaner technical setups.",
-      "realized_profit": -111.43998718261719
-    },
-    {
-      "id": 26,
-      "timestamp": "2026-04-29 18:01:22",
-      "action": "BUY",
-      "ticker": "EAT",
-      "shares": 13.0,
-      "price": 148.22999572753906,
-      "total": 1926.9899444580078,
-      "reasoning": "Top score (95) with RSI 64.6 in the ideal bullish momentum zone, MACD bullish crossover with rising histogram, and price 8% above SMA-20 \u2014 cleanest setup in today's screener.",
-      "realized_profit": null
-    },
-    {
-      "id": 25,
-      "timestamp": "2026-04-29 18:01:21",
-      "action": "SELL",
-      "ticker": "AAOI",
-      "shares": 12.0,
-      "price": 149.14999389648438,
-      "total": 1789.7999267578125,
-      "reasoning": "Stop-loss triggered \u2014 AAOI is down -9.1% from avg cost of $163.66 vs current $148.70, well past the -7% threshold at $152.20.",
-      "realized_profit": -174.1201171875
-    },
-    {
-      "id": 24,
-      "timestamp": "2026-04-29 15:01:15",
-      "action": "BUY",
-      "ticker": "LITE",
-      "shares": 1.0,
-      "price": 871.1599731445312,
-      "total": 871.1599731445312,
-      "reasoning": "Score 95 with RSI 61.4 in sweet spot, strong MACD momentum, and photonics/telecom tailwinds make this a quality growth add despite the high share price.",
-      "realized_profit": null
-    },
-    {
-      "id": 23,
-      "timestamp": "2026-04-27 14:01:34",
-      "action": "SELL",
-      "ticker": "AAPL",
-      "shares": 3.0,
-      "price": 267.79998779296875,
-      "total": 803.3999633789062,
-      "reasoning": "Score has fallen to 20 with RSI below 40 and all signals bearish \u2014 momentum has deteriorated and the position is drifting toward stop-loss; better to rotate capital now into score-100 names.",
-      "realized_profit": -19.020355224609375
-    },
-    {
-      "id": 22,
-      "timestamp": "2026-04-24 19:01:47",
-      "action": "BUY",
-      "ticker": "AAOI",
-      "shares": 12.0,
-      "price": 163.66000366210938,
-      "total": 1963.9200439453125,
-      "reasoning": "Top score 95 with RSI 65.3 in the ideal bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 clean entry setup in a strong NASDAQ tape",
-      "realized_profit": null
-    },
-    {
-      "id": 21,
-      "timestamp": "2026-04-24 19:01:46",
-      "action": "SELL",
-      "ticker": "NVO",
-      "shares": 50.0,
-      "price": 41.060001373291016,
-      "total": 2053.000068664551,
-      "reasoning": "Not in screener, pharma sector lagging in today's risk-on tech rally; freeing capital for higher-momentum opportunities",
-      "realized_profit": 15.999984741210938
-    },
-    {
-      "id": 20,
-      "timestamp": "2026-04-24 14:01:32",
-      "action": "BUY",
-      "ticker": "NVO",
-      "shares": 50.0,
-      "price": 40.7400016784668,
-      "total": 2037.0000839233398,
-      "reasoning": "Perfect score with RSI 68.8 in ideal bullish zone, MACD crossover, price above SMA-20, and volume surge \u2014 pharma/healthcare adds defensive diversification to a tech-heavy portfolio.",
-      "realized_profit": null
-    },
-    {
-      "id": 19,
-      "timestamp": "2026-04-23 18:49:19",
-      "action": "BUY",
-      "ticker": "MSTR",
-      "shares": 7.0,
-      "price": 174.6999969482422,
-      "total": 1222.8999786376953,
-      "reasoning": "Score 65, RSI in bullish zone, and price just above SMA-20 \u2014 reasonable risk/reward with 5 slots still to fill after AMZN.",
-      "realized_profit": null
-    },
-    {
-      "id": 18,
-      "timestamp": "2026-04-23 18:49:19",
-      "action": "BUY",
-      "ticker": "AMZN",
-      "shares": 8.0,
-      "price": 255.44500732421875,
-      "total": 2043.56005859375,
-      "reasoning": "Score 90 with RSI in bullish zone, MACD bullish crossover, and price above SMA-20 \u2014 strongest unowned name on the screener.",
-      "realized_profit": null
-    },
-    {
-      "id": 17,
-      "timestamp": "2026-04-23 18:49:19",
-      "action": "SELL",
-      "ticker": "NVDA",
-      "shares": 6.0,
-      "price": 199.14999389648438,
-      "total": 1194.8999633789062,
-      "reasoning": "Score 30, bearish MACD, and sitting below avg cost \u2014 cutting the loss early to redeploy into stronger momentum names.",
-      "realized_profit": -18.839996337890625
-    },
-    {
-      "id": 16,
-      "timestamp": "2026-04-23 18:49:19",
-      "action": "SELL",
-      "ticker": "COIN",
-      "shares": 12.0,
-      "price": 197.73399353027344,
-      "total": 2372.8079223632812,
-      "reasoning": "Score dropped to 30 with MACD bearish and price below SMA-20; small gain available, better to rotate capital into higher-scoring names.",
-      "realized_profit": 21.96954345703125
-    },
-    {
-      "id": 15,
-      "timestamp": "2026-04-23 18:43:45",
-      "action": "SELL",
-      "ticker": "MSFT",
-      "shares": 4.0,
-      "price": 414.8399963378906,
-      "total": 1659.3599853515625,
-      "reasoning": "Score dropped to 15 with RSI 39.1 in weak momentum zone, MACD bearish, and price below SMA-20 \u2014 freeing capital for stronger momentum names",
-      "realized_profit": -25.6800537109375
-    },
-    {
-      "id": 14,
-      "timestamp": "2026-04-23 15:30:46",
-      "action": "BUY",
-      "ticker": "NVDA",
-      "shares": 6.0,
-      "price": 202.2899932861328,
-      "total": 1213.7399597167969,
-      "reasoning": "RSI 62.1 in bullish zone with rising MACD histogram and price above SMA-20, representing solid risk/reward at a non-overbought level",
-      "realized_profit": null
-    },
-    {
-      "id": 13,
-      "timestamp": "2026-04-23 15:30:46",
-      "action": "BUY",
-      "ticker": "QQQ",
-      "shares": 3.0,
-      "price": 656.2000122070312,
-      "total": 1968.6000366210938,
-      "reasoning": "Top-scored candidate at 95 with bullish MACD crossover, RSI 68.7 in momentum zone, and price holding above SMA-20",
-      "realized_profit": null
-    },
-    {
-      "id": 12,
-      "timestamp": "2026-04-23 15:30:45",
-      "action": "SELL",
-      "ticker": "META",
-      "shares": 3.0,
-      "price": 668.6099853515625,
-      "total": 2005.8299560546875,
-      "reasoning": "Score fell to 30 with MACD bearish and price below SMA-20; rotating capital into higher-momentum candidates",
-      "realized_profit": -16.64703369140625
-    },
-    {
-      "id": 11,
-      "timestamp": "2026-04-23 15:13:14",
-      "action": "BUY",
-      "ticker": "MSFT",
-      "shares": 4.0,
-      "price": 421.260009765625,
-      "total": 1685.0400390625,
-      "reasoning": "Score 90 with RSI 63.9 cleanly in bullish zone (not overbought), MACD bullish, price 8% above SMA-20 \u2014 fills the second open slot with a large-cap anchor that complements the higher-beta positions already held.",
-      "realized_profit": null
-    },
-    {
-      "id": 10,
-      "timestamp": "2026-04-23 15:13:14",
-      "action": "BUY",
-      "ticker": "GOOGL",
-      "shares": 6.0,
-      "price": 341.1099853515625,
-      "total": 2046.659912109375,
-      "reasoning": "Score 90 with RSI 67.7 in bullish momentum zone, MACD crossover confirmed, and price well above SMA-20 \u2014 fills an open slot with strong technical setup and diversifies away from current holdings.",
-      "realized_profit": null
-    },
-    {
-      "id": 9,
-      "timestamp": "2026-04-23 14:54:12",
-      "action": "BUY",
-      "ticker": "AAPL",
-      "shares": 3.0,
-      "price": 274.1401062011719,
-      "total": 822.4203186035156,
-      "reasoning": "Highest momentum score in the screened list (95), MACD bullish with rising histogram confirming building momentum, RSI 63.8 in the sweet spot bullish zone, and price 5.3% above SMA-20.",
-      "realized_profit": null
-    },
-    {
-      "id": 8,
-      "timestamp": "2026-04-23 14:54:12",
-      "action": "SELL",
-      "ticker": "TSLA",
-      "shares": 2.0,
-      "price": 374.3399963378906,
-      "total": 748.6799926757812,
-      "reasoning": "Down -6.1% against a -7% stop-loss, RSI at 48 (neutral) and lowest score of our holdings at 75 \u2014 proactively exiting before auto-stop fires to redeploy into stronger momentum.",
-      "realized_profit": -49.039794921875
-    },
-    {
-      "id": 7,
-      "timestamp": "2026-04-17 14:34:54",
-      "action": "BUY",
-      "ticker": "TSLA",
-      "shares": 2.0,
-      "price": 398.8598937988281,
-      "total": 797.7197875976562,
-      "reasoning": "Score-95 momentum leader with RSI 59.8 in the ideal bullish zone, MACD crossover confirmed, and price well above SMA-20 \u2014 strong setup in today's risk-on tape.",
-      "realized_profit": null
-    },
-    {
-      "id": 6,
-      "timestamp": "2026-04-17 14:34:54",
-      "action": "SELL",
-      "ticker": "MSTR",
-      "shares": 17.0,
-      "price": 168.86000061035156,
-      "total": 2870.6200103759766,
-      "reasoning": "MSTR is up +17.3% from avg cost of $143.69, well past the +12% profit target \u2014 locking in gains and freeing a position slot.",
-      "realized_profit": 427.89178466796875
-    },
-    {
-      "id": 5,
-      "timestamp": "2026-04-16 18:28:25",
-      "action": "BUY",
-      "ticker": "MSTR",
-      "shares": 17.0,
-      "price": 143.6898956298828,
-      "total": 2442.728225708008,
-      "reasoning": "Score 95 with RSI 59.9 in bullish momentum zone, MACD bullish crossover, price well above SMA-20 \u2014 strong momentum at a reasonable price (~$2,444 within 25% limit)",
-      "realized_profit": null
-    },
-    {
-      "id": 4,
-      "timestamp": "2026-04-16 18:28:25",
-      "action": "SELL",
-      "ticker": "TSLA",
-      "shares": 6.0,
-      "price": 385.375,
-      "total": 2312.25,
-      "reasoning": "TSLA is the weakest position (score 80, RSI below bullish zone at 54.7) and slightly underwater \u2014 rotating into higher-momentum MSTR",
-      "realized_profit": -17.97052001953125
-    },
-    {
-      "id": 3,
-      "timestamp": "2026-04-16 18:27:20",
-      "action": "BUY",
-      "ticker": "COIN",
-      "shares": 12.0,
-      "price": 195.9031982421875,
-      "total": 2350.83837890625,
-      "reasoning": "Score 95 with RSI 59.5 in bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 strong setup using available cash to fill the third position slot",
-      "realized_profit": null
-    },
-    {
-      "id": 2,
-      "timestamp": "2026-04-16 15:47:48",
-      "action": "BUY",
-      "ticker": "META",
-      "shares": 3.0,
-      "price": 674.1589965820312,
-      "total": 2022.4769897460938,
-      "reasoning": "Score 95, RSI 67.4 bullish zone, MACD rising, price well above SMA-20 indicating strong trend continuation.",
-      "realized_profit": null
-    },
-    {
       "id": 1,
-      "timestamp": "2026-04-16 15:47:47",
+      "timestamp": "2026-06-26 02:09:53",
       "action": "BUY",
-      "ticker": "TSLA",
-      "shares": 6.0,
-      "price": 388.3700866699219,
-      "total": 2330.2205200195312,
-      "reasoning": "Score 95, RSI 55.5 in bullish zone, MACD crossover confirmed, price above SMA-20 \u2014 clean momentum setup.",
+      "ticker": "NVDA",
+      "shares": 7.0,
+      "price": 100.0,
+      "total": 700.0,
+      "reasoning": "Strong momentum",
       "realized_profit": null
     }
   ],
@@ -788,74 +75,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "AAON",
-        "conviction": "high",
-        "reasoning": "Top momentum score 95 with RSI 66.3 in healthy bullish zone, MACD bullish crossover, and volume surge confirming the trend."
-      },
-      {
-        "action": "BUY",
-        "ticker": "QCOM",
-        "conviction": "medium",
-        "reasoning": "Score 90 with RSI 64.7 in healthy zone (not overbought), adds semiconductor diversification alongside NVDA/SMCI."
-      },
-      {
-        "action": "BUY",
-        "ticker": "VERX",
-        "conviction": "medium",
-        "reasoning": "Score 95 with all four bullish signals including volume surge, low share price allows clean position sizing."
+        "ticker": "NVDA",
+        "conviction": "low",
+        "reasoning": "Strong momentum"
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Market is neutral with both indexes barely down, and we have 4 open slots with $105 cash \u2014 too low to fund new buys without selling, but the screener shows strong momentum candidates. Adding AAON, QCOM, and VERX from the top of the list to fill slots; existing positions remain within risk limits and no stop-loss or profit-target triggers."
+    "briefing": "Buy NVDA"
   },
   "education": {
-    "market_education": {
-      "summary_en": "Markets drifted sideways today with NASDAQ -0.1% and S&P 500 -0.4%, reflecting indecision rather than a directional catalyst. With no major macro headlines provided, the muted action suggests traders are waiting on upcoming economic data or earnings. Neutral tape conditions like this typically favor stock-specific momentum trades over broad index exposure.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u7a84\u5e45\u6574\u7406\u683c\u5c40,\u7d0d\u6307\u5fae\u8dcc0.1%\u3001\u6a19\u666e500\u4e0b\u8dcc0.4%,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u63a8\u52d5\u4e0b,\u6295\u8cc7\u8005\u4f3c\u4e4e\u6b63\u89c0\u671b\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u53ca\u4f01\u696d\u8ca1\u5831\u3002\u6b64\u985e\u4e2d\u6027\u76e4\u9762\u901a\u5e38\u8f03\u5229\u597d\u500b\u80a1\u52d5\u80fd\u4ea4\u6613,\u800c\u975e\u5927\u76e4\u6307\u6578\u4f48\u5c40\u3002",
-      "sources": []
-    },
-    "daily_lesson": {
-      "term": "Neutral Market",
-      "explanation_en": "A neutral market is when major indexes move very little in either direction, signaling indecision among investors. In these conditions, broad index trades offer little edge, so active investors often focus on individual stocks showing strong momentum or specific catalysts. Neutral tapes can precede either breakouts or breakdowns, so position sizing and stop-losses matter more than usual.",
-      "explanation_zh": "\u4e2d\u6027\u5e02\u5834\u662f\u6307\u5927\u76e4\u6307\u6578\u96d9\u5411\u6ce2\u52d5\u6975\u5c0f,\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u614b\u5ea6\u6fc3\u539a\u3002\u5728\u6b64\u74b0\u5883\u4e0b,\u62bc\u6ce8\u5927\u76e4\u6307\u6578\u96e3\u4ee5\u7372\u5229,\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u901a\u5e38\u6703\u805a\u7126\u65bc\u500b\u5225\u5177\u5099\u5f37\u52c1\u52d5\u80fd\u6216\u7279\u5b9a\u50ac\u5316\u5291\u7684\u500b\u80a1\u3002\u4e2d\u6027\u76e4\u9762\u4e4b\u5f8c\u53ef\u80fd\u51fa\u73fe\u5411\u4e0a\u7a81\u7834\u6216\u5411\u4e0b\u7834\u4f4d,\u56e0\u6b64\u5009\u4f4d\u63a7\u5236\u53ca\u6b62\u640d\u8a2d\u5b9a\u6bd4\u5e73\u6642\u66f4\u70ba\u95dc\u9375\u3002"
-    }
+    "market_education": null,
+    "daily_lesson": null
   },
   "stats": {
-    "win_rate": 50.0,
-    "winners_count": 9,
-    "losers_count": 9,
-    "avg_winner": 224.36433045069376,
-    "avg_loser": -58.65254211425781,
-    "best_trade": {
-      "ticker": "XMTR",
-      "realized_profit": 1054.1101188659668
-    },
-    "worst_trade": {
-      "ticker": "AAOI",
-      "realized_profit": -174.1201171875
-    },
-    "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 2.9404013661453563,
-    "total_realized_profit": 1491.4060950279236,
-    "per_ticker_realized": {
-      "PTON": 98.21000814437866,
-      "XMTR": 1054.1101188659668,
-      "AMD": 17.550048828125,
-      "LITE": 108.72674560546875,
-      "ETSY": -95.11502075195312,
-      "GOOGL": 231.54071044921875,
-      "AMZN": 43.280029296875,
-      "MSTR": 316.45179748535156,
-      "AAOI": -174.1201171875,
-      "AAPL": -19.020355224609375,
-      "NVO": 15.999984741210938,
-      "NVDA": -18.839996337890625,
-      "COIN": 21.96954345703125,
-      "MSFT": -25.6800537109375,
-      "META": -16.64703369140625,
-      "TSLA": -67.01031494140625
-    }
+    "win_rate": null,
+    "winners_count": 0,
+    "losers_count": 0,
+    "avg_winner": null,
+    "avg_loser": null,
+    "best_trade": null,
+    "worst_trade": null,
+    "max_drawdown_percent": null,
+    "daily_volatility": null,
+    "total_realized_profit": 0.0,
+    "per_ticker_realized": {}
   },
   "dividends": []
 }
