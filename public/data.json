@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-06-29T13:01:10.523363+00:00",
+    "generated_at": "2026-06-29T14:01:15.554776+00:00",
     "date_et": "2026-06-29",
-    "run_id": "20260629T130110_e2cb4b"
+    "run_id": "20260629T140115_01748c"
   },
   "account": {
     "total_value": 13255.735246181488,
@@ -11,83 +11,83 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3255.735246181488,
     "profit_percent": 32.55735246181488,
-    "vs_voo_dollars": 1970.0468289047876,
-    "vs_voo_percent": 17.456151154137302
+    "vs_voo_dollars": 1856.818329737067,
+    "vs_voo_percent": 16.289427700436732
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 706.52001953125,
-      "market_value": 2119.56005859375,
-      "profit_dollars": 150.96002197265625,
-      "profit_percent": 7.668394755887749,
-      "portfolio_pct": 16.65311977044214
+      "current_price": 713.02001953125,
+      "market_value": 2139.06005859375,
+      "profit_dollars": 170.46002197265625,
+      "profit_percent": 8.658946398539843,
+      "portfolio_pct": 16.968303919216048
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 171.4600067138672,
-      "market_value": 2228.9800872802734,
-      "profit_dollars": 301.9901428222656,
-      "profit_percent": 15.6715993091082,
-      "portfolio_pct": 17.51281932725057
+      "current_price": 165.72999572753906,
+      "market_value": 2154.489944458008,
+      "profit_dollars": 227.5,
+      "profit_percent": 11.80597753788422,
+      "portfolio_pct": 17.090703003679188
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.16000366210938,
-      "market_value": 1917.5200805664062,
-      "profit_dollars": -140.57998657226562,
-      "profit_percent": -6.830571011433408,
-      "portfolio_pct": 15.065716790816671
+      "current_price": 86.23999786376953,
+      "market_value": 1897.2799530029297,
+      "profit_dollars": -160.8201141357422,
+      "profit_percent": -7.814008497620168,
+      "portfolio_pct": 15.050359494606344
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 17.200000762939453,
-      "market_value": 1358.8000602722168,
-      "profit_dollars": -188.80995178222656,
-      "profit_percent": -12.200098882248923,
-      "portfolio_pct": 10.67592307943859
+      "current_price": 17.06999969482422,
+      "market_value": 1348.5299758911133,
+      "profit_dollars": -199.08003616333008,
+      "profit_percent": -12.863708208959729,
+      "portfolio_pct": 10.697346427073509
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 122.87000274658203,
-      "market_value": 2826.0100631713867,
-      "profit_dollars": 212.06002807617188,
-      "profit_percent": 8.112627449990544,
-      "portfolio_pct": 22.203609595140083
+      "current_price": 120.51499938964844,
+      "market_value": 2771.844985961914,
+      "profit_dollars": 157.89495086669922,
+      "profit_percent": 6.040473182225451,
+      "portfolio_pct": 21.987932479875028
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 73.9000015258789,
-      "market_value": 1699.7000350952148,
-      "profit_dollars": -863.6498947143555,
-      "profit_percent": -33.692235487275646,
-      "portfolio_pct": 13.354331783853699
+      "current_price": 74.69000244140625,
+      "market_value": 1717.8700561523438,
+      "profit_dollars": -845.4798736572266,
+      "profit_percent": -32.98339660243098,
+      "portfolio_pct": 13.627172874087936
     }
   ],
   "allocation": [
     {
       "label": "ROAD",
-      "pct": 22.2
+      "pct": 22.0
     },
     {
       "label": "EAT",
-      "pct": 17.5
+      "pct": 17.1
     },
     {
       "label": "QQQ",
-      "pct": 16.7
+      "pct": 17.0
     },
     {
       "label": "OLED",
@@ -95,7 +95,7 @@
     },
     {
       "label": "INOD",
-      "pct": 13.4
+      "pct": 13.6
     },
     {
       "label": "WT",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 4.4
+      "pct": 4.5
     }
   ],
   "snapshots": [
@@ -410,8 +410,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.837776762517958,
-    "voo_price": 670.260009765625,
-    "total_value": 11285.6884172767,
+    "voo_price": 676.9846801757812,
+    "total_value": 11398.916916444421,
     "total_deposited": 10900.0,
     "snapshots": [
       {
@@ -711,8 +711,8 @@
       {
         "date": "2026-06-29",
         "voo_shares": 16.837776762517958,
-        "voo_price": 670.260009765625,
-        "total_value": 11285.6884172767
+        "voo_price": 676.9846801757812,
+        "total_value": 11398.916916444421
       }
     ]
   },
@@ -1412,21 +1412,28 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "PLTR",
+        "conviction": "high",
+        "reasoning": "Perfect score 100 with all 5 bullish signals \u2014 RSI in momentum zone (61.3), MACD bullish crossover with rising histogram, price above SMA-20, and volume surge \u2014 plus strong AI/data tailwind in a risk-on session; uses remaining cash to fill an open slot."
+      }
+    ],
     "skip_new_buys": false,
-    "market_direction": "neutral",
-    "briefing": "Markets are essentially flat today \u2014 S&P 500 unchanged and NASDAQ down just 0.2% \u2014 a low-conviction, directionless session heading into month-end. With cash at $477, we're just below the $500 deployment threshold, so no new positions can be initiated even though 4 slots remain open. All 6 existing holdings continue under auto stop-loss (-7%) and profit target (+12%) enforcement."
+    "market_direction": "risk_on",
+    "briefing": "Markets are clearly risk-on today with NASDAQ up 1% and S&P 500 up 0.6%, creating ideal conditions to deploy the remaining $577 in cash. PLTR scored a perfect 100 with volume confirmation and clean momentum setup \u2014 it's the highest-quality entry available that fits within available cash. Existing positions remain intact with no stop-loss triggers visible; the portfolio continues to outperform significantly at +32.6%."
   },
   "education": {
     "market_education": {
-      "summary_en": "Markets drifted sideways in a quiet, low-volume session as investors positioned cautiously ahead of the July 4th holiday week and end-of-quarter rebalancing. The S&P 500 held flat while the NASDAQ edged slightly lower, suggesting mild rotation out of high-momentum tech names. With no major macro catalysts on deck, institutional activity was subdued and price action remained indecisive.",
-      "summary_zh": "\u5e02\u5834\u5728\u6210\u4ea4\u91cf\u6e05\u6de1\u7684\u6a6b\u76e4\u8d70\u52e2\u4e2d\u5ea6\u904e\uff0c\u6295\u8cc7\u8005\u5728\u7f8e\u570b\u7368\u7acb\u7d00\u5ff5\u65e5\u5047\u671f\u9031\u53ca\u5b63\u672b\u518d\u5e73\u8861\u524d\u8b39\u614e\u4f48\u5c40\u3002\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u5e73\u6536\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u986f\u793a\u90e8\u5206\u8cc7\u91d1\u5f9e\u9ad8\u52d5\u80fd\u79d1\u6280\u80a1\u8f2a\u51fa\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a5f\u69cb\u64cd\u4f5c\u504f\u6de1\uff0c\u76e4\u9762\u8d70\u52e2\u7336\u7591\u4e0d\u5b9a\u3002",
+      "summary_en": "U.S. equities rallied broadly on June 29 as risk appetite returned, with the NASDAQ outperforming the S&P 500, suggesting investors rotated into growth and technology names. The strength in satellite/space stocks (RKLB, ASTS, PL all scoring 100 with volume surges) points to renewed speculative enthusiasm in defense-adjacent tech sectors. AI infrastructure plays like PLTR and AMZN also saw strong momentum, reflecting continued institutional conviction in the AI buildout theme.",
+      "summary_zh": "\u7f8e\u80a1\u65bc6\u670829\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u512a\u65bc\u6a19\u666e500\uff0c\u986f\u793a\u8cc7\u91d1\u7a4d\u6975\u8f2a\u52d5\u81f3\u6210\u9577\u80a1\u53ca\u79d1\u6280\u677f\u584a\u3002\u885b\u661f\u53ca\u592a\u7a7a\u6982\u5ff5\u80a1\uff08RKLB\u3001ASTS\u3001PL\u5747\u7372\u6eff\u5206\u4e14\u6210\u4ea4\u91cf\u6fc0\u589e\uff09\u5f37\u52e2\u8868\u73fe\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u570b\u9632\u76f8\u95dc\u79d1\u6280\u884c\u696d\u7684\u6295\u6a5f\u71b1\u60c5\u91cd\u71c3\u3002AI\u57fa\u790e\u5efa\u8a2d\u9f8d\u982d\u5982PLTR\u53caAMZN\u52d5\u80fd\u5f37\u52c1\uff0c\u6a5f\u69cb\u8cc7\u91d1\u5c0dAI\u5efa\u8a2d\u6d6a\u6f6e\u4ecd\u7dad\u6301\u9ad8\u5ea6\u4fe1\u5fc3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Drag",
-      "explanation_en": "Cash drag is the performance cost of holding uninvested cash in a portfolio. When the market rises, idle cash earns nothing and pulls the portfolio's overall return below a fully-invested benchmark. Today our $477 cash balance sits just under the $500 deployment threshold \u2014 we have 4 open position slots but cannot act until cash replenishes, meaning we're accepting a small drag on upside potential.",
-      "explanation_zh": "\u73fe\u91d1\u62d6\u7d2f\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u6301\u6709\u672a\u52d5\u7528\u73fe\u91d1\u6240\u5c0e\u81f4\u7684\u7e3e\u6548\u640d\u8017\u3002\u7576\u5e02\u5834\u4e0a\u6f32\u6642\uff0c\u9592\u7f6e\u73fe\u91d1\u7121\u6cd5\u53c3\u8207\u7372\u5229\uff0c\u4f7f\u7d44\u5408\u5831\u916c\u4f4e\u65bc\u6eff\u5009\u57fa\u6e96\u3002\u4eca\u65e5\u5e33\u4e0a\u73fe\u91d1\u70ba$477\uff0c\u7565\u4f4e\u65bc$500\u7684\u90e8\u7f72\u9580\u6abb\uff0c\u96d6\u6709\u56db\u500b\u7a7a\u5009\u4f4d\u537b\u7121\u6cd5\u884c\u52d5\uff0c\u610f\u5473\u8457\u6211\u5011\u66ab\u6642\u627f\u53d7\u5c11\u91cf\u7684\u4e0a\u884c\u932f\u5931\u98a8\u96aa\uff0c\u9700\u7b49\u5f85\u73fe\u91d1\u56de\u88dc\u5f8c\u65b9\u53ef\u518d\u6b21\u51fa\u64ca\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price gains on the theory that winners tend to keep winning in the short term. Today's top candidates \u2014 all scoring 100 with RSI in the bullish zone (55\u201370), MACD crossovers, and volume surges \u2014 are textbook momentum setups. The risk is that momentum can reverse sharply when sentiment shifts, which is why RSI above 70 (overbought) is treated as a caution signal even when MACD looks good.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u8fd1\u671f\u5f37\u52e2\u80a1\u7968\u7684\u7b56\u7565\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\u6f32\u52e2\u5f37\u52c1\u7684\u80a1\u7968\u5f80\u5f80\u6301\u7e8c\u4e0a\u6f32\u3002\u4eca\u65e5\u8a55\u5206\u6eff\u5206\u7684\u5019\u9078\u80a1\uff08RSI\u8655\u65bc55\u201370\u52d5\u80fd\u5340\u3001MACD\u51fa\u73fe\u91d1\u53c9\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\u5747\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u8a0a\u865f\u3002\u6b64\u7b56\u7565\u7684\u98a8\u96aa\u5728\u65bc\uff0c\u4e00\u65e6\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\uff0c\u52d5\u80fd\u80a1\u53ef\u80fd\u6025\u901f\u56de\u843d\uff0c\u56e0\u6b64\u5373\u4f7fMACD\u770b\u6f32\uff0cRSI\u8d85\u904e70\uff08\u8d85\u8cb7\uff09\u4ecd\u61c9\u8996\u70ba\u8b66\u793a\u4fe1\u865f\u3002"
     }
   },
   "stats": {
