@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-01T14:01:14.011973+00:00",
+    "generated_at": "2026-07-01T15:01:25.110279+00:00",
     "date_et": "2026-07-01",
-    "run_id": "20260701T140114_0d40a9"
+    "run_id": "20260701T150125_fd8415"
   },
   "account": {
     "total_value": 13255.735246181488,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3255.735246181488,
     "profit_percent": 32.55735246181488,
-    "vs_voo_dollars": 1718.6589451639557,
-    "vs_voo_percent": 14.89683261444994
+    "vs_voo_dollars": 1694.2562956750644,
+    "vs_voo_percent": 14.65432150097763
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 730.5900268554688,
-      "market_value": 2191.7700805664062,
-      "profit_dollars": 223.1700439453125,
-      "profit_percent": 11.336484801065112,
-      "portfolio_pct": 17.742002801722307
+      "current_price": 728.47998046875,
+      "market_value": 2185.43994140625,
+      "profit_dollars": 216.83990478515625,
+      "profit_percent": 11.01492942961336,
+      "portfolio_pct": 17.570041153459943
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 169.4219970703125,
-      "market_value": 2202.4859619140625,
-      "profit_dollars": 275.4960174560547,
-      "profit_percent": 14.296702390605454,
-      "portfolio_pct": 17.82874602291087
+      "current_price": 170.75,
+      "market_value": 2219.75,
+      "profit_dollars": 292.7600555419922,
+      "profit_percent": 15.192609405356027,
+      "portfolio_pct": 17.84587995829203
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.20999908447266,
-      "market_value": 1918.6199798583984,
-      "profit_dollars": -139.48008728027344,
-      "profit_percent": -6.777128552072267,
-      "portfolio_pct": 15.530899595678077
+      "current_price": 87.08999633789062,
+      "market_value": 1915.9799194335938,
+      "profit_dollars": -142.12014770507812,
+      "profit_percent": -6.905405134292835,
+      "portfolio_pct": 15.403693048636086
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 17.15999984741211,
-      "market_value": 1355.6399879455566,
-      "profit_dollars": -191.97002410888672,
-      "profit_percent": -12.404289363187022,
-      "portfolio_pct": 10.973673140953409
+      "current_price": 17.010000228881836,
+      "market_value": 1343.790018081665,
+      "profit_dollars": -203.81999397277832,
+      "profit_percent": -13.16998419402886,
+      "portfolio_pct": 10.803520825244496
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 104.20500183105469,
-      "market_value": 2396.715042114258,
-      "profit_dollars": -217.23499298095703,
-      "profit_percent": -8.310602347571043,
-      "portfolio_pct": 19.400997106928443
+      "current_price": 108.41500091552734,
+      "market_value": 2493.545021057129,
+      "profit_dollars": -120.40501403808594,
+      "profit_percent": -4.6062477255308405,
+      "portfolio_pct": 20.047079678514383
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 74.4000015258789,
-      "market_value": 1711.2000350952148,
-      "profit_dollars": -852.1498947143555,
-      "profit_percent": -33.243603801594936,
-      "portfolio_pct": 13.851870725929807
+      "current_price": 74.03500366210938,
+      "market_value": 1702.8050842285156,
+      "profit_dollars": -860.5448455810547,
+      "profit_percent": -33.5711030153805,
+      "portfolio_pct": 13.689854769911674
     }
   ],
   "allocation": [
     {
       "label": "ROAD",
-      "pct": 19.4
+      "pct": 20.0
     },
     {
       "label": "EAT",
@@ -87,19 +87,19 @@
     },
     {
       "label": "QQQ",
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "label": "OLED",
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "label": "INOD",
-      "pct": 13.9
+      "pct": 13.7
     },
     {
       "label": "WT",
-      "pct": 11.0
+      "pct": 10.8
     },
     {
       "label": "Cash",
@@ -422,8 +422,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.837776762517958,
-    "voo_price": 685.1900024414062,
-    "total_value": 11537.076301017532,
+    "voo_price": 686.6392822265625,
+    "total_value": 11561.478950506424,
     "total_deposited": 10900.0,
     "snapshots": [
       {
@@ -735,8 +735,8 @@
       {
         "date": "2026-07-01",
         "voo_shares": 16.837776762517958,
-        "voo_price": 685.1900024414062,
-        "total_value": 11537.076301017532
+        "voo_price": 686.6392822265625,
+        "total_value": 11561.478950506424
       }
     ]
   },
@@ -1437,20 +1437,20 @@
   ],
   "today_plan": {
     "decisions": [],
-    "skip_new_buys": true,
+    "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets pulled back mildly today with NASDAQ -0.5% and S&P 500 -0.2%, a classic neutral session at the open of Q3. Strategy memory is explicit: do not deploy cash on neutral days just to fill slots. With $577 available and 4 open positions, the right call is to hold dry powder and wait for a genuine risk-on day \u2014 ideally NASDAQ up 2% or more \u2014 before pulling the trigger on the top-scored candidates like FIG, TALO, ALSN, or NKE. Existing positions continue to run; no stop-loss or profit-target levels were breached today."
+    "briefing": "Neutral session with NASDAQ -0.4% and S&P 500 flat \u2014 not the risk-on signal needed to justify new entries. Despite 4 open slots and $577 in cash above the $500 threshold, the playbook is clear: don't force buys on neutral days, hold dry powder, and wait for a genuine NASDAQ +2% or stronger setup. RGC stands out as the top candidate with all four conviction signals (RSI 56.6, MACD crossover, above SMA-20, volume surge), but it will keep until conditions improve."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities opened Q3 2026 on a cautious note, with the S&P 500 slipping -0.2% and the Nasdaq dipping -0.5% as investors rotated defensively after a strong June. Quarter-end portfolio rebalancing \u2014 institutional funds trimming equity exposure to lock in H1 gains \u2014 is a recurring pattern on the first trading day of a new quarter. With no major macro catalyst today, the mild selling reflects profit-taking and positioning caution rather than a fundamental shift in trend.",
-      "summary_zh": "\u7f8e\u80a1\u57282026\u5e74\u7b2c\u4e09\u5b63\u9996\u500b\u4ea4\u6613\u65e5\u4ee5\u8b39\u614e\u59ff\u614b\u958b\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.2%\uff0c\u7d0d\u65af\u9054\u514b\u8dcc0.5%\uff0c\u5e02\u5834\u8cc7\u91d1\u5728\u5f37\u52e2\u516d\u6708\u5f8c\u8f49\u5411\u9632\u5b88\u3002\u5b63\u672b\u518d\u5e73\u8861\u6548\u61c9\u660e\u986f\u2014\u2014\u6a5f\u69cb\u57fa\u91d1\u666e\u904d\u524a\u6e1b\u80a1\u7968\u5009\u4f4d\uff0c\u9396\u5b9a\u4e0a\u534a\u5e74\u6536\u76ca\uff0c\u6b64\u4e43\u65b0\u5b63\u521d\u5e38\u898b\u73fe\u8c61\u3002\u7531\u65bc\u4eca\u65e5\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u5c0f\u5e45\u8abf\u6574\u53cd\u6620\u7684\u662f\u7372\u5229\u56de\u5410\u8207\u5009\u4f4d\u89c0\u671b\uff0c\u800c\u975e\u5e02\u5834\u8da8\u52e2\u7684\u6839\u672c\u8f49\u8b8a\u3002",
+      "summary_en": "Markets drifted sideways to start Q3 2026 as investors balanced end-of-quarter rebalancing against cautious positioning ahead of upcoming U.S. employment data. The NASDAQ slipped 0.4% on light profit-taking in technology shares following a strong June rally, while the S&P 500 held nearly flat as defensive sectors absorbed the tech weakness. With no major macro catalyst, volume stayed below average and traders broadly adopted a wait-and-see stance.",
+      "summary_zh": "2026\u5e74\u7b2c\u4e09\u5b63\u9996\u500b\u4ea4\u6613\u65e5\uff0c\u5e02\u5834\u7a84\u5e45\u6a6b\u884c\u3002\u6295\u8cc7\u8005\u5728\u5b63\u672b\u518d\u5e73\u8861\u64cd\u4f5c\u8207\u5373\u5c07\u516c\u5e03\u7684\u7f8e\u570b\u5c31\u696d\u6578\u64da\u4e4b\u524d\u666e\u904d\u4fdd\u6301\u8b39\u614e\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u5ef6\u7e8c\u516d\u6708\u5f37\u52c1\u53cd\u5f48\u5f8c\u7684\u7372\u5229\u56de\u5410\uff0c\u5c0f\u5e45\u4e0b\u6ed10.4%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u53d7\u9632\u79a6\u985e\u80a1\u652f\u6490\uff0c\u5e7e\u4e4e\u6536\u5e73\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u6210\u4ea4\u91cf\u4f4e\u8ff7\uff0c\u6295\u8cc7\u8005\u666e\u904d\u89c0\u671b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Quarter-End Rebalancing",
-      "explanation_en": "At the end of every quarter, large institutional investors like pension funds and mutual funds rebalance their portfolios \u2014 selling assets that have grown too large and buying those that have shrunk. This mechanical selling often causes mild dips on the first day of a new quarter even when the underlying economy is fine. Recognizing this pattern helps you avoid mistaking routine rebalancing for a genuine market downturn.",
-      "explanation_zh": "\u6bcf\u500b\u5b63\u672b\uff0c\u9000\u4f11\u57fa\u91d1\u3001\u5171\u540c\u57fa\u91d1\u7b49\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u6703\u9032\u884c\u6295\u8cc7\u7d44\u5408\u518d\u5e73\u8861\u2014\u2014\u8ce3\u51fa\u6bd4\u91cd\u904e\u9ad8\u7684\u8cc7\u7522\uff0c\u88dc\u5165\u6bd4\u91cd\u4e0d\u8db3\u7684\u90e8\u5206\u3002\u9019\u7a2e\u6a5f\u68b0\u6027\u7684\u8ce3\u76e4\u5f80\u5f80\u5728\u65b0\u5b63\u9996\u65e5\u9020\u6210\u6eab\u548c\u56de\u843d\uff0c\u5373\u4f7f\u57fa\u672c\u9762\u4e26\u7121\u7570\u72c0\u3002\u8b58\u5225\u6b64\u898f\u5f8b\uff0c\u6709\u52a9\u65bc\u907f\u514d\u5c07\u4f8b\u884c\u518d\u5e73\u8861\u8aa4\u5224\u70ba\u771f\u6b63\u7684\u5e02\u5834\u4e0b\u8dcc\u8a0a\u865f\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder means keeping cash on hand so you can invest decisively when the right setup appears, rather than being fully deployed at all times. Today is a textbook example: we have 4 open slots and $577 in cash, but the market gave no risk-on signal \u2014 deploying on a neutral day risks buying into noise rather than genuine momentum. Patience with dry powder means when a NASDAQ +2% day arrives, we can act with conviction.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u523b\u610f\u4fdd\u7559\u73fe\u91d1\uff0c\u4ee5\u4fbf\u5728\u6700\u4f73\u5165\u5834\u6642\u6a5f\u679c\u65b7\u51fa\u624b\uff0c\u800c\u975e\u96a8\u6642\u7dad\u6301\u6eff\u5009\u3002\u4eca\u65e5\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u4f8b\u5b50\uff1a\u5e33\u6236\u96d6\u67094\u500b\u7a7a\u4f4d\u4e14\u73fe\u91d1\u8d85\u904e\u9580\u6abb\uff0c\u4f46\u5e02\u5834\u672a\u767c\u51fa\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u2014\u2014\u5728\u4e2d\u6027\u65e5\u8cbf\u7136\u5165\u5834\uff0c\u53ea\u662f\u8ffd\u9010\u77ed\u7dda\u566a\u97f3\uff0c\u800c\u975e\u771f\u6b63\u7684\u52d5\u80fd\u3002\u8010\u5fc3\u6301\u6709\u4e7e\u706b\u85e5\uff0c\u610f\u5473\u8457\u7576\u90a3\u65af\u9054\u514b\u6f32\u5e45\u90542%\u4ee5\u4e0a\u7684\u5f37\u52e2\u65e5\u5230\u4f86\u6642\uff0c\u6211\u5011\u80fd\u5920\u4fe1\u5fc3\u5341\u8db3\u5730\u51fa\u64ca\u3002"
     }
   },
   "stats": {
