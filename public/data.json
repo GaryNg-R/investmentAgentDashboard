@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-01T15:01:25.110279+00:00",
+    "generated_at": "2026-07-01T16:01:39.946141+00:00",
     "date_et": "2026-07-01",
-    "run_id": "20260701T150125_fd8415"
+    "run_id": "20260701T160139_37a0d0"
   },
   "account": {
     "total_value": 13255.735246181488,
@@ -11,75 +11,75 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3255.735246181488,
     "profit_percent": 32.55735246181488,
-    "vs_voo_dollars": 1694.2562956750644,
-    "vs_voo_percent": 14.65432150097763
+    "vs_voo_dollars": 1665.7880794825287,
+    "vs_voo_percent": 14.372697783030342
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 728.47998046875,
-      "market_value": 2185.43994140625,
-      "profit_dollars": 216.83990478515625,
-      "profit_percent": 11.01492942961336,
-      "portfolio_pct": 17.570041153459943
+      "current_price": 729.5349731445312,
+      "market_value": 2188.6049194335938,
+      "profit_dollars": 220.0048828125,
+      "profit_percent": 11.175702464687367,
+      "portfolio_pct": 17.476483227193185
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 170.75,
-      "market_value": 2219.75,
-      "profit_dollars": 292.7600555419922,
-      "profit_percent": 15.192609405356027,
-      "portfolio_pct": 17.84587995829203
+      "current_price": 171.8625030517578,
+      "market_value": 2234.2125396728516,
+      "profit_dollars": 307.22259521484375,
+      "profit_percent": 15.94313432192062,
+      "portfolio_pct": 17.840669930360182
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.08999633789062,
-      "market_value": 1915.9799194335938,
-      "profit_dollars": -142.12014770507812,
-      "profit_percent": -6.905405134292835,
-      "portfolio_pct": 15.403693048636086
+      "current_price": 86.97000122070312,
+      "market_value": 1913.3400268554688,
+      "profit_dollars": -144.76004028320312,
+      "profit_percent": -7.033673561094607,
+      "portfolio_pct": 15.278433576723732
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 17.010000228881836,
-      "market_value": 1343.790018081665,
-      "profit_dollars": -203.81999397277832,
-      "profit_percent": -13.16998419402886,
-      "portfolio_pct": 10.803520825244496
+      "current_price": 17.3799991607666,
+      "market_value": 1373.0199337005615,
+      "profit_dollars": -174.59007835388184,
+      "profit_percent": -11.281270927041529,
+      "portfolio_pct": 10.963860872673978
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 108.41500091552734,
-      "market_value": 2493.545021057129,
-      "profit_dollars": -120.40501403808594,
-      "profit_percent": -4.6062477255308405,
-      "portfolio_pct": 20.047079678514383
+      "current_price": 108.58999633789062,
+      "market_value": 2497.5699157714844,
+      "profit_dollars": -116.38011932373047,
+      "profit_percent": -4.452270233217799,
+      "portfolio_pct": 19.943635488591905
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 74.03500366210938,
-      "market_value": 1702.8050842285156,
-      "profit_dollars": -860.5448455810547,
-      "profit_percent": -33.5711030153805,
-      "portfolio_pct": 13.689854769911674
+      "current_price": 75.62000274658203,
+      "market_value": 1739.2600631713867,
+      "profit_dollars": -824.0898666381836,
+      "profit_percent": -32.148941393241806,
+      "portfolio_pct": 13.888367448981226
     }
   ],
   "allocation": [
     {
       "label": "ROAD",
-      "pct": 20.0
+      "pct": 19.9
     },
     {
       "label": "EAT",
@@ -87,23 +87,23 @@
     },
     {
       "label": "QQQ",
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "label": "OLED",
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "label": "INOD",
-      "pct": 13.7
+      "pct": 13.9
     },
     {
       "label": "WT",
-      "pct": 10.8
+      "pct": 11.0
     },
     {
       "label": "Cash",
-      "pct": 4.7
+      "pct": 4.6
     }
   ],
   "snapshots": [
@@ -422,8 +422,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.837776762517958,
-    "voo_price": 686.6392822265625,
-    "total_value": 11561.478950506424,
+    "voo_price": 688.3300170898438,
+    "total_value": 11589.94716669896,
     "total_deposited": 10900.0,
     "snapshots": [
       {
@@ -735,8 +735,8 @@
       {
         "date": "2026-07-01",
         "voo_shares": 16.837776762517958,
-        "voo_price": 686.6392822265625,
-        "total_value": 11561.478950506424
+        "voo_price": 688.3300170898438,
+        "total_value": 11589.94716669896
       }
     ]
   },
@@ -1436,21 +1436,28 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "RGC",
+        "conviction": "medium",
+        "reasoning": "Score 100 with all four confirmation signals \u2014 MACD crossover, RSI in bullish zone (62), price above SMA-20, and volume surge \u2014 the only candidate meeting all four criteria indicating genuine institutional participation; deploying remaining cash above the $500 threshold."
+      }
+    ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Neutral session with NASDAQ -0.4% and S&P 500 flat \u2014 not the risk-on signal needed to justify new entries. Despite 4 open slots and $577 in cash above the $500 threshold, the playbook is clear: don't force buys on neutral days, hold dry powder, and wait for a genuine NASDAQ +2% or stronger setup. RGC stands out as the top candidate with all four conviction signals (RSI 56.6, MACD crossover, above SMA-20, volume surge), but it will keep until conditions improve."
+    "briefing": "Market is neutral today \u2014 S&P barely positive, NASDAQ slightly red \u2014 not the risk-on signal that would justify aggressive deployment. However, RGC is the one exception: it clears all four confirmation criteria including a volume surge, which is the highest-quality setup in the screener. With $577 in cash and four open slots, deploying into RGC at medium conviction is justified by the quality of the signal even on a flat tape. The remaining overbought candidates (most of the list has RSI above 70) are not worth chasing in neutral conditions."
   },
   "education": {
     "market_education": {
-      "summary_en": "Markets drifted sideways to start Q3 2026 as investors balanced end-of-quarter rebalancing against cautious positioning ahead of upcoming U.S. employment data. The NASDAQ slipped 0.4% on light profit-taking in technology shares following a strong June rally, while the S&P 500 held nearly flat as defensive sectors absorbed the tech weakness. With no major macro catalyst, volume stayed below average and traders broadly adopted a wait-and-see stance.",
-      "summary_zh": "2026\u5e74\u7b2c\u4e09\u5b63\u9996\u500b\u4ea4\u6613\u65e5\uff0c\u5e02\u5834\u7a84\u5e45\u6a6b\u884c\u3002\u6295\u8cc7\u8005\u5728\u5b63\u672b\u518d\u5e73\u8861\u64cd\u4f5c\u8207\u5373\u5c07\u516c\u5e03\u7684\u7f8e\u570b\u5c31\u696d\u6578\u64da\u4e4b\u524d\u666e\u904d\u4fdd\u6301\u8b39\u614e\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u5ef6\u7e8c\u516d\u6708\u5f37\u52c1\u53cd\u5f48\u5f8c\u7684\u7372\u5229\u56de\u5410\uff0c\u5c0f\u5e45\u4e0b\u6ed10.4%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u53d7\u9632\u79a6\u985e\u80a1\u652f\u6490\uff0c\u5e7e\u4e4e\u6536\u5e73\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u6210\u4ea4\u91cf\u4f4e\u8ff7\uff0c\u6295\u8cc7\u8005\u666e\u904d\u89c0\u671b\u3002",
+      "summary_en": "Markets were mixed to open Q3 2026, with the S&P 500 managing a slim +0.2% gain while the NASDAQ slipped -0.2%, reflecting a cautious rotation between growth and value at the start of the new quarter. The divergence is consistent with investors trimming extended momentum names \u2014 nearly the entire screener shows RSI above 70 \u2014 while reallocating into more defensive positions. With no major macro catalyst, trading volumes were subdued and breadth narrow, a classic hallmark of an indecisive session.",
+      "summary_zh": "\u7f8e\u80a12026\u5e74\u7b2c\u4e09\u5b63\u9996\u500b\u4ea4\u6613\u65e5\u8d70\u52e2\u5206\u6b67\uff0c\u6a19\u666e500\u52c9\u5f37\u6536\u53470.2%\uff0c\u7d0d\u65af\u9054\u514b\u5247\u5c0f\u5e45\u4e0b\u8dcc0.2%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u5b63\u521d\u8b39\u614e\u5730\u5f9e\u6210\u9577\u80a1\u8f49\u5411\u50f9\u503c\u80a1\u3002\u9019\u7a2e\u80cc\u96e2\u8d70\u52e2\u8207\u5e02\u5834\u5c0d\u5ef6\u4f38\u52d5\u80fd\u80a1\u7684\u7372\u5229\u4e86\u7d50\u4e00\u81f4\u2014\u2014\u672c\u65e5\u7be9\u9078\u6e05\u55ae\u4e2d\u5e7e\u4e4e\u6240\u6709\u500b\u80a1\u7684RSI\u5747\u8d85\u904e70\u2014\u2014\u8cc7\u91d1\u6b63\u91cd\u65b0\u6d41\u5411\u9632\u5b88\u6027\u914d\u7f6e\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6210\u4ea4\u91cf\u6e05\u6de1\u3001\u5e02\u5834\u5ee3\u5ea6\u6536\u7a84\uff0c\u662f\u5178\u578b\u7684\u65b9\u5411\u4e0d\u660e\u76e4\u9762\u7279\u5fb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder means keeping cash on hand so you can invest decisively when the right setup appears, rather than being fully deployed at all times. Today is a textbook example: we have 4 open slots and $577 in cash, but the market gave no risk-on signal \u2014 deploying on a neutral day risks buying into noise rather than genuine momentum. Patience with dry powder means when a NASDAQ +2% day arrives, we can act with conviction.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u523b\u610f\u4fdd\u7559\u73fe\u91d1\uff0c\u4ee5\u4fbf\u5728\u6700\u4f73\u5165\u5834\u6642\u6a5f\u679c\u65b7\u51fa\u624b\uff0c\u800c\u975e\u96a8\u6642\u7dad\u6301\u6eff\u5009\u3002\u4eca\u65e5\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u4f8b\u5b50\uff1a\u5e33\u6236\u96d6\u67094\u500b\u7a7a\u4f4d\u4e14\u73fe\u91d1\u8d85\u904e\u9580\u6abb\uff0c\u4f46\u5e02\u5834\u672a\u767c\u51fa\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u2014\u2014\u5728\u4e2d\u6027\u65e5\u8cbf\u7136\u5165\u5834\uff0c\u53ea\u662f\u8ffd\u9010\u77ed\u7dda\u566a\u97f3\uff0c\u800c\u975e\u771f\u6b63\u7684\u52d5\u80fd\u3002\u8010\u5fc3\u6301\u6709\u4e7e\u706b\u85e5\uff0c\u610f\u5473\u8457\u7576\u90a3\u65af\u9054\u514b\u6f32\u5e45\u90542%\u4ee5\u4e0a\u7684\u5f37\u52e2\u65e5\u5230\u4f86\u6642\uff0c\u6211\u5011\u80fd\u5920\u4fe1\u5fc3\u5341\u8db3\u5730\u51fa\u64ca\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means requiring multiple independent technical indicators to agree before entering a trade. A single bullish signal can be a false alarm, but when RSI is in the bullish zone, MACD crosses above its signal line, price is above its 20-day average, AND volume surges all at once, it suggests real institutional buying rather than random noise. RGC today is the only candidate hitting all four \u2014 that's what separates a high-quality setup from the dozens of merely overbought stocks on the list.",
+      "explanation_zh": "\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u5728\u9032\u5834\u524d\uff0c\u8981\u6c42\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u7684\u770b\u6f32\u4fe1\u865f\u3002\u55ae\u4e00\u6307\u6a19\u51fa\u73fe\u8cb7\u5165\u4fe1\u865f\u6709\u6642\u53ea\u662f\u5047\u7a81\u7834\uff0c\u4f46\u82e5RSI\u8655\u65bc\u770b\u6f32\u5340\u9593\u3001MACD\u5411\u4e0a\u7a7f\u8d8a\u8a0a\u865f\u7dda\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda\uff0c\u4e14\u6210\u4ea4\u91cf\u540c\u6b65\u653e\u5927\u2014\u2014\u56db\u9805\u689d\u4ef6\u540c\u6642\u6210\u7acb\uff0c\u4ee3\u8868\u6709\u5be6\u8cea\u6a5f\u69cb\u8cc7\u91d1\u4ecb\u5165\uff0c\u800c\u975e\u96a8\u6a5f\u96dc\u8a0a\u3002\u4eca\u65e5RGC\u662f\u552f\u4e00\u540c\u6642\u6eff\u8db3\u56db\u9805\u689d\u4ef6\u7684\u500b\u80a1\uff0c\u9019\u6b63\u662f\u5176\u6709\u5225\u65bc\u6e05\u55ae\u4e0a\u5176\u4ed6\u5927\u91cf\u8d85\u8cb7\u80a1\u7968\u7684\u95dc\u9375\u6240\u5728\u3002"
     }
   },
   "stats": {
