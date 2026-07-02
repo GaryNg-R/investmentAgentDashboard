@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-02T20:01:27.023597+00:00",
+    "generated_at": "2026-07-02T21:01:11.428848+00:00",
     "date_et": "2026-07-02",
-    "run_id": "20260702T200127_55aa03"
+    "run_id": "20260702T210111_76cf42"
   },
   "account": {
     "total_value": 13255.735246181488,
@@ -11,29 +11,29 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3255.735246181488,
     "profit_percent": 32.55735246181488,
-    "vs_voo_dollars": 1728.7612001429316,
-    "vs_voo_percent": 14.997528347320689
+    "vs_voo_dollars": 1724.5517559523014,
+    "vs_voo_percent": 14.955548642631356
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 712.6043701171875,
-      "market_value": 2137.8131103515625,
-      "profit_dollars": 169.21307373046875,
-      "profit_percent": 8.59560452009877,
-      "portfolio_pct": 17.458657163306974
+      "current_price": 712.5999755859375,
+      "market_value": 2137.7999267578125,
+      "profit_dollars": 169.19989013671875,
+      "profit_percent": 8.594934826229789,
+      "portfolio_pct": 17.45409932707572
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 177.55999755859375,
-      "market_value": 2308.2799682617188,
-      "profit_dollars": 381.29002380371094,
-      "profit_percent": 19.78681958877341,
-      "portfolio_pct": 18.850791216348757
+      "current_price": 177.7100067138672,
+      "market_value": 2310.2300872802734,
+      "profit_dollars": 383.2401428222656,
+      "profit_percent": 19.888019858352564,
+      "portfolio_pct": 18.861907939599636
     },
     {
       "ticker": "OLED",
@@ -43,17 +43,17 @@
       "market_value": 1731.3999328613281,
       "profit_dollars": -326.70013427734375,
       "profit_percent": -15.873870250222929,
-      "portfolio_pct": 14.139644711706193
+      "portfolio_pct": 14.13604052690073
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.024999618530273,
-      "market_value": 1423.9749698638916,
-      "profit_dollars": -123.63504219055176,
-      "profit_percent": -7.988772444449809,
-      "portfolio_pct": 11.629029070691653
+      "current_price": 18.040000915527344,
+      "market_value": 1425.1600723266602,
+      "profit_dollars": -122.4499397277832,
+      "profit_percent": -7.9121961459290135,
+      "portfolio_pct": 11.635740626625052
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 2482.159957885742,
       "profit_dollars": -131.79007720947266,
       "profit_percent": -5.041797870657161,
-      "portfolio_pct": 20.270798939056554
+      "portfolio_pct": 20.265631927648535
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 1584.2399368286133,
       "profit_dollars": -979.109992980957,
       "profit_percent": -38.196501445032695,
-      "portfolio_pct": 12.937848396374271
+      "portfolio_pct": 12.934550548545962
     }
   ],
   "allocation": [
@@ -428,8 +428,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.837776762517958,
-    "voo_price": 684.5900268554688,
-    "total_value": 11526.974046038556,
+    "voo_price": 684.8400268554688,
+    "total_value": 11531.183490229187,
     "total_deposited": 10900.0,
     "snapshots": [
       {
@@ -747,8 +747,8 @@
       {
         "date": "2026-07-02",
         "voo_shares": 16.837776762517958,
-        "voo_price": 684.5900268554688,
-        "total_value": 11526.974046038556
+        "voo_price": 684.8400268554688,
+        "total_value": 11531.183490229187
       }
     ]
   },
@@ -1449,20 +1449,20 @@
   ],
   "today_plan": {
     "decisions": [],
-    "skip_new_buys": false,
+    "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Market is neutral today with NASDAQ off -0.8% and S&P 500 flat \u2014 not a risk-on setup. Despite holding $577 in cash with 4 open slots, the strategy playbook is clear: do not force buys near the $500 floor on neutral days; wait for a genuine risk-on signal before deploying. The top-scoring candidates (CAR, NKTR, AUGO) remain attractive and will be first in line when NASDAQ shows a proper bounce. All six existing positions are held \u2014 none are near stop-loss or profit targets."
+    "briefing": "NASDAQ fell 0.8% while the S&P 500 barely moved \u2014 a neutral-to-risk-off session driven by growth and tech weakness. Following our established playbook, we hold cash through neutral days and wait for a genuine risk-on signal (NASDAQ up 2% or more) before deploying into our top-scoring candidates like CAR, NKTR, AUGO, and CRSP. Existing positions remain intact with no stop-loss or profit-target triggers expected today."
   },
   "education": {
     "market_education": {
-      "summary_en": "Markets drifted sideways on July 2 as investors lightened positioning ahead of the long Independence Day holiday weekend, with thin pre-holiday volume exaggerating small intraday moves. The NASDAQ slipped -0.8% on mild selling in rate-sensitive tech and growth names, while the broader S&P 500 held nearly flat, indicating sector rotation rather than a broad risk-off event. Pre-holiday sessions historically see compressed conviction and reduced institutional participation, making momentum signals less reliable for new entries.",
-      "summary_zh": "\u7f8e\u80a1\u57287\u67082\u65e5\u5448\u73fe\u6a6b\u76e4\u6f02\u79fb\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u8d81\u570b\u6176\u9577\u5047\u524d\u5915\u4e3b\u52d5\u964d\u4f4e\u5009\u4f4d\uff0c\u6e05\u6de1\u7684\u6210\u4ea4\u91cf\u4ee4\u76e4\u4e2d\u7d30\u5fae\u6ce2\u52d5\u88ab\u653e\u5927\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.8%\uff0c\u5c0d\u5229\u7387\u654f\u611f\u7684\u79d1\u6280\u53ca\u6210\u9577\u80a1\u627f\u53d7\u8f15\u5ea6\u62cb\u58d3\uff0c\u800c\u6a19\u666e500\u6307\u6578\u5247\u5e7e\u8fd1\u6301\u5e73\uff0c\u53cd\u6620\u677f\u584a\u8f2a\u52d5\u800c\u975e\u5168\u9762\u907f\u96aa\u60c5\u7dd2\u3002\u6b77\u53f2\u4e0a\uff0c\u5047\u671f\u524d\u4ea4\u6613\u65e5\u6a5f\u69cb\u53c3\u8207\u5ea6\u504f\u4f4e\uff0c\u52d5\u91cf\u4fe1\u865f\u7684\u53ef\u9760\u6027\u4e0b\u964d\uff0c\u4e26\u975e\u8ffd\u5165\u65b0\u5009\u7684\u7406\u60f3\u6642\u6a5f\u3002",
+      "summary_en": "The S&P 500 closed virtually flat while the NASDAQ fell 0.8%, reflecting a split session where high-multiple technology and growth names lagged while defensive sectors provided ballast. This divergence is a classic sign of intraday rotation \u2014 institutional investors trimming exposure to rate-sensitive tech stocks and rotating into steadier names in telecom, consumer staples, and value. With no major macro catalyst to break the stalemate, most market participants chose to sit on the sidelines ahead of upcoming economic data.",
+      "summary_zh": "\u6a19\u666e500\u5e7e\u4e4e\u6301\u5e73\u6536\u5e02\uff0c\u7d0d\u65af\u9054\u514b\u5247\u4e0b\u8dcc0.8%\uff0c\u5448\u73fe\u51fa\u5178\u578b\u7684\u5206\u5316\u8d70\u52e2\u2014\u2014\u9ad8\u4f30\u503c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u666e\u904d\u843d\u5f8c\uff0c\u800c\u9632\u79a6\u6027\u677f\u584a\u5247\u767c\u63ee\u7a69\u5b9a\u4f5c\u7528\u3002\u9019\u7a2e\u80cc\u96e2\u662f\u76e4\u4e2d\u8cc7\u91d1\u8f2a\u52d5\u7684\u5178\u578b\u8a0a\u865f\uff0c\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u5728\u524a\u6e1b\u5c0d\u5229\u7387\u654f\u611f\u578b\u79d1\u6280\u80a1\u7684\u6301\u5009\uff0c\u8cc7\u91d1\u8f49\u5411\u96fb\u4fe1\u3001\u6d88\u8cbb\u5fc5\u9700\u54c1\u53ca\u50f9\u503c\u578b\u80a1\u7968\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u6253\u7834\u50f5\u5c40\u7684\u60c5\u6cc1\u4e0b\uff0c\u5927\u591a\u6578\u5e02\u5834\u53c3\u8207\u8005\u9078\u64c7\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\uff0c\u89c0\u671b\u6c23\u6c1b\u4e3b\u5c0e\u5168\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Pre-Holiday Drift",
-      "explanation_en": "Pre-holiday drift is the tendency for stock markets to lose direction and volume in the sessions just before a major holiday. With fewer institutional traders at their desks, price moves are smaller and less meaningful, momentum signals become noisy, and the risk of entering a position that reverses when full volume returns the following week is elevated.",
-      "explanation_zh": "\u300c\u5047\u671f\u524d\u6f02\u79fb\u300d\u662f\u6307\u80a1\u5e02\u5728\u91cd\u5927\u7bc0\u5047\u65e5\u524d\u5915\u7684\u4ea4\u6613\u65e5\u5f80\u5f80\u7f3a\u4e4f\u65b9\u5411\u611f\u4e14\u6210\u4ea4\u91cf\u840e\u7e2e\u7684\u73fe\u8c61\u3002\u7531\u65bc\u6a5f\u69cb\u6295\u8cc7\u8005\u5927\u91cf\u7f3a\u5e2d\uff0c\u50f9\u683c\u6ce2\u52d5\u5e45\u5ea6\u504f\u5c0f\u4e14\u53c3\u8003\u610f\u7fa9\u6709\u9650\uff0c\u52d5\u91cf\u6307\u6a19\u7684\u566a\u97f3\u589e\u52a0\uff0c\u82e5\u6b64\u6642\u8cbf\u7136\u5efa\u5009\uff0c\u5047\u671f\u5f8c\u5927\u91cf\u8cc7\u91d1\u56de\u6d41\u6642\u51fa\u73fe\u53cd\u8f49\u7684\u98a8\u96aa\u4e5f\u76f8\u5c0d\u8f03\u9ad8\u3002"
+      "term": "Index Divergence",
+      "explanation_en": "Index divergence happens when major market indexes move in opposite directions on the same day \u2014 today the S&P 500 was flat while the NASDAQ dropped 0.8%. It signals that selling pressure is concentrated in specific sectors (here, tech and growth) while other parts of the market hold firm. Savvy investors use divergence as a clue about where institutional money is rotating, and whether overall risk appetite is rising or falling.",
+      "explanation_zh": "\u6307\u6578\u80cc\u96e2\u662f\u6307\u4e3b\u8981\u5e02\u5834\u6307\u6578\u5728\u540c\u4e00\u5929\u51fa\u73fe\u4e0d\u540c\u65b9\u5411\u8d70\u52e2\u7684\u73fe\u8c61\u2014\u2014\u4eca\u65e5\u6a19\u666e500\u5e7e\u4e4e\u6301\u5e73\uff0c\u800c\u7d0d\u65af\u9054\u514b\u537b\u4e0b\u8dcc0.8%\u3002\u9019\u8868\u660e\u8ce3\u58d3\u96c6\u4e2d\u65bc\u7279\u5b9a\u677f\u584a\uff08\u672c\u6b21\u70ba\u79d1\u6280\u53ca\u6210\u9577\u80a1\uff09\uff0c\u800c\u5e02\u5834\u5176\u4ed6\u90e8\u5206\u5247\u76f8\u5c0d\u7a69\u5065\u3002\u7cbe\u660e\u7684\u6295\u8cc7\u8005\u6703\u5229\u7528\u80cc\u96e2\u73fe\u8c61\u4f86\u5224\u65b7\u6a5f\u69cb\u8cc7\u91d1\u7684\u8f2a\u52d5\u65b9\u5411\uff0c\u4ee5\u53ca\u6574\u9ad4\u5e02\u5834\u7684\u98a8\u96aa\u504f\u597d\u662f\u4e0a\u5347\u9084\u662f\u4e0b\u964d\u3002"
     }
   },
   "stats": {
