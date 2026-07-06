@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-06T18:01:21.159655+00:00",
+    "generated_at": "2026-07-06T19:01:43.292163+00:00",
     "date_et": "2026-07-06",
-    "run_id": "20260706T180121_67e3be"
+    "run_id": "20260706T190143_3a2de2"
   },
   "account": {
     "total_value": 13355.735246181488,
@@ -11,87 +11,87 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3355.735246181488,
     "profit_percent": 33.55735246181488,
-    "vs_voo_dollars": 1643.3697488421149,
-    "vs_voo_percent": 14.03106613446643
+    "vs_voo_dollars": 1620.1020308877596,
+    "vs_voo_percent": 13.804981811944007
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 721.5,
-      "market_value": 2164.5,
-      "profit_dollars": 195.89996337890625,
-      "profit_percent": 9.951232334382613,
-      "portfolio_pct": 17.24135161990677
+      "current_price": 723.7100219726562,
+      "market_value": 2171.1300659179688,
+      "profit_dollars": 202.530029296875,
+      "profit_percent": 10.28802324135367,
+      "portfolio_pct": 17.27168989290816
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 174.38999938964844,
-      "market_value": 2267.0699920654297,
-      "profit_dollars": 340.0800476074219,
-      "profit_percent": 17.648252321476125,
-      "portfolio_pct": 18.058374164998533
+      "current_price": 175.7899932861328,
+      "market_value": 2285.2699127197266,
+      "profit_dollars": 358.27996826171875,
+      "profit_percent": 18.59272640690867,
+      "portfolio_pct": 18.179690785775207
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 81.76499938964844,
-      "market_value": 1798.8299865722656,
-      "profit_dollars": -259.27008056640625,
-      "profit_percent": -12.597544925347743,
-      "portfolio_pct": 14.328602588553757
+      "current_price": 82.16000366210938,
+      "market_value": 1807.5200805664062,
+      "profit_dollars": -250.57998657226562,
+      "profit_percent": -12.175306272675122,
+      "portfolio_pct": 14.379113806591667
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.649999618530273,
-      "market_value": 1473.3499698638916,
-      "profit_dollars": -74.26004219055176,
-      "profit_percent": -4.798369202327141,
-      "portfolio_pct": 11.735987474983784
+      "current_price": 18.530000686645508,
+      "market_value": 1463.8700542449951,
+      "profit_dollars": -83.73995780944824,
+      "profit_percent": -5.410921172465402,
+      "portfolio_pct": 11.64532241404163
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 108.20500183105469,
-      "market_value": 2488.715042114258,
-      "profit_dollars": -125.23499298095703,
-      "profit_percent": -4.791024744143408,
-      "portfolio_pct": 19.82389056264403
+      "current_price": 107.70999908447266,
+      "market_value": 2477.329978942871,
+      "profit_dollars": -136.62005615234375,
+      "profit_percent": -5.226574889269728,
+      "portfolio_pct": 19.70755959321813
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 73.23999786376953,
-      "market_value": 1684.5199508666992,
-      "profit_dollars": -878.8299789428711,
-      "profit_percent": -34.28443259825079,
-      "portfolio_pct": 13.418064580106648
+      "current_price": 73.4000015258789,
+      "market_value": 1688.2000350952148,
+      "profit_dollars": -875.1498947143555,
+      "profit_percent": -34.140867172956355,
+      "portfolio_pct": 13.429903597706843
     }
   ],
   "allocation": [
     {
       "label": "ROAD",
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "label": "EAT",
-      "pct": 18.1
+      "pct": 18.2
     },
     {
       "label": "QQQ",
-      "pct": 17.2
+      "pct": 17.3
     },
     {
       "label": "OLED",
-      "pct": 14.3
+      "pct": 14.4
     },
     {
       "label": "INOD",
@@ -99,11 +99,11 @@
     },
     {
       "label": "WT",
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "label": "Cash",
-      "pct": 5.5
+      "pct": 5.4
     }
   ],
   "snapshots": [
@@ -440,8 +440,8 @@
   ],
   "benchmark": {
     "voo_shares": 16.98379626499821,
-    "voo_price": 689.6199951171875,
-    "total_value": 11712.365497339373,
+    "voo_price": 690.989990234375,
+    "total_value": 11735.633215293728,
     "total_deposited": 11000.0,
     "snapshots": [
       {
@@ -771,8 +771,8 @@
       {
         "date": "2026-07-06",
         "voo_shares": 16.98379626499821,
-        "voo_price": 689.6199951171875,
-        "total_value": 11712.365497339373
+        "voo_price": 690.989990234375,
+        "total_value": 11735.633215293728
       }
     ]
   },
@@ -1475,25 +1475,25 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "DSC",
-        "conviction": "high",
-        "reasoning": "Score 95 with all four multi-signal confirmation criteria met \u2014 RSI in bullish momentum zone (59.2), MACD crossover, histogram rising (institutional participation signal), and price above SMA-20 \u2014 making it the strongest technical setup in today's screener on a risk-on day with $677 cash available."
+        "ticker": "F",
+        "conviction": "medium",
+        "reasoning": "Full 4-signal confirmation (RSI 55.4 in bullish zone, MACD crossover, histogram rising, price above SMA-20) with the most RSI headroom among score-95 candidates; deploying cash above the $500 threshold on a risk-on day per portfolio risk rules."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Markets posted a moderate risk-on session with NASDAQ +0.9% and S&P 500 +0.6% \u2014 positive but below the strong +2% NASDAQ threshold from strategy memory. With $677 in cash and four open slots, deploying into DSC is the right call per the portfolio rule to fill slots when cash exceeds $500. DSC is the top-ranked candidate with all four momentum signals aligned, making it the highest-conviction entry available today."
+    "briefing": "Markets posted moderate risk-on gains today \u2014 NASDAQ +1.2%, S&P 500 +0.9% \u2014 enough to justify deploying the $677 in idle cash with 4 open slots available. F (Ford) earns the buy with the strongest technical setup among score-95 candidates: all four confirming signals present and RSI at 55.4, the lowest among peers, giving the most room to run before hitting overbought territory. All six existing positions are held; no stop-losses or profit targets triggered today."
   },
   "education": {
     "market_education": {
-      "summary_en": "U.S. equities posted modest broad-based gains on July 6th, with the NASDAQ outpacing the S&P 500 in a risk-on session. Technology and growth-oriented sectors led, reflecting continued investor appetite for momentum names following recent cooling in rate-hike fears. The moderate magnitude of the move (+0.9% NASDAQ) suggests measured optimism rather than euphoria \u2014 a healthy environment for selective momentum entries.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e027\u67086\u65e5\u9304\u5f97\u6eab\u548c\u666e\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u9818\u5148\u6a19\u666e500\uff0c\u5e02\u5834\u5448\u73fe\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u3002\u79d1\u6280\u53ca\u6210\u9577\u80a1\u677f\u584a\u5f15\u9818\u5347\u52e2\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u806f\u6e96\u6703\u52a0\u606f\u9810\u671f\u964d\u6eab\u5f8c\u6301\u7e8c\u8ffd\u6367\u52d5\u80fd\u80a1\u3002\u90a3\u65af\u9054\u514b\u6f32\u5e450.9%\u5c6c\u65bc\u6eab\u548c\u4e0a\u63da\uff0c\u986f\u793a\u5e02\u5834\u60c5\u7dd2\u6a02\u89c0\u4f46\u672a\u81f3\u4ea2\u596e\uff0c\u70ba\u7cbe\u9078\u52d5\u80fd\u80a1\u5165\u5834\u63d0\u4f9b\u826f\u597d\u7a97\u53e3\u3002",
+      "summary_en": "U.S. equities advanced broadly with the NASDAQ gaining 1.2% and the S&P 500 rising 0.9%, extending the risk-on tone that has characterized markets in early July 2026. Investors appeared comfortable with the growth backdrop, rotating into cyclical and technology names as no major macro headwinds emerged. The broad-based advance across sectors suggests institutional participation rather than a narrow, sentiment-driven spike.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5168\u9762\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.2%\uff0c\u6a19\u666e500\u6307\u6578\u53470.9%\uff0c\u5ef6\u7e8c2026\u5e74\u4e03\u6708\u521d\u4ee5\u4f86\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u3002\u5728\u5b8f\u89c0\u9762\u672a\u898b\u660e\u986f\u5229\u7a7a\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u4eba\u4fe1\u5fc3\u6301\u7a69\uff0c\u8cc7\u91d1\u8f2a\u52d5\u81f3\u9031\u671f\u6027\u53ca\u79d1\u6280\u677f\u584a\u3002\u6f32\u52e2\u6db5\u84cb\u591a\u500b\u677f\u584a\uff0c\u986f\u793a\u6a5f\u69cb\u6295\u8cc7\u8005\u7a4d\u6975\u5e03\u5c40\uff0c\u800c\u975e\u55ae\u4e00\u60c5\u7dd2\u9762\u9a45\u52d5\u7684\u7a84\u5e45\u53cd\u5f48\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade \u2014 for example, RSI in the bullish zone, a MACD crossover, rising histogram, and price above the 20-day moving average all at once. Any one signal alone can be a false positive; when multiple unrelated signals point the same direction simultaneously, the probability of a real momentum move increases significantly. DSC today hit all four criteria, which is why it earns a high-conviction rating.",
-      "explanation_zh": "\u591a\u91cd\u4fe1\u865f\u78ba\u8a8d\u662f\u6307\u8981\u6c42\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u770b\u6f32\u8a0a\u865f\uff0c\u624d\u6c7a\u5b9a\u5165\u5834\uff0c\u4f8b\u5982RSI\u8655\u65bc\u591a\u982d\u52d5\u80fd\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u76f4\u65b9\u5716\u4e0a\u5347\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\u9700\u540c\u6b65\u6210\u7acb\u3002\u55ae\u4e00\u6307\u6a19\u5bb9\u6613\u51fa\u73fe\u5047\u4fe1\u865f\uff1b\u7576\u591a\u500b\u4e0d\u76f8\u95dc\u7684\u6307\u6a19\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\uff0c\u52d5\u80fd\u884c\u60c5\u7684\u53ef\u4fe1\u5ea6\u4fbf\u5927\u5e45\u63d0\u5347\u3002DSC\u4eca\u65e5\u56db\u9805\u6307\u6a19\u5168\u6578\u9054\u6a19\uff0c\u56e0\u6b64\u7372\u5f97\u9ad8\u4fe1\u5ff5\u8a55\u7d1a\u3002"
+      "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade, rather than acting on just one. Today's buy of F checked four signals simultaneously \u2014 RSI in the bullish zone, MACD crossover, rising histogram, and price above the 20-day moving average \u2014 which together suggest institutional buying rather than a random intraday spike. The more signals that align, the higher the probability the move is real and sustainable.",
+      "explanation_zh": "\u591a\u91cd\u4fe1\u865f\u78ba\u8a8d\u662f\u6307\u5728\u9032\u5834\u524d\u8981\u6c42\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u4fe1\u865f\uff0c\u800c\u975e\u50c5\u6191\u55ae\u4e00\u6307\u6a19\u4f5c\u6c7a\u7b56\u3002\u4eca\u65e5\u8cb7\u5165\u798f\u7279\uff08F\uff09\u540c\u6642\u6eff\u8db3\u56db\u9805\u689d\u4ef6\uff1aRSI\u8655\u65bc\u591a\u982d\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u67f1\u72c0\u5716\u6301\u7e8c\u4e0a\u5347\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u56db\u9805\u4fe1\u865f\u5171\u632f\u986f\u793a\u80cc\u5f8c\u6709\u6a5f\u69cb\u8cc7\u91d1\u4ecb\u5165\uff0c\u800c\u975e\u77ed\u66ab\u7684\u76e4\u4e2d\u6ce2\u52d5\u3002\u540c\u6642\u767c\u51fa\u8a0a\u865f\u7684\u6307\u6a19\u8d8a\u591a\uff0c\u884c\u60c5\u6301\u7e8c\u7684\u53ef\u80fd\u6027\u8d8a\u9ad8\u3002"
     }
   },
   "stats": {
