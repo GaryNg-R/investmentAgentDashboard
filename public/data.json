@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-13T20:00:33.967353+00:00",
+    "generated_at": "2026-07-13T21:00:41.577389+00:00",
     "date_et": "2026-07-13",
-    "run_id": "20260713T200033_c42a5b"
+    "run_id": "20260713T210041_937c54"
   },
   "account": {
     "total_value": 13455.735246181488,
@@ -11,8 +11,8 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3455.735246181488,
     "profit_percent": 34.55735246181489,
-    "vs_voo_dollars": 1662.3078189660664,
-    "vs_voo_percent": 14.095205394913425
+    "vs_voo_dollars": 1663.1640057630666,
+    "vs_voo_percent": 14.103489153092074
   },
   "positions": [
     {
@@ -23,7 +23,7 @@
       "market_value": 2135.219970703125,
       "profit_dollars": 166.61993408203125,
       "profit_percent": 8.463879456591792,
-      "portfolio_pct": 17.354897493831576
+      "portfolio_pct": 17.35434042130968
     },
     {
       "ticker": "EAT",
@@ -33,7 +33,7 @@
       "market_value": 2460.510055541992,
       "profit_dollars": 533.5201110839844,
       "profit_percent": 27.686709659195664,
-      "portfolio_pct": 19.99882933954174
+      "portfolio_pct": 19.998187399806913
     },
     {
       "ticker": "OLED",
@@ -43,17 +43,17 @@
       "market_value": 1714.6800537109375,
       "profit_dollars": -343.4200134277344,
       "profit_percent": -16.68626413803014,
-      "portfolio_pct": 13.936782614988205
+      "portfolio_pct": 13.93633526007636
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 18.96500015258789,
-      "market_value": 1498.2350120544434,
-      "profit_dollars": -49.375,
-      "profit_percent": -3.19040324212267,
-      "portfolio_pct": 12.177534592518844
+      "current_price": 18.969999313354492,
+      "market_value": 1498.6299457550049,
+      "profit_dollars": -48.98006629943848,
+      "profit_percent": -3.164884300174417,
+      "portfolio_pct": 12.180353594031299
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 2150.730049133301,
       "profit_dollars": -463.21998596191406,
       "profit_percent": -17.721072696213223,
-      "portfolio_pct": 17.480962173335463
+      "portfolio_pct": 17.480401054280364
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 1566.7600631713867,
       "profit_dollars": -996.5898666381836,
       "profit_percent": -38.87841667845247,
-      "portfolio_pct": 12.734500738495132
+      "portfolio_pct": 12.734091975467635
     }
   ],
   "allocation": [
@@ -470,8 +470,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.127917560520583,
-    "voo_price": 688.5499877929688,
-    "total_value": 11793.427427215422,
+    "voo_price": 688.5,
+    "total_value": 11792.571240418421,
     "total_deposited": 11100.0,
     "snapshots": [
       {
@@ -831,8 +831,8 @@
       {
         "date": "2026-07-13",
         "voo_shares": 17.127917560520583,
-        "voo_price": 688.5499877929688,
-        "total_value": 11793.427427215422
+        "voo_price": 688.5,
+        "total_value": 11792.571240418421
       }
     ]
   },
