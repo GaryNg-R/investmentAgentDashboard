@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-14T18:01:17.065441+00:00",
+    "generated_at": "2026-07-14T19:01:17.297122+00:00",
     "date_et": "2026-07-14",
-    "run_id": "20260714T180117_6ff5c2"
+    "run_id": "20260714T190117_0164f1"
   },
   "account": {
     "total_value": 13455.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3455.735246181488,
     "profit_percent": 34.55735246181489,
-    "vs_voo_dollars": 1616.405125352485,
-    "vs_voo_percent": 13.652842760999917
+    "vs_voo_dollars": 1614.3184967238958,
+    "vs_voo_percent": 13.632815488888529
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 721.1201171875,
-      "market_value": 2163.3603515625,
-      "profit_dollars": 194.76031494140625,
-      "profit_percent": 9.893341019930741,
-      "portfolio_pct": 17.395206859202066
+      "current_price": 720.4400024414062,
+      "market_value": 2161.3200073242188,
+      "profit_dollars": 192.719970703125,
+      "profit_percent": 9.789696592402267,
+      "portfolio_pct": 17.38210772654693
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 186.47999572753906,
-      "market_value": 2424.239944458008,
-      "profit_dollars": 497.25,
-      "profit_percent": 25.804493761375507,
-      "portfolio_pct": 19.492894597855564
+      "current_price": 185.25,
+      "market_value": 2408.25,
+      "profit_dollars": 481.2600555419922,
+      "profit_percent": 24.974705079602952,
+      "portfolio_pct": 19.368006954361746
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 79.27999877929688,
-      "market_value": 1744.1599731445312,
-      "profit_dollars": -313.9400939941406,
-      "profit_percent": -15.253879002618378,
-      "portfolio_pct": 14.024489034605898
+      "current_price": 78.86000061035156,
+      "market_value": 1734.9200134277344,
+      "profit_dollars": -323.1800537109375,
+      "profit_percent": -15.702834807262173,
+      "portfolio_pct": 13.952846625279655
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 19.3700008392334,
-      "market_value": 1530.2300662994385,
-      "profit_dollars": -17.379945755004883,
-      "profit_percent": -1.1230184361454927,
-      "portfolio_pct": 12.304315610769018
+      "current_price": 19.40999984741211,
+      "market_value": 1533.3899879455566,
+      "profit_dollars": -14.220024108886719,
+      "profit_percent": -0.9188376915454118,
+      "portfolio_pct": 12.332070154792158
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 97.3301010131836,
-      "market_value": 2238.5923233032227,
-      "profit_dollars": -375.3577117919922,
-      "profit_percent": -14.359789083662402,
-      "portfolio_pct": 18.000134147395322
+      "current_price": 98.54000091552734,
+      "market_value": 2266.420021057129,
+      "profit_dollars": -347.53001403808594,
+      "profit_percent": -13.295204933992816,
+      "portfolio_pct": 18.22735958863871
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 67.77449798583984,
-      "market_value": 1558.8134536743164,
-      "profit_dollars": -1004.5364761352539,
-      "profit_percent": -39.188425444897426,
-      "portfolio_pct": 12.534149690774965
+      "current_price": 67.51000213623047,
+      "market_value": 1552.7300491333008,
+      "profit_dollars": -1010.6198806762695,
+      "profit_percent": -39.42574788262904,
+      "portfolio_pct": 12.487609836960543
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "label": "ROAD",
-      "pct": 18.0
+      "pct": 18.2
     },
     {
       "label": "QQQ",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 6.3
+      "pct": 6.2
     }
   ],
   "snapshots": [
@@ -476,8 +476,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.127917560520583,
-    "voo_price": 691.22998046875,
-    "total_value": 11839.330120829003,
+    "voo_price": 691.351806640625,
+    "total_value": 11841.416749457592,
     "total_deposited": 11100.0,
     "snapshots": [
       {
@@ -843,8 +843,8 @@
       {
         "date": "2026-07-14",
         "voo_shares": 17.127917560520583,
-        "voo_price": 691.22998046875,
-        "total_value": 11839.330120829003
+        "voo_price": 691.351806640625,
+        "total_value": 11841.416749457592
       }
     ]
   },
@@ -1547,25 +1547,25 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "BLSH",
         "conviction": "medium",
-        "reasoning": "Bullish RSI zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a mildly positive NASDAQ day support a measured deployment of idle cash into a top-scored, well-established name."
+        "reasoning": "Top-scoring candidate (95) with RSI 62.1 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, deploying idle cash above the $500 threshold into an open slot."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were mildly positive today (NASDAQ +1.1%, S&P 500 +0.4%), not a strong risk-on signal but enough to justify deploying some of the $777 idle cash rather than sitting fully out. Added a medium-conviction position in NVDA, which shows full bullish technical confirmation (RSI, MACD, price vs SMA-20). Existing 6 positions held unchanged, letting stop-loss/profit-target rules manage them automatically."
+    "briefing": "Markets were neutral today with NASDAQ +1.0% and S&P 500 +0.4% \u2014 not a strong risk-on signal, but with $777 in cash and 4 open slots we deployed a modest medium-conviction position in BLSH, the top-scoring candidate, rather than let cash sit idle. All six existing positions were held unchanged as none showed reason to exit."
   },
   "education": {
     "market_education": {
-      "summary_en": "The NASDAQ rose 1.1% and the S&P 500 gained 0.4% in a broadly neutral-to-mildly-positive session, with no single dominant catalyst driving the move. Trading activity reflected steady, moderate risk appetite rather than a sharp risk-on or risk-off shift. No specific news headlines were available for today's session to cite directly.",
-      "summary_zh": "\u7d0d\u6307\u4eca\u65e5\u4e0a\u53471.1%\uff0c\u6a19\u666e500\u5247\u4e0a\u53470.4%\uff0c\u5e02\u6cc1\u6574\u9ad4\u5c6c\u65bc\u4e2d\u6027\u504f\u6b63\u9762\uff0c\u4e26\u7121\u55ae\u4e00\u4e3b\u5c0e\u56e0\u7d20\u63a8\u52d5\u5927\u5e02\u3002\u4eca\u65e5\u4ea4\u6613\u53cd\u6620\u7684\u662f\u7a69\u5b9a\u6eab\u548c\u7684\u98a8\u96aa\u504f\u597d\uff0c\u800c\u975e\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u8f49\u8b8a\u3002\u4eca\u65e5\u4e26\u672a\u6709\u53ef\u4f9b\u5f15\u7528\u7684\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u3002",
+      "summary_en": "Broad markets drifted modestly higher today, with the NASDAQ outpacing the S&P 500, consistent with a mild risk-on tilt toward growth and tech names rather than a broad-based rally. No major macro catalyst stood out, suggesting the move was driven by incremental buying rather than a single news event. Trading stayed within a normal range, reflecting a market in a holding pattern rather than a decisive trend.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da,\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u5e02\u5834\u8cc7\u91d1\u7565\u70ba\u50be\u5411\u79d1\u6280\u53ca\u6210\u9577\u80a1,\u800c\u975e\u5168\u9762\u666e\u6f32\u3002\u4eca\u65e5\u672a\u898b\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u5e36\u52d5,\u986f\u793a\u4eca\u6b21\u5347\u52e2\u8f03\u591a\u5c6c\u65bc\u8cc7\u91d1\u6301\u7e8c\u5c0f\u5e45\u8cb7\u5165\u6240\u81f4,\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u89f8\u767c\u3002\u6574\u9ad4\u6ce2\u52d5\u7dad\u6301\u5728\u6b63\u5e38\u5340\u9593,\u986f\u793a\u5e02\u5834\u4ecd\u8655\u65bc\u89c0\u671b\u683c\u5c40,\u672a\u898b\u660e\u78ba\u65b9\u5411\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and price relative to moving averages, on the idea that stocks moving up tend to keep moving up in the near term. Today's buy decision relied on exactly these signals lining up together, which is considered a stronger, more reliable confirmation than any single indicator alone.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64daRSI\u3001MACD\u53ca\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\u8a0a\u865f\uff0c\u8a8d\u70ba\u77ed\u671f\u5167\u4e0a\u5347\u4e2d\u7684\u80a1\u7968\u6703\u50be\u5411\u6301\u7e8c\u4e0a\u5347\u3002\u4eca\u65e5\u7684\u8cb7\u5165\u6c7a\u5b9a\u6b63\u662f\u4f9d\u8cf4\u9019\u5e7e\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u80fd\u63d0\u4f9b\u53ef\u9760\u7684\u78ba\u8a8d\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the opportunity cost of holding uninvested cash in a portfolio instead of putting it to work \u2014 even a small, well-chosen position can outperform sitting in cash over time. Today, with cash above the reserve threshold and open slots available, deploying a portion into a strong candidate helps avoid missing out on further gains while still keeping most positions untouched.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d(Cash Drag)\u662f\u6307\u7d44\u5408\u6301\u6709\u592a\u591a\u672a\u6295\u8cc7\u73fe\u91d1\u6240\u7522\u751f\u7684\u6a5f\u6703\u6210\u672c\u2014\u2014\u5373\u4f7f\u53ea\u662f\u5c0f\u984d\u4f46\u9078\u80a1\u5f97\u5b9c\u7684\u5009\u4f4d,\u9577\u9060\u56de\u5831\u4e5f\u53ef\u80fd\u8dd1\u8d0f\u73fe\u91d1\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u5df2\u8d85\u904e\u4fdd\u7559\u9580\u6abb\u4e14\u5c1a\u6709\u7a7a\u7f6e\u5009\u4f4d,\u6545\u5c07\u90e8\u5206\u8cc7\u91d1\u6295\u5165\u8868\u73fe\u5f37\u52c1\u7684candidate,\u65e2\u53ef\u907f\u514d\u932f\u5931\u6f5b\u5728\u5347\u5e45,\u4ea6\u7dad\u6301\u5927\u90e8\u5206\u73fe\u6709\u6301\u5009\u4e0d\u8b8a\u3002"
     }
   },
   "stats": {
