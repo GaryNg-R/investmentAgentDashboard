@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-15T13:01:36.783807+00:00",
+    "generated_at": "2026-07-15T14:01:10.226694+00:00",
     "date_et": "2026-07-15",
-    "run_id": "20260715T130136_f3a831"
+    "run_id": "20260715T140110_1cb43d"
   },
   "account": {
     "total_value": 13455.735246181488,
@@ -11,83 +11,83 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3455.735246181488,
     "profit_percent": 34.55735246181489,
-    "vs_voo_dollars": 1618.631420105712,
-    "vs_voo_percent": 13.67421832137734
+    "vs_voo_dollars": 1571.8740032623064,
+    "vs_voo_percent": 13.22696362008504
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 719.71,
-      "market_value": 2159.13,
-      "profit_dollars": 190.52996337890636,
-      "profit_percent": 9.678449651252272,
-      "portfolio_pct": 17.40953747872061
+      "current_price": 721.2000122070312,
+      "market_value": 2163.6000366210938,
+      "profit_dollars": 195.0,
+      "profit_percent": 9.905516426520956,
+      "portfolio_pct": 17.254138453202636
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 185.33,
-      "market_value": 2409.29,
-      "profit_dollars": 482.30005554199215,
-      "profit_percent": 25.028675262633275,
-      "portfolio_pct": 19.426632278791352
+      "current_price": 184.10000610351562,
+      "market_value": 2393.300079345703,
+      "profit_dollars": 466.3101348876953,
+      "profit_percent": 24.198887816140182,
+      "portfolio_pct": 19.08593558427795
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 78.65,
-      "market_value": 1730.3000000000002,
-      "profit_dollars": -327.8000671386717,
-      "profit_percent": -15.92731434066782,
-      "portfolio_pct": 13.951787386322396
+      "current_price": 79.75499725341797,
+      "market_value": 1754.6099395751953,
+      "profit_dollars": -303.49012756347656,
+      "profit_percent": -14.746130783884176,
+      "portfolio_pct": 13.992550525223436
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 19.53,
-      "market_value": 1542.8700000000001,
-      "profit_dollars": -4.740012054443241,
-      "profit_percent": -0.3062794901508102,
-      "portfolio_pct": 12.44049829782999
+      "current_price": 19.770700454711914,
+      "market_value": 1561.8853359222412,
+      "profit_dollars": 14.275323867797852,
+      "profit_percent": 0.9224109275984484,
+      "portfolio_pct": 12.455622748146943
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 97.3499984741211,
-      "market_value": 2239.049964904785,
-      "profit_dollars": -374.9000701904297,
-      "profit_percent": -14.342281419192226,
-      "portfolio_pct": 18.053949637464125
+      "current_price": 101.16999816894531,
+      "market_value": 2326.909957885742,
+      "profit_dollars": -287.04007720947266,
+      "profit_percent": -10.981085076441296,
+      "portfolio_pct": 18.556491912524255
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 67.14,
-      "market_value": 1544.22,
-      "profit_dollars": -1019.1299298095703,
-      "profit_percent": -39.757737246794115,
-      "portfolio_pct": 12.451383643129379
+      "current_price": 67.91999816894531,
+      "market_value": 1562.1599578857422,
+      "profit_dollars": -1001.1899719238281,
+      "profit_percent": -39.05787346007051,
+      "portfolio_pct": 12.45781278572336
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.4
+      "pct": 19.1
     },
     {
       "label": "ROAD",
-      "pct": 18.1
+      "pct": 18.6
     },
     {
       "label": "QQQ",
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "label": "OLED",
@@ -99,11 +99,11 @@
     },
     {
       "label": "WT",
-      "pct": 12.4
+      "pct": 12.5
     },
     {
       "label": "Cash",
-      "pct": 6.2
+      "pct": 6.0
     }
   ],
   "snapshots": [
@@ -482,8 +482,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.127917560520583,
-    "voo_price": 691.1,
-    "total_value": 11837.103826075776,
+    "voo_price": 693.8298950195312,
+    "total_value": 11883.861242919182,
     "total_deposited": 11100.0,
     "snapshots": [
       {
@@ -855,8 +855,8 @@
       {
         "date": "2026-07-15",
         "voo_shares": 17.127917560520583,
-        "voo_price": 691.1,
-        "total_value": 11837.103826075776
+        "voo_price": 693.8298950195312,
+        "total_value": 11883.861242919182
       }
     ]
   },
@@ -1556,34 +1556,21 @@
     }
   ],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "SEZL",
-        "conviction": "high",
-        "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) marks genuine institutional-grade momentum despite a flat broad market."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TRVI",
-        "conviction": "medium",
-        "reasoning": "Same full multi-signal confirmation as SEZL but with a safer RSI of 55.4, leaving more room to run before overbought."
-      }
-    ],
-    "skip_new_buys": false,
+    "decisions": [],
+    "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "The broader market was flat today (NASDAQ and S&P both ~0.0%, no clear catalyst reported), so per past lessons we avoided forcing trades to deploy idle cash. However, SEZL and TRVI both showed complete multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), a genuine high-conviction setup independent of the market's overall direction, so we added modest new positions in those two."
+    "briefing": "Market direction is flat and neutral today with no reliable data on catalysts, so this isn't the risk-on setup our strategy waits for. Holding all 6 existing positions and keeping the $777 cash in reserve rather than forcing a buy into an unconfirmed session."
   },
   "education": {
     "market_education": {
-      "summary_en": "No significant market-moving news was available today, and both the NASDAQ and S&P 500 were essentially flat. Without a clear catalyst, broad indices traded sideways while a handful of individual stocks like SEZL and TRVI showed strong stock-specific momentum on heavy volume. This kind of divergence \u2014 a quiet index but active leadership names \u2014 is common and doesn't require a market-wide narrative to justify selective buying.",
-      "summary_zh": "\u4eca\u65e5\u672a\u898b\u660e\u986f\u7684\u5e02\u5834\u6d88\u606f\uff0c\u7d0d\u6307\u8207\u6a19\u666e500\u5927\u81f4\u6301\u5e73\uff0c\u672a\u898b\u6e05\u6670\u7684\u6f32\u8dcc\u50ac\u5316\u5291\u3002\u5728\u5927\u76e4\u6a6b\u76e4\u6574\u7406\u4e4b\u969b\uff0c\u90e8\u5206\u500b\u80a1\u5982SEZL\u53caTRVI\u6191\u85c9\u5f37\u52c1\u7684\u500b\u80a1\u52d5\u80fd\u53ca\u653e\u91cf\u8868\u73fe\u9006\u52e2\u8d70\u5f37\uff0c\u9019\u7a2e\u300c\u5927\u76e4\u975c\u3001\u500b\u80a1\u65fa\u300d\u7684\u5206\u6b67\u5728\u5e02\u5834\u4e0a\u4e26\u4e0d\u7f55\u898b\uff0c\u5373\u4f7f\u6c92\u6709\u6574\u9ad4\u5e02\u5834\u6558\u4e8b\u652f\u6301\uff0c\u4ecd\u53ef\u4f5c\u70ba\u9078\u80a1\u8cb7\u5165\u7684\u4f9d\u64da\u3002",
+      "summary_en": "No market-moving headlines were available today, and both the NASDAQ and S&P 500 showed 0.0% moves, indicating a quiet, directionless session. Without a clear catalyst or volume-backed signal, institutional participation appears limited today. This kind of flat, low-information day is best treated as a pause rather than a trend change.",
+      "summary_zh": "\u4eca\u65e5\u672a\u6709\u660e\u986f\u7684\u5e02\u5834\u6d88\u606f\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u5747\u9304\u5f970.0%\u7684\u8b8a\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u4ea4\u6295\u6de1\u975c\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u6216\u6210\u4ea4\u91cf\u652f\u6301\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a5f\u69cb\u53c3\u8207\u5ea6\u4f3c\u4e4e\u6709\u9650\u3002\u9019\u985e\u5e73\u6de1\u3001\u7f3a\u4e4f\u8cc7\u8a0a\u7684\u4ea4\u6613\u65e5\u61c9\u8996\u70ba\u77ed\u66ab\u505c\u9813\uff0c\u800c\u975e\u8da8\u52e2\u9006\u8f49\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means only acting on a stock when several independent indicators \u2014 like RSI, MACD crossover, price versus moving average, and volume \u2014 all point the same direction at once. This reduces the chance of chasing a random price blip and increases confidence that real buying interest (often institutional) is behind the move.",
-      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u5728\u591a\u500b\u7368\u7acb\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u76f8\u5c0d\u5747\u7dda\u4f4d\u7f6e\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\u624d\u9032\u884c\u8cb7\u8ce3\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9010\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa\uff0c\u4e26\u63d0\u9ad8\u80cc\u5f8c\u5b58\u5728\u771f\u5be6\uff08\u751a\u81f3\u662f\u6a5f\u69cb\uff09\u8cb7\u76e4\u652f\u6301\u7684\u4fe1\u5fc3\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A risk-off stance means staying cautious and avoiding new positions when the market gives no clear signal, rather than trading just to stay active. Sitting in cash on an unclear day protects capital for when a genuine opportunity appears.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u660e\u6717\u6642\u4fdd\u6301\u8b39\u614e\uff0c\u907f\u514d\u5efa\u7acb\u65b0\u5009\u4f4d\uff0c\u800c\u975e\u70ba\u6c42\u4ea4\u6613\u800c\u4ea4\u6613\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u65e5\u5b50\u6301\u6709\u73fe\u91d1\uff0c\u53ef\u4fdd\u7559\u8cc7\u672c\uff0c\u975c\u5f85\u771f\u6b63\u7684\u5165\u5e02\u6a5f\u6703\u51fa\u73fe\u3002"
     }
   },
   "stats": {
