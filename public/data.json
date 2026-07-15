@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-15T16:01:31.507690+00:00",
+    "generated_at": "2026-07-15T17:01:26.006842+00:00",
     "date_et": "2026-07-15",
-    "run_id": "20260715T160131_4195ea"
+    "run_id": "20260715T170126_e98c6a"
   },
   "account": {
     "total_value": 13455.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3455.735246181488,
     "profit_percent": 34.55735246181489,
-    "vs_voo_dollars": 1614.3498588776329,
-    "vs_voo_percent": 13.633116447747007
+    "vs_voo_dollars": 1617.8603292858497,
+    "vs_voo_percent": 13.666813855050574
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 713.9400024414062,
-      "market_value": 2141.8200073242188,
-      "profit_dollars": 173.219970703125,
-      "profit_percent": 8.799144949750172,
-      "portfolio_pct": 17.15706971793877
+      "current_price": 713.4849853515625,
+      "market_value": 2140.4549560546875,
+      "profit_dollars": 171.85491943359375,
+      "profit_percent": 8.729803730399478,
+      "portfolio_pct": 17.202910350770296
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 186.8350067138672,
-      "market_value": 2428.8550872802734,
-      "profit_dollars": 501.8651428222656,
-      "profit_percent": 26.043993860249337,
-      "portfolio_pct": 19.456366979828008
+      "current_price": 185.13999938964844,
+      "market_value": 2406.8199920654297,
+      "profit_dollars": 479.8300476074219,
+      "profit_percent": 24.900495666176433,
+      "portfolio_pct": 19.343695337677268
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 78.88999938964844,
-      "market_value": 1735.5799865722656,
-      "profit_dollars": -322.52008056640625,
-      "profit_percent": -15.670767700561731,
-      "portfolio_pct": 13.902880134115783
+      "current_price": 78.51000213623047,
+      "market_value": 1727.2200469970703,
+      "profit_dollars": -330.88002014160156,
+      "profit_percent": -16.076964644465335,
+      "portfolio_pct": 13.881727125578763
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 19.829999923706055,
-      "market_value": 1566.5699939727783,
-      "profit_dollars": 18.95998191833496,
-      "profit_percent": 1.225113676614543,
-      "portfolio_pct": 12.549023966864667
+      "current_price": 19.645000457763672,
+      "market_value": 1551.95503616333,
+      "profit_dollars": 4.345024108886719,
+      "profit_percent": 0.280757043120878,
+      "portfolio_pct": 12.473116184960313
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 102.16500091552734,
-      "market_value": 2349.795021057129,
-      "profit_dollars": -264.15501403808594,
-      "profit_percent": -10.105587730886521,
-      "portfolio_pct": 18.823055560821352
+      "current_price": 102.29499816894531,
+      "market_value": 2352.784957885742,
+      "profit_dollars": -261.16507720947266,
+      "profit_percent": -9.991203875477273,
+      "portfolio_pct": 18.90941390317918
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 64.51499938964844,
-      "market_value": 1483.844985961914,
-      "profit_dollars": -1079.5049438476562,
-      "profit_percent": -42.11305414426395,
-      "portfolio_pct": 11.886354496504925
+      "current_price": 64.61000061035156,
+      "market_value": 1486.030014038086,
+      "profit_dollars": -1077.3199157714844,
+      "profit_percent": -42.027813028692414,
+      "portfolio_pct": 11.94327450700998
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.5
+      "pct": 19.3
     },
     {
       "label": "ROAD",
-      "pct": 18.8
+      "pct": 18.9
     },
     {
       "label": "QQQ",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Cash",
-      "pct": 6.2
+      "pct": 6.3
     }
   ],
   "snapshots": [
@@ -482,8 +482,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.127917560520583,
-    "voo_price": 691.3499755859375,
-    "total_value": 11841.385387303855,
+    "voo_price": 691.14501953125,
+    "total_value": 11837.874916895638,
     "total_deposited": 11100.0,
     "snapshots": [
       {
@@ -855,8 +855,8 @@
       {
         "date": "2026-07-15",
         "voo_shares": 17.127917560520583,
-        "voo_price": 691.3499755859375,
-        "total_value": 11841.385387303855
+        "voo_price": 691.14501953125,
+        "total_value": 11837.874916895638
       }
     ]
   },
@@ -1556,34 +1556,21 @@
     }
   ],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "MANE",
-        "conviction": "medium",
-        "reasoning": "Top-scored candidate with RSI 66.4 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but market is only neutral so sizing at medium conviction."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CWK",
-        "conviction": "medium",
-        "reasoning": "Second-highest scored candidate showing the same full bullish technical confirmation (RSI, MACD crossover, rising histogram, price above SMA-20) for a diversified entry outside real estate/tech-heavy holdings."
-      }
-    ],
-    "skip_new_buys": false,
+    "decisions": [],
+    "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.1%), not a strong risk-on signal, so we're being selective rather than aggressive. We used two of the four open slots on the strongest technically-confirmed candidates (MANE, CWK) while holding back some cash since this isn't the kind of decisive risk-on day that warrants full deployment. Existing positions are left alone to let stop-loss and profit targets work automatically."
+    "briefing": "Markets were flat today with NASDAQ and S&P 500 both essentially unchanged (0.0%), showing no clear directional conviction. Despite several strong-scoring candidates (MANE, MAAS, HTFL, CWK) showing bullish technical setups, we're holding cash rather than forcing new buys on a neutral day. Per prior lessons, we'll wait for a genuine risk-on signal (NASDAQ +2% or more) before deploying the remaining $777 in cash into new positions."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad market indices were essentially flat today, with the NASDAQ up just 0.2% and the S&P 500 up 0.1%, indicating a lack of strong directional conviction from investors. Without a major catalyst, trading stayed range-bound as market participants awaited clearer signals. Individual stocks with strong technical setups, like several names in our screened list, still showed bullish momentum even as the broader indices stayed muted.",
-      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u8868\u73fe\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u50c5\u4e0a\u53470.2%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.1%\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u7531\u65bc\u6c92\u6709\u91cd\u5927\u6d88\u606f\u9762\u50ac\u5316\uff0c\u5e02\u5834\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u8a0a\u865f\u3002\u4e0d\u904e\u90e8\u5206\u500b\u80a1\uff08\u5982\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u6578\u6a94\u80a1\u7968\uff09\u6280\u8853\u9762\u4ecd\u5448\u73fe\u504f\u591a\u52d5\u80fd\uff0c\u5373\u4f7f\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\u3002",
+      "summary_en": "Broad market indices closed essentially flat today, with no major catalyst driving direction in either the NASDAQ or S&P 500. Trading appears range-bound as investors await clearer signals before committing new capital. This kind of directionless session often precedes a bigger move once a catalyst emerges.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u5747\u672a\u898b\u660e\u986f\u5347\u8dcc\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u6295\u8cc7\u8005\u4f3c\u4e4e\u5728\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u8a0a\u865f\u624d\u9858\u610f\u52a0\u78bc\u65b0\u5009\u4f4d\uff0c\u5f62\u6210\u5340\u9593\u9707\u76ea\u683c\u5c40\u3002\u9019\u985e\u7f3a\u4e4f\u65b9\u5411\u6027\u7684\u4ea4\u6613\u65e5\uff0c\u5f80\u5f80\u662f\u5e02\u5834\u919e\u91c0\u4e0b\u4e00\u6ce2\u8f03\u5927\u6ce2\u52d5\u7684\u524d\u594f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Technical Confirmation",
-      "explanation_en": "Technical confirmation means looking for multiple supporting signals \u2014 like RSI in a healthy range, a MACD bullish crossover, and price trading above a moving average \u2014 before entering a trade, rather than acting on just one indicator. This reduces the chance of chasing a false signal, especially on days when the broader market itself isn't giving a clear direction.",
-      "explanation_zh": "\u6280\u8853\u9762\u78ba\u8a8d\u662f\u6307\u5728\u9032\u5834\u524d\u5c0b\u627e\u591a\u500b\u652f\u6301\u8a0a\u865f\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\u7b49\uff0c\u800c\u4e0d\u662f\u50c5\u6191\u55ae\u4e00\u6307\u6a19\u505a\u6c7a\u5b9a\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9ad8\u8cb7\u9032\u5047\u8a0a\u865f\u7684\u98a8\u96aa\uff0c\u5c24\u5176\u662f\u5728\u5927\u76e4\u672c\u8eab\u65b9\u5411\u4e0d\u660e\u78ba\u7684\u65e5\u5b50\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off simply means investors are being cautious and holding back from making new bets when the market lacks clear direction. Instead of chasing every stock with a good-looking chart, a disciplined investor waits for stronger confirmation \u2014 like a broad market rally \u2014 before committing fresh cash. Patience on flat days protects capital for when real opportunities appear.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u5728\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6642\uff0c\u6295\u8cc7\u8005\u9078\u64c7\u4fdd\u6301\u8b39\u614e\u3001\u4e0d\u8f15\u6613\u52a0\u78bc\u65b0\u5009\u4f4d\u3002\u8207\u5176\u8ffd\u9010\u6bcf\u4e00\u96bb\u5716\u8868\u770b\u4f3c\u4e0d\u932f\u7684\u80a1\u7968\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u7b49\u5f85\u66f4\u5f37\u7684\u78ba\u8a8d\u8a0a\u865f\uff08\u4f8b\u5982\u5927\u76e4\u5168\u9762\u4e0a\u63da\uff09\u624d\u6295\u5165\u65b0\u8cc7\u91d1\u3002\u5728\u5e73\u6de1\u7684\u4ea4\u6613\u65e5\u4fdd\u6301\u8010\u6027\uff0c\u80fd\u70ba\u65e5\u5f8c\u771f\u6b63\u7684\u6a5f\u6703\u4fdd\u7559\u5be6\u529b\u3002"
     }
   },
   "stats": {
