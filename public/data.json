@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-20T18:01:22.125151+00:00",
+    "generated_at": "2026-07-20T19:01:15.712762+00:00",
     "date_et": "2026-07-20",
-    "run_id": "20260720T180122_5585af"
+    "run_id": "20260720T190115_626056"
   },
   "account": {
     "total_value": 13555.735246181488,
@@ -11,69 +11,69 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3555.735246181488,
     "profit_percent": 35.55735246181488,
-    "vs_voo_dollars": 1724.226084547583,
-    "vs_voo_percent": 14.573171190525214
+    "vs_voo_dollars": 1756.873698938376,
+    "vs_voo_percent": 14.890196752489926
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 700.8800048828125,
-      "market_value": 2102.6400146484375,
-      "profit_dollars": 134.03997802734375,
-      "profit_percent": 6.808898482873649,
-      "portfolio_pct": 16.52140128457837
+      "current_price": 698.4899291992188,
+      "market_value": 2095.4697875976562,
+      "profit_dollars": 126.8697509765625,
+      "profit_percent": 6.444668729881861,
+      "portfolio_pct": 16.52376740218731
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 193.36000061035156,
-      "market_value": 2513.6800079345703,
-      "profit_dollars": 586.6900634765625,
-      "profit_percent": 30.44593279606226,
-      "portfolio_pct": 19.751129923708284
+      "current_price": 192.92999267578125,
+      "market_value": 2508.0899047851562,
+      "profit_dollars": 581.0999603271484,
+      "profit_percent": 30.155837709396593,
+      "portfolio_pct": 19.777471598841956
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 81.3499984741211,
-      "market_value": 1789.699966430664,
-      "profit_dollars": -268.4001007080078,
-      "profit_percent": -13.04115893068106,
-      "portfolio_pct": 14.06248864208992
+      "current_price": 81.37999725341797,
+      "market_value": 1790.3599395751953,
+      "profit_dollars": -267.74012756347656,
+      "profit_percent": -13.009091823980617,
+      "portfolio_pct": 14.1178323747872
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 20.639999389648438,
-      "market_value": 1630.5599517822266,
-      "profit_dollars": 82.9499397277832,
-      "profit_percent": 5.359873552230877,
-      "portfolio_pct": 12.81205298780598
+      "current_price": 20.524999618530273,
+      "market_value": 1621.4749698638916,
+      "profit_dollars": 73.86495780944824,
+      "profit_percent": 4.772840524040869,
+      "portfolio_pct": 12.786094750245105
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 102.80480194091797,
-      "market_value": 2364.5104446411133,
-      "profit_dollars": -249.43959045410156,
-      "profit_percent": -9.5426303909828,
-      "portfolio_pct": 18.579036651703955
+      "current_price": 102.44999694824219,
+      "market_value": 2356.3499298095703,
+      "profit_dollars": -257.60010528564453,
+      "profit_percent": -9.854821317434299,
+      "portfolio_pct": 18.580930342580366
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 62.97999954223633,
-      "market_value": 1448.5399894714355,
-      "profit_dollars": -1114.8099403381348,
-      "profit_percent": -43.490353282392206,
-      "portfolio_pct": 11.381839152727217
+      "current_price": 62.290000915527344,
+      "market_value": 1432.670021057129,
+      "profit_dollars": -1130.6799087524414,
+      "profit_percent": -44.10946377642786,
+      "portfolio_pct": 11.29727869719121
     }
   ],
   "allocation": [
@@ -99,11 +99,11 @@
     },
     {
       "label": "INOD",
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "label": "Cash",
-      "pct": 6.8
+      "pct": 6.9
     }
   ],
   "snapshots": [
@@ -500,8 +500,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.274294015138835,
-    "voo_price": 684.9199829101562,
-    "total_value": 11831.509161633905,
+    "voo_price": 683.030029296875,
+    "total_value": 11798.861547243112,
     "total_deposited": 11200.0,
     "snapshots": [
       {
@@ -891,8 +891,8 @@
       {
         "date": "2026-07-20",
         "voo_shares": 17.274294015138835,
-        "voo_price": 684.9199829101562,
-        "total_value": 11831.509161633905
+        "voo_price": 683.030029296875,
+        "total_value": 11798.861547243112
       }
     ]
   },
@@ -1595,18 +1595,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were mildly positive today (NASDAQ +0.5%, S&P 500 +0.2%) but this isn't the strong risk-on signal (NASDAQ +2%+) that past experience shows is worth deploying fresh cash into. Several screened tickers show strong RSI/MACD/SMA signals but lack the volume-surge confirmation needed for high-conviction entries, so we're holding all 6 existing positions and keeping $877.14 in reserve for a clearer setup."
+    "briefing": "Markets were flat and mixed today (NASDAQ +0.2%, S&P 500 -0.1%), with no clear risk-on signal. Despite having $877 in cash and 4 open slots, none of today's top candidates showed the volume-confirmed, multi-signal setup our strategy requires, so we held cash and let existing positions ride."
   },
   "education": {
     "market_education": {
-      "summary_en": "Both major indices posted small gains today, with the NASDAQ slightly outpacing the S&P 500, suggesting mild risk appetite without a clear catalyst driving the move. This kind of low-conviction, broad-based drift is common on days without major economic data or earnings surprises. Without a decisive move, momentum traders typically wait for stronger confirmation before committing new capital.",
-      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u7686\u9304\u5f97\u5c0f\u5e45\u5347\u5e45,\u7d0d\u6307\u5347\u5e45\u7565\u9ad8\u65bc\u6a19\u666e500\u6307\u6578,\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6eab\u548c,\u60df\u672a\u898b\u660e\u986f\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u3002\u6b64\u985e\u7f3a\u4e4f\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u9a5a\u559c\u7684\u6a6b\u884c\u8d70\u52e2\u9817\u70ba\u5e38\u898b\u3002\u5728\u65b9\u5411\u672a\u660e\u6717\u4e4b\u524d,\u52d5\u80fd\u4ea4\u6613\u8005\u901a\u5e38\u6703\u7b49\u5f85\u66f4\u5f37\u78ba\u8a8d\u8a0a\u865f\u624d\u9858\u610f\u6295\u5165\u65b0\u8cc7\u91d1\u3002",
+      "summary_en": "Major indices traded in a narrow range today, with the NASDAQ inching up 0.2% while the S&P 500 slipped 0.1%, reflecting a lack of strong directional conviction among investors. Momentum names in mining, crypto-adjacent, and small-cap growth sectors showed technical strength, but broader market breadth stayed muted. Without a clear catalyst, traders appeared to be in a wait-and-see posture heading into the next batch of economic data.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u7a84\u5e45\u9707\u76ea,\u7d0d\u6307\u5fae\u53470.2%,\u6a19\u666e500\u5247\u5c0f\u8dcc0.1%,\u53cd\u6620\u6295\u8cc7\u4eba\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u7926\u696d\u3001\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u53ca\u5c0f\u578b\u6210\u9577\u80a1\u7684\u6280\u8853\u9762\u8868\u73fe\u8f03\u5f37,\u4f46\u5927\u76e4\u6574\u9ad4\u53c3\u8207\u5ea6\u4ecd\u7136\u6709\u9650\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b,\u5e02\u5834\u4f3c\u4e4e\u6b63\u975c\u5f85\u4e0b\u4e00\u6279\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Price and indicator signals like RSI or MACD crossovers are more reliable when accompanied by a surge in trading volume, since higher volume shows real institutional participation rather than a random price blip. Today's top candidates show bullish RSI and MACD patterns but no confirmed volume surge, so a cautious trader waits rather than chasing the signal alone. This patience helps avoid entries that fizzle out on thin conviction.",
-      "explanation_zh": "\u50f9\u683c\u53ca\u6280\u8853\u6307\u6a19(\u5982RSI\u6216MACD\u9ec3\u91d1\u4ea4\u53c9)\u8a0a\u865f,\u82e5\u4f34\u96a8\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927,\u53ef\u4fe1\u5ea6\u6703\u66f4\u9ad8,\u56e0\u70ba\u91cf\u589e\u53cd\u6620\u771f\u6b63\u7684\u6a5f\u69cb\u8cc7\u91d1\u53c3\u8207,\u800c\u975e\u5076\u7136\u7684\u50f9\u683c\u6ce2\u52d5\u3002\u4eca\u65e5\u591a\u96bb\u5019\u9078\u80a1\u96d6\u5448\u73feRSI\u53caMACD\u504f\u591a\u8a0a\u865f,\u4f46\u672a\u898b\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u78ba\u8a8d,\u6545\u5be9\u614e\u7684\u4ea4\u6613\u8005\u6703\u9078\u64c7\u89c0\u671b,\u800c\u975e\u55ae\u6191\u8a0a\u865f\u8cbf\u7136\u9032\u5834\u3002\u9019\u7a2e\u8010\u6027\u6709\u52a9\u907f\u514d\u56e0\u8a0a\u5fc3\u4e0d\u8db3\u800c\u5931\u6557\u7684\u4ea4\u6613\u3002"
+      "term": "Patience",
+      "explanation_en": "Patience means resisting the urge to trade just because cash or open slots are available. Even when several stocks look technically promising, a disciplined investor waits for strong, multi-signal confirmation (like a volume surge alongside momentum indicators) before committing capital, rather than forcing a trade on a lukewarm day.",
+      "explanation_zh": "\u8010\u5fc3\u662f\u6307\u4e0d\u56e0\u70ba\u624b\u4e0a\u6709\u73fe\u91d1\u6216\u7a7a\u9918\u5009\u4f4d\u5c31\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002\u5373\u4f7f\u6709\u5e7e\u6a94\u80a1\u7968\u6280\u8853\u9762\u770b\u4f3c\u4e0d\u932f,\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4ecd\u6703\u7b49\u5f85\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d(\u4f8b\u5982\u6210\u4ea4\u91cf\u6fc0\u589e\u914d\u5408\u52d5\u80fd\u6307\u6a19),\u624d\u9858\u610f\u6295\u5165\u8cc7\u91d1,\u800c\u4e0d\u662f\u5728\u5e02\u6cc1\u5e73\u6de1\u6642\u52c9\u5f37\u51fa\u624b\u3002"
     }
   },
   "stats": {
