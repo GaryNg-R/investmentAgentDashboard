@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-07-21T17:01:42.530305+00:00",
+    "generated_at": "2026-07-21T18:01:22.908639+00:00",
     "date_et": "2026-07-21",
-    "run_id": "20260721T170142_f74ab9"
+    "run_id": "20260721T180122_db8fcf"
   },
   "account": {
     "total_value": 13555.735246181488,
@@ -11,99 +11,99 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3555.735246181488,
     "profit_percent": 35.55735246181488,
-    "vs_voo_dollars": 1667.3381568204804,
-    "vs_voo_percent": 14.024919796063928
+    "vs_voo_dollars": 1668.2575406328106,
+    "vs_voo_percent": 14.03373854366199
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 709.7050170898438,
-      "market_value": 2129.1150512695312,
-      "profit_dollars": 160.5150146484375,
-      "profit_percent": 8.153764688735125,
-      "portfolio_pct": 16.646833241666652
+      "current_price": 709.85498046875,
+      "market_value": 2129.56494140625,
+      "profit_dollars": 160.96490478515625,
+      "profit_percent": 8.176617992014085,
+      "portfolio_pct": 16.67834195618027
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 192.44000244140625,
-      "market_value": 2501.7200317382812,
-      "profit_dollars": 574.7300872802734,
-      "profit_percent": 29.825276926492943,
-      "portfolio_pct": 19.560106045397593
+      "current_price": 193.39999389648438,
+      "market_value": 2514.199920654297,
+      "profit_dollars": 587.2099761962891,
+      "profit_percent": 30.47291335821941,
+      "portfolio_pct": 19.690728940711985
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 81.38999938964844,
-      "market_value": 1790.5799865722656,
-      "profit_dollars": -267.52008056640625,
-      "profit_percent": -12.998400069940871,
-      "portfolio_pct": 13.999941630472648
+      "current_price": 81.62000274658203,
+      "market_value": 1795.6400604248047,
+      "profit_dollars": -262.4600067138672,
+      "profit_percent": -12.752538659539484,
+      "portfolio_pct": 14.063106682346513
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.125,
-      "market_value": 1668.875,
-      "profit_dollars": 121.26498794555664,
-      "profit_percent": 7.835629583746235,
-      "portfolio_pct": 13.04837134546633
+      "current_price": 20.709999084472656,
+      "market_value": 1636.0899276733398,
+      "profit_dollars": 88.47991561889648,
+      "profit_percent": 5.7171971575345335,
+      "portfolio_pct": 12.813540810255436
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 103.37000274658203,
-      "market_value": 2377.5100631713867,
-      "profit_dollars": -236.43997192382812,
-      "profit_percent": -9.045313366719178,
-      "portfolio_pct": 18.588950150157064
+      "current_price": 102.78500366210938,
+      "market_value": 2364.0550842285156,
+      "profit_dollars": -249.89495086669922,
+      "profit_percent": -9.560050785653086,
+      "portfolio_pct": 18.514823535728038
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 62.82500076293945,
-      "market_value": 1444.9750175476074,
-      "profit_dollars": -1118.374912261963,
-      "profit_percent": -43.62942800966103,
-      "portfolio_pct": 11.297772819344114
+      "current_price": 63.119998931884766,
+      "market_value": 1451.7599754333496,
+      "profit_dollars": -1111.5899543762207,
+      "profit_percent": -43.36473695804771,
+      "portfolio_pct": 11.36990417046608
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.6
+      "pct": 19.7
     },
     {
       "label": "ROAD",
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "label": "QQQ",
-      "pct": 16.6
+      "pct": 16.7
     },
     {
       "label": "OLED",
-      "pct": 14.0
+      "pct": 14.1
     },
     {
       "label": "WT",
-      "pct": 13.0
+      "pct": 12.8
     },
     {
       "label": "INOD",
-      "pct": 11.3
+      "pct": 11.4
     },
     {
       "label": "Cash",
-      "pct": 6.9
+      "pct": 6.8
     }
   ],
   "snapshots": [
@@ -506,8 +506,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.274294015138835,
-    "voo_price": 688.2131958007812,
-    "total_value": 11888.397089361008,
+    "voo_price": 688.1599731445312,
+    "total_value": 11887.477705548677,
     "total_deposited": 11200.0,
     "snapshots": [
       {
@@ -903,8 +903,8 @@
       {
         "date": "2026-07-21",
         "voo_shares": 17.274294015138835,
-        "voo_price": 688.2131958007812,
-        "total_value": 11888.397089361008
+        "voo_price": 688.1599731445312,
+        "total_value": 11887.477705548677
       }
     ]
   },
@@ -1608,24 +1608,30 @@
       {
         "action": "BUY",
         "ticker": "NBIS",
+        "conviction": "high",
+        "reasoning": "All four bullish signals align (RSI 68.9, MACD crossover, rising histogram, price above SMA-20) confirming strong institutional momentum."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ACMR",
         "conviction": "medium",
-        "reasoning": "Top-scoring candidate with MACD bullish crossover, RSI 68.2 in the bullish zone, and price above SMA-20, fitting the risk-on tape and filling an open slot with idle cash above the $500 threshold."
+        "reasoning": "Full bullish signal confirmation with RSI 64.5 in the healthy momentum zone, adding semiconductor equipment exposure distinct from existing holdings."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "NASDAQ +1.4% and S&P 500 +0.9% confirm a risk-on session, so we deployed part of the idle cash into NBIS, the top-scored candidate with confirmed MACD, RSI, and trend signals. Existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) are being held since none show stop-loss or profit-target triggers and the market doesn't warrant trimming winners on a green day."
+    "briefing": "Markets were broadly risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With $877 in cash and 4 open slots, we deployed into NBIS and ACMR, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20)."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad indices moved higher today, with the NASDAQ outpacing the S&P 500, signaling stronger buying interest in growth and tech-adjacent names. Momentum names showing MACD crossovers and rising RSI, like NBIS, are seeing increased participation as investors rotate into names confirming bullish technical setups. No major negative catalysts were evident in today's screened data, consistent with a broad risk-on tone.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u9ad8,\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u9818\u5148\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u79d1\u6280\u8207\u6210\u9577\u80a1\u8cb7\u76e4\u8f03\u70ba\u5f37\u52c1\u3002\u50cfNBIS\u9019\u985e\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8d70\u5347\u7684\u52d5\u80fd\u80a1,\u5438\u5f15\u66f4\u591a\u8cc7\u91d1\u8ffd\u6367,\u986f\u793a\u5e02\u5834\u504f\u5411\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u3002\u4eca\u65e5\u7be9\u9078\u6578\u64da\u4e2d\u672a\u898b\u660e\u986f\u5229\u7a7a\u6d88\u606f,\u6574\u9ad4\u6c23\u6c1b\u504f\u5411\u98a8\u96aa\u504f\u597d\u3002",
+      "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, suggesting continued investor appetite for growth and technology names. Broad-based buying across momentum names indicates risk appetite remains healthy. No single catalyst dominated; the move looks like a continuation of the recent risk-on trend.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u8d85\u8d8a\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u6295\u8cc7\u4eba\u5c0d\u79d1\u6280\u8207\u6210\u9577\u80a1\u7684\u80c3\u53e3\u4f9d\u7136\u5f37\u52c1\u3002\u52d5\u80fd\u80a1\u666e\u904d\u7372\u5f97\u8cc7\u91d1\u8ffd\u6367\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5065\u5eb7\u3002\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u660e\u986f\u7684\u5e02\u5834\u50ac\u5316\u5291\uff0c\u9019\u6ce2\u6f32\u52e2\u770b\u8d77\u4f86\u662f\u8fd1\u671f\u98a8\u96aa\u504f\u597d\u5347\u6eab\u8da8\u52e2\u7684\u5ef6\u7e8c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders often confirm momentum using indicators like MACD (trend direction) and RSI (strength of the move) before buying in.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u3001\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968,\u539f\u7406\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u7684\u6f32\u52e2\u5f80\u5f80\u6703\u5ef6\u7e8c\u3002\u4ea4\u6613\u8005\u901a\u5e38\u6703\u7528MACD(\u8da8\u52e2\u65b9\u5411)\u548cRSI(\u6f32\u52e2\u5f37\u5ea6)\u7b49\u6307\u6a19\u4f86\u78ba\u8a8d\u52d5\u80fd\u5f8c\u518d\u9032\u5834\u8cb7\u5165\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI in a bullish range, a MACD crossover, and price above its moving average \u2014 to all line up before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4f8b\u5982RSI\u8655\u65bc\u504f\u591a\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\u7b49\uff0c\u800c\u4e0d\u662f\u53ea\u6191\u55ae\u4e00\u8a0a\u865f\u5c31\u9032\u5834\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9ad8\u5230\u5047\u8a0a\u865f\u6216\u66c7\u82b1\u4e00\u73fe\u884c\u60c5\u7684\u98a8\u96aa\u3002"
     }
   },
   "stats": {
