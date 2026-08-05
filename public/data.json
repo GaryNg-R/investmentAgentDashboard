@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-08-05T17:01:02.802990+00:00",
+    "generated_at": "2026-08-05T18:00:56.039498+00:00",
     "date_et": "2026-08-05",
-    "run_id": "20260805T170102_657726"
+    "run_id": "20260805T180056_3177cf"
   },
   "account": {
     "total_value": 13655.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3655.735246181488,
     "profit_percent": 36.55735246181488,
-    "vs_voo_dollars": 1297.6298506426792,
-    "vs_voo_percent": 10.500232916860508
+    "vs_voo_dollars": 1302.5328845211607,
+    "vs_voo_percent": 10.54409088742634
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 722.0900268554688,
-      "market_value": 2166.2700805664062,
-      "profit_dollars": 197.6700439453125,
-      "profit_percent": 10.041148037596987,
-      "portfolio_pct": 15.7131400360423
+      "current_price": 720.9000244140625,
+      "market_value": 2162.7000732421875,
+      "profit_dollars": 194.10003662109375,
+      "profit_percent": 9.859800518659299,
+      "portfolio_pct": 15.693986812695867
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 225.63999938964844,
-      "market_value": 2933.3199920654297,
-      "profit_dollars": 1006.3300476074219,
-      "profit_percent": 52.222900825279915,
-      "portfolio_pct": 21.276971980241342
+      "current_price": 225.50999450683594,
+      "market_value": 2931.629928588867,
+      "profit_dollars": 1004.6399841308594,
+      "profit_percent": 52.13519598377707,
+      "portfolio_pct": 21.273852074182617
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 85.58499908447266,
-      "market_value": 1882.8699798583984,
-      "profit_dollars": -175.23008728027344,
-      "profit_percent": -8.514167511975824,
-      "portfolio_pct": 13.657484322287033
+      "current_price": 85.8375015258789,
+      "market_value": 1888.425033569336,
+      "profit_dollars": -169.67503356933594,
+      "profit_percent": -8.244255771549104,
+      "portfolio_pct": 13.703665126885605
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 22.09000015258789,
-      "market_value": 1745.1100120544434,
-      "profit_dollars": 197.5,
-      "profit_percent": 12.76161296849068,
-      "portfolio_pct": 12.658236036081535
+      "current_price": 21.905000686645508,
+      "market_value": 1730.4950542449951,
+      "profit_dollars": 182.88504219055176,
+      "profit_percent": 11.817256334997014,
+      "portfolio_pct": 12.557620400891842
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 106.45500183105469,
-      "market_value": 2448.465042114258,
-      "profit_dollars": -165.48499298095703,
-      "profit_percent": -6.330839945642998,
-      "portfolio_pct": 17.760054217263683
+      "current_price": 106.37750244140625,
+      "market_value": 2446.6825561523438,
+      "profit_dollars": -167.2674789428711,
+      "profit_percent": -6.399031224664487,
+      "portfolio_pct": 17.754752148107002
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 69.41000366210938,
-      "market_value": 1596.4300842285156,
-      "profit_dollars": -966.9198455810547,
-      "profit_percent": -37.720946107927084,
-      "portfolio_pct": 11.579779315732695
+      "current_price": 70.01000213623047,
+      "market_value": 1610.2300491333008,
+      "profit_dollars": -953.1198806762695,
+      "profit_percent": -37.18258945422548,
+      "portfolio_pct": 11.684897720755155
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 924.6099853515625,
-      "market_value": 924.6099853515625,
-      "profit_dollars": 36.759765625,
-      "profit_percent": 4.140311598539804,
-      "portfolio_pct": 6.706701213707113
+      "current_price": 920.989990234375,
+      "market_value": 920.989990234375,
+      "profit_dollars": 33.1397705078125,
+      "profit_percent": 3.7325857190212544,
+      "portfolio_pct": 6.683314501254268
     }
   ],
   "allocation": [
@@ -105,11 +105,11 @@
     },
     {
       "label": "WT",
-      "pct": 12.7
+      "pct": 12.6
     },
     {
       "label": "INOD",
-      "pct": 11.6
+      "pct": 11.7
     },
     {
       "label": "MU",
@@ -550,8 +550,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.41788964983154,
-    "voo_price": 709.5064697265625,
-    "total_value": 12358.105395538809,
+    "voo_price": 709.2249755859375,
+    "total_value": 12353.202361660327,
     "total_deposited": 11300.0,
     "snapshots": [
       {
@@ -977,8 +977,8 @@
       {
         "date": "2026-08-05",
         "voo_shares": 17.41788964983154,
-        "voo_price": 709.5064697265625,
-        "total_value": 12358.105395538809
+        "voo_price": 709.2249755859375,
+        "total_value": 12353.202361660327
       }
     ]
   },
@@ -1690,20 +1690,20 @@
   ],
   "today_plan": {
     "decisions": [],
-    "skip_new_buys": false,
+    "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets were mixed and directionless today \u2014 NASDAQ dipped 0.3% while the S&P 500 edged up 0.1%. With only $89.29 in cash and no genuine risk-on signal, we're holding all 7 positions steady and waiting for a clearer setup before deploying capital."
+    "briefing": "Markets were mixed and directionless today (NASDAQ -0.5%, S&P 500 +0.1%), with no clear risk-on signal. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new positions were opened despite 3 open slots. Existing 7 positions are held unchanged; stop-loss and profit-target rules remain active in the background."
   },
   "education": {
     "market_education": {
-      "summary_en": "Today's action was a classic sideways, low-conviction session: the NASDAQ slipped slightly while the S&P 500 was roughly flat, showing no clear sector or macro catalyst pushing markets in either direction. Trading volumes and momentum signals across the screened list were mixed, with several names extending overbought rallies while broader indices consolidated. Without a strong directional signal, chasing new positions here would add risk without a clear edge.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5448\u73fe\u6a6b\u76e4\u6574\u7406\u683c\u5c40\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff1a\u7d0d\u6307\u5fae\u8dcc0.3%\uff0c\u6a19\u666e500\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u66ab\u6642\u6c92\u6709\u660e\u986f\u7684\u5b8f\u89c0\u6216\u677f\u584a\u50ac\u5316\u5291\u3002\u500b\u80a1\u65b9\u9762\u8a0a\u865f\u5206\u6b67\uff0c\u90e8\u5206\u80a1\u4efd\u6301\u7e8c\u8d85\u8cb7\u5f0f\u4e0a\u5347\uff0c\u4f46\u5927\u76e4\u6574\u9ad4\u8655\u65bc\u76e4\u6574\u968e\u6bb5\u3002\u5728\u7f3a\u4e4f\u6e05\u6670\u65b9\u5411\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cbf\u7136\u52a0\u5009\u4e26\u975e\u5be9\u614e\u4e4b\u8209\u3002",
+      "summary_en": "Today's action was mixed and largely rangebound, with the S&P 500 essentially flat while the NASDAQ slipped modestly. No single catalyst drove the divergence; it reflects a market digesting recent gains rather than reacting to a specific shock. With no strong directional signal, this was a low-conviction, wait-and-see session.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u65b9\u5411\u4e0d\u660e,\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6301\u5e73,\u7d0d\u6307\u5247\u8f15\u5fae\u56de\u843d\u3002\u4eca\u6b21\u5206\u6b67\u4e26\u975e\u7531\u55ae\u4e00\u4e8b\u4ef6\u89f8\u767c,\u53cd\u800c\u53cd\u6620\u5e02\u5834\u5728\u6d88\u5316\u8fd1\u671f\u5347\u5e45\u5f8c\u9032\u5165\u89c0\u671b\u72c0\u614b\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f,\u4eca\u65e5\u5c6c\u65bc\u4f4e\u4fe1\u5fc3\u3001\u6309\u5175\u4e0d\u52d5\u7684\u4ea4\u6613\u65e5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sideways Market",
-      "explanation_en": "A sideways market is when prices move within a narrow range without a clear upward or downward trend, often signaling indecision among investors. During these periods, it's often wiser to hold existing positions and preserve cash rather than force new trades, since there's no strong signal confirming which direction the market will break next.",
-      "explanation_zh": "\u6a6b\u76e4\u5e02\u5834\u662f\u6307\u50f9\u683c\u5728\u4e00\u500b\u72f9\u7a84\u5340\u9593\u5167\u6ce2\u52d5\uff0c\u6c92\u6709\u660e\u986f\u7684\u4e0a\u5347\u6216\u4e0b\u964d\u8da8\u52e2\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u7336\u8c6b\u4e0d\u6c7a\u3002\u5728\u9019\u6bb5\u6642\u671f\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u4fdd\u7559\u73fe\u91d1\u5f80\u5f80\u6bd4\u52c9\u5f37\u9032\u884c\u65b0\u4ea4\u6613\u66f4\u660e\u667a\uff0c\u56e0\u70ba\u5e02\u5834\u5c1a\u672a\u51fa\u73fe\u660e\u78ba\u7a81\u7834\u65b9\u5411\u7684\u8a0a\u865f\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' day is when investors pull back from adding new positions because market signals aren't strong enough to justify the risk. It doesn't mean panic-selling \u2014 it just means staying disciplined and waiting for clearer confirmation before committing more capital.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u5920\u660e\u78ba\u6642,\u9078\u64c7\u4e0d\u589e\u6301\u65b0\u5009\u4f4d\u3002\u9019\u4e26\u975e\u6050\u614c\u6027\u62cb\u552e,\u800c\u662f\u4fdd\u6301\u7d00\u5f8b,\u5f85\u8a0a\u865f\u66f4\u6e05\u6670\u6642\u624d\u518d\u6295\u5165\u8cc7\u91d1\u3002"
     }
   },
   "stats": {
