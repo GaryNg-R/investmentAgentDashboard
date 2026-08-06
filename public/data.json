@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-08-06T17:01:22.177863+00:00",
+    "generated_at": "2026-08-06T18:01:32.904641+00:00",
     "date_et": "2026-08-06",
-    "run_id": "20260806T170122_90cba6"
+    "run_id": "20260806T180132_406c41"
   },
   "account": {
     "total_value": 13655.735246181488,
@@ -11,89 +11,89 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3655.735246181488,
     "profit_percent": 36.55735246181488,
-    "vs_voo_dollars": 1342.332294605434,
-    "vs_voo_percent": 10.901391758917644
+    "vs_voo_dollars": 1349.2127012102756,
+    "vs_voo_percent": 10.963395193726777
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 716.3900146484375,
-      "market_value": 2149.1700439453125,
-      "profit_dollars": 180.57000732421875,
-      "profit_percent": 9.172508583010556,
-      "portfolio_pct": 15.810084019412676
+      "current_price": 715.3599853515625,
+      "market_value": 2146.0799560546875,
+      "profit_dollars": 177.47991943359375,
+      "profit_percent": 9.015539781164508,
+      "portfolio_pct": 15.825247126813535
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 225.05999755859375,
-      "market_value": 2925.7799682617188,
-      "profit_dollars": 998.7900238037109,
-      "profit_percent": 51.831615763030584,
-      "portfolio_pct": 21.5231117941775
+      "current_price": 225.77000427246094,
+      "market_value": 2935.010055541992,
+      "profit_dollars": 1008.0201110839844,
+      "profit_percent": 52.31060566678275,
+      "portfolio_pct": 21.642837359155294
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.20999908447266,
-      "market_value": 1918.6199798583984,
-      "profit_dollars": -139.48008728027344,
-      "profit_percent": -6.777128552072267,
-      "portfolio_pct": 14.114073089908096
+      "current_price": 87.32749938964844,
+      "market_value": 1921.2049865722656,
+      "profit_dollars": -136.89508056640625,
+      "profit_percent": -6.651526947216335,
+      "portfolio_pct": 14.167013492668687
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.700000762939453,
-      "market_value": 1714.3000602722168,
-      "profit_dollars": 166.69004821777344,
-      "profit_percent": 10.770804461034299,
-      "portfolio_pct": 12.611020735071083
+      "current_price": 21.739999771118164,
+      "market_value": 1717.459981918335,
+      "profit_dollars": 169.8499698638916,
+      "profit_percent": 10.974985205634379,
+      "portfolio_pct": 12.664592746225603
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 101.62000274658203,
-      "market_value": 2337.2600631713867,
-      "profit_dollars": -276.6899719238281,
-      "profit_percent": -10.585128568218769,
-      "portfolio_pct": 17.19374326757445
+      "current_price": 100.71499633789062,
+      "market_value": 2316.4449157714844,
+      "profit_dollars": -297.50511932373047,
+      "profit_percent": -11.381438639965957,
+      "portfolio_pct": 17.081522589273167
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 67.9000015258789,
-      "market_value": 1561.7000350952148,
-      "profit_dollars": -1001.6498947143555,
-      "profit_percent": -39.07581571544418,
-      "portfolio_pct": 11.488438915075138
+      "current_price": 67.19000244140625,
+      "market_value": 1545.3700561523438,
+      "profit_dollars": -1017.9798736572266,
+      "profit_percent": -39.71287188764164,
+      "portfolio_pct": 11.395597341092428
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 897.551025390625,
-      "market_value": 897.551025390625,
-      "profit_dollars": 9.7008056640625,
-      "profit_percent": 1.092617363664124,
-      "portfolio_pct": 6.602714923890344
+      "current_price": 890.260009765625,
+      "market_value": 890.260009765625,
+      "profit_dollars": 2.4097900390625,
+      "profit_percent": 0.27141853271204464,
+      "portfolio_pct": 6.5647995182624195
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 21.5
+      "pct": 21.6
     },
     {
       "label": "ROAD",
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "label": "QQQ",
@@ -101,15 +101,15 @@
     },
     {
       "label": "OLED",
-      "pct": 14.1
+      "pct": 14.2
     },
     {
       "label": "WT",
-      "pct": 12.6
+      "pct": 12.7
     },
     {
       "label": "INOD",
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "label": "MU",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 0.7
+      "pct": 0.6
     }
   ],
   "snapshots": [
@@ -556,8 +556,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.41788964983154,
-    "voo_price": 706.9400024414062,
-    "total_value": 12313.402951576054,
+    "voo_price": 706.5449829101562,
+    "total_value": 12306.522544971212,
     "total_deposited": 11300.0,
     "snapshots": [
       {
@@ -989,8 +989,8 @@
       {
         "date": "2026-08-06",
         "voo_shares": 17.41788964983154,
-        "voo_price": 706.9400024414062,
-        "total_value": 12313.402951576054
+        "voo_price": 706.5449829101562,
+        "total_value": 12306.522544971212
       }
     ]
   },
@@ -1704,18 +1704,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets were flat and directionless today (NASDAQ +0.0%, S&P 500 -0.1%), giving no clear risk-on signal. With only $89.29 in cash \u2014 well under the $500 deployment threshold \u2014 and no compelling reason to force a trade, we held all 7 existing positions and skipped new buys."
+    "briefing": "Markets traded flat today (NASDAQ -0.0%, S&P 500 -0.2%) with no clear directional signal. Cash is only $89.29, well below the $500 threshold needed to fund a new position, so we're holding all 7 existing positions rather than forcing a trade."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ unchanged, reflecting a lack of strong catalysts on either side. Without clear directional conviction, institutional flows stayed muted rather than pushing decisively into risk assets or defensive positions. This kind of low-volatility, range-bound session is common in the absence of major economic data or earnings surprises.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u63a8\u52d5\u56e0\u7d20\u3002\u5728\u65b9\u5411\u4e0d\u660e\u6717\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a5f\u69cb\u8cc7\u91d1\u4e26\u672a\u5927\u5e45\u6d41\u5165\u98a8\u96aa\u8cc7\u7522\u6216\u9632\u79a6\u6027\u677f\u584a\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u5340\u9593\u9707\u76ea\u7684\u8d70\u52e2\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u7f3a\u4e4f\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u9a5a\u559c\u7684\u6642\u5019\u3002",
+      "summary_en": "Major indices were essentially flat today, with the S&P 500 slipping a modest 0.2% and the Nasdaq roughly unchanged. There was no dominant catalyst driving broad market direction, consistent with a low-conviction, wait-and-see session. Without a clear trend, it's a day for holding steady rather than chasing new positions.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.2%,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u63a8\u52d5\u56e0\u7d20,\u5448\u73fe\u89c0\u671b\u6c23\u6c1b,\u6295\u8cc7\u4eba\u50be\u5411\u6309\u5175\u4e0d\u52d5\u800c\u975e\u8ffd\u9ad8\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash held in reserve, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed to open a new position, and the market gave no strong risk-on signal, so the disciplined move was to hold that cash rather than force a trade.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u7559\u5b58\u5099\u7528\u3001\u7b49\u5f85\u826f\u6a5f\u51fa\u624b\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u6211\u5011\u7684\u73fe\u91d1\u9918\u984d\u4f4e\u65bc\u958b\u65b0\u5009\u6240\u9700\u7684\u9580\u6abb\uff0c\u5e02\u5834\u4e5f\u6c92\u6709\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff0c\u56e0\u6b64\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u4fdd\u7559\u73fe\u91d1\uff0c\u800c\u975e\u52c9\u5f37\u9032\u884c\u4ea4\u6613\u3002"
+      "explanation_en": "\"Dry powder\" means keeping cash on hand instead of investing it all, so you have flexibility to act when a strong opportunity appears. Today, with only $89 in cash and a neutral market, it's better to preserve that flexibility than force a trade just to stay fully invested.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d(Dry Powder)\u6307\u7684\u662f\u4fdd\u7559\u73fe\u91d1\u800c\u975e\u5168\u6578\u6295\u5165\u5e02\u5834,\u4ee5\u4fbf\u5728\u51fa\u73fe\u7d55\u4f73\u6a5f\u6703\u6642\u80fd\u9748\u6d3b\u51fa\u624b\u3002\u4eca\u65e5\u73fe\u91d1\u50c5\u526989\u7f8e\u5143\u4e14\u5e02\u5834\u4e2d\u6027,\u8207\u5176\u70ba\u4e86\u6295\u5165\u8cc7\u91d1\u800c\u52c9\u5f37\u4ea4\u6613,\u4e0d\u5982\u4fdd\u7559\u5f48\u6027,\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u9032\u5834\u8a0a\u865f\u3002"
     }
   },
   "stats": {
