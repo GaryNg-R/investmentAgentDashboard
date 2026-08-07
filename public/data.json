@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-08-07T17:01:09.407062+00:00",
+    "generated_at": "2026-08-07T18:00:56.638904+00:00",
     "date_et": "2026-08-07",
-    "run_id": "20260807T170109_f70219"
+    "run_id": "20260807T180056_d95c7b"
   },
   "account": {
     "total_value": 13655.735246181488,
@@ -11,113 +11,113 @@
     "starting_cash": 10000.0,
     "profit_dollars": 3655.735246181488,
     "profit_percent": 36.55735246181488,
-    "vs_voo_dollars": 1297.5681906329337,
-    "vs_voo_percent": 10.499681585469055
+    "vs_voo_dollars": 1291.646703490016,
+    "vs_voo_percent": 10.446760382135256
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 720.5800170898438,
-      "market_value": 2161.7400512695312,
-      "profit_dollars": 193.1400146484375,
-      "profit_percent": 9.811033783172286,
-      "portfolio_pct": 15.436364001415267
+      "current_price": 720.89501953125,
+      "market_value": 2162.68505859375,
+      "profit_dollars": 194.08502197265625,
+      "profit_percent": 9.85903781175296,
+      "portfolio_pct": 15.538629053977882
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 225.91000366210938,
-      "market_value": 2936.830047607422,
-      "profit_dollars": 1009.8401031494141,
-      "profit_percent": 52.405053075326,
-      "portfolio_pct": 20.97105875358995
+      "current_price": 225.47000122070312,
+      "market_value": 2931.1100158691406,
+      "profit_dollars": 1004.1200714111328,
+      "profit_percent": 52.10821542161992,
+      "portfolio_pct": 21.059668892614887
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.63999938964844,
-      "market_value": 1994.0799865722656,
-      "profit_dollars": -64.02008056640625,
-      "profit_percent": -3.110639836643699,
-      "portfolio_pct": 14.239151697536304
+      "current_price": 91.16500091552734,
+      "market_value": 2005.6300201416016,
+      "profit_dollars": -52.47004699707031,
+      "profit_percent": -2.5494410031295605,
+      "portfolio_pct": 14.4102077085449
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.469999313354492,
-      "market_value": 1696.1299457550049,
-      "profit_dollars": 148.51993370056152,
-      "profit_percent": 9.596728668316262,
-      "portfolio_pct": 12.11157614487411
+      "current_price": 21.440000534057617,
+      "market_value": 1693.7600421905518,
+      "profit_dollars": 146.1500301361084,
+      "profit_percent": 9.443595543950705,
+      "portfolio_pct": 12.16945985614855
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 120.31999969482422,
-      "market_value": 2767.359992980957,
-      "profit_dollars": 153.4099578857422,
-      "profit_percent": 5.8688940425808145,
-      "portfolio_pct": 19.76092183216985
+      "current_price": 116.56999969482422,
+      "market_value": 2681.109992980957,
+      "profit_dollars": 67.15995788574219,
+      "profit_percent": 2.5692900393674067,
+      "portfolio_pct": 19.263449140825692
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 64.69999694824219,
-      "market_value": 1488.0999298095703,
-      "profit_dollars": -1075.25,
-      "profit_percent": -41.947062611146485,
-      "portfolio_pct": 10.62609362931074
+      "current_price": 64.45999908447266,
+      "market_value": 1482.579978942871,
+      "profit_dollars": -1080.7699508666992,
+      "profit_percent": -42.16240390351187,
+      "portfolio_pct": 10.652156791903492
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 870.6799926757812,
-      "market_value": 870.6799926757812,
-      "profit_dollars": -17.17022705078125,
-      "profit_percent": -1.9339103228548264,
-      "portfolio_pct": 6.21727542485967
+      "current_price": 871.9600219726562,
+      "market_value": 871.9600219726562,
+      "profit_dollars": -15.89019775390625,
+      "profit_percent": -1.7897385618488741,
+      "portfolio_pct": 6.264926683380131
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 21.0
+      "pct": 21.1
     },
     {
       "label": "ROAD",
-      "pct": 19.8
+      "pct": 19.3
     },
     {
       "label": "QQQ",
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "label": "OLED",
-      "pct": 14.2
+      "pct": 14.4
     },
     {
       "label": "WT",
-      "pct": 12.1
+      "pct": 12.2
     },
     {
       "label": "INOD",
-      "pct": 10.6
+      "pct": 10.7
     },
     {
       "label": "MU",
-      "pct": 6.2
+      "pct": 6.3
     },
     {
       "label": "Cash",
-      "pct": 0.7
+      "pct": 0.5
     }
   ],
   "snapshots": [
@@ -562,8 +562,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.41788964983154,
-    "voo_price": 709.510009765625,
-    "total_value": 12358.167055548554,
+    "voo_price": 709.8499755859375,
+    "total_value": 12364.088542691472,
     "total_deposited": 11300.0,
     "snapshots": [
       {
@@ -1001,8 +1001,8 @@
       {
         "date": "2026-08-07",
         "voo_shares": 17.41788964983154,
-        "voo_price": 709.510009765625,
-        "total_value": 12358.167055548554
+        "voo_price": 709.8499755859375,
+        "total_value": 12364.088542691472
       }
     ]
   },
@@ -1716,18 +1716,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets were neutral today (NASDAQ +1.0%, S&P 500 +0.4%), below the +2% NASDAQ threshold that has historically signaled a genuine risk-on setup worth deploying capital into. Cash is only $89.29, well under the $500 buy threshold, so no new positions were opened. The 7 existing positions are held unchanged, letting stop-loss and profit-target rules manage them automatically."
+    "briefing": "Markets were mildly positive today with NASDAQ +1.0% and S&P 500 +0.5%, but this is a neutral session, not the risk-on breakout (NASDAQ +2%+) needed for high-conviction buys. Cash is only $89.29, far below the $500 deployment threshold, so no new positions were opened. Existing 7 positions are held unchanged, letting stop-loss/profit-target rules manage them automatically."
   },
   "education": {
     "market_education": {
-      "summary_en": "Markets drifted modestly higher today, with the Nasdaq (+1.0%) outpacing the S&P 500 (+0.4%) in a broad but low-conviction advance. No major catalyst-driven headlines were available for today's session, suggesting the move reflected routine trading flow rather than a specific news event. Without a stronger signal, such as a 2%+ index surge paired with multiple bullish indicators, it's a day for discipline rather than chasing performance.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.0%\uff0c\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\u76840.4%\uff0c\u4f46\u5c6c\u65bc\u4f4e\u78ba\u4fe1\u5ea6\u7684\u666e\u904d\u6027\u4e0a\u63da\u3002\u4eca\u65e5\u4ea4\u6613\u6642\u6bb5\u66ab\u672a\u898b\u6709\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6\u63a8\u52d5\uff0c\u986f\u793a\u4eca\u6b21\u5347\u52e2\u8f03\u5927machine\u53ef\u80fd\u53ea\u662f\u65e5\u5e38\u8cc7\u91d1\u6d41\u52d5\u6240\u81f4\uff0c\u800c\u975e\u53d7\u7279\u5b9a\u6d88\u606f\u523a\u6fc0\u3002\u5728\u672a\u898b\u66f4\u5f37\u70c8\u8a0a\u865f\uff08\u4f8b\u5982\u6307\u6578\u55ae\u65e5\u6025\u5347\u903e2%\u4e26\u4f34\u96a8\u591a\u9805\u725b\u5e02\u6307\u6a19\uff09\u78ba\u8a8d\u4e4b\u524d\uff0c\u6295\u8cc7\u8005\u5b9c\u4fdd\u6301\u7d00\u5f8b\uff0c\u907f\u514d\u76f2\u76ee\u8ffd\u9ad8\u3002",
+      "summary_en": "Broad indices drifted modestly higher today, with NASDAQ outpacing the S&P 500, but the move lacked the volume and breadth typically seen on strong risk-on days. Without confirmed multi-signal breakouts (MACD crossover plus volume surge plus RSI strength) across the top candidates, the gains looked more like routine drift than a decisive shift in sentiment. This kept the tone cautious rather than aggressive.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u5347\u5e45\u7565\u52dd\u6a19\u666e500\uff0c\u60df\u5347\u52e2\u7f3a\u4e4f\u660e\u986f\u7684\u6210\u4ea4\u91cf\u914d\u5408\u53ca\u5e02\u5834\u5ee3\u5ea6\uff0c\u672a\u898b\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u884c\u60c5\u7279\u5fb5\u3002\u7531\u65bc\u982d\u90e8\u5019\u9078\u80a1\u672a\u80fd\u540c\u6642\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u6210\u4ea4\u91cf\u653e\u5927\u53caRSI\u8d70\u5f37\u7b49\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\uff0c\u4eca\u65e5\u5347\u52e2\u8f03\u4f3c\u5c6c\u5e38\u898f\u6ce2\u52d5\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u7684\u660e\u78ba\u8f49\u5411\uff0c\u56e0\u6b64\u7b56\u7565\u4e0a\u7dad\u6301\u5be9\u614e\u53d6\u614b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "FOMO (Fear of Missing Out)",
-      "explanation_en": "FOMO is the urge to buy into a rally just because prices are ticking up, even without strong confirming signals like a big volume surge or a sharp index move. Disciplined investors wait for genuine risk-on setups rather than chasing every green day, which helps avoid buying near short-term tops.",
-      "explanation_zh": "FOMO\uff08\u932f\u5931\u6050\u61fc\u75c7\uff09\u662f\u6307\u55ae\u7d14\u56e0\u70ba\u80a1\u50f9\u4e0a\u5347\u5c31\u6025\u65bc\u8ffd\u5165\uff0c\u800c\u672a\u6709\u7559\u610f\u6210\u4ea4\u91cf\u7206\u767c\u6216\u5927\u5e02\u6025\u5347\u7b49\u78ba\u8a8d\u8a0a\u865f\u3002\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u5e02\u6cc1\u624d\u51fa\u624b\uff0c\u800c\u975e\u898b\u6f32\u5c31\u8ffd\uff0c\u9019\u6a23\u6709\u52a9\u907f\u514d\u5728\u77ed\u671f\u9ad8\u4f4d\u8ffd\u9ad8\u88ab\u5957\u3002"
+      "term": "Cash Discipline",
+      "explanation_en": "Sometimes the best move is no move \u2014 with only $89.29 in cash and a merely neutral market, forcing a trade just to stay 'active' would mean chasing a weak signal. Waiting for a genuine risk-on setup with multiple confirming signals protects capital and avoids buying into noise.",
+      "explanation_zh": "\u6709\u6642\u5019\u6700\u597d\u7684\u64cd\u4f5c\u5c31\u662f\u4e0d\u64cd\u4f5c\u2014\u2014\u73fe\u91d1\u50c5\u991889.29\u7f8e\u5143\uff0c\u52a0\u4e0a\u5e02\u6cc1\u53ea\u5c6c\u4e2d\u6027\uff0c\u82e5\u52c9\u5f37\u4ea4\u6613\u53ea\u6703\u8ffd\u9010\u4e0d\u660e\u78ba\u7684\u8a0a\u865f\u3002\u8010\u5fc3\u7b49\u5f85\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u7684\u771f\u6b63\u300c\u98a8\u96aa\u504f\u597d\u300d\u6642\u6a5f\uff0c\u624d\u80fd\u4fdd\u8b77\u672c\u91d1\uff0c\u907f\u514d\u5728\u96dc\u8a0a\u4e2d\u76f2\u76ee\u9032\u5834\u3002"
     }
   },
   "stats": {
