@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T19:00:33.430752+00:00",
+    "generated_at": "2026-09-01T20:00:33.276237+00:00",
     "date_et": "2026-09-01",
-    "run_id": "20260901T190033_d336cf"
+    "run_id": "20260901T200033_9e0b15"
   },
   "account": {
     "total_value": 14055.735246181488,
@@ -11,89 +11,89 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4055.735246181488,
     "profit_percent": 40.55735246181488,
-    "vs_voo_dollars": 1477.3486561134796,
-    "vs_voo_percent": 11.745136353815088
+    "vs_voo_dollars": 1467.458651715473,
+    "vs_voo_percent": 11.657343566478273
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 706.7100219726562,
-      "market_value": 2120.1300659179688,
-      "profit_dollars": 151.530029296875,
-      "profit_percent": 7.69734971441742,
-      "portfolio_pct": 15.299077251947612
+      "current_price": 707.6400146484375,
+      "market_value": 2122.9200439453125,
+      "profit_dollars": 154.32000732421875,
+      "profit_percent": 7.8390736794404265,
+      "portfolio_pct": 15.265933193852584
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 232.27499389648438,
-      "market_value": 3019.574920654297,
-      "profit_dollars": 1092.584976196289,
-      "profit_percent": 56.69904917451936,
-      "portfolio_pct": 21.789564103526608
+      "current_price": 233.97999572753906,
+      "market_value": 3041.739944458008,
+      "profit_dollars": 1114.75,
+      "profit_percent": 57.849289935632676,
+      "portfolio_pct": 21.87317365889688
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 82.58000183105469,
-      "market_value": 1816.7600402832031,
-      "profit_dollars": -241.34002685546875,
-      "profit_percent": -11.72635046803133,
-      "portfolio_pct": 13.109927853652545
+      "current_price": 82.4000015258789,
+      "market_value": 1812.800033569336,
+      "profit_dollars": -245.30003356933594,
+      "profit_percent": -11.918761263652783,
+      "portfolio_pct": 13.035857984953909
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.59000015258789,
-      "market_value": 1942.6100120544434,
-      "profit_dollars": 395.0,
-      "profit_percent": 25.52322593698136,
-      "portfolio_pct": 14.018074231667319
+      "current_price": 24.479999542236328,
+      "market_value": 1933.91996383667,
+      "profit_dollars": 386.30995178222656,
+      "profit_percent": 24.9617118507396,
+      "portfolio_pct": 13.906832268313604
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 99.25,
-      "market_value": 2282.75,
-      "profit_dollars": -331.20003509521484,
-      "profit_percent": -12.670480714951793,
-      "portfolio_pct": 16.472559470903082
+      "current_price": 100.64099884033203,
+      "market_value": 2314.7429733276367,
+      "profit_dollars": -299.2070617675781,
+      "profit_percent": -11.446548623745185,
+      "portfolio_pct": 16.645333248674007
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 54.63999938964844,
-      "market_value": 1256.719985961914,
-      "profit_dollars": -1306.6299438476562,
-      "profit_percent": -50.97352993645799,
-      "portfolio_pct": 9.068621052252816
+      "current_price": 54.66999816894531,
+      "market_value": 1257.4099578857422,
+      "profit_dollars": -1305.9399719238281,
+      "profit_percent": -50.94661313060935,
+      "portfolio_pct": 9.042043985177624
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 930.0650024414062,
-      "market_value": 930.0650024414062,
-      "profit_dollars": 42.21478271484375,
-      "profit_percent": 4.754718957871625,
-      "portfolio_pct": 6.711444995957369
+      "current_price": 933.4400024414062,
+      "market_value": 933.4400024414062,
+      "profit_dollars": 45.58978271484375,
+      "profit_percent": 5.134850642812743,
+      "portfolio_pct": 6.712373722402512
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 21.8
+      "pct": 21.9
     },
     {
       "label": "ROAD",
-      "pct": 16.5
+      "pct": 16.6
     },
     {
       "label": "QQQ",
@@ -101,15 +101,15 @@
     },
     {
       "label": "WT",
-      "pct": 14.0
+      "pct": 13.9
     },
     {
       "label": "OLED",
-      "pct": 13.1
+      "pct": 13.0
     },
     {
       "label": "INOD",
-      "pct": 9.1
+      "pct": 9.0
     },
     {
       "label": "MU",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 3.5
+      "pct": 3.6
     }
   ],
   "snapshots": [
@@ -664,8 +664,8 @@
   ],
   "benchmark": {
     "voo_shares": 17.982225286531154,
-    "voo_price": 699.489990234375,
-    "total_value": 12578.386590068008,
+    "voo_price": 700.0399780273438,
+    "total_value": 12588.276594466015,
     "total_deposited": 11700.0,
     "snapshots": [
       {
@@ -1205,8 +1205,8 @@
       {
         "date": "2026-09-01",
         "voo_shares": 17.982225286531154,
-        "voo_price": 699.489990234375,
-        "total_value": 12578.386590068008
+        "voo_price": 700.0399780273438,
+        "total_value": 12588.276594466015
       }
     ]
   },
@@ -1920,18 +1920,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "risk_off",
-    "briefing": "Markets pulled back today with NASDAQ down 1.1% and S&P 500 down 0.8%, putting us in risk-off mode. No new candidates passed the screen, so we're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy."
+    "briefing": "Markets pulled back today with the NASDAQ down 1.0% and S&P 500 down 0.7%, putting us in a risk-off regime with no new candidates on the screener. Cash sits just under the $500 buy threshold anyway, so we're holding all 7 existing positions and sitting tight rather than forcing a trade."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad market weakness today pushed both the NASDAQ and S&P 500 lower, with tech-heavy indices underperforming as investors rotated away from riskier assets. Without specific headline-level news provided for today's session, the move appears consistent with a general risk-off pullback rather than a single catalyst. In these conditions it's prudent to avoid chasing new positions and instead protect existing gains.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u504f\u5f31,\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u544a\u4e0b\u8dcc,\u79d1\u6280\u80a1\u8868\u73fe\u905c\u8272,\u53cd\u6620\u6295\u8cc7\u8005\u8cc7\u91d1\u6b63\u6d41\u51fa\u98a8\u96aa\u8cc7\u7522\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c,\u4eca\u6b21\u8dcc\u52e2\u770b\u4f3c\u5c6c\u65bc\u6574\u9ad4\u907f\u96aa\u60c5\u7dd2\u6240\u81f4,\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u89f8\u767c\u3002\u5728\u9019\u7a2e\u5e02\u6cc1\u4e0b,\u5be9\u614e\u505a\u6cd5\u662f\u907f\u514d\u8ffd\u5165\u65b0\u5009,\u4e26\u5c08\u6ce8\u4fdd\u8b77\u73fe\u6709\u6301\u5009\u7684\u7372\u5229\u3002",
+      "summary_en": "Broad indices slipped today, with the NASDAQ leading losses at -1.0% versus the S&P 500's -0.7% decline, reflecting a general risk-off tone across equities. No major single catalyst stood out in today's screened data, suggesting the pullback was driven by broad-based profit-taking and cautious positioning rather than one specific headline. Growth and tech-heavy names tend to underperform disproportionately on days like this, consistent with the NASDAQ's steeper drop.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8f03\u5927\uff0c\u6536\u8dcc1.0%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u4e0b\u8dcc0.7%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u8f49\u5f31\u3002\u4eca\u65e5\u7be9\u9078\u6578\u64da\u4e2d\u672a\u898b\u7279\u5225\u91cd\u5927\u7684\u55ae\u4e00\u6d88\u606f\u9762\u56e0\u7d20\uff0c\u986f\u793a\u9019\u6b21\u56de\u8abf\u8f03\u5927\u6a5f\u6703\u662f\u7531\u5ee3\u6cdb\u7684\u7372\u5229\u56de\u5410\u53ca\u5be9\u614e\u7684\u6301\u5009\u8abf\u6574\u6240\u81f4\uff0c\u800c\u975e\u500b\u5225\u7a81\u767c\u65b0\u805e\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u5f80\u5f80\u8dcc\u5e45\u8f03\u5927\uff0c\u8207\u7d0d\u6307\u8dcc\u5e45\u9ad8\u65bc\u5927\u76e4\u7684\u8d70\u52e2\u4e00\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing indices like the NASDAQ to fall more than the broader market. The smart move isn't to panic-sell your holdings, but to pause new purchases and let your existing risk controls (like stop-losses) do their job.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d(Risk-Off)\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u589e\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522,\u8f49\u800c\u5c0b\u6c42\u8f03\u5b89\u5168\u7684\u8cc7\u7522,\u9019\u901a\u5e38\u4ee4\u7d0d\u65af\u9054\u514b\u7b49\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u5927\u76e4\u3002\u8070\u660e\u7684\u505a\u6cd5\u4e0d\u662f\u6050\u614c\u6027\u62cb\u552e\u73fe\u6709\u6301\u5009,\u800c\u662f\u66ab\u505c\u65b0\u589e\u8cb7\u5165,\u4e26\u8b93\u6b62\u8755\u7b49\u98a8\u96aa\u63a7\u5236\u6a5f\u5236\u81ea\u52d5\u767c\u63ee\u4f5c\u7528\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly move away from higher-risk assets like growth stocks, causing indices like the NASDAQ to fall more than safer benchmarks. The best response is often patience \u2014 holding existing positions and avoiding new buys until clearer bullish signals return, rather than chasing a falling market.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u8f49\u5f31\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u4f8b\u5982\u6210\u9577\u80a1\uff0c\u5c0e\u81f4\u7d0d\u65af\u9054\u514b\u7b49\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u8f03\u7a69\u5065\u7684\u6307\u6578\u3002\u9762\u5c0d\u9019\u7a2e\u60c5\u6cc1\uff0c\u6700\u597d\u7684\u505a\u6cd5\u5f80\u5f80\u662f\u8010\u5fc3\u7b49\u5f85\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u907f\u514d\u65b0\u589e\u8cb7\u5165\uff0c\u76f4\u81f3\u5e02\u5834\u91cd\u65b0\u51fa\u73fe\u660e\u78ba\u7684\u4e0a\u5347\u8a0a\u865f\uff0c\u800c\u4e0d\u662f\u5728\u4e0b\u8dcc\u5e02\u4e2d\u8ffd\u5165\u3002"
     }
   },
   "stats": {
