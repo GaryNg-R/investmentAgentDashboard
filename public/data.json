@@ -675,9 +675,9 @@
     "total_deposited": 11700.0,
     "snapshots": [
       {
-        "date": "2026-04-16",
-        "voo_shares": 15.507242234216525,
-        "voo_price": 644.8599853515625,
+        "date": "2026-06-25",
+        "voo_shares": 22.22222222222222,
+        "voo_price": 450.0,
         "total_value": 10000.0
       },
       {
