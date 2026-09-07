@@ -1,18 +1,18 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-04T23:51:29.352960+00:00",
-    "date_et": "2026-09-04",
-    "run_id": "20260904T235129_3de3bc"
+    "generated_at": "2026-09-07T13:00:54.982151+00:00",
+    "date_et": "2026-09-07",
+    "run_id": "20260907T130054_6f3383"
   },
   "account": {
-    "total_value": 14055.735246181488,
-    "cash": 489.2850012779236,
+    "total_value": 14155.735246181488,
+    "cash": 589.2850012779236,
     "starting_cash": 10000.0,
-    "profit_dollars": 4055.735246181488,
-    "profit_percent": 40.55735246181488,
+    "profit_dollars": 4155.735246181488,
+    "profit_percent": 41.55735246181488,
     "vs_voo_dollars": 1324.139745456896,
-    "vs_voo_percent": 10.400422675866006
+    "vs_voo_percent": 10.319369445382875
   },
   "positions": [
     {
@@ -23,7 +23,7 @@
       "market_value": 2156.8800659179688,
       "profit_dollars": 188.280029296875,
       "profit_percent": 9.5641585794156,
-      "portfolio_pct": 15.274148387247118
+      "portfolio_pct": 15.16662642104795
     },
     {
       "ticker": "EAT",
@@ -33,17 +33,17 @@
       "market_value": 2992.8600158691406,
       "profit_dollars": 1065.8700714111328,
       "profit_percent": 55.31269503904564,
-      "portfolio_pct": 21.194218773211386
+      "portfolio_pct": 21.04502262709736
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 82.33499908447266,
-      "market_value": 1811.3699798583984,
-      "profit_dollars": -246.73008728027344,
-      "profit_percent": -11.98824543178294,
-      "portfolio_pct": 12.827386322376189
+      "current_price": 82.33999633789062,
+      "market_value": 1811.4799194335938,
+      "profit_dollars": -246.62014770507812,
+      "profit_percent": -11.982903632472464,
+      "portfolio_pct": 12.737861340281059
     },
     {
       "ticker": "WT",
@@ -53,7 +53,7 @@
       "market_value": 1966.3099517822266,
       "profit_dollars": 418.6999397277832,
       "profit_percent": 27.054615598665034,
-      "portfolio_pct": 13.924608258670194
+      "portfolio_pct": 13.826586344743033
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 2407.640007019043,
       "profit_dollars": -206.31002807617188,
       "profit_percent": -7.892653849776317,
-      "portfolio_pct": 17.049928418078387
+      "portfolio_pct": 16.929905895015988
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 1280.1799964904785,
       "profit_dollars": -1283.1699333190918,
       "profit_percent": -50.05832088693477,
-      "portfolio_pct": 9.065714657833338
+      "portfolio_pct": 9.00189679772765
     },
     {
       "ticker": "MU",
@@ -83,41 +83,41 @@
       "market_value": 1016.5900268554688,
       "profit_dollars": 128.73980712890625,
       "profit_percent": 14.500171793453534,
-      "portfolio_pct": 7.19907757716581
+      "portfolio_pct": 7.14839985973814
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 21.2
+      "pct": 21.0
     },
     {
       "label": "ROAD",
-      "pct": 17.0
+      "pct": 16.9
     },
     {
       "label": "QQQ",
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "label": "WT",
-      "pct": 13.9
+      "pct": 13.8
     },
     {
       "label": "OLED",
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "label": "INOD",
-      "pct": 9.1
+      "pct": 9.0
     },
     {
       "label": "MU",
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "label": "Cash",
-      "pct": 3.5
+      "pct": 4.3
     }
   ],
   "snapshots": [
@@ -666,18 +666,24 @@
       "total_value": 14055.735246181488,
       "cash": 489.2850012779236,
       "profit_percent": 40.55735246181488
+    },
+    {
+      "date": "2026-09-07",
+      "total_value": 14155.735246181488,
+      "cash": 589.2850012779236,
+      "profit_percent": 41.55735246181488
     }
   ],
   "benchmark": {
-    "voo_shares": 17.982225286531154,
+    "voo_shares": 18.123466227507546,
     "voo_price": 708.010009765625,
-    "total_value": 12731.595500724592,
-    "total_deposited": 11700.0,
+    "total_value": 12831.595500724592,
+    "total_deposited": 11800.0,
     "snapshots": [
       {
-        "date": "2026-06-25",
-        "voo_shares": 22.22222222222222,
-        "voo_price": 450.0,
+        "date": "2026-04-16",
+        "voo_shares": 15.507242234216525,
+        "voo_price": 644.8599853515625,
         "total_value": 10000.0
       },
       {
@@ -1219,6 +1225,12 @@
         "voo_shares": 17.982225286531154,
         "voo_price": 708.010009765625,
         "total_value": 12731.595500724592
+      },
+      {
+        "date": "2026-09-07",
+        "voo_shares": 18.123466227507546,
+        "voo_price": 708.010009765625,
+        "total_value": 12831.595500724592
       }
     ]
   },
@@ -1932,18 +1944,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets drifted lower today with NASDAQ -0.3% and S&P 500 -0.4% \u2014 a neutral, low-conviction session. Cash sits at $489.29, just under the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy; existing 7 positions stay untouched and risk rules will auto-manage stops and targets."
+    "briefing": "Markets drifted lower today with NASDAQ -0.3% and S&P 500 -0.4% on no major catalyst \u2014 a neutral, low-conviction session. Cash on hand ($489.29) sits just under our $500 buy threshold, so per our own playbook we're holding rather than forcing a purchase into 3 open slots on a non-risk-on day, and letting our 7 existing positions ride."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices slipped modestly today, with NASDAQ down 0.3% and the S&P 500 down 0.4%, reflecting a broadly cautious, directionless tone rather than any single dominant catalyst. Without a strong risk-on or risk-off signal, institutional flows appear mixed, keeping volatility contained. This kind of quiet pullback is common and doesn't necessarily signal a shift in trend.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u53cd\u6620\u5e02\u5834\u6c23\u6c1b\u5be9\u614e\u3001\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u4e26\u975e\u53d7\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u3002\u5728\u6c92\u6709\u660e\u986f\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cc7\u91d1\u6d41\u5411\u8f03\u70ba\u5206\u6563\uff0c\u5e02\u5834\u6ce2\u52d5\u7dad\u6301\u5728\u6709\u9650\u7bc4\u570d\u5167\u3002\u9019\u985e\u6eab\u548c\u56de\u8abf\u5c6c\u5e38\u898b\u73fe\u8c61\uff0c\u672a\u5fc5\u4ee3\u8868\u8da8\u52e2\u8f49\u8b8a\u3002",
+      "summary_en": "Both major indices slipped modestly today, with no clear single driver \u2014 this kind of drift is typical of a quiet, indecisive trading session rather than a reaction to specific news. Volume and volatility both appear muted, consistent with investors waiting for the next data catalyst rather than repositioning aggressively. Without a strong signal in either direction, staying put and preserving capital is the more disciplined choice than chasing marginal setups.",
+      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u5747\u5c0f\u5e45\u4e0b\u632b\uff0c\u4e26\u7121\u660e\u986f\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\uff0c\u9019\u7a2e\u6f02\u79fb\u8d70\u52e2\u8f03\u7b26\u5408\u6de1\u975c\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5,\u800c\u975e\u5c0d\u7279\u5b9a\u6d88\u606f\u7684\u53cd\u61c9\u3002\u6210\u4ea4\u91cf\u8207\u6ce2\u52d5\u5ea6\u5747\u986f\u6eab\u548c\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u4e0b\u4e00\u500b\u6578\u64da\u6307\u6a19\uff0c\u800c\u975e\u7a4d\u6975\u8abf\u5009\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u6309\u5175\u4e0d\u52d5\u3001\u4fdd\u7559\u8cc7\u91d1\u6703\u6bd4\u52c9\u5f37\u8ffd\u9010\u908a\u969b\u6a5f\u6703\u66f4\u70ba\u5be9\u614e\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's cash balance was just below the $500 threshold and the market showed no clear risk-on signal, so the disciplined move was to hold that cash rather than force a trade.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u4fdd\u7559\u5728\u5834\u908a\u3001\u7b49\u5f85\u826f\u6a5f\u51fa\u624b\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u73fe\u91d1\u9918\u984d\u7565\u4f4e\u65bc500\u7f8e\u5143\u9580\u6abb\uff0c\u4e14\u5e02\u5834\u672a\u51fa\u73fe\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff0c\u56e0\u6b64\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u4fdd\u7559\u73fe\u91d1\u89c0\u671b\uff0c\u800c\u975e\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002"
+      "explanation_en": "\"Dry powder\" refers to cash kept in reserve rather than fully invested, so it's ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, with available cash just under our buying threshold, holding that cash rather than forcing a trade preserves flexibility for a better setup later.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u523b\u610f\u4fdd\u7559\u73fe\u91d1\u3001\u4e0d\u5168\u6578\u6295\u5165\u5e02\u5834\uff0c\u4ee5\u4fbf\u5728\u771f\u6b63\u51fa\u73fe\u5f37\u52e2\u6a5f\u6703\u6642\u80fd\u8fc5\u901f\u52a0\u78bc\u3002\u50cf\u4eca\u5929\u9019\u7a2e\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u4ea4\u6613\u65e5\uff0c\u53ef\u7528\u73fe\u91d1\u525b\u597d\u4f4e\u65bc\u6211\u5011\u7684\u8cb7\u5165\u9580\u6abb\uff0c\u6b64\u6642\u6309\u5175\u4e0d\u52d5\u3001\u4fdd\u7559\u73fe\u91d1\uff0c\u6bd4\u52c9\u5f37\u4ea4\u6613\u66f4\u80fd\u70ba\u65e5\u5f8c\u66f4\u597d\u7684\u6a5f\u6703\u4fdd\u7559\u5f48\u6027\u3002"
     }
   },
   "stats": {
@@ -1961,7 +1973,7 @@
       "realized_profit": -273.62986755371094
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 1.3923110355930919,
+    "daily_volatility": 1.385044752481805,
     "total_realized_profit": 2355.735246181488,
     "per_ticker_realized": {
       "NOK": -169.77186584472656,
