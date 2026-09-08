@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T15:01:05.565453+00:00",
+    "generated_at": "2026-09-08T16:01:06.869482+00:00",
     "date_et": "2026-09-08",
-    "run_id": "20260908T150105_8454e9"
+    "run_id": "20260908T160106_cb0de2"
   },
   "account": {
     "total_value": 14155.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4155.735246181488,
     "profit_percent": 41.55735246181488,
-    "vs_voo_dollars": 1366.6398489680687,
-    "vs_voo_percent": 10.685977440326555
+    "vs_voo_dollars": 1372.4394909011025,
+    "vs_voo_percent": 10.736194461699666
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 719.0,
-      "market_value": 2157.0,
-      "profit_dollars": 188.39996337890625,
-      "profit_percent": 9.570250933362576,
-      "portfolio_pct": 15.1990622312818
+      "current_price": 719.8400268554688,
+      "market_value": 2159.5200805664062,
+      "profit_dollars": 190.9200439453125,
+      "profit_percent": 9.698264776678952,
+      "portfolio_pct": 15.222756893591521
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 226.17999267578125,
-      "market_value": 2940.3399047851562,
-      "profit_dollars": 1013.3499603271484,
-      "profit_percent": 52.58719503137661,
-      "portfolio_pct": 20.718780340264626
+      "current_price": 226.1199951171875,
+      "market_value": 2939.5599365234375,
+      "profit_dollars": 1012.5699920654297,
+      "profit_percent": 52.54671904114314,
+      "portfolio_pct": 20.72136614543584
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 82.03500366210938,
-      "market_value": 1804.7700805664062,
-      "profit_dollars": -253.32998657226562,
-      "profit_percent": -12.308924654206166,
-      "portfolio_pct": 12.717113012371014
+      "current_price": 82.31999969482422,
+      "market_value": 1811.0399932861328,
+      "profit_dollars": -247.06007385253906,
+      "profit_percent": -12.004278985133162,
+      "portfolio_pct": 12.76627237248728
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 25.09000015258789,
-      "market_value": 1982.1100120544434,
-      "profit_dollars": 434.5,
-      "profit_percent": 28.075548530679495,
-      "portfolio_pct": 13.96671925009838
+      "current_price": 24.950000762939453,
+      "market_value": 1971.0500602722168,
+      "profit_dollars": 423.44004821777344,
+      "profit_percent": 27.360901320072184,
+      "portfolio_pct": 13.894205551797
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 104.83000183105469,
-      "market_value": 2411.090042114258,
-      "profit_dollars": -202.85999298095703,
-      "profit_percent": -7.760668347035475,
-      "portfolio_pct": 16.98947964548839
+      "current_price": 104.26499938964844,
+      "market_value": 2398.094985961914,
+      "profit_dollars": -215.85504913330078,
+      "profit_percent": -8.257810831699318,
+      "portfolio_pct": 16.904504527443045
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 56.11000061035156,
-      "market_value": 1290.530014038086,
-      "profit_dollars": -1272.8199157714844,
-      "profit_percent": -49.6545516852645,
-      "portfolio_pct": 9.09357718808616
+      "current_price": 56.189998626708984,
+      "market_value": 1292.3699684143066,
+      "profit_dollars": -1270.9799613952637,
+      "profit_percent": -49.582772395405414,
+      "portfolio_pct": 9.110095350717705
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1016.5399780273438,
-      "market_value": 1016.5399780273438,
-      "profit_dollars": 128.68975830078125,
-      "profit_percent": 14.494534713345539,
-      "portfolio_pct": 7.162936665101266
+      "current_price": 1025.2099609375,
+      "market_value": 1025.2099609375,
+      "profit_dollars": 137.3597412109375,
+      "profit_percent": 15.471048850248767,
+      "portfolio_pct": 7.226847363302447
     }
   ],
   "allocation": [
@@ -93,7 +93,7 @@
     },
     {
       "label": "ROAD",
-      "pct": 17.0
+      "pct": 16.9
     },
     {
       "label": "QQQ",
@@ -101,11 +101,11 @@
     },
     {
       "label": "WT",
-      "pct": 14.0
+      "pct": 13.9
     },
     {
       "label": "OLED",
-      "pct": 12.7
+      "pct": 12.8
     },
     {
       "label": "INOD",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 4.1
+      "pct": 4.2
     }
   ],
   "snapshots": [
@@ -682,8 +682,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.123466227507546,
-    "voo_price": 705.6649780273438,
-    "total_value": 12789.09539721342,
+    "voo_price": 705.344970703125,
+    "total_value": 12783.295755280385,
     "total_deposited": 11800.0,
     "snapshots": [
       {
@@ -1241,8 +1241,8 @@
       {
         "date": "2026-09-08",
         "voo_shares": 18.123466227507546,
-        "voo_price": 705.6649780273438,
-        "total_value": 12789.09539721342
+        "voo_price": 705.344970703125,
+        "total_value": 12783.295755280385
       }
     ]
   },
@@ -1953,21 +1953,28 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "PCG",
+        "conviction": "medium",
+        "reasoning": "Top-scored candidate (95) with RSI 62.8 in the healthy bullish zone (not overbought), confirmed MACD bullish crossover with rising histogram, and price above SMA-20."
+      }
+    ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.3%), a neutral session with no clear risk-on signal. Existing positions are held since they're performing well and there's no reason to exit on a quiet day, and no new buys were made because the top-scoring candidates lack the volume-confirmed institutional buying signal that past experience says is needed for high-conviction entries on a non-trending day."
+    "briefing": "Markets were flat to slightly down today (NASDAQ -0.1%, S&P 500 -0.4%), a neutral session with no strong directional signal. Existing positions were held since none show forced sell triggers and the strategy memory favors patience on neutral days. Cash was above the $500 threshold with open slots, so one modest, well-confirmed buy (PCG) was added rather than deploying aggressively into today's mostly overbought candidate list."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with NASDAQ and S&P 500 both down about 0.3%, a modest pullback rather than a decisive move in either direction. Trading volumes and momentum signals across the screened universe were mixed, with several names showing bullish crossovers but overbought RSI readings above 70, suggesting some near-term exhaustion in recent winners. Without a clear catalyst, the market largely consolidated recent gains.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u5747\u4e0b\u8dcc\u7d040.3%,\u5c6c\u6eab\u548c\u56de\u8abf\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u8d70\u52e2\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u52d5\u80fd\u8a0a\u865f\u597d\u58de\u53c3\u534a,\u4e0d\u5c11\u500b\u80a1\u96d6\u7136\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9,\u4f46RSI\u5df2\u5347\u81f370\u4ee5\u4e0a\u7684\u8d85\u8cb7\u5340,\u986f\u793a\u8fd1\u671f\u5f37\u52e2\u80a1\u77ed\u671f\u5167\u52d5\u80fd\u7565\u986f\u75b2\u614b\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u56e0\u7d20\u4e0b,\u5927\u5e02\u50be\u5411\u978f\u56fa\u8fd1\u671f\u5347\u5e45\u3002",
+      "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent momentum rather than a shift in sentiment. Most of today's top screener candidates were already extended (RSI above 70), suggesting near-term profit-taking risk in the momentum trade broadly. Investors appear to be consolidating gains while waiting for the next clear catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\u7565\u70ba\u4e0b\u8dcc\uff0c\u4e26\u7121\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f\u9762\u56e0\u7d20\uff0c\u8f03\u50cf\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6574\u7406\u968e\u6bb5\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u8f49\u5411\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u591a\u6578\u71b1\u9580\u80a1\u7684RSI\u5df2\u8d85\u904e70\uff0c\u986f\u793a\u52d5\u80fd\u4ea4\u6613\u5b58\u5728\u77ed\u7dda\u7372\u5229\u4e86\u7d50\u7684\u98a8\u96aa\u3002\u6295\u8cc7\u4eba\u4f3c\u4e4e\u6b63\u5728\u978f\u56fa\u65e2\u6709\u7372\u5229\uff0c\u975c\u5f85\u4e0b\u4e00\u500b\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience",
-      "explanation_en": "Patience in investing means waiting for a genuinely strong setup \u2014 multiple confirming signals like price momentum, healthy RSI, and volume surges \u2014 before committing new capital, rather than buying just because cash is available. On a neutral market day, holding cash and existing winners is often the smarter move than forcing a trade.",
-      "explanation_zh": "\u6295\u8cc7\u4e2d\u7684\u300c\u8010\u6027\u300d\u662f\u6307\u7b49\u5f85\u771f\u6b63\u5f37\u52c1\u7684\u5165\u5e02\u8a0a\u865f\u2014\u2014\u4f8b\u5982\u50f9\u683c\u52d5\u80fd\u3001\u5065\u5eb7\u7684RSI\u6c34\u5e73,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u591a\u91cd\u78ba\u8a8d\u2014\u2014\u624d\u6295\u5165\u65b0\u8cc7\u91d1,\u800c\u4e0d\u662f\u7d14\u7cb9\u56e0\u70ba\u624b\u982d\u6709\u73fe\u91d1\u5c31\u52c9\u5f37\u4ea4\u6613\u3002\u5728\u5927\u5e02\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u65e5\u5b50,\u6301\u6709\u73fe\u91d1\u53ca\u73fe\u6709\u7684\u5f37\u52e2\u6301\u80a1,\u5f80\u5f80\u6bd4\u52c9\u5f37\u9032\u5834\u66f4\u660e\u667a\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Not every stock with a high score deserves a high-conviction bet \u2014 look for multiple confirming signals (like RSI in a healthy range, not overbought, plus MACD crossover and price above its moving average) rather than acting on a single indicator. Stocks already flashing RSI above 70 have less room to run and carry more pullback risk.",
+      "explanation_zh": "\u4e26\u975e\u6bcf\u652f\u8a55\u5206\u9ad8\u7684\u80a1\u7968\u90fd\u503c\u5f97\u91cd\u5009\u8cb7\u5165\u2014\u2014\u61c9\u5c0b\u627e\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\uff08\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u800c\u975e\u8d85\u8cb7\u3001\u52a0\u4e0aMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff09\uff0c\u800c\u4e0d\u662f\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\u884c\u52d5\u3002RSI\u5df2\u8d85\u904e70\u7684\u80a1\u7968\u4e0a\u6f32\u7a7a\u9593\u6709\u9650\uff0c\u56de\u8abf\u98a8\u96aa\u4e5f\u8f03\u9ad8\u3002"
     }
   },
   "stats": {
