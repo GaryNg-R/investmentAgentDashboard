@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T14:01:17.508867+00:00",
+    "generated_at": "2026-09-09T15:01:09.471568+00:00",
     "date_et": "2026-09-09",
-    "run_id": "20260909T140117_c029f4"
+    "run_id": "20260909T150109_83f561"
   },
   "account": {
     "total_value": 14155.735246181488,
@@ -11,93 +11,93 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4155.735246181488,
     "profit_percent": 41.55735246181488,
-    "vs_voo_dollars": 1428.8939112128137,
-    "vs_voo_percent": 11.227404142194652
+    "vs_voo_dollars": 1427.5344300120323,
+    "vs_voo_percent": 11.215524099828333
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 718.5297241210938,
-      "market_value": 2155.5891723632812,
-      "profit_dollars": 186.9891357421875,
-      "profit_percent": 9.498584388077925,
-      "portfolio_pct": 15.424946975210569
+      "current_price": 718.4600219726562,
+      "market_value": 2155.3800659179688,
+      "profit_dollars": 186.780029296875,
+      "profit_percent": 9.487962299211594,
+      "portfolio_pct": 15.497913373168865
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 221.83999633789062,
-      "market_value": 2883.919952392578,
-      "profit_dollars": 956.9300079345703,
-      "profit_percent": 49.659315072540245,
-      "portfolio_pct": 20.63673028086187
+      "current_price": 219.5800018310547,
+      "market_value": 2854.540023803711,
+      "profit_dollars": 927.5500793457031,
+      "profit_percent": 48.134661107771855,
+      "portfolio_pct": 20.52511049382462
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 81.5,
-      "market_value": 1793.0,
-      "profit_dollars": -265.1000671386719,
-      "profit_percent": -12.880815241760049,
-      "portfolio_pct": 12.830334407474714
+      "current_price": 81.19000244140625,
+      "market_value": 1786.1800537109375,
+      "profit_dollars": -271.9200134277344,
+      "profit_percent": -13.212186218223021,
+      "portfolio_pct": 12.843240122249403
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.3700008392334,
-      "market_value": 1925.2300662994385,
-      "profit_dollars": 377.6200542449951,
-      "profit_percent": 24.400207500835865,
-      "portfolio_pct": 13.7765452102323
+      "current_price": 24.329999923706055,
+      "market_value": 1922.0699939727783,
+      "profit_dollars": 374.45998191833496,
+      "profit_percent": 24.196017019897763,
+      "portfolio_pct": 13.820334861021683
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 101.06999969482422,
-      "market_value": 2324.609992980957,
-      "profit_dollars": -289.3400421142578,
-      "profit_percent": -11.069073173914681,
-      "portfolio_pct": 16.6344247500854
+      "current_price": 99.57499694824219,
+      "market_value": 2290.2249298095703,
+      "profit_dollars": -323.72510528564453,
+      "profit_percent": -12.384517719897909,
+      "portfolio_pct": 16.46749365854593
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 55.220001220703125,
-      "market_value": 1270.0600280761719,
-      "profit_dollars": -1293.2899017333984,
-      "profit_percent": -50.453115538130064,
-      "portfolio_pct": 9.088284929048527
+      "current_price": 55.404998779296875,
+      "market_value": 1274.3149719238281,
+      "profit_dollars": -1289.0349578857422,
+      "profit_percent": -50.28712400501261,
+      "portfolio_pct": 9.162756655910927
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1033.0,
-      "market_value": 1033.0,
-      "profit_dollars": 145.1497802734375,
-      "profit_percent": 16.34845349457032,
-      "portfolio_pct": 7.3919327623655215
+      "current_price": 1035.5550537109375,
+      "market_value": 1035.5550537109375,
+      "profit_dollars": 147.704833984375,
+      "profit_percent": 16.636233308571427,
+      "portfolio_pct": 7.445991901536934
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "label": "ROAD",
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "label": "QQQ",
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "label": "WT",
@@ -109,7 +109,7 @@
     },
     {
       "label": "INOD",
-      "pct": 9.1
+      "pct": 9.2
     },
     {
       "label": "MU",
@@ -688,8 +688,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.123466227507546,
-    "voo_price": 702.22998046875,
-    "total_value": 12726.841334968674,
+    "voo_price": 702.3049926757812,
+    "total_value": 12728.200816169456,
     "total_deposited": 11800.0,
     "snapshots": [
       {
@@ -1253,8 +1253,8 @@
       {
         "date": "2026-09-09",
         "voo_shares": 18.123466227507546,
-        "voo_price": 702.22998046875,
-        "total_value": 12726.841334968674
+        "voo_price": 702.3049926757812,
+        "total_value": 12728.200816169456
       }
     ]
   },
@@ -1968,25 +1968,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "VALE",
+        "ticker": "CHYM",
         "conviction": "medium",
-        "reasoning": "Full multi-signal confirmation (RSI 55.9 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) with the least overbought RSI among the top-scoring candidates, and it diversifies the tech-heavy portfolio (QQQ, OLED, INOD, MU) into materials."
+        "reasoning": "Full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) with a perfect momentum score despite a neutral broader market."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PLBL",
+        "conviction": "medium",
+        "reasoning": "Same complete multi-signal confirmation as CHYM with a top momentum score, justifying deployment of available cash into a strong individual setup."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.2%), so we held existing positions rather than forcing trades. We added a single medium-conviction position in VALE, which showed strong, fully-confirmed bullish signals and adds sector diversification away from our tech-heavy holdings."
+    "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P 500 -0.3%), so we're not chasing broad market strength. However, CHYM and PLBL both show complete technical confirmation (RSI, MACD, price vs. SMA-20, and volume), so we're adding modest positions in those two rather than holding cash idle above the $500 threshold. All existing positions are held unchanged."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices were essentially flat today, with the NASDAQ and S&P 500 both down about 0.2%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off trigger, broad market movement stayed muted while pockets of individual-stock strength persisted. This kind of quiet, range-bound session is common between major economic data releases or earnings catalysts.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u5747\u5fae\u8dcc\u7d040.2%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u6c92\u6709\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\u5e36\u52d5\u4e0b\uff0c\u5927\u5e02\u6574\u9ad4\u6ce2\u52d5\u6709\u9650\uff0c\u4f46\u500b\u5225\u80a1\u4efd\u4ecd\u9304\u5f97\u4eae\u773c\u5347\u52e2\u3002\u9019\u7a2e\u6a6b\u884c\u6574\u56fa\u7684\u8d70\u52e2\uff0c\u5728\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u4f48\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
+      "summary_en": "Major indices traded slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, reflecting a quiet, directionless session rather than any major catalyst. Broad market breadth was mixed, with no dominant sector theme driving the tape. Individual stocks with strong technical setups, like CHYM and PLBL, still attracted buying interest even as the indices drifted lower.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u504f\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u5e02\u6cc1\u6574\u9ad4\u5e73\u6de1\uff0c\u672a\u898b\u660e\u986f\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u65b9\u5411\u3002\u677f\u584a\u8868\u73fe\u53c3\u5dee\uff0c\u6c92\u6709\u55ae\u4e00\u4e3b\u984c\u4e3b\u5c0e\u76e4\u9762\u3002\u4e0d\u904e\u500b\u5225\u6280\u8853\u9762\u5f37\u52e2\u7684\u80a1\u7968\uff0c\u4f8b\u5982CHYM\u53caPLBL\uff0c\u5373\u4f7f\u5728\u5927\u76e4\u8d70\u5f31\u4e0b\u4ecd\u5438\u5f15\u8cc7\u91d1\u6d41\u5165\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Diversification",
-      "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's portfolio was heavily weighted toward tech (QQQ, OLED, INOD, MU), so adding a materials-sector stock like VALE helps reduce that concentration risk.",
-      "explanation_zh": "\u5206\u6563\u6295\u8cc7\u662f\u6307\u5c07\u8cc7\u91d1\u5206\u4f48\u65bc\u4e0d\u540c\u884c\u696d\uff0c\u907f\u514d\u55ae\u4e00\u677f\u584a\u4e0b\u8dcc\u6642\u62d6\u7d2f\u6574\u500b\u6295\u8cc7\u7d44\u5408\u3002\u73fe\u6642\u7d44\u5408\u504f\u91cd\u79d1\u6280\u80a1\uff08QQQ\u3001OLED\u3001INOD\u3001MU\uff09\uff0c\u56e0\u6b64\u52a0\u5165\u539f\u6750\u6599\u677f\u584a\u7684VALE\u6709\u52a9\u964d\u4f4e\u904e\u5ea6\u96c6\u4e2d\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the short term. Today's picks, CHYM and PLBL, showed all four bullish signals (RSI, MACD, price above moving average, and volume surge) even though the overall market was flat, illustrating that individual stock momentum can be worth acting on independent of broad index direction.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u50f9\u683c\u53ca\u6210\u4ea4\u91cf\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u77ed\u671f\u5167\u4e0a\u5347\u7684\u80a1\u7968\u50be\u5411\u6301\u7e8c\u4e0a\u5347\u3002\u4eca\u65e5\u9078\u4e2d\u7684CHYM\u53caPLBL\u540c\u6642\u7b26\u5408\u56db\u9805\u770b\u6f32\u8a0a\u865f\uff08RSI\u3001MACD\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\uff0c\u5373\u4f7f\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u500b\u80a1\u52d5\u80fd\u4ecd\u7136\u503c\u5f97\u7559\u610f\u53ca\u63a1\u53d6\u884c\u52d5\u3002"
     }
   },
   "stats": {
