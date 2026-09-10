@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-10T19:01:14.758643+00:00",
+    "generated_at": "2026-09-10T20:00:59.721276+00:00",
     "date_et": "2026-09-10",
-    "run_id": "20260910T190114_d409db"
+    "run_id": "20260910T200059_428915"
   },
   "account": {
     "total_value": 14155.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4155.735246181488,
     "profit_percent": 41.55735246181488,
-    "vs_voo_dollars": 1533.6469708001387,
-    "vs_voo_percent": 12.150501068760766
+    "vs_voo_dollars": 1528.9346925940117,
+    "vs_voo_percent": 12.108646890439845
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 709.5050048828125,
-      "market_value": 2128.5150146484375,
-      "profit_dollars": 159.91497802734375,
-      "profit_percent": 8.123284316392777,
-      "portfolio_pct": 15.597527318992178
+      "current_price": 708.6900024414062,
+      "market_value": 2126.0700073242188,
+      "profit_dollars": 157.469970703125,
+      "profit_percent": 7.9990840076080945,
+      "portfolio_pct": 15.607998008908048
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 213.24000549316406,
-      "market_value": 2772.120071411133,
-      "profit_dollars": 845.130126953125,
-      "profit_percent": 43.85752657317729,
-      "portfolio_pct": 20.313795415017665
+      "current_price": 214.90499877929688,
+      "market_value": 2793.7649841308594,
+      "profit_dollars": 866.7750396728516,
+      "profit_percent": 44.980776478137976,
+      "portfolio_pct": 20.509709538939862
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 81.38500213623047,
-      "market_value": 1790.4700469970703,
-      "profit_dollars": -267.63002014160156,
-      "profit_percent": -13.003741869251348,
-      "portfolio_pct": 13.120370436516108
+      "current_price": 81.16000366210938,
+      "market_value": 1785.5200805664062,
+      "profit_dollars": -272.5799865722656,
+      "profit_percent": -13.244253324923466,
+      "portfolio_pct": 13.107938010667757
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.56999969482422,
-      "market_value": 1941.0299758911133,
-      "profit_dollars": 393.4199638366699,
-      "profit_percent": 25.421130696512307,
-      "portfolio_pct": 14.223657276359344
+      "current_price": 24.270000457763672,
+      "market_value": 1917.33003616333,
+      "profit_dollars": 369.7200241088867,
+      "profit_percent": 23.889741034828635,
+      "portfolio_pct": 14.07558701442764
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 96.0199966430664,
-      "market_value": 2208.4599227905273,
-      "profit_dollars": -405.4901123046875,
-      "profit_percent": -15.512542583466683,
-      "portfolio_pct": 16.183354940681056
+      "current_price": 96.12000274658203,
+      "market_value": 2210.7600631713867,
+      "profit_dollars": -403.1899719238281,
+      "profit_percent": -15.424547772931769,
+      "portfolio_pct": 16.229728346330248
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 53.665000915527344,
-      "market_value": 1234.295021057129,
-      "profit_dollars": -1329.0549087524414,
-      "profit_percent": -51.84836035442013,
-      "portfolio_pct": 9.04478012987585
+      "current_price": 53.11000061035156,
+      "market_value": 1221.530014038086,
+      "profit_dollars": -1341.8199157714844,
+      "profit_percent": -52.346341799348764,
+      "portfolio_pct": 8.967549498016327
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 982.3150024414062,
-      "market_value": 982.3150024414062,
-      "profit_dollars": 94.46478271484375,
-      "profit_percent": 10.639720598811895,
-      "portfolio_pct": 7.198297865409398
+      "current_price": 977.4099731445312,
+      "market_value": 977.4099731445312,
+      "profit_dollars": 89.55975341796875,
+      "profit_percent": 10.087259250276595,
+      "portfolio_pct": 7.175404790139778
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 20.3
+      "pct": 20.5
     },
     {
       "label": "ROAD",
@@ -101,7 +101,7 @@
     },
     {
       "label": "WT",
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "label": "OLED",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 4.4
+      "pct": 4.3
     }
   ],
   "snapshots": [
@@ -694,8 +694,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.123466227507546,
-    "voo_price": 696.4500122070312,
-    "total_value": 12622.08827538135,
+    "voo_price": 696.7100219726562,
+    "total_value": 12626.800553587476,
     "total_deposited": 11800.0,
     "snapshots": [
       {
@@ -1265,8 +1265,8 @@
       {
         "date": "2026-09-10",
         "voo_shares": 18.123466227507546,
-        "voo_price": 696.4500122070312,
-        "total_value": 12622.08827538135
+        "voo_price": 696.7100219726562,
+        "total_value": 12626.800553587476
       }
     ]
   },
@@ -1977,28 +1977,21 @@
     }
   ],
   "today_plan": {
-    "decisions": [
-      {
-        "action": "BUY",
-        "ticker": "AAPL",
-        "conviction": "high",
-        "reasoning": "Top-scoring candidate (95) with four confirming bullish signals \u2014 RSI in the healthy 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20 \u2014 justifying deployment of idle cash above the $500 threshold with open slots available."
-      }
-    ],
-    "skip_new_buys": false,
+    "decisions": [],
+    "skip_new_buys": true,
     "market_direction": "neutral",
-    "briefing": "Markets were roughly flat today with NASDAQ and S&P 500 both down about 0.6%, a neutral session with no strong directional signal. Existing positions were left untouched since none showed stop-loss or profit-target triggers, and we deployed the available cash into AAPL, the highest-conviction candidate with strong multi-signal technical confirmation."
+    "briefing": "NASDAQ (-0.7%) and S&P 500 (-0.6%) both slipped modestly today, a neutral-to-slightly-negative session with no clear risk-on catalyst. None of today's top candidates showed the full four-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and a volume surge) our strategy memory requires for high-conviction buys, so we're holding our $589 cash and all 7 existing positions rather than forcing a trade."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ and S&P 500 each down roughly 0.6% in a broadly quiet, directionless session. No major catalyst drove the move \u2014 it reflects typical day-to-day consolidation rather than a shift in sentiment. Investors appear to be digesting recent gains rather than reacting to fresh news.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u6307\u540c\u6a19\u666e500\u6307\u6578\u5747\u5fae\u8dcc\u7d040.6%\uff0c\u5c6c\u65bc\u5178\u578b\u5605\u6a6b\u76e4\u6574\u56fa\uff0c\u4e26\u7121\u660e\u986f\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u3002\u5e02\u5834\u4f3c\u4e4e\u4fc2\u55ba\u6d88\u5316\u65e9\u524d\u5605\u5347\u5e45\uff0c\u800c\u975e\u5c0d\u7a81\u767c\u6d88\u606f\u4f5c\u51fa\u53cd\u61c9\u3002",
+      "summary_en": "Markets drifted lower today with the NASDAQ down 0.7% and S&P 500 down 0.6%, a mild pullback rather than a sharp risk-off move. No single dominant catalyst stood out, consistent with a session of profit-taking and consolidation after recent gains. Without a strong directional signal, staying disciplined and avoiding forced trades is the more prudent approach.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u504f\u8edf,\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.7%,\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.6%,\u5c6c\u6eab\u548c\u56de\u8abf\u800c\u975e\u660e\u986f\u7684risk-off\u8d70\u52e2\u3002\u5e02\u5834\u672a\u898b\u55ae\u4e00\u4e3b\u5c0e\u56e0\u7d20,\u8f03\u4f3c\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u7372\u5229\u56de\u5410\u53ca\u6574\u56fa\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u4e0b,\u4fdd\u6301\u7d00\u5f8b\u3001\u907f\u514d\u5f37\u884c\u9032\u5834\u5c6c\u8f03\u7a69\u59a5\u505a\u6cd5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "MACD Crossover",
-      "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signs like RSI in a healthy range and price above its moving average, it gives more confidence that a rally has real strength behind it rather than being a random blip.",
-      "explanation_zh": "MACD\u9ec3\u91d1\u4ea4\u53c9\u4fc2\u6307\u80a1\u7968\u5605MACD\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u6b63\u5728\u589e\u5f37\u3002\u5982\u679c\u540c\u6642\u914d\u5408RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc\u5e73\u5747\u7dda\u7b49\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff0c\u5c31\u66f4\u6709\u4fe1\u5fc3\u5462\u500b\u5347\u52e2\u4fc2\u6709\u5be6\u8cea\u52d5\u529b\u652f\u6490\uff0c\u800c\u5514\u4fc2\u5076\u7136\u6ce2\u52d5\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets amid uncertainty, causing broad indexes to dip modestly even without major bad news. The disciplined response is to hold steady rather than chase trades, since forcing a buy without strong confirming signals increases the odds of an early loss.",
+      "explanation_zh": "\u300crisk-off\u300d(\u898f\u907f\u98a8\u96aa)\u65e5\u5b50\u662f\u6307\u6295\u8cc7\u8005\u5728\u4e0d\u78ba\u5b9a\u6c23\u6c1b\u4e0b\u6e1b\u5c11\u6301\u6709\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522,\u5373\u4f7f\u6c92\u6709\u91cd\u5927\u58de\u6d88\u606f,\u5927\u5e02\u6307\u6578\u4e5f\u6703\u6eab\u548c\u4e0b\u8dcc\u3002\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u6309\u5175\u4e0d\u52d5,\u800c\u975e\u52c9\u5f37\u9032\u5834,\u56e0\u70ba\u5728\u7f3a\u4e4f\u5f37\u529b\u8a0a\u865f\u78ba\u8a8d\u4e0b\u8cb7\u5165,\u63d0\u9ad8\u4e86\u521d\u671f\u8667\u640d\u7684\u6a5f\u6703\u3002"
     }
   },
   "stats": {
