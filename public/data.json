@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-11T18:00:59.959029+00:00",
+    "generated_at": "2026-09-11T19:00:58.762422+00:00",
     "date_et": "2026-09-11",
-    "run_id": "20260911T180059_15c8fd"
+    "run_id": "20260911T190058_9c980b"
   },
   "account": {
     "total_value": 14155.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4155.735246181488,
     "profit_percent": 41.55735246181488,
-    "vs_voo_dollars": 1397.7209740938324,
-    "vs_voo_percent": 10.955631058916481
+    "vs_voo_dollars": 1408.7760230121494,
+    "vs_voo_percent": 11.051859493293946
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 716.5449829101562,
-      "market_value": 2149.6349487304688,
-      "profit_dollars": 181.034912109375,
-      "profit_percent": 9.196124593195854,
-      "portfolio_pct": 15.649671398170497
+      "current_price": 716.0399780273438,
+      "market_value": 2148.1199340820312,
+      "profit_dollars": 179.5198974609375,
+      "profit_percent": 9.119165606085508,
+      "portfolio_pct": 15.6559379785297
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 212.94000244140625,
-      "market_value": 2768.2200317382812,
-      "profit_dollars": 841.2300872802734,
-      "profit_percent": 43.65513632801446,
-      "portfolio_pct": 20.15306546821922
+      "current_price": 212.8800048828125,
+      "market_value": 2767.4400634765625,
+      "profit_dollars": 840.4501190185547,
+      "profit_percent": 43.61466033778099,
+      "portfolio_pct": 20.169669907933926
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 83.7300033569336,
-      "market_value": 1842.060073852539,
-      "profit_dollars": -216.0399932861328,
-      "profit_percent": -10.497059726861977,
-      "portfolio_pct": 13.410479239047978
+      "current_price": 84.0199966430664,
+      "market_value": 1848.439926147461,
+      "profit_dollars": -209.66014099121094,
+      "profit_percent": -10.187072258478496,
+      "portfolio_pct": 13.471808711262376
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.024999618530273,
-      "market_value": 1897.9749698638916,
-      "profit_dollars": 350.36495780944824,
-      "profit_percent": 22.63909867992782,
-      "portfolio_pct": 13.817548238999494
+      "current_price": 23.950000762939453,
+      "market_value": 1892.0500602722168,
+      "profit_dollars": 344.44004821777344,
+      "profit_percent": 22.25625613267591,
+      "portfolio_pct": 13.78964829938775
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 99.0999984741211,
-      "market_value": 2279.299964904785,
-      "profit_dollars": -334.6500701904297,
-      "profit_percent": -12.802466217692638,
-      "portfolio_pct": 16.59365255932762
+      "current_price": 98.75,
+      "market_value": 2271.25,
+      "profit_dollars": -342.70003509521484,
+      "profit_percent": -13.11042791538025,
+      "portfolio_pct": 16.55333511391254
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 53.59000015258789,
-      "market_value": 1232.5700035095215,
-      "profit_dollars": -1330.7799263000488,
-      "profit_percent": -51.91565579182986,
-      "portfolio_pct": 8.973298253062806
+      "current_price": 53.459999084472656,
+      "market_value": 1229.579978942871,
+      "profit_dollars": -1333.7699508666992,
+      "profit_percent": -52.03230098848752,
+      "portfolio_pct": 8.961430683896035
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 976.9299926757812,
-      "market_value": 976.9299926757812,
-      "profit_dollars": 89.07977294921875,
-      "profit_percent": 10.033198277143331,
-      "portfolio_pct": 7.112199852082907
+      "current_price": 974.635009765625,
+      "market_value": 974.635009765625,
+      "profit_dollars": 86.7847900390625,
+      "profit_percent": 9.774710656239993,
+      "portfolio_pct": 7.103339540077848
     }
   ],
   "allocation": [
@@ -97,7 +97,7 @@
     },
     {
       "label": "QQQ",
-      "pct": 15.6
+      "pct": 15.7
     },
     {
       "label": "WT",
@@ -105,7 +105,7 @@
     },
     {
       "label": "OLED",
-      "pct": 13.4
+      "pct": 13.5
     },
     {
       "label": "INOD",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 4.3
+      "pct": 4.1
     }
   ],
   "snapshots": [
@@ -700,8 +700,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.123466227507546,
-    "voo_price": 703.9500122070312,
-    "total_value": 12758.014272087656,
+    "voo_price": 703.3400268554688,
+    "total_value": 12746.959223169339,
     "total_deposited": 11800.0,
     "snapshots": [
       {
@@ -1277,8 +1277,8 @@
       {
         "date": "2026-09-11",
         "voo_shares": 18.123466227507546,
-        "voo_price": 703.9500122070312,
-        "total_value": 12758.014272087656
+        "voo_price": 703.3400268554688,
+        "total_value": 12746.959223169339
       }
     ]
   },
@@ -1992,31 +1992,25 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "AAL",
-        "conviction": "medium",
-        "reasoning": "Bullish RSI, MACD crossover with rising histogram, and price above SMA-20 on a risk-on day, while adding diversification away from the portfolio's heavy tech/semi tilt."
-      },
-      {
-        "action": "BUY",
-        "ticker": "VICR",
-        "conviction": "medium",
-        "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram, filling an open slot on a risk-on day without over-concentrating in existing tech/semi exposure."
+        "ticker": "ON",
+        "conviction": "high",
+        "reasoning": "Multi-signal confirmation (RSI 68.6 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) on a NASDAQ +1.1% risk-on day supports deploying idle cash into an open slot."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "NASDAQ +1.2% and S&P 500 +1.0% signal a risk-on day, and with 3 open slots and cash above the $500 threshold, the risk rules favor deploying capital rather than sitting idle. Picked AAL and VICR to fill slots with strong momentum signals while diversifying away from the portfolio's existing tech/semiconductor concentration (QQQ, OLED, INOD, MU); existing positions are held since none hit stop-loss or profit-target levels."
+    "briefing": "Markets were modestly risk-on today with NASDAQ +1.1% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into ON, which showed full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20)."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad market gains today, with NASDAQ up 1.2% and the S&P 500 up 1.0%, reflect a risk-on tone as growth and momentum names outperform. Breadth was healthy, with many candidates showing bullish MACD crossovers and RSI readings in constructive ranges rather than overbought extremes. No major single catalyst news was flagged for this session, so the move looks like broad-based buying rather than a reaction to one headline.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.2%\uff0c\u6a19\u666e500\u6307\u6578\u53471.0%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u56de\u6696\uff0c\u589e\u9577\u53ca\u52d5\u80fd\u80a1\u8868\u73fe\u9818\u5148\u3002\u5e02\u5834\u5ee3\u5ea6\u826f\u597d\uff0c\u591a\u96bb\u5019\u9078\u80a1\u7968\u7684MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0cRSI\u4ea6\u8655\u65bc\u5065\u5eb7\u5340\u9593\u800c\u975e\u8d85\u8cb7\u6c34\u5e73\u3002\u4eca\u500b\u4ea4\u6613\u65e5\u672a\u6709\u7279\u5225\u91cd\u5927\u55ae\u4e00\u6d88\u606f\u5e36\u52d5\uff0c\u6545\u6b64\u6b21\u4e0a\u5347\u8f03\u4f3c\u662f\u8cc7\u91d1\u5168\u9762\u6d41\u5165\u6240\u81f4\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u3002",
+      "summary_en": "Broad indices advanced today, with the NASDAQ leading gains at +1.1% and the S&P 500 up +0.9%, reflecting continued risk appetite among investors. Technology and semiconductor names showed particular strength, consistent with the bullish momentum signals seen across several screened tickers. No single catalyst headline was flagged in today's data, but the broad-based advance suggests improving sentiment heading into the session.",
+      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u666e\u904d\u5411\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f32\uff0c\u53471.1%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u53470.9%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u56de\u5347\u3002\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u80a1\u8868\u73fe\u5c24\u5176\u5f37\u52c1\uff0c\u8207\u591a\u96bb\u7be9\u9078\u80a1\u7968\u6240\u986f\u793a\u7684\u770b\u6f32\u52d5\u80fd\u8a0a\u865f\u4e00\u81f4\u3002\u4eca\u65e5\u6578\u64da\u4e2d\u672a\u6709\u6a19\u660e\u55ae\u4e00\u50ac\u5316\u6d88\u606f\uff0c\u60df\u5927\u5e02\u666e\u904d\u4e0a\u63da\u986f\u793a\u5e02\u5834\u60c5\u7dd2\u6b63\u5728\u6539\u5584\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Rally",
-      "explanation_en": "A 'risk-on' day is when investors broadly favor growth and momentum assets because they're feeling optimistic about the economy or markets, pushing indexes like the NASDAQ and S&P 500 higher together. On these days, disciplined investors deploy available cash into strong candidates rather than sitting on the sidelines, since idle cash earns nothing while the market climbs.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u770b\u597d\u7d93\u6fdf\u6216\u5e02\u5834\u524d\u666f\uff0c\u50be\u5411\u8cb7\u5165\u589e\u9577\u80a1\u53ca\u52d5\u80fd\u80a1\uff0c\u4ee4\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u7b49\u6307\u6578\u540c\u6b65\u4e0a\u5347\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u8868\u73fe\u5f37\u52c1\u7684\u5019\u9078\u80a1\u7968\uff0c\u56e0\u70ba\u73fe\u91d1\u653e\u8457\u4e0d\u52d5\u5728\u5e02\u5834\u4e0a\u5347\u6642\u662f\u6c92\u6709\u56de\u5831\u7684\u3002"
+      "term": "MACD Crossover",
+      "explanation_en": "A MACD (Moving Average Convergence Divergence) crossover happens when the MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signals like rising RSI and price above the 20-day moving average, it gives traders more confidence that a stock's uptrend has real strength behind it.",
+      "explanation_zh": "MACD\uff08\u79fb\u52d5\u5e73\u5747\u532f\u805a\u80cc\u99b3\u6307\u6a19\uff09\u91d1\u53c9\u662f\u6307MACD\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u986f\u793a\u4e0a\u5347\u52d5\u80fd\u6b63\u5728\u589e\u5f37\u3002\u82e5\u914d\u5408\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff0c\u4f8b\u5982RSI\u4e0a\u5347\u53ca\u80a1\u50f9\u9ad8\u65bc20\u65e5\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u6295\u8cc7\u8005\u53ef\u66f4\u6709\u4fe1\u5fc3\u76f8\u4fe1\u8a72\u80a1\u7684\u5347\u52e2\u5177\u5099\u5be6\u8cea\u652f\u6301\u3002"
     }
   },
   "stats": {
