@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-17T16:01:07.158163+00:00",
+    "generated_at": "2026-09-17T17:00:57.485630+00:00",
     "date_et": "2026-09-17",
-    "run_id": "20260917T160107_ae37a0"
+    "run_id": "20260917T170057_6431cb"
   },
   "account": {
     "total_value": 14255.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4255.735246181488,
     "profit_percent": 42.55735246181488,
-    "vs_voo_dollars": 1450.861185940752,
-    "vs_voo_percent": 11.330538505221943
+    "vs_voo_dollars": 1450.4943982741497,
+    "vs_voo_percent": 11.32734960241839
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 716.72998046875,
-      "market_value": 2150.18994140625,
-      "profit_dollars": 181.58990478515625,
-      "profit_percent": 9.224316844819187,
-      "portfolio_pct": 16.05043980044485
+      "current_price": 717.0499877929688,
+      "market_value": 2151.1499633789062,
+      "profit_dollars": 182.5499267578125,
+      "profit_percent": 9.273083580306201,
+      "portfolio_pct": 16.08608246823649
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 204.47000122070312,
-      "market_value": 2658.1100158691406,
-      "profit_dollars": 731.1200714111328,
-      "profit_percent": 37.941042376158855,
-      "portfolio_pct": 19.84189116091041
+      "current_price": 201.5500030517578,
+      "market_value": 2620.1500396728516,
+      "profit_dollars": 693.1600952148438,
+      "profit_percent": 35.971131930831355,
+      "portfolio_pct": 19.593217736957286
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 75.88999938964844,
-      "market_value": 1669.5799865722656,
-      "profit_dollars": -388.52008056640625,
-      "profit_percent": -18.877608857306758,
-      "portfolio_pct": 12.462849235067944
+      "current_price": 76.91999816894531,
+      "market_value": 1692.2399597167969,
+      "profit_dollars": -365.860107421875,
+      "profit_percent": -17.77659469835797,
+      "portfolio_pct": 12.654399745005021
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 22.360000610351562,
-      "market_value": 1766.4400482177734,
-      "profit_dollars": 218.83003616333008,
-      "profit_percent": 14.139869505808797,
-      "portfolio_pct": 13.185876795829317
+      "current_price": 22.274999618530273,
+      "market_value": 1759.7249698638916,
+      "profit_dollars": 212.11495780944824,
+      "profit_percent": 13.705969601984345,
+      "portfolio_pct": 13.159045844568803
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 94.79000091552734,
-      "market_value": 2180.170021057129,
-      "profit_dollars": -433.78001403808594,
-      "profit_percent": -16.594808937206224,
-      "portfolio_pct": 16.274230942977248
+      "current_price": 94.80999755859375,
+      "market_value": 2180.6299438476562,
+      "profit_dollars": -433.3200912475586,
+      "profit_percent": -16.57721400293616,
+      "portfolio_pct": 16.30653078892792
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 56.779998779296875,
-      "market_value": 1305.9399719238281,
-      "profit_dollars": -1257.4099578857422,
-      "profit_percent": -49.05338686939065,
-      "portfolio_pct": 9.748399664007987
+      "current_price": 56.68000030517578,
+      "market_value": 1303.640007019043,
+      "profit_dollars": -1259.7099227905273,
+      "profit_percent": -49.14311183741154,
+      "portfolio_pct": 9.748488491644485
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 976.739990234375,
-      "market_value": 976.739990234375,
-      "profit_dollars": 88.8897705078125,
-      "profit_percent": 10.011797996196758,
-      "portfolio_pct": 7.291033276665275
+      "current_price": 975.9199829101562,
+      "market_value": 975.9199829101562,
+      "profit_dollars": 88.06976318359375,
+      "profit_percent": 9.919439250768807,
+      "portfolio_pct": 7.297831204122112
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.8
+      "pct": 19.6
     },
     {
       "label": "ROAD",
@@ -105,7 +105,7 @@
     },
     {
       "label": "OLED",
-      "pct": 12.5
+      "pct": 12.7
     },
     {
       "label": "INOD",
@@ -724,8 +724,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.26580282558814,
-    "voo_price": 701.0299072265625,
-    "total_value": 12804.874060240736,
+    "voo_price": 701.0499877929688,
+    "total_value": 12805.240847907338,
     "total_deposited": 11900.0,
     "snapshots": [
       {
@@ -1325,8 +1325,8 @@
       {
         "date": "2026-09-17",
         "voo_shares": 18.26580282558814,
-        "voo_price": 701.0299072265625,
-        "total_value": 12804.874060240736
+        "voo_price": 701.0499877929688,
+        "total_value": 12805.240847907338
       }
     ]
   },
@@ -2040,31 +2040,37 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "medium",
-        "reasoning": "RSI 60.3 in bullish zone with MACD bullish crossover and price above SMA-20, offering quality large-cap momentum exposure without overbought risk."
+        "ticker": "F",
+        "conviction": "high",
+        "reasoning": "Fresh MACD bullish crossover with RSI 55.4 just entering the bullish zone and price above SMA-20 offers a low-overbought-risk entry on a risk-on day."
       },
       {
         "action": "BUY",
-        "ticker": "TSLA",
+        "ticker": "BLSH",
         "conviction": "medium",
-        "reasoning": "RSI 59.2 with confirmed MACD crossover and rising histogram gives solid momentum in a liquid large-cap name suited to today's risk-on tape."
+        "reasoning": "Score 95 with RSI 55.2, rising MACD histogram, and price above SMA-20 signals fresh institutional momentum without being overbought."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ONDS",
+        "conviction": "medium",
+        "reasoning": "All four bullish signals confirmed (RSI 56.8, MACD crossover, rising histogram, price above SMA-20) and diversifies away from existing tech/industrial holdings."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "NASDAQ +1.6% and S&P 500 +1.1% point to a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into two of our best-scoring, most liquid momentum names rather than idling cash. We stayed at medium conviction since volume-surge confirmation wasn't present, and left existing winners untouched per prior lessons about not exiting on strength."
+    "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a risk-on day, and with 3 open slots and cash above the $500 threshold we deployed into three momentum-confirmed names (F, BLSH, ONDS) with lower RSI readings to reduce overbought risk. Existing winning positions were left untouched to let stop-loss and profit targets manage them automatically."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad tech-led gains pushed the NASDAQ up 1.6% and the S&P 500 up 1.1% today, consistent with continued risk appetite across growth and momentum names. Breadth was solid, with many screened stocks showing bullish MACD crossovers and RSI readings in the healthy 55-70 range rather than extreme overbought territory. No single catalyst headline is available for today's session, so the move looks like a continuation of the broader momentum trend rather than a news-driven spike.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u5e36\u52d5\u5927\u76e4\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.1%\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5347\u6eab\u3002\u591a\u96bb\u7be9\u9078\u80a1\u7968\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\uff0cRSI\u843d\u572855\u81f370\u7684\u5065\u5eb7\u5340\u9593\uff0c\u4e26\u672a\u51fa\u73fe\u904e\u71b1\u8d85\u8cb7\u73fe\u8c61\uff0c\u986f\u793a\u4e0a\u6f32\u52d5\u80fd\u8f03\u70ba\u5065\u5eb7\u3002\u76ee\u524d\u6c92\u6709\u660e\u78ba\u7684\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u4eca\u65e5\u8d70\u52e2\uff0c\u8f03\u50cf\u662f\u65e2\u6709\u52d5\u80fd\u884c\u60c5\u7684\u5ef6\u7e8c\u3002",
+      "summary_en": "Broad market strength today, with the NASDAQ up 1.6% and the S&P 500 up 1.1%, reflects continued risk appetite across growth and value sectors alike. Momentum names showing bullish MACD crossovers and RSI readings in the healthy 55-70 range attracted fresh buying interest. No single catalyst headline is available for today, so the move reflects broad-based sentiment rather than one specific event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.1%\uff0c\u53cd\u6620\u6210\u9577\u80a1\u53ca\u50f9\u503c\u80a1\u540c\u6642\u53d7\u5230\u8cc7\u91d1\u8ffd\u6367\uff0c\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\u3002MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc55\u81f370\u5065\u5eb7\u5340\u9593\u7684\u52d5\u529b\u80a1\u4efd\u5438\u5f15\u65b0\u8cb7\u76e4\u3002\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u53ef\u89e3\u91cb\u4eca\u65e5\u5347\u52e2\uff0c\u5c6c\u65bc\u8f03\u5ee3\u6cdb\u7684\u5e02\u5834\u60c5\u7dd2\u5e36\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving higher on strong volume and technical signals (like MACD crossovers) tend to keep moving in that direction for a while. It works best when confirmed by multiple signals together, since any single indicator can give false signals.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u662f\u7576\u80a1\u7968\u5728\u5f37\u52c1\u6210\u4ea4\u91cf\u8207\u6280\u8853\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\uff09\u914d\u5408\u4e0b\u4e0a\u6f32\u6642\uff0c\u5f80\u5f80\u6703\u5ef6\u7e8c\u4e00\u6bb5\u6642\u9593\u7684\u6f32\u52e2\u3002\u9019\u7a2e\u7b56\u7565\u5728\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u6642\u6548\u679c\u6700\u4f73\uff0c\u56e0\u70ba\u55ae\u4e00\u6307\u6a19\u5bb9\u6613\u51fa\u73fe\u5047\u8a0a\u865f\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders look for signals like a rising MACD histogram and RSI in a healthy (not overbought) range to confirm the trend has real strength before jumping in.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u56e0\u70ba\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u6295\u8cc7\u8005\u6703\u7559\u610fMACD\u67f1\u72c0\u5716\u4e0a\u5347\u3001RSI\u8655\u65bc\u5065\u5eb7\uff08\u975e\u8d85\u8cb7\uff09\u5340\u9593\u7b49\u8a0a\u865f\uff0c\u4ee5\u78ba\u8a8d\u5347\u52e2\u5177\u5099\u771f\u6b63\u52d5\u529b\uff0c\u624d\u6c7a\u5b9a\u5165\u5e02\u3002"
     }
   },
   "stats": {
