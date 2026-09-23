@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-23T16:01:07.314807+00:00",
+    "generated_at": "2026-09-23T17:01:08.082420+00:00",
     "date_et": "2026-09-23",
-    "run_id": "20260923T160107_d2a06f"
+    "run_id": "20260923T170108_3c3b18"
   },
   "account": {
     "total_value": 14355.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4355.735246181488,
     "profit_percent": 43.55735246181488,
-    "vs_voo_dollars": 1320.0831009079357,
-    "vs_voo_percent": 10.126713157090261
+    "vs_voo_dollars": 1334.6263751007373,
+    "vs_voo_percent": 10.249713663518145
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 740.4500122070312,
-      "market_value": 2221.3500366210938,
-      "profit_dollars": 252.75,
-      "profit_percent": 12.83907321437524,
-      "portfolio_pct": 15.71899926017457
+      "current_price": 739.5703735351562,
+      "market_value": 2218.7111206054688,
+      "profit_dollars": 250.111083984375,
+      "profit_percent": 12.705022824934304,
+      "portfolio_pct": 15.695526161128198
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 208.3300018310547,
-      "market_value": 2708.290023803711,
-      "profit_dollars": 781.3000793457031,
-      "profit_percent": 40.545104119132,
-      "portfolio_pct": 19.164745843147074
+      "current_price": 207.75,
+      "market_value": 2700.75,
+      "profit_dollars": 773.7600555419922,
+      "profit_percent": 40.15381905688266,
+      "portfolio_pct": 19.10554821039486
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 77.23500061035156,
-      "market_value": 1699.1700134277344,
-      "profit_dollars": -358.9300537109375,
-      "profit_percent": -17.43987376716573,
-      "portfolio_pct": 12.023882658587635
+      "current_price": 77.05999755859375,
+      "market_value": 1695.3199462890625,
+      "profit_dollars": -362.7801208496094,
+      "profit_percent": -17.62694276347671,
+      "portfolio_pct": 11.992971199063113
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 23.770000457763672,
-      "market_value": 1877.83003616333,
-      "profit_dollars": 330.2200241088867,
-      "profit_percent": 21.3374184411305,
-      "portfolio_pct": 13.288139402867074
+      "current_price": 23.799999237060547,
+      "market_value": 1880.1999397277832,
+      "profit_dollars": 332.58992767333984,
+      "profit_percent": 21.490551565496055,
+      "portfolio_pct": 13.300842578413652
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 93.48999786376953,
-      "market_value": 2150.269950866699,
-      "profit_dollars": -463.6800842285156,
-      "profit_percent": -17.738674343544815,
-      "portfolio_pct": 15.216013329561848
+      "current_price": 93.29000091552734,
+      "market_value": 2145.670021057129,
+      "profit_dollars": -468.28001403808594,
+      "profit_percent": -17.914650538491586,
+      "portfolio_pct": 15.17882144993277
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 69.98999786376953,
-      "market_value": 1609.7699508666992,
-      "profit_dollars": -953.5799789428711,
-      "profit_percent": -37.20053855517541,
-      "portfolio_pct": 11.391258581297208
+      "current_price": 71.33000183105469,
+      "market_value": 1640.5900421142578,
+      "profit_dollars": -922.7598876953125,
+      "profit_percent": -35.99820207785145,
+      "portfolio_pct": 11.605802885534642
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1075.6600341796875,
-      "market_value": 1075.6600341796875,
-      "profit_dollars": 187.809814453125,
-      "profit_percent": 21.1533218419393,
-      "portfolio_pct": 7.6117221521688485
+      "current_price": 1065.4200439453125,
+      "market_value": 1065.4200439453125,
+      "profit_dollars": 177.56982421875,
+      "profit_percent": 19.999975251843427,
+      "portfolio_pct": 7.536956035885653
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "label": "QQQ",
@@ -109,11 +109,11 @@
     },
     {
       "label": "INOD",
-      "pct": 11.4
+      "pct": 11.6
     },
     {
       "label": "MU",
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "label": "Cash",
@@ -748,8 +748,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.408297618579315,
-    "voo_price": 708.1400146484375,
-    "total_value": 13035.652145273552,
+    "voo_price": 707.3499755859375,
+    "total_value": 13021.10887108075,
     "total_deposited": 12000.0,
     "snapshots": [
       {
@@ -1373,8 +1373,8 @@
       {
         "date": "2026-09-23",
         "voo_shares": 18.408297618579315,
-        "voo_price": 708.1400146484375,
-        "total_value": 13035.652145273552
+        "voo_price": 707.3499755859375,
+        "total_value": 13021.10887108075
       }
     ]
   },
@@ -2088,25 +2088,37 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "HUBS",
+        "ticker": "WOR",
         "conviction": "medium",
-        "reasoning": "Score 95 with confirmed multi-signal setup (MACD bullish crossover, RSI 63.3 in healthy bullish zone, price 5.7% above SMA-20) and an open slot to fill with idle cash."
+        "reasoning": "Score 95 with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, while diversifying away from the tech-heavy portfolio into industrials."
+      },
+      {
+        "action": "BUY",
+        "ticker": "EFXT",
+        "conviction": "medium",
+        "reasoning": "Score 95 with confirmed RSI, MACD crossover, rising histogram, and price above SMA-20 signals, adding staffing-sector diversification at a low share price."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LOPE",
+        "conviction": "medium",
+        "reasoning": "Score 95 with the same four-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20), diversifying into education services."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were flat today (NASDAQ and S&P 500 unchanged) with no fresh news data available, so this wasn't a strong risk-on signal. With 3 open slots and cash above the $500 threshold, deployed a modest position into HubSpot (HUBS) on solid technical confirmation rather than sitting idle, while holding all 7 existing positions unchanged."
+    "briefing": "Macro index data was unavailable today so the broad market direction is unconfirmed, but several screened stocks still show strong multi-signal technical confirmation. We used the 3 open slots to diversify into WOR, EFXT, and LOPE, moving away from an already tech-heavy portfolio, while holding all existing positions since none hit stop-loss or profit targets."
   },
   "education": {
     "market_education": {
-      "summary_en": "No news data was available today, and both the NASDAQ and S&P 500 were flat, suggesting a quiet, directionless session rather than any major catalyst-driven move. In the absence of macro headlines, today's decision leaned on individual stock technicals rather than broad market sentiment. This kind of low-volatility, data-scarce session is common and doesn't necessarily signal risk ahead.",
-      "summary_zh": "\u4eca\u65e5\u672a\u6709\u53ef\u7528\u7684\u65b0\u805e\u6578\u64da,\u7d0d\u6307\u8207\u6a19\u666e500\u5747\u6301\u5e73,\u986f\u793a\u5e02\u5834\u8655\u65bc\u6de1\u975c\u3001\u7f3a\u4e4f\u65b9\u5411\u7684\u72c0\u614b,\u4e26\u975e\u7531\u91cd\u5927\u4e8b\u4ef6\u9a45\u52d5\u3002\u5728\u7f3a\u4e4f\u5b8f\u89c0\u6d88\u606f\u7684\u60c5\u6cc1\u4e0b,\u4eca\u65e5\u6c7a\u7b56\u4e3b\u8981\u53c3\u8003\u500b\u80a1\u6280\u8853\u6307\u6a19\u800c\u975e\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u6578\u64da\u7a00\u7f3a\u7684\u4ea4\u6613\u65e5\u76f8\u7576\u5e38\u898b,\u4e0d\u4e00\u5b9a\u4ee3\u8868\u5f8c\u5e02\u6709\u98a8\u96aa\u3002",
+      "summary_en": "Today's market data feed was unavailable, so NASDAQ and S&P 500 movement could not be confirmed. In the absence of a clear macro signal, we relied on individual stock-level technical confirmation (RSI, MACD, moving averages) to guide new positions rather than broad index momentum. No news headlines were available to cite for today.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6578\u64da\u7121\u6cd5\u53d6\u5f97\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u7684\u6f32\u8dcc\u672a\u80fd\u78ba\u8a8d\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u5b8f\u89c0\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u6211\u5011\u6539\u4ee5\u500b\u80a1\u5c64\u9762\u7684\u6280\u8853\u6307\u6a19\uff08RSI\u3001MACD\u3001\u5747\u7dda\uff09\u4f5c\u70ba\u5efa\u5009\u4f9d\u64da\uff0c\u800c\u975e\u4f9d\u8cf4\u5927\u76e4\u52d5\u80fd\u3002\u4eca\u65e5\u4e26\u7121\u53ef\u5f15\u7528\u7684\u65b0\u805e\u6a19\u984c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like RSI, MACD, and moving averages to confirm the trend is real and not a fluke. Today's HUBS pick relied on three confirming signals (MACD crossover, healthy RSI, price above its 20-day average) even though the broader market gave no clear directional cue.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u4e26\u5229\u7528RSI\u3001MACD\u53ca\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\u6307\u6a19\u4f86\u78ba\u8a8d\u8da8\u52e2\u5c6c\u5be6,\u800c\u975e\u5076\u7136\u6ce2\u52d5\u3002\u4eca\u65e5\u9078\u4e2dHUBS\u6b63\u662f\u57fa\u65bc\u4e09\u500b\u78ba\u8a8d\u8a0a\u865f(MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda),\u5373\u4f7f\u5927\u5e02\u672c\u8eab\u4e26\u672a\u7d66\u51fa\u660e\u78ba\u65b9\u5411\u3002"
+      "term": "Technical Confirmation",
+      "explanation_en": "When broad market data isn't available, investors can still make informed decisions by looking at individual stock signals like RSI, MACD crossovers, and moving averages. Requiring multiple signals to agree (not just one) reduces the chance of acting on false signals.",
+      "explanation_zh": "\u7576\u5927\u76e4\u6578\u64da\u7121\u6cd5\u53d6\u5f97\u6642\uff0c\u6295\u8cc7\u4eba\u4ecd\u53ef\u900f\u904e\u500b\u80a1\u7684\u6280\u8853\u6307\u6a19\uff08\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5747\u7dda\uff09\u505a\u51fa\u5224\u65b7\u3002\u8981\u6c42\u591a\u9805\u6307\u6a19\u540c\u6642\u78ba\u8a8d\uff0c\u800c\u975e\u50c5\u6191\u55ae\u4e00\u8a0a\u865f\u9032\u5834\uff0c\u80fd\u964d\u4f4e\u8aa4\u5224\u7684\u98a8\u96aa\u3002"
     }
   },
   "stats": {
