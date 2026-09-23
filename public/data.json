@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-23T13:01:10.571014+00:00",
+    "generated_at": "2026-09-23T14:01:14.667850+00:00",
     "date_et": "2026-09-23",
-    "run_id": "20260923T130110_cd9ae9"
+    "run_id": "20260923T140114_3fa3ae"
   },
   "account": {
     "total_value": 14355.735246181488,
@@ -11,97 +11,97 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4355.735246181488,
     "profit_percent": 43.55735246181488,
-    "vs_voo_dollars": 1234.6688696105248,
-    "vs_voo_percent": 9.409821078377867
+    "vs_voo_dollars": 1277.2835842340737,
+    "vs_voo_percent": 9.766321100152942
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 747.46,
-      "market_value": 2242.38,
-      "profit_dollars": 273.77996337890636,
-      "profit_percent": 13.907343202574681,
-      "portfolio_pct": 15.743396633006254
+      "current_price": 743.6199951171875,
+      "market_value": 2230.8599853515625,
+      "profit_dollars": 262.25994873046875,
+      "profit_percent": 13.322155026503598,
+      "portfolio_pct": 15.893600982227845
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 206.81,
-      "market_value": 2688.53,
-      "profit_dollars": 761.5400555419924,
-      "profit_percent": 39.51966940627632,
-      "portfolio_pct": 18.875745480131066
+      "current_price": 202.14999389648438,
+      "market_value": 2627.949920654297,
+      "profit_dollars": 700.9599761962891,
+      "profit_percent": 36.37590212716152,
+      "portfolio_pct": 18.72263957147205
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 78.12,
-      "market_value": 1718.64,
-      "profit_dollars": -339.4600671386718,
-      "profit_percent": -16.493856278359445,
-      "portfolio_pct": 12.066300622262895
+      "current_price": 77.16500091552734,
+      "market_value": 1697.6300201416016,
+      "profit_dollars": -360.4700469970703,
+      "profit_percent": -17.514699734606364,
+      "portfolio_pct": 12.094642574052003
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 23.73,
-      "market_value": 1874.67,
-      "profit_dollars": 327.0599879455567,
-      "profit_percent": 21.133230296913528,
-      "portfolio_pct": 13.161762665559735
+      "current_price": 24.104999542236328,
+      "market_value": 1904.29496383667,
+      "profit_dollars": 356.68495178222656,
+      "profit_percent": 23.047469905466002,
+      "portfolio_pct": 13.567012052043411
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 96.71,
-      "market_value": 2224.33,
-      "profit_dollars": -389.6200350952149,
-      "profit_percent": -14.905412493128345,
-      "portfolio_pct": 15.616670427266921
+      "current_price": 92.8499984741211,
+      "market_value": 2135.549964904785,
+      "profit_dollars": -478.4000701904297,
+      "profit_percent": -18.301806223048317,
+      "portfolio_pct": 15.214571619320369
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 69.97,
-      "market_value": 1609.31,
-      "profit_dollars": -954.0399298095704,
-      "profit_percent": -37.21848190584129,
-      "portfolio_pct": 11.298711920130975
+      "current_price": 67.75,
+      "market_value": 1558.25,
+      "profit_dollars": -1005.0999298095703,
+      "profit_percent": -39.210406590263645,
+      "portfolio_pct": 11.101639678499868
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1096.16,
-      "market_value": 1096.16,
-      "profit_dollars": 208.30978027343758,
-      "profit_percent": 23.462266004461004,
-      "portfolio_pct": 7.695966630649638
+      "current_price": 1092.39501953125,
+      "market_value": 1092.39501953125,
+      "profit_dollars": 204.5447998046875,
+      "profit_percent": 23.038210191318374,
+      "portfolio_pct": 7.782689487196383
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 18.9
+      "pct": 18.7
     },
     {
       "label": "QQQ",
-      "pct": 15.7
+      "pct": 15.9
     },
     {
       "label": "ROAD",
-      "pct": 15.6
+      "pct": 15.2
     },
     {
       "label": "WT",
-      "pct": 13.2
+      "pct": 13.6
     },
     {
       "label": "OLED",
@@ -109,15 +109,15 @@
     },
     {
       "label": "INOD",
-      "pct": 11.3
+      "pct": 11.1
     },
     {
       "label": "MU",
-      "pct": 7.7
+      "pct": 7.8
     },
     {
       "label": "Cash",
-      "pct": 5.5
+      "pct": 5.6
     }
   ],
   "snapshots": [
@@ -748,8 +748,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.408297618579315,
-    "voo_price": 712.78,
-    "total_value": 13121.066376570963,
+    "voo_price": 710.4650268554688,
+    "total_value": 13078.451661947414,
     "total_deposited": 12000.0,
     "snapshots": [
       {
@@ -1373,8 +1373,8 @@
       {
         "date": "2026-09-23",
         "voo_shares": 18.408297618579315,
-        "voo_price": 712.78,
-        "total_value": 13121.066376570963
+        "voo_price": 710.4650268554688,
+        "total_value": 13078.451661947414
       }
     ]
   },
@@ -2088,31 +2088,25 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "ARQT",
+        "ticker": "IRTC",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) and adds biotech diversification away from the tech-heavy book."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SRAD",
-        "conviction": "high",
-        "reasoning": "Top-scored candidate with all four confirming signals including a volume surge, deploying idle cash above the $500 threshold into a fresh sector."
+        "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) meets the strict bar for a high-conviction entry even though broader market direction is unclear today."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Market data feed was unavailable today (NASDAQ/S&P flat, direction neutral), so no macro catalyst to react to. With cash above the $500 threshold and 3 open slots, we deployed into two fully-confirmed momentum names (ARQT, SRAD) rather than sit idle, while leaving existing winners untouched per stop-loss/profit-target rules."
+    "briefing": "Market direction data was unavailable today (NASDAQ/S&P flat), so we held back from aggressively deploying all open slots. We added one high-conviction position, IRTC, which showed complete technical confirmation across RSI, MACD, price trend, and volume, while leaving cash and slots in reserve until a clearer market signal emerges."
   },
   "education": {
     "market_education": {
-      "summary_en": "No reliable market-moving headlines were available today, and index data showed no change, suggesting a quiet or data-outage session rather than a genuine directional move. In the absence of a clear catalyst, we relied on individual stock technicals rather than broad market sentiment. Both new buys were chosen because they showed all four bullish confirmation signals (RSI, MACD, price vs SMA-20, and volume) independent of the macro picture.",
-      "summary_zh": "\u4eca\u65e5\u672a\u80fd\u53d6\u5f97\u53ef\u9760\u7684\u5e02\u5834\u6d88\u606f\u4f86\u6e90\uff0c\u5927\u76e4\u6578\u64da\u4ea6\u986f\u793a\u96f6\u8b8a\u52d5\uff0c\u8f03\u4f3c\u662f\u6578\u64da\u66ab\u6642\u4e2d\u65b7\u800c\u975e\u771f\u6b63\u7684\u6a6b\u76e4\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6211\u5011\u6539\u70ba\u4f9d\u8cf4\u500b\u80a1\u6280\u8853\u9762\u800c\u975e\u5927\u76e4\u60c5\u7dd2\u4f5c\u6c7a\u7b56\uff0c\u5169\u96bb\u65b0\u8cb7\u5165\u7684\u80a1\u4efd\u90fd\u5177\u5099\u5168\u90e8\u56db\u9805\u725b\u5e02\u78ba\u8a8d\u8a0a\u865f\uff08RSI\u3001MACD\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda\u3001\u6210\u4ea4\u91cf\u7a81\u7834\uff09\uff0c\u6545\u4e88\u4ee5\u8cb7\u5165\u3002",
+      "summary_en": "Broad market data feeds were unavailable today, so NASDAQ and S&P 500 moves could not be confirmed, leaving overall direction uncertain. In the absence of a clear macro signal, individual stock-level technical setups become the primary basis for decisions. IRTC stood out with full confirmation across momentum, trend, and volume indicators, making it a reasonable selective buy despite the unclear broader tape.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6578\u64da\u4f86\u6e90\u66ab\u6642\u7121\u6cd5\u53d6\u5f97\uff0c\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u7684\u5be6\u969b\u8d70\u52e2\u672a\u80fd\u78ba\u8a8d\uff0c\u6574\u9ad4\u5e02\u5834\u65b9\u5411\u4e26\u4e0d\u660e\u6717\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u7e3d\u9ad4\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u500b\u80a1\u5c64\u9762\u7684\u6280\u8853\u9762\u8868\u73fe\u6210\u70ba\u6c7a\u7b56\u7684\u4e3b\u8981\u4f9d\u64da\u3002IRTC\u5728\u52d5\u80fd\u3001\u8da8\u52e2\u53ca\u6210\u4ea4\u91cf\u6307\u6a19\u4e0a\u5747\u7372\u5f97\u5b8c\u6574\u78ba\u8a8d\uff0c\u56e0\u6b64\u5728\u5927\u76e4\u4e0d\u660e\u6717\u7684\u80cc\u666f\u4e0b\u4ecd\u5c6c\u5408\u7406\u7684\u7cbe\u9078\u8cb7\u5165\u6a19\u7684\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Opportunity Cost of Cash",
-      "explanation_en": "Holding cash instead of investing it isn't free \u2014 if strong candidates are available and sit unused, you miss out on potential gains they could have earned. That's why with cash above the deployment threshold and confirmed momentum signals present, putting idle cash to work is often better than waiting for a 'perfect' market signal.",
-      "explanation_zh": "\u6301\u6709\u73fe\u91d1\u4e26\u975e\u6c92\u6709\u6210\u672c\u2014\u2014\u5982\u679c\u5e02\u5834\u4e0a\u6709\u512a\u8cea\u9078\u80a1\u6a5f\u6703\u800c\u4f60\u9078\u64c7\u4e0d\u52d5\u7528\u8cc7\u91d1\uff0c\u5c31\u7b49\u65bc\u932f\u5931\u4e86\u6f5b\u5728\u56de\u5831\u3002\u56e0\u6b64\u7576\u73fe\u91d1\u8d85\u904e\u90e8\u7f72\u9580\u6abb\uff0c\u4e14\u500b\u80a1\u51fa\u73fe\u78ba\u8a8d\u7684\u52d5\u80fd\u8a0a\u865f\u6642\uff0c\u8207\u5176\u7b49\u5f85\u300c\u5b8c\u7f8e\u300d\u7684\u5927\u76e4\u8a0a\u865f\uff0c\u4e0d\u5982\u5584\u7528\u8cc7\u91d1\u4f5c\u6295\u8cc7\u90e8\u7f72\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators \u2014 like RSI, MACD, price trend, and volume \u2014 all point the same direction at once. This reduces the chance of being fooled by a single false signal, especially useful when broader market direction is unclear.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8da8\u52e2\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\u624d\u9032\u884c\u4ea4\u6613\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u88ab\u55ae\u4e00\u932f\u8aa4\u8a0a\u865f\u8aa4\u5c0e\u7684\u98a8\u96aa\uff0c\u5728\u5927\u76e4\u65b9\u5411\u4e0d\u660e\u6717\u6642\u5c24\u5176\u6709\u7528\u3002"
     }
   },
   "stats": {
