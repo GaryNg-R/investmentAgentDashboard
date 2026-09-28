@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-28T16:01:09.014080+00:00",
+    "generated_at": "2026-09-28T17:00:53.295959+00:00",
     "date_et": "2026-09-28",
-    "run_id": "20260928T160109_6f8b21"
+    "run_id": "20260928T170053_0067ac"
   },
   "account": {
     "total_value": 14455.735246181488,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4455.735246181488,
     "profit_percent": 44.55735246181488,
-    "vs_voo_dollars": 1405.410593949051,
-    "vs_voo_percent": 10.769161928156601
+    "vs_voo_dollars": 1382.2243612583097,
+    "vs_voo_percent": 10.57270975964335
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 735.3800048828125,
-      "market_value": 2206.1400146484375,
-      "profit_dollars": 237.53997802734375,
-      "profit_percent": 12.066441816950157,
-      "portfolio_pct": 15.852257184782784
+      "current_price": 737.051025390625,
+      "market_value": 2211.153076171875,
+      "profit_dollars": 242.55303955078125,
+      "profit_percent": 12.321092910630005,
+      "portfolio_pct": 15.810729041154275
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 200.74000549316406,
-      "market_value": 2609.620071411133,
-      "profit_dollars": 682.630126953125,
-      "profit_percent": 35.42468547468856,
-      "portfolio_pct": 18.751470102487037
+      "current_price": 201.8000030517578,
+      "market_value": 2623.4000396728516,
+      "profit_dollars": 696.4100952148438,
+      "profit_percent": 36.139788752801124,
+      "portfolio_pct": 18.758478388855206
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 75.29000091552734,
-      "market_value": 1656.3800201416016,
-      "profit_dollars": -401.7200469970703,
-      "profit_percent": -19.518975457572004,
-      "portfolio_pct": 11.901947247534347
+      "current_price": 75.79000091552734,
+      "market_value": 1667.3800201416016,
+      "profit_dollars": -390.7200469970703,
+      "profit_percent": -18.984501931447834,
+      "portfolio_pct": 11.922509568054906
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.020000457763672,
-      "market_value": 1897.58003616333,
-      "profit_dollars": 349.9700241088867,
-      "profit_percent": 22.613579737979567,
-      "portfolio_pct": 13.63509412922013
+      "current_price": 24.010000228881836,
+      "market_value": 1896.790018081665,
+      "profit_dollars": 349.1800060272217,
+      "profit_percent": 22.56253211774504,
+      "portfolio_pct": 13.562893201304622
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 90.44499969482422,
-      "market_value": 2080.234992980957,
-      "profit_dollars": -533.7150421142578,
-      "profit_percent": -20.417951183019337,
-      "portfolio_pct": 14.947564476669871
+      "current_price": 91.6449966430664,
+      "market_value": 2107.8349227905273,
+      "profit_dollars": -506.1151123046875,
+      "profit_percent": -19.36208058721566,
+      "portfolio_pct": 15.071958240639184
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 66.7074966430664,
-      "market_value": 1534.2724227905273,
-      "profit_dollars": -1029.077507019043,
-      "profit_percent": -40.145806666961484,
-      "portfolio_pct": 11.024540997444824
+      "current_price": 66.80999755859375,
+      "market_value": 1536.6299438476562,
+      "profit_dollars": -1026.719985961914,
+      "profit_percent": -40.053836349927785,
+      "portfolio_pct": 10.98758830427121
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1043.3699951171875,
-      "market_value": 1043.3699951171875,
-      "profit_dollars": 155.519775390625,
-      "profit_percent": 17.51644274397111,
-      "portfolio_pct": 7.497153123401794
+      "current_price": 1052.6700439453125,
+      "market_value": 1052.6700439453125,
+      "profit_dollars": 164.81982421875,
+      "profit_percent": 18.563922219843647,
+      "portfolio_pct": 7.527059530122547
     }
   ],
   "allocation": [
@@ -93,11 +93,11 @@
     },
     {
       "label": "QQQ",
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "label": "ROAD",
-      "pct": 14.9
+      "pct": 15.1
     },
     {
       "label": "WT",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 6.4
+      "pct": 6.3
     }
   ],
   "snapshots": [
@@ -766,8 +766,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.548986152592597,
-    "voo_price": 703.5599975585938,
-    "total_value": 13050.324652232437,
+    "voo_price": 704.8099975585938,
+    "total_value": 13073.510884923178,
     "total_deposited": 12100.0,
     "snapshots": [
       {
@@ -1409,8 +1409,8 @@
       {
         "date": "2026-09-28",
         "voo_shares": 18.548986152592597,
-        "voo_price": 703.5599975585938,
-        "total_value": 13050.324652232437
+        "voo_price": 704.8099975585938,
+        "total_value": 13073.510884923178
       }
     ]
   },
@@ -2121,21 +2121,34 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
-    "skip_new_buys": true,
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "CMG",
+        "conviction": "medium",
+        "reasoning": "Full signal confirmation (RSI 60.2, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) meets the multi-signal bar for a buy even on a neutral market day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ELVN",
+        "conviction": "medium",
+        "reasoning": "Same full multi-signal confirmation as CMG (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying idle cash into an open slot."
+      }
+    ],
+    "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were mildly risk-off today with NASDAQ down 0.9% and the S&P 500 down 0.8%. None of the screened candidates showed the full four-signal confirmation (crossover, bullish RSI, price above SMA-20, and volume surge) needed for a high-conviction buy, so we're holding cash and existing positions rather than forcing a trade."
+    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral session overall. With $889 in cash and 3 open slots, we deployed into CMG and ELVN, the only two candidates showing full 5-signal confirmation (RSI, MACD crossover, rising momentum, price trend, and volume surge), sized moderately given the lack of a broader risk-on tailwind."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad indices drifted lower today, with both the NASDAQ and S&P 500 posting modest declines of under 1%. There's no single dominant catalyst evident from the available data \u2014 this looks like a routine pullback rather than a sharp risk-off event. Momentum candidates remain plentiful but lack the volume confirmation that typically separates a real breakout from routine drift.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u7686\u4e0b\u8dcc\u4e0d\u8db31%\u3002\u5f9e\u73fe\u6709\u6578\u64da\u770b\u4e0d\u51fa\u660e\u986f\u7684\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\uff0c\u8f03\u50cf\u662f\u5e38\u898f\u56de\u8abf\u800c\u975e\u5287\u70c8\u7684\u907f\u96aa\u8ce3\u58d3\u3002\u5e02\u5834\u4e0a\u96d6\u7136\u4ecd\u6709\u4e0d\u5c11\u52d5\u80fd\u80a1\u7968\u5019\u9078\uff0c\u4f46\u666e\u904d\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u7684\u78ba\u8a8d\u8a0a\u865f\uff0c\u96e3\u4ee5\u5224\u65b7\u662f\u771f\u6b63\u7a81\u7834\u9084\u662f\u666e\u901a\u6ce2\u52d5\u3002",
+      "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a clear risk-off signal. Trading was largely rotational, with strength concentrated in a handful of names showing strong technical setups rather than broad-based sector moves. Overall breadth stayed neutral, consistent with a consolidation phase in the market.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u4e0b\u8dcc\uff0cNASDAQ\u8dcc0.7%\u3001\u6a19\u666e500\u8dcc0.6%\uff0c\u4e26\u7121\u55ae\u4e00\u660e\u78ba\u7684\u5229\u7a7a\u6d88\u606f\uff0c\u6bd4\u8f03\u50cf\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u76e4\u6574\u800c\u975e\u5168\u9762risk-off\u3002\u5e02\u5834\u8cc7\u91d1\u5448\u73fe\u8f2a\u52d5\u683c\u5c40\uff0c\u5f37\u52e2\u80a1\u96c6\u4e2d\u5728\u6280\u8853\u9762\u8a0a\u865f\u5b8c\u6574\u7684\u500b\u80a1\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u677f\u584a\u6027\u884c\u60c5\u3002\u6574\u9ad4\u5e02\u5834\u5bec\u5ea6\u7dad\u6301\u4e2d\u6027\uff0c\u7b26\u5408\u76e4\u6574\u968e\u6bb5\u7684\u7279\u5fb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A risk-off day is when investors pull back from riskier assets amid uncertainty, causing broad indices to dip even without a specific negative catalyst. On days like this, the disciplined move is to hold existing positions and wait for a clearer, well-confirmed setup rather than forcing new trades just to use available cash.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u4eba\u5728\u4e0d\u78ba\u5b9a\u6c23\u6c1b\u4e0b\u6e1b\u5c11\u6301\u6709\u98a8\u96aa\u6027\u8cc7\u7522\uff0c\u5c0e\u81f4\u5927\u76e4\u6307\u6578\u666e\u904d\u4e0b\u8dcc\uff0c\u5373\u4f7f\u6c92\u6709\u660e\u78ba\u7684\u5229\u7a7a\u6d88\u606f\u3002\u5728\u9019\u985e\u65e5\u5b50\u88e1\uff0c\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u90e8\u4f4d\u3001\u8010\u5fc3\u7b49\u5f85\u66f4\u660e\u78ba\u4e14\u6709\u6210\u4ea4\u91cf\u78ba\u8a8d\u7684\u9032\u5834\u8a0a\u865f\uff0c\u800c\u4e0d\u662f\u70ba\u4e86\u6d88\u5316\u73fe\u91d1\u800c\u52c9\u5f37\u4ea4\u6613\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Instead of relying on just one indicator, traders look for multiple technical signals to agree at once \u2014 like RSI in a healthy range, a bullish MACD crossover, price above its moving average, and a volume surge together. When all these align, it suggests real buying interest rather than random noise, which is why CMG and ELVN stood out today even in a flat market.",
+      "explanation_zh": "\u8207\u5176\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\uff0c\u4ea4\u6613\u8005\u6703\u5c0b\u627e\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u4e00\u81f4\u7684\u60c5\u6cc1\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff0c\u52a0\u4e0a\u6210\u4ea4\u91cf\u653e\u5927\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u6642\uff0c\u4ee3\u8868\u80cc\u5f8c\u53ef\u80fd\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6490\uff0c\u800c\u975e\u55ae\u7d14\u96dc\u8a0a\uff0c\u9019\u4e5f\u662f\u70ba\u4ec0\u9ebcCMG\u548cELVN\u5373\u4f7f\u5728\u5e73\u6de1\u7684\u5e02\u5834\u4e2d\u4ecd\u7136\u812b\u7a4e\u800c\u51fa\u3002"
     }
   },
   "stats": {
