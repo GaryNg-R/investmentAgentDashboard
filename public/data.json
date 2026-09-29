@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-29T16:01:00.558813+00:00",
+    "generated_at": "2026-09-29T17:01:06.555427+00:00",
     "date_et": "2026-09-29",
-    "run_id": "20260929T160100_797d5c"
+    "run_id": "20260929T170106_d92752"
   },
   "account": {
     "total_value": 14455.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4455.735246181488,
     "profit_percent": 44.55735246181488,
-    "vs_voo_dollars": 1445.383070394948,
-    "vs_voo_percent": 11.109484592468899
+    "vs_voo_dollars": 1452.895953214078,
+    "vs_voo_percent": 11.173682304909182
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 737.0349731445312,
-      "market_value": 2211.1049194335938,
-      "profit_dollars": 242.5048828125,
-      "profit_percent": 12.318646667747478,
-      "portfolio_pct": 15.804169119879488
+      "current_price": 735.780029296875,
+      "market_value": 2207.340087890625,
+      "profit_dollars": 238.74005126953125,
+      "profit_percent": 12.127402561634856,
+      "portfolio_pct": 15.75976345439664
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 199.0399932861328,
-      "market_value": 2587.5199127197266,
-      "profit_dollars": 660.5299682617188,
-      "profit_percent": 34.27781085009771,
-      "portfolio_pct": 18.494645795530072
+      "current_price": 201.8000030517578,
+      "market_value": 2623.4000396728516,
+      "profit_dollars": 696.4100952148438,
+      "profit_percent": 36.139788752801124,
+      "portfolio_pct": 18.730309977294052
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 76.45999908447266,
-      "market_value": 1682.1199798583984,
-      "profit_dollars": -375.98008728027344,
-      "profit_percent": -18.268309363741956,
-      "portfolio_pct": 12.023178279762686
+      "current_price": 76.25,
+      "market_value": 1677.5,
+      "profit_dollars": -380.6000671386719,
+      "profit_percent": -18.49278726606385,
+      "portfolio_pct": 11.976859995332234
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 23.780000686645508,
-      "market_value": 1878.6200542449951,
-      "profit_dollars": 331.01004219055176,
-      "profit_percent": 21.388466061365023,
-      "portfolio_pct": 13.427688929791087
+      "current_price": 23.829999923706055,
+      "market_value": 1882.5699939727783,
+      "profit_dollars": 334.95998191833496,
+      "profit_percent": 21.643694426199627,
+      "portfolio_pct": 13.440999850506952
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 92.23999786376953,
-      "market_value": 2121.519950866699,
-      "profit_dollars": -492.4300842285156,
-      "profit_percent": -18.838542344615952,
-      "portfolio_pct": 15.163848535638296
+      "current_price": 92.41000366210938,
+      "market_value": 2125.4300842285156,
+      "profit_dollars": -488.5199508666992,
+      "profit_percent": -18.688955194543517,
+      "portfolio_pct": 15.174949954499034
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 67.4800033569336,
-      "market_value": 1552.0400772094727,
-      "profit_dollars": -1011.3098526000977,
-      "profit_percent": -39.45266468847768,
-      "portfolio_pct": 11.093414720153897
+      "current_price": 66.63999938964844,
+      "market_value": 1532.719985961914,
+      "profit_dollars": -1030.6299438476562,
+      "profit_percent": -40.20636948012093,
+      "portfolio_pct": 10.943172985939452
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1068.433349609375,
-      "market_value": 1068.433349609375,
-      "profit_dollars": 180.5831298828125,
-      "profit_percent": 20.339368721272375,
-      "portfolio_pct": 7.636770739432574
+      "current_price": 1067.9300537109375,
+      "market_value": 1067.9300537109375,
+      "profit_dollars": 180.079833984375,
+      "profit_percent": 20.282681693747335,
+      "portfolio_pct": 7.624708636723416
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 18.5
+      "pct": 18.7
     },
     {
       "label": "QQQ",
@@ -109,7 +109,7 @@
     },
     {
       "label": "INOD",
-      "pct": 11.1
+      "pct": 10.9
     },
     {
       "label": "MU",
@@ -772,8 +772,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.548986152592597,
-    "voo_price": 701.405029296875,
-    "total_value": 13010.35217578654,
+    "voo_price": 701.0,
+    "total_value": 13002.83929296741,
     "total_deposited": 12100.0,
     "snapshots": [
       {
@@ -1421,8 +1421,8 @@
       {
         "date": "2026-09-29",
         "voo_shares": 18.548986152592597,
-        "voo_price": 701.405029296875,
-        "total_value": 13010.35217578654
+        "voo_price": 701.0,
+        "total_value": 13002.83929296741
       }
     ]
   },
@@ -2133,21 +2133,28 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "PLBL",
+        "conviction": "high",
+        "reasoning": "Highest-scoring candidate (100) with full multi-signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge \u2014 justifying deployment of idle cash even on a neutral market day."
+      }
+    ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were flat to slightly negative today (NASDAQ -0.1%, S&P 500 -0.3%), showing no clear risk-on signal. With 3 open slots and $889 in cash, we're holding rather than forcing a buy since no candidate shows the full multi-signal confirmation (including a volume surge) that past lessons require for high-conviction entries; existing positions remain intact and governed by automatic stop-loss/profit-target rules."
+    "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.3%), a neutral session with no clear directional catalyst. With $889 in cash and 3 open slots, we deployed a portion into PLBL, the only candidate showing all five bullish signals including a volume surge, while leaving remaining positions untouched per our rule of not exiting strong holdings on quiet days."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the S&P 500 down 0.3% and the NASDAQ roughly flat at -0.1%, reflecting a lack of strong catalysts in either direction. This kind of quiet, low-volatility session often happens between larger news events, as investors digest recent data without a clear reason to aggressively buy or sell. Without a decisive move, momentum-based strategies typically favor patience over forcing new trades.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.3%\uff0c\u7d0d\u6307\u5247\u8fd1\u4e4e\u6301\u5e73\uff0c\u8dcc0.1%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u6574\u56fa\u65e5\u5b50\u901a\u5e38\u51fa\u73fe\u5728\u91cd\u5927\u6d88\u606f\u516c\u5e03\u4e4b\u9593\uff0c\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u660e\u78ba\u7406\u7531\u7684\u60c5\u6cc1\u4e0b\u50be\u5411\u89c0\u671b\uff0c\u800c\u975e\u7a4d\u6975\u8cb7\u8ce3\u3002\u5728\u6c92\u6709\u660e\u78ba\u7a81\u7834\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u52d5\u80fd\u7b56\u7565\u4e00\u822c\u50be\u5411\u6309\u5175\u4e0d\u52d5\uff0c\u800c\u975e\u52c9\u5f37\u9032\u5834\u3002",
+      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.2% and the S&P 500 down 0.3%, reflecting a quiet, directionless session rather than any major news-driven selloff. No single catalyst dominated headlines, so trading stayed range-bound. This kind of low-volatility, mixed-signal day is typical between major economic data releases or earnings cycles.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u6574\u7406\uff0c\u7d0d\u6307\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.3%\uff0c\u4e26\u7121\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u5e02\u5834\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u6de1\u975c\u4ea4\u6613\u65e5\u3002\u5e02\u5834\u7f3a\u4e4f\u55ae\u4e00\u50ac\u5316\u5291\uff0c\u6210\u4ea4\u5728\u5340\u9593\u5167\u6ce2\u52d5\u3002\u6b64\u985e\u4f4e\u6ce2\u52d5\u3001\u8a0a\u865f\u6df7\u96dc\u7684\u65e5\u5b50\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u4f48\u4e4b\u9593\u7684\u7a7a\u6a94\u671f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Market Consolidation",
-      "explanation_en": "Consolidation is when a market trades in a narrow range without a clear up or down trend, often after a period of bigger moves. During these phases, disciplined investors often wait for clearer signals rather than trading just to stay active, since forcing trades in directionless markets tends to add risk without added reward.",
-      "explanation_zh": "\u6574\u56fa\uff08Consolidation\uff09\u662f\u6307\u5e02\u5834\u5728\u8f03\u5927\u6ce2\u52d5\u5f8c\uff0c\u65bc\u72f9\u7a84\u5340\u9593\u5167\u6a6b\u884c\uff0c\u7f3a\u4e4f\u660e\u78ba\u5347\u8dcc\u8da8\u52e2\u7684\u968e\u6bb5\u3002\u5728\u9019\u6bb5\u6642\u671f\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u901a\u5e38\u6703\u8010\u5fc3\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u8a0a\u865f\uff0c\u800c\u975e\u70ba\u6c42\u300c\u6709\u4ea4\u6613\u300d\u800c\u52c9\u5f37\u9032\u5834\uff0c\u56e0\u70ba\u5728\u7f3a\u4e4f\u65b9\u5411\u7684\u5e02\u6cc1\u4e0b\u5f37\u884c\u4ea4\u6613\uff0c\u53ea\u6703\u589e\u52a0\u98a8\u96aa\u800c\u672a\u5fc5\u5e36\u4f86\u76f8\u61c9\u56de\u5831\u3002"
+      "term": "MACD Crossover",
+      "explanation_en": "A MACD crossover happens when a stock's short-term momentum line moves above its signal line, often seen as an early sign that buying pressure is building. Traders combine it with other signals, like RSI and volume, to confirm a genuine trend rather than a false alarm. Today's buy candidate showed this crossover alongside several other confirming signals.",
+      "explanation_zh": "MACD\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684\u77ed\u671f\u52d5\u80fd\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u8cb7\u76e4\u529b\u91cf\u589e\u5f37\u7684\u65e9\u671f\u8de1\u8c61\u3002\u4ea4\u6613\u8005\u6703\u914d\u5408\u5176\u4ed6\u6307\u6a19\uff08\u5982RSI\u53ca\u6210\u4ea4\u91cf\uff09\u4e00\u4f75\u78ba\u8a8d\uff0c\u4ee5\u907f\u514d\u8aa4\u5224\u70ba\u5047\u8a0a\u865f\u3002\u4eca\u65e5\u9078\u4e2d\u7684\u8cb7\u5165\u6a19\u7684\u6b63\u6b63\u540c\u6642\u51fa\u73fe\u6b64\u4ea4\u53c9\u53ca\u591a\u500b\u5176\u4ed6\u78ba\u8a8d\u8a0a\u865f\u3002"
     }
   },
   "stats": {
