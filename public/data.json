@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-09-30T14:01:03.917733+00:00",
+    "generated_at": "2026-09-30T15:01:06.481121+00:00",
     "date_et": "2026-09-30",
-    "run_id": "20260930T140103_77c4f1"
+    "run_id": "20260930T150106_a1fcaa"
   },
   "account": {
     "total_value": 14455.735246181488,
@@ -11,89 +11,89 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4455.735246181488,
     "profit_percent": 44.55735246181488,
-    "vs_voo_dollars": 1358.8524575636002,
-    "vs_voo_percent": 10.375388399631547
+    "vs_voo_dollars": 1357.368221672119,
+    "vs_voo_percent": 10.362881259413804
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 743.739990234375,
-      "market_value": 2231.219970703125,
-      "profit_dollars": 262.61993408203125,
-      "profit_percent": 13.340441389648264,
-      "portfolio_pct": 15.929773879483477
+      "current_price": 743.3599853515625,
+      "market_value": 2230.0799560546875,
+      "profit_dollars": 261.47991943359375,
+      "profit_percent": 13.282531472588918,
+      "portfolio_pct": 15.996424747212965
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 197.6649932861328,
-      "market_value": 2569.6449127197266,
-      "profit_dollars": 642.6549682617188,
-      "profit_percent": 33.35019832926395,
-      "portfolio_pct": 18.34595555241951
+      "current_price": 194.7949981689453,
+      "market_value": 2532.334976196289,
+      "profit_dollars": 605.3450317382812,
+      "profit_percent": 31.414021307129484,
+      "portfolio_pct": 18.1645083045022
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 75.87999725341797,
-      "market_value": 1669.3599395751953,
-      "profit_dollars": -388.74012756347656,
-      "profit_percent": -18.888300611346505,
-      "portfolio_pct": 11.918379500933272
+      "current_price": 76.31999969482422,
+      "market_value": 1679.0399932861328,
+      "profit_dollars": -379.06007385253906,
+      "profit_percent": -18.41796129862322,
+      "portfolio_pct": 12.043799966562249
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.450000762939453,
-      "market_value": 1931.5500602722168,
-      "profit_dollars": 383.94004821777344,
-      "profit_percent": 24.808578726374044,
-      "portfolio_pct": 13.790283388034933
+      "current_price": 24.469999313354492,
+      "market_value": 1933.1299457550049,
+      "profit_dollars": 385.5199337005615,
+      "profit_percent": 24.910664230505077,
+      "portfolio_pct": 13.866394171158364
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 90.7699966430664,
-      "market_value": 2087.7099227905273,
-      "profit_dollars": -526.2401123046875,
-      "profit_percent": -20.131988187965455,
-      "portfolio_pct": 14.905185249631304
+      "current_price": 90.55000305175781,
+      "market_value": 2082.6500701904297,
+      "profit_dollars": -531.2999649047852,
+      "profit_percent": -20.32555931718229,
+      "portfolio_pct": 14.938906128512835
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 67.75659942626953,
-      "market_value": 1558.4017868041992,
-      "profit_dollars": -1004.9481430053711,
-      "profit_percent": -39.2044851668,
-      "portfolio_pct": 11.126194818591017
+      "current_price": 66.0,
+      "market_value": 1518.0,
+      "profit_dollars": -1045.3499298095703,
+      "profit_percent": -40.780617490146135,
+      "portfolio_pct": 10.888655673686442
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1069.4300537109375,
-      "market_value": 1069.4300537109375,
-      "profit_dollars": 181.579833984375,
-      "profit_percent": 20.451629109276723,
-      "portfolio_pct": 7.635185754531686
+      "current_price": 1076.594970703125,
+      "market_value": 1076.594970703125,
+      "profit_dollars": 188.7447509765625,
+      "profit_percent": 21.258625248151827,
+      "portfolio_pct": 7.722445280638254
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "label": "QQQ",
-      "pct": 15.9
+      "pct": 16.0
     },
     {
       "label": "ROAD",
@@ -101,23 +101,23 @@
     },
     {
       "label": "WT",
-      "pct": 13.8
+      "pct": 13.9
     },
     {
       "label": "OLED",
-      "pct": 11.9
+      "pct": 12.0
     },
     {
       "label": "INOD",
-      "pct": 11.1
+      "pct": 10.9
     },
     {
       "label": "MU",
-      "pct": 7.6
+      "pct": 7.7
     },
     {
       "label": "Cash",
-      "pct": 6.5
+      "pct": 6.4
     }
   ],
   "snapshots": [
@@ -778,8 +778,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.548986152592597,
-    "voo_price": 706.0700073242188,
-    "total_value": 13096.882788617888,
+    "voo_price": 706.1500244140625,
+    "total_value": 13098.367024509369,
     "total_deposited": 12100.0,
     "snapshots": [
       {
@@ -1433,8 +1433,8 @@
       {
         "date": "2026-09-30",
         "voo_shares": 18.548986152592597,
-        "voo_price": 706.0700073242188,
-        "total_value": 13096.882788617888
+        "voo_price": 706.1500244140625,
+        "total_value": 13098.367024509369
       }
     ]
   },
@@ -2148,37 +2148,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "SYRE",
-        "conviction": "high",
-        "reasoning": "All four confirmation signals align (RSI 64.7 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) on a risk-on day."
+        "ticker": "MP",
+        "conviction": "medium",
+        "reasoning": "RSI 58.4 in the bullish zone with MACD bullish crossover and price above SMA-20, adding rare-earth materials exposure to diversify away from tech-heavy holdings."
       },
       {
         "action": "BUY",
-        "ticker": "HIMS",
-        "conviction": "high",
-        "reasoning": "Full multi-signal confirmation with RSI 62.7 in healthy bullish zone and volume surge confirming institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "HPE",
-        "conviction": "high",
-        "reasoning": "All four confirmation signals present with RSI 62.8 well below overbought, indicating room to run."
+        "ticker": "AMR",
+        "conviction": "medium",
+        "reasoning": "RSI 56.7 bullish with confirmed MACD crossover and price above SMA-20, adding transportation sector exposure while filling an open slot on a risk-on day."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "NASDAQ +0.9% and S&P 500 +0.5% mark a moderate risk-on day. With 3 open slots and cash above the deployment threshold, we filled all three with the top fully-confirmed momentum candidates (SYRE, HIMS, HPE), each showing MACD bullish crossover, healthy RSI, price above SMA-20, and volume surge together."
+    "briefing": "NASDAQ +1.0% and S&P 500 +0.6% mark a moderate risk-on day. With 3 open slots and cash above the $500 threshold, we added two diversifying names (MP, AMR) at medium conviction since today's move lacks the +2% NASDAQ or volume-surge confirmation needed for high-conviction sizing."
   },
   "education": {
     "market_education": {
-      "summary_en": "Equities drifted higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone rather than any single catalyst. No specific news headlines were available in today's feed to attribute the move to a particular event. The gains were modest but broad enough to support selective new positions in stocks showing strong technical confirmation.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u800c\u975e\u55ae\u4e00\u6d88\u606f\u63a8\u52d5\u3002\u4eca\u65e5\u65b0\u805e\u8cc7\u8a0a\u4e2d\u672a\u6709\u5177\u9ad4\u982d\u689d\u53ef\u4f9b\u5f15\u7528\u89e3\u91cb\u4eca\u6b21\u5347\u52e2\u3002\u5347\u5e45\u96d6\u5c6c\u6eab\u548c\uff0c\u4f46\u5df2\u8db3\u5920\u652f\u6301\u5728\u6280\u8853\u9762\u78ba\u8a8d\u5f37\u52c1\u7684\u500b\u80a1\u4e0a\u4f5c\u51fa\u7cbe\u9078\u8cb7\u5165\u3002",
+      "summary_en": "Broad indices advanced today, with NASDAQ leading at +1.0% and the S&P 500 up +0.6%, indicating a modest risk-on tilt among investors. The gains were broad-based rather than concentrated in a single catalyst, consistent with steady buying interest rather than a sharp momentum spike. Without a specific headline-driving event, this looks like continued grinding strength in the underlying trend.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u6f32\uff0c\u7d0d\u6307\u9818\u6f32\u6536\u53471.0%\uff0c\u6a19\u666e500\u5247\u4e0a\u53470.6%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u7a0d\u70ba\u56de\u5347\u3002\u4eca\u6b21\u5347\u5e45\u5c6c\u5168\u9762\u6027\u8cea\uff0c\u4e26\u975e\u7531\u55ae\u4e00\u6d88\u606f\u5e36\u52d5\uff0c\u8f03\u4f3c\u662f\u8cc7\u91d1\u6301\u7e8c\u6d41\u5165\u800c\u975e\u7206\u767c\u5f0f\u7684\u52d5\u80fd\u62c9\u5347\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u6d88\u606f\u9762\u523a\u6fc0\u4e0b\uff0c\u9019\u66f4\u50cf\u662f\u539f\u6709\u5347\u52e2\u7684\u5ef6\u7e8c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "When multiple technical indicators \u2014 like a MACD bullish crossover, healthy RSI, price above its moving average, and a volume surge \u2014 all line up together, it suggests real buying interest rather than a random price blip. Waiting for this kind of confluence before buying helps avoid chasing false signals.",
-      "explanation_zh": "\u7576\u591a\u500b\u6280\u8853\u6307\u6a19\u2014 \u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5065\u5eb7\u7684RSI\u6c34\u5e73\u3001\u80a1\u50f9\u9ad8\u65bc\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u6fc0\u589e \u2014 \u540c\u6642\u51fa\u73fe\u6642\uff0c\u4ee3\u8868\u5e02\u5834\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u7b49\u5f85\u9019\u7a2e\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u5f8c\u624d\u5165\u5e02\uff0c\u6709\u52a9\u907f\u514d\u8ffd\u9010\u5047\u8a0a\u865f\u3002"
+      "term": "Diversification",
+      "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today's buys (MP in materials, AMR in transportation) add exposure outside our existing tech-heavy holdings like QQQ, MU, and INOD.",
+      "explanation_zh": "\u5206\u6563\u6295\u8cc7\u662f\u6307\u5c07\u8cc7\u91d1\u5206\u914d\u5230\u4e0d\u540c\u884c\u696d\uff0c\u907f\u514d\u55ae\u4e00\u677f\u584a\u4e0b\u8dcc\u62d6\u57ae\u6574\u500b\u6295\u8cc7\u7d44\u5408\u3002\u4eca\u65e5\u8cb7\u5165\u7684MP\uff08\u7a00\u571f\u6750\u6599\uff09\u548cAMR\uff08\u904b\u8f38\uff09\u70ba\u7d44\u5408\u589e\u6dfb\u4e86\u65b0\u677f\u584a\uff0c\u5e73\u8861\u73fe\u6709\u504f\u91cd\u79d1\u6280\u80a1\uff08\u5982QQQ\u3001MU\u3001INOD\uff09\u7684\u914d\u7f6e\u3002"
     }
   },
   "stats": {
