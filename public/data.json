@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-02T14:01:12.165574+00:00",
+    "generated_at": "2026-10-02T15:00:55.205028+00:00",
     "date_et": "2026-10-02",
-    "run_id": "20261002T140112_dd401e"
+    "run_id": "20261002T150055_c2b08c"
   },
   "account": {
     "total_value": 14455.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4455.735246181488,
     "profit_percent": 44.55735246181488,
-    "vs_voo_dollars": 1319.9464572502548,
-    "vs_voo_percent": 10.048475036097537
+    "vs_voo_dollars": 1313.0370051940263,
+    "vs_voo_percent": 9.990619742749063
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 752.219970703125,
-      "market_value": 2256.659912109375,
-      "profit_dollars": 288.05987548828125,
-      "profit_percent": 14.632727325491032,
-      "portfolio_pct": 15.8446188361426
+      "current_price": 751.6799926757812,
+      "market_value": 2255.0399780273438,
+      "profit_dollars": 286.43994140625,
+      "profit_percent": 14.550438691340048,
+      "portfolio_pct": 15.809492878661397
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 196.55999755859375,
-      "market_value": 2555.2799682617188,
-      "profit_dollars": 628.2900238037109,
-      "profit_percent": 32.60473805847628,
-      "portfolio_pct": 17.94131091684637
+      "current_price": 198.4499969482422,
+      "market_value": 2579.8499603271484,
+      "profit_dollars": 652.8600158691406,
+      "profit_percent": 33.87978322080795,
+      "portfolio_pct": 18.08665033578947
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 78.69000244140625,
-      "market_value": 1731.1800537109375,
-      "profit_dollars": -326.9200134277344,
-      "profit_percent": -15.884553848843879,
-      "portfolio_pct": 12.155082802061676
+      "current_price": 78.62000274658203,
+      "market_value": 1729.6400604248047,
+      "profit_dollars": -328.4600067138672,
+      "profit_percent": -15.95937981628451,
+      "portfolio_pct": 12.126052080838916
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.575000762939453,
-      "market_value": 1941.4250602722168,
-      "profit_dollars": 393.81504821777344,
-      "profit_percent": 25.446659374798582,
-      "portfolio_pct": 13.631269786768618
+      "current_price": 24.93000030517578,
+      "market_value": 1969.4700241088867,
+      "profit_dollars": 421.86001205444336,
+      "profit_percent": 27.258806079603133,
+      "portfolio_pct": 13.807436952015307
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 91.41000366210938,
-      "market_value": 2102.4300842285156,
-      "profit_dollars": -511.5199508666992,
-      "profit_percent": -19.568849595400426,
-      "portfolio_pct": 14.761729552372818
+      "current_price": 92.45999908447266,
+      "market_value": 2126.579978942871,
+      "profit_dollars": -487.37005615234375,
+      "profit_percent": -18.644964502337587,
+      "portfolio_pct": 14.90889357199394
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 73.01010131835938,
-      "market_value": 1679.2323303222656,
-      "profit_dollars": -884.1175994873047,
-      "profit_percent": -34.49071034764985,
-      "portfolio_pct": 11.790343803472604
+      "current_price": 70.95999908447266,
+      "market_value": 1632.079978942871,
+      "profit_dollars": -931.2699508666992,
+      "profit_percent": -36.33019198966263,
+      "portfolio_pct": 11.442083978960966
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1086.9449462890625,
-      "market_value": 1086.9449462890625,
-      "profit_dollars": 199.0947265625,
-      "profit_percent": 22.424359665509417,
-      "portfolio_pct": 7.6317340851433375
+      "current_price": 1081.8900146484375,
+      "market_value": 1081.8900146484375,
+      "profit_dollars": 194.039794921875,
+      "profit_percent": 21.855014574601874,
+      "portfolio_pct": 7.584846676217971
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 17.9
+      "pct": 18.1
     },
     {
       "label": "QQQ",
@@ -97,19 +97,19 @@
     },
     {
       "label": "ROAD",
-      "pct": 14.8
+      "pct": 14.9
     },
     {
       "label": "WT",
-      "pct": 13.6
+      "pct": 13.8
     },
     {
       "label": "OLED",
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "label": "INOD",
-      "pct": 11.8
+      "pct": 11.4
     },
     {
       "label": "MU",
@@ -790,8 +790,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.548986152592597,
-    "voo_price": 708.16748046875,
-    "total_value": 13135.788788931233,
+    "voo_price": 708.5399780273438,
+    "total_value": 13142.698240987462,
     "total_deposited": 12100.0,
     "snapshots": [
       {
@@ -1457,8 +1457,8 @@
       {
         "date": "2026-10-02",
         "voo_shares": 18.548986152592597,
-        "voo_price": 708.16748046875,
-        "total_value": 13135.788788931233
+        "voo_price": 708.5399780273438,
+        "total_value": 13142.698240987462
       }
     ]
   },
@@ -2173,36 +2173,36 @@
       {
         "action": "BUY",
         "ticker": "RKLB",
-        "conviction": "high",
-        "reasoning": "Full bullish signal confirmation (MACD crossover, RSI 63.4, price above SMA-20, volume surge) on a risk-on day, and adds space/aerospace exposure not currently in the portfolio."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TSLA",
-        "conviction": "high",
-        "reasoning": "Top-scored large-cap with all four momentum signals confirmed, giving more liquid, lower-volatility exposure than the smaller-cap candidates."
-      },
-      {
-        "action": "BUY",
-        "ticker": "PCG",
         "conviction": "medium",
-        "reasoning": "Same full signal confirmation as the top candidates but in a defensive utility sector, diversifying away from the tech/semi tilt already in the portfolio."
+        "reasoning": "Score 95 with RSI 63.9 in bullish zone, bullish MACD crossover and rising histogram, and price above SMA-20 signal continued momentum, adding sector diversification away from existing tech-heavy holdings."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SEDG",
+        "conviction": "medium",
+        "reasoning": "Clean bullish setup (RSI 62.0, MACD crossover, rising histogram, price above SMA-20) in solar/clean energy, diversifying the portfolio beyond current semiconductor and index exposure."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NOK",
+        "conviction": "medium",
+        "reasoning": "RSI 64.4 with confirmed bullish MACD crossover and rising histogram above SMA-20 offers a lower-priced momentum add in telecom hardware, further diversifying sector exposure on a risk-on day."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Markets are risk-on today with NASDAQ +1.4% and S&P 500 +0.8%. With $889 cash and 3 open slots, we deployed into RKLB, TSLA, and PCG \u2014 all showing full bullish momentum confirmation (MACD crossover, healthy RSI, price above SMA-20, volume surge) while favoring sectors we weren't yet exposed to over the crowded crypto-miner names on the list."
+    "briefing": "Markets were risk-on today with NASDAQ up 1.5% and the S&P 500 up 0.9%, continuing recent bullish momentum. With $889 in cash and 3 open slots, we deployed into three diversified momentum names (RKLB, SEDG, NOK) that show bullish RSI, MACD crossovers and rising momentum, while holding all existing positions since none hit stop-loss or profit-target levels."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad risk appetite returned today, lifting both the NASDAQ and S&P 500, with technology and growth names leading the advance. Trading volume surged across many momentum names, suggesting institutional buyers stepped back in rather than just retail speculation. No single catalyst dominated; it reads as a broad continuation of the recent risk-on trend rather than one specific news event.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347,\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da,\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\u3002\u591a\u96bb\u52d5\u80fd\u80a1\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927,\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u91cd\u65b0\u9032\u5834,\u800c\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u5e02\u5834\u4e26\u7121\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f,\u66f4\u50cf\u662f\u8fd1\u671f\u98a8\u96aa\u504f\u597d\u5347\u6eab\u8da8\u52e2\u7684\u5ef6\u7e8c\u3002",
+      "summary_en": "Broad market gains today were driven by continued risk-on sentiment across tech and growth sectors, with the NASDAQ outperforming the S&P 500 as investors rotated into momentum names. No major negative catalysts emerged, allowing bullish technical setups (MACD crossovers, RSI in healthy ranges) to persist across many growth stocks. This follow-through strength after prior risk-on sessions suggests institutional buying remains supportive of equities.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5ef6\u7e8c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u79d1\u6280\u80a1\u53ca\u6210\u9577\u80a1\u666e\u904d\u4e0a\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u8cc7\u91d1\u6301\u7e8c\u6d41\u5165\u52d5\u80fd\u80a1\u3002\u5e02\u5834\u672a\u898b\u91cd\u5927\u5229\u6de1\u6d88\u606f\uff0c\u4ee4\u4e0d\u5c11\u6210\u9577\u80a1\u7684\u6280\u8853\u6307\u6a19\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\uff09\u5f97\u4ee5\u5ef6\u7e8c\u5347\u52e2\u3002\u9019\u6b21\u627f\u63a5\u65e9\u524d\u98a8\u96aa\u504f\u597d\u5e02\u6cc1\u7684\u5f37\u52e2\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u4ecd\u5c0d\u80a1\u5e02\u63d0\u4f9b\u652f\u6301\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's picks all showed four confirming signals together \u2014 rising price, healthy RSI, a bullish MACD crossover, and a volume surge \u2014 which is a stronger signal than any single indicator alone.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u80cc\u5f8c\u7684\u7406\u5ff5\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u5f80\u5f80\u6703\u5ef6\u7e8c\u5176\u8d70\u52e2\u3002\u4eca\u5929\u9078\u4e2d\u7684\u80a1\u7968\u540c\u6642\u51fa\u73fe\u56db\u500b\u78ba\u8a8d\u8a0a\u865f\u2014\u2014\u80a1\u50f9\u4e0a\u5347\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed multiple bullish technical signals together, like a rising price trend and positive momentum indicators, rather than just one signal alone.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u3001\u6301\u7e8c\u4e0a\u5347\u7684\u80a1\u7968\uff0c\u539f\u7406\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u9078\u80a1\u6642\u7279\u5225\u7559\u610f\u540c\u6642\u51fa\u73fe\u591a\u500b\u770b\u6f32\u6280\u8853\u8a0a\u865f\u7684\u80a1\u7968\uff0c\u4f8b\u5982\u80a1\u50f9\u4e0a\u5347\u8da8\u52e2\u914d\u5408\u6b63\u9762\u7684\u52d5\u80fd\u6307\u6a19\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u8a0a\u865f\u5c31\u4f5c\u51fa\u8cb7\u5165\u6c7a\u5b9a\u3002"
     }
   },
   "stats": {
