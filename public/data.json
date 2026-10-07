@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-02T21:01:06.254298+00:00",
-    "date_et": "2026-10-02",
-    "run_id": "20261002T210106_6bd2a8"
+    "generated_at": "2026-10-07T13:00:54.519582+00:00",
+    "date_et": "2026-10-07",
+    "run_id": "20261007T130054_5cbf75"
   },
   "account": {
     "total_value": 14455.735246181488,
@@ -11,109 +11,109 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4455.735246181488,
     "profit_percent": 44.55735246181488,
-    "vs_voo_dollars": 1331.5859913466174,
-    "vs_voo_percent": 10.146074732090305
+    "vs_voo_dollars": 1170.9511372666166,
+    "vs_voo_percent": 8.814227823851795
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 749.5800170898438,
-      "market_value": 2248.7400512695312,
-      "profit_dollars": 280.1400146484375,
-      "profit_percent": 14.230418035004714,
-      "portfolio_pct": 15.792240513944177
+      "current_price": 759.6599731445312,
+      "market_value": 2278.9799194335938,
+      "profit_dollars": 310.3798828125,
+      "profit_percent": 15.766528346978811,
+      "portfolio_pct": 16.237515195827605
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 202.0,
-      "market_value": 2626.0,
-      "profit_dollars": 699.0100555419922,
-      "profit_percent": 36.274712151577845,
-      "portfolio_pct": 18.441626263651592
+      "current_price": 190.44000244140625,
+      "market_value": 2475.7200317382812,
+      "profit_dollars": 548.7300872802734,
+      "profit_percent": 28.47602235073475,
+      "portfolio_pct": 17.63926978608751
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 80.37000274658203,
-      "market_value": 1768.1400604248047,
-      "profit_dollars": -289.9600067138672,
-      "profit_percent": -14.088722474849913,
-      "portfolio_pct": 12.417128018333813
+      "current_price": 79.66000366210938,
+      "market_value": 1752.5200805664062,
+      "profit_dollars": -305.5799865722656,
+      "profit_percent": -14.84767390329598,
+      "portfolio_pct": 12.486538910032385
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 24.3799991607666,
-      "market_value": 1926.0199337005615,
-      "profit_dollars": 378.40992164611816,
-      "profit_percent": 24.45124538473237,
-      "portfolio_pct": 13.52587197016328
+      "current_price": 24.18000030517578,
+      "market_value": 1910.2200241088867,
+      "profit_dollars": 362.61001205444336,
+      "profit_percent": 23.43032218905593,
+      "portfolio_pct": 13.610136010566995
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 91.08000183105469,
-      "market_value": 2094.840042114258,
-      "profit_dollars": -519.109992980957,
-      "profit_percent": -19.85921635881797,
-      "portfolio_pct": 14.711445978219079
+      "current_price": 93.88999938964844,
+      "market_value": 2159.469985961914,
+      "profit_dollars": -454.4800491333008,
+      "profit_percent": -17.386715240589748,
+      "portfolio_pct": 15.386018285191797
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 70.06999969482422,
-      "market_value": 1611.609992980957,
-      "profit_dollars": -951.7399368286133,
-      "profit_percent": -37.1287558425282,
-      "portfolio_pct": 11.317863356177066
+      "current_price": 66.23999786376953,
+      "market_value": 1523.5199508666992,
+      "profit_dollars": -1039.829978942871,
+      "profit_percent": -40.56527619778075,
+      "portfolio_pct": 10.854934763748536
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 1074.8900146484375,
-      "market_value": 1074.8900146484375,
-      "profit_dollars": 187.039794921875,
-      "profit_percent": 21.066593302131405,
-      "portfolio_pct": 7.548636681141459
+      "current_price": 1045.56005859375,
+      "market_value": 1045.56005859375,
+      "profit_dollars": 157.7098388671875,
+      "profit_percent": 17.763113120111466,
+      "portfolio_pct": 7.449515985110508
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 18.4
+      "pct": 17.6
     },
     {
       "label": "QQQ",
-      "pct": 15.8
+      "pct": 16.2
     },
     {
       "label": "ROAD",
-      "pct": 14.7
+      "pct": 15.4
     },
     {
       "label": "WT",
-      "pct": 13.5
+      "pct": 13.6
     },
     {
       "label": "OLED",
-      "pct": 12.4
+      "pct": 12.5
     },
     {
       "label": "INOD",
-      "pct": 11.3
+      "pct": 10.9
     },
     {
       "label": "MU",
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "label": "Cash",
@@ -786,12 +786,18 @@
       "total_value": 14455.735246181488,
       "cash": 889.2850012779236,
       "profit_percent": 44.55735246181488
+    },
+    {
+      "date": "2026-10-07",
+      "total_value": 14455.735246181488,
+      "cash": 889.2850012779236,
+      "profit_percent": 44.55735246181488
     }
   ],
   "benchmark": {
     "voo_shares": 18.548986152592597,
-    "voo_price": 707.5399780273438,
-    "total_value": 13124.14925483487,
+    "voo_price": 716.2000122070312,
+    "total_value": 13284.784108914871,
     "total_deposited": 12100.0,
     "snapshots": [
       {
@@ -1459,6 +1465,12 @@
         "voo_shares": 18.548986152592597,
         "voo_price": 707.5399780273438,
         "total_value": 13124.14925483487
+      },
+      {
+        "date": "2026-10-07",
+        "voo_shares": 18.548986152592597,
+        "voo_price": 716.2000122070312,
+        "total_value": 13284.784108914871
       }
     ]
   },
@@ -2172,37 +2184,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "PPC",
+        "ticker": "FTAI",
         "conviction": "high",
-        "reasoning": "All four confirmation signals align \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge \u2014 on a risk-on day."
+        "reasoning": "Full multi-signal confirmation (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) matches our highest-conviction setup criteria."
       },
       {
         "action": "BUY",
-        "ticker": "AADX",
-        "conviction": "high",
-        "reasoning": "Same full four-signal confirmation as PPC (RSI, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TGB",
+        "ticker": "UEC",
         "conviction": "medium",
-        "reasoning": "Strong bullish RSI and MACD crossover with price above SMA-20, though lacking a volume surge, fills the third open slot on a risk-on day."
+        "reasoning": "Strong four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) justifies filling another open slot."
       }
     ],
     "skip_new_buys": false,
-    "market_direction": "risk_on",
-    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a risk-on day, so per our strategy of deploying idle cash on genuine risk-on signals, we're filling all 3 open slots with PPC and AADX (full multi-signal confirmation) and TGB (medium conviction). Existing 7 positions are held unchanged \u2014 stop-loss and profit targets will handle exits automatically."
+    "market_direction": "neutral",
+    "briefing": "Markets were quietly positive today (NASDAQ +0.4%, S&P500 +0.6%) with no major risk-on surge. Rather than hold all cash idle, we deployed into FTAI and UEC, the two candidates showing the strongest multi-signal technical confirmation, while leaving existing winners untouched."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad market strength today pushed both the NASDAQ and S&P 500 higher, with tech and growth names leading the advance. Rising volume alongside bullish MACD crossovers across several small and mid-cap names suggests institutional buyers are stepping back in rather than just short-term speculation. No single headline-driven catalyst stands out; this looks like a broad risk-on rotation.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\u3002\u591a\u96bb\u4e2d\u5c0f\u578b\u80a1\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u4e26\u4f34\u96a8\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u91cd\u65b0\u9032\u5834\uff0c\u800c\u975e\u55ae\u7d14\u77ed\u7dda\u6295\u6a5f\u3002\u4eca\u6b21\u672a\u898b\u55ae\u4e00\u65b0\u805e\u89f8\u767c\u56e0\u7d20\uff0c\u8f03\u4f3c\u662f\u4e00\u6b21\u5ee3\u6cdb\u7684\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u8f2a\u52d5\u3002",
+      "summary_en": "Major indices drifted modestly higher today without a single dominant catalyst, consistent with a steady, low-volatility grind higher rather than a sharp risk-on rally. Stock-specific strength, like the volume-backed breakouts in FTAI and UEC, stood out more than broad macro moves. No major news headlines were available in today's feed to attribute the move to a specific event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\uff0cNASDAQ\u53470.4%\uff0c\u6a19\u666e500\u53470.6%\uff0c\u4e26\u7121\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u8d70\u52e2\uff0c\u5c6c\u65bc\u4f4e\u6ce2\u52d5\u7684\u7a69\u6b65\u4e0a\u884c\u683c\u5c40\u3002\u76f8\u5c0d\u65bc\u5927\u76e4\u8868\u73fe\uff0c\u500b\u80a1\u5982FTAI\u3001UEC\u7b49\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927\u7684\u7a81\u7834\u8a0a\u865f\uff0c\u53cd\u800c\u66f4\u503c\u5f97\u7559\u610f\u3002\u4eca\u65e5\u8cc7\u6599\u4e2d\u4e26\u7121\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u89e3\u91cb\u6b64\u6b21\u6ce2\u52d5\u6210\u56e0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying on just one bullish sign, strong traders wait for several indicators \u2014 like RSI, MACD, price trend, and trading volume \u2014 to all point the same direction at once. When multiple signals agree, it's more likely real money (not just noise) is driving the move.",
-      "explanation_zh": "\u5f37\u52e2\u7684\u4ea4\u6613\u8005\u4e0d\u6703\u53ea\u6191\u55ae\u4e00\u5229\u597d\u8a0a\u865f\u5c31\u8cb7\u5165\uff0c\u800c\u662f\u7b49\u5f85\u591a\u500b\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8da8\u52e2\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u3002\u7576\u591a\u500b\u8a0a\u865f\u4e00\u81f4\u6642\uff0c\u4ee3\u8868\u80cc\u5f8c\u5f88\u53ef\u80fd\u6709\u771f\u5be6\u8cc7\u91d1\u6d41\u5165\uff0c\u800c\u975e\u55ae\u7d14\u5e02\u5834\u96dc\u8a0a\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming signals together \u2014 rising price, bullish RSI, a MACD crossover, and a volume surge \u2014 rather than just one isolated indicator.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u7684\u80a1\u7968\u77ed\u671f\u5167\u50be\u5411\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u9078\u80a1\u662f\u56e0\u70ba\u540c\u6642\u51fa\u73fe\u591a\u9805\u78ba\u8a8d\u8a0a\u865f\u2014\u2014\u50f9\u683c\u4e0a\u5347\u3001RSI\u8655\u65bc\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u800c\u975e\u50c5\u6191\u55ae\u4e00\u6307\u6a19\u4f5c\u5224\u65b7\u3002"
     }
   },
   "stats": {
@@ -2220,7 +2226,7 @@
       "realized_profit": -273.62986755371094
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 1.2687566365160332,
+    "daily_volatility": 1.2634488791071243,
     "total_realized_profit": 2355.735246181488,
     "per_ticker_realized": {
       "NOK": -169.77186584472656,
