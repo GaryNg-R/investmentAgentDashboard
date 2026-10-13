@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-13T20:01:59.120258+00:00",
+    "generated_at": "2026-10-13T21:01:16.346827+00:00",
     "date_et": "2026-10-13",
-    "run_id": "20261013T200159_48e7e8"
+    "run_id": "20261013T210116_af2e08"
   },
   "account": {
     "total_value": 14555.735246181488,
@@ -11,8 +11,8 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4555.735246181488,
     "profit_percent": 45.55735246181488,
-    "vs_voo_dollars": 1190.4888343610692,
-    "vs_voo_percent": 8.907346693647057
+    "vs_voo_dollars": 1189.5546259463263,
+    "vs_voo_percent": 8.899734783962533
   },
   "positions": [
     {
@@ -23,17 +23,17 @@
       "market_value": 2230.7100219726562,
       "profit_dollars": 262.1099853515625,
       "profit_percent": 13.314537258743947,
-      "portfolio_pct": 16.518363414567734
+      "portfolio_pct": 16.51915832670588
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 202.39999389648438,
-      "market_value": 2631.199920654297,
-      "profit_dollars": 704.2099761962891,
-      "profit_percent": 36.54455894913129,
-      "portfolio_pct": 19.48398316125117
+      "current_price": 202.35000610351562,
+      "market_value": 2630.550079345703,
+      "profit_dollars": 703.5601348876953,
+      "profit_percent": 36.510835819933725,
+      "portfolio_pct": 19.480108494161342
     },
     {
       "ticker": "OLED",
@@ -43,7 +43,7 @@
       "market_value": 1664.5200805664062,
       "profit_dollars": -393.5799865722656,
       "profit_percent": -19.123462112289353,
-      "portfolio_pct": 12.325738142032023
+      "portfolio_pct": 12.326331292734354
     },
     {
       "ticker": "WT",
@@ -53,7 +53,7 @@
       "market_value": 1707.1900482177734,
       "profit_dollars": 159.58003616333008,
       "profit_percent": 10.311385615261592,
-      "portfolio_pct": 12.641708405136786
+      "portfolio_pct": 12.642316761255726
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 1985.5900421142578,
       "profit_dollars": -628.359992980957,
       "profit_percent": -24.03871476288829,
-      "portfolio_pct": 14.70325483138579
+      "portfolio_pct": 14.703962395170553
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 1342.7400245666504,
       "profit_dollars": -1220.60990524292,
       "profit_percent": -47.61776342153949,
-      "portfolio_pct": 9.942963217363182
+      "portfolio_pct": 9.94344170194136
     },
     {
       "ticker": "MU",
@@ -83,7 +83,7 @@
       "market_value": 953.1900024414062,
       "profit_dollars": 65.33978271484375,
       "profit_percent": 7.359324947282989,
-      "portfolio_pct": 7.05835303933236
+      "portfolio_pct": 7.0586927080008275
     }
   ],
   "allocation": [
@@ -820,8 +820,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.688730973295915,
-    "voo_price": 715.1500244140625,
-    "total_value": 13365.246411820419,
+    "voo_price": 715.2000122070312,
+    "total_value": 13366.180620235162,
     "total_deposited": 12200.0,
     "snapshots": [
       {
@@ -1517,8 +1517,8 @@
       {
         "date": "2026-10-13",
         "voo_shares": 18.688730973295915,
-        "voo_price": 715.1500244140625,
-        "total_value": 13365.246411820419
+        "voo_price": 715.2000122070312,
+        "total_value": 13366.180620235162
       }
     ]
   },
@@ -2234,29 +2234,29 @@
         "action": "BUY",
         "ticker": "PARR",
         "conviction": "high",
-        "reasoning": "Perfect momentum score with RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge confirming institutional participation."
+        "reasoning": "Top-scored candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge)."
       },
       {
         "action": "BUY",
         "ticker": "NXT",
         "conviction": "high",
-        "reasoning": "Matches PARR's full four-signal confirmation (RSI 65.5 bullish zone, MACD crossover, rising histogram, volume surge) for a high-conviction entry despite the neutral broader market."
+        "reasoning": "Second top-scored candidate with identical full multi-signal confirmation, diversifying away from PARR's sector exposure."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were flat today (NASDAQ -0.2%, S&P500 -0.0%), but two candidates \u2014 PARR and NXT \u2014 showed complete technical confirmation across RSI, MACD, price trend, and volume, so we used available cash and open slots to add them rather than letting the neutral tape stop strong individual setups. Existing positions were left untouched since there's no reason to exit on a quiet day."
+    "briefing": "Market was flat today (NASDAQ -0.2%, S&P500 -0.0%) with no major directional catalyst. With 3 open slots and cash above the $500 threshold, we deployed into PARR and NXT, the two top-scored candidates showing full technical confirmation (RSI, MACD, volume, trend) rather than letting cash sit idle."
   },
   "education": {
     "market_education": {
-      "summary_en": "Major indexes traded essentially flat today, with the NASDAQ down a slight 0.2% and the S&P 500 roughly unchanged, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without strong macro news driving sentiment, individual stock moves were largely idiosyncratic. This kind of low-volatility session often precedes a bigger directional move once new information arrives.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5927\u81f4\u6a6b\u884c\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u5e73\u6536\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u89c0\u671b\uff0c\u672a\u6709\u91cd\u5927\u6d88\u606f\u523a\u6fc0\u5e02\u6cc1\u3002\u5728\u7f3a\u4e4f\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u500b\u80a1\u8868\u73fe\u4e3b\u8981\u7531\u81ea\u8eab\u56e0\u7d20\u4e3b\u5c0e\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u4ea4\u6613\u65e5\u5f80\u5f80\u662f\u919e\u91c0\u4e0b\u4e00\u8f2a\u65b9\u5411\u6027\u8d70\u52e2\u7684\u524d\u594f\u3002",
+      "summary_en": "Major indices traded essentially flat, with NASDAQ and S&P 500 both closing near breakeven, indicating a lack of strong conviction from buyers or sellers today. No major macro catalysts moved the broad market, so stock-specific momentum (like PARR and NXT) stood out more than index-level trends. In quiet, low-volatility sessions like this, individual technical setups tend to drive relative performance rather than market-wide sentiment.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6301\u5e73,\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u6307\u6578\u5747\u6536\u5728\u63a5\u8fd1\u5e73\u76e4\u7684\u6c34\u5e73,\u986f\u793a\u8cb7\u8ce3\u96d9\u65b9\u90fd\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u7531\u65bc\u4eca\u65e5\u6c92\u6709\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u885d\u64ca\u5927\u76e4,\u500b\u80a1\u5c64\u9762\u7684\u6280\u8853\u52d5\u80fd(\u4f8b\u5982PARR\u8207NXT)\u53cd\u800c\u6bd4\u6307\u6578\u8d70\u52e2\u66f4\u70ba\u7a81\u51fa\u3002\u5728\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u5e73\u6de1\u4ea4\u6613\u65e5,\u500b\u80a1\u7684\u6280\u8853\u9762\u8a0a\u865f\u5f80\u5f80\u6bd4\u5927\u76e4\u60c5\u7dd2\u66f4\u80fd\u6c7a\u5b9a\u76f8\u5c0d\u8868\u73fe\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI, MACD, price above moving averages, and volume \u2014 to all line up before buying a stock. Relying on just one signal can be misleading, but when several agree, it's a stronger sign that real buying interest is behind the move.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u80a1\u7968\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u5982RSI\u3001MACD\u3001\u50f9\u683c\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\u3002\u55ae\u9760\u4e00\u500b\u6307\u6a19\u5bb9\u6613\u8aa4\u5224\uff0c\u4f46\u7576\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u6642\uff0c\u5c31\u66f4\u80fd\u53cd\u6620\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6301\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Multi-signal confirmation means waiting for several independent technical indicators \u2014 like RSI, MACD crossover, rising volume, and price above a moving average \u2014 to all point the same direction before trading, rather than acting on just one signal. This reduces the chance of being fooled by random noise or a single false signal.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u5728\u4ea4\u6613\u524d,\u7b49\u5f85\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u6210\u4ea4\u91cf\u653e\u5927,\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411,\u800c\u4e0d\u662f\u50c5\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u5c31\u4e0b\u55ae\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u88ab\u96a8\u6a5f\u6ce2\u52d5\u6216\u55ae\u4e00\u5047\u8a0a\u865f\u8aa4\u5c0e\u7684\u98a8\u96aa\u3002"
     }
   },
   "stats": {
