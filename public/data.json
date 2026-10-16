@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-16T16:00:32.177412+00:00",
+    "generated_at": "2026-10-16T17:00:31.835476+00:00",
     "date_et": "2026-10-16",
-    "run_id": "20261016T160032_66cb72"
+    "run_id": "20261016T170031_12550a"
   },
   "account": {
     "total_value": 14555.735246181488,
@@ -11,49 +11,49 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4555.735246181488,
     "profit_percent": 45.55735246181488,
-    "vs_voo_dollars": 1375.6947970814163,
-    "vs_voo_percent": 10.437713013053362
+    "vs_voo_dollars": 1395.9713401588888,
+    "vs_voo_percent": 10.607875263780532
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 716.1199951171875,
-      "market_value": 2148.3599853515625,
-      "profit_dollars": 179.75994873046875,
-      "profit_percent": 9.131359615283195,
-      "portfolio_pct": 16.224574398607118
+      "current_price": 715.1500244140625,
+      "market_value": 2145.4500732421875,
+      "profit_dollars": 176.85003662109375,
+      "profit_percent": 8.983543296313215,
+      "portfolio_pct": 16.233544456697427
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 204.4600067138672,
-      "market_value": 2657.9800872802734,
-      "profit_dollars": 730.9901428222656,
-      "profit_percent": 37.93429980911844,
-      "portfolio_pct": 20.073263312543975
+      "current_price": 203.5500030517578,
+      "market_value": 2646.1500396728516,
+      "profit_dollars": 719.1600952148438,
+      "profit_percent": 37.32038650658955,
+      "portfolio_pct": 20.02208993062492
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 79.36499786376953,
-      "market_value": 1746.0299530029297,
-      "profit_dollars": -312.0701141357422,
-      "profit_percent": -15.163019481827526,
-      "portfolio_pct": 13.186148070085546
+      "current_price": 78.48999786376953,
+      "market_value": 1726.7799530029297,
+      "profit_dollars": -331.3201141357422,
+      "profit_percent": -16.098348152544826,
+      "portfolio_pct": 13.065677679297183
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 20.979999542236328,
-      "market_value": 1657.41996383667,
-      "profit_dollars": 109.80995178222656,
-      "profit_percent": 7.095453694852651,
-      "portfolio_pct": 12.516958841329506
+      "current_price": 21.190099716186523,
+      "market_value": 1674.0178775787354,
+      "profit_dollars": 126.40786552429199,
+      "profit_percent": 8.167940536678636,
+      "portfolio_pct": 12.666453522226998
     },
     {
       "ticker": "ROAD",
@@ -63,33 +63,33 @@
       "market_value": 1917.625,
       "profit_dollars": -696.3250350952148,
       "profit_percent": -26.63880432855522,
-      "portfolio_pct": 14.482046627785067
+      "portfolio_pct": 14.509706414063142
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 53.45500183105469,
-      "market_value": 1229.4650421142578,
-      "profit_dollars": -1333.8848876953125,
-      "profit_percent": -52.036784840936875,
-      "portfolio_pct": 9.285011442346867
+      "current_price": 53.060001373291016,
+      "market_value": 1220.3800315856934,
+      "profit_dollars": -1342.969898223877,
+      "profit_percent": -52.391204283359215,
+      "portfolio_pct": 9.234003505322216
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 895.22998046875,
-      "market_value": 895.22998046875,
-      "profit_dollars": 7.3797607421875,
-      "profit_percent": 0.8311943364118665,
-      "portfolio_pct": 6.7608433972959014
+      "current_price": 896.4650268554688,
+      "market_value": 896.4650268554688,
+      "profit_dollars": 8.61480712890625,
+      "profit_percent": 0.9702995998085593,
+      "portfolio_pct": 6.783101153848162
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 20.1
+      "pct": 20.0
     },
     {
       "label": "QQQ",
@@ -101,15 +101,15 @@
     },
     {
       "label": "OLED",
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "label": "WT",
-      "pct": 12.5
+      "pct": 12.7
     },
     {
       "label": "INOD",
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "label": "MU",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 7.4
+      "pct": 7.5
     }
   ],
   "snapshots": [
@@ -838,8 +838,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.688730973295915,
-    "voo_price": 705.239990234375,
-    "total_value": 13180.040449100072,
+    "voo_price": 704.155029296875,
+    "total_value": 13159.7639060226,
     "total_deposited": 12200.0,
     "snapshots": [
       {
@@ -1553,8 +1553,8 @@
       {
         "date": "2026-10-16",
         "voo_shares": 18.688730973295915,
-        "voo_price": 705.239990234375,
-        "total_value": 13180.040449100072
+        "voo_price": 704.155029296875,
+        "total_value": 13159.7639060226
       }
     ]
   },
@@ -2268,18 +2268,18 @@
     "decisions": [],
     "skip_new_buys": true,
     "market_direction": "risk_off",
-    "briefing": "Markets pulled back today with NASDAQ down 1.3% and the S&P 500 down 0.6%, a clear risk-off signal. No new candidates were available to screen, so we're holding our 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy."
+    "briefing": "Markets turned risk_off today with NASDAQ down 1.5% and S&P 500 down 0.7%, so no new candidates were screened. We're holding all 7 existing positions unchanged and keeping cash in reserve rather than forcing a buy into weakness."
   },
   "education": {
     "market_education": {
-      "summary_en": "Broad-based selling hit tech-heavy indices harder than the general market today, with the NASDAQ underperforming the S&P 500 by roughly double the decline. This pattern typically reflects profit-taking or risk aversion concentrated in higher-beta growth names rather than a single company-specific catalyst. No specific news headlines were available to confirm the exact driver today.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u906d\u62cb\u552e\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u662f\u6a19\u666e500\u6307\u6578\u7684\u5169\u500d\u5de6\u53f3\uff0c\u986f\u793a\u8cc7\u91d1\u5f9e\u9ad8\u6ce2\u52d5\u6210\u9577\u80a1\u64a4\u51fa\u7684\u907f\u96aa\u60c5\u7dd2\u8f03\u70ba\u660e\u986f\uff0c\u800c\u975e\u55ae\u4e00\u500b\u80a1\u6d88\u606f\u6240\u81f4\u3002\u76ee\u524d\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u78ba\u8a8d\u4eca\u65e5\u4e0b\u8dcc\u7684\u78ba\u5207\u539f\u56e0\u3002",
+      "summary_en": "Broad weakness hit tech-heavy indices harder than the overall market today, with NASDAQ falling 1.5% versus a smaller 0.7% drop in the S&P 500, suggesting growth and momentum names were sold off more aggressively than defensive or value-oriented stocks. This pattern typically reflects investors rotating out of higher-risk, higher-valuation positions during periods of uncertainty. No specific news headlines were available in today's feed to pinpoint the exact catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u504f\u5f31\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.5%\uff0c\u8dcc\u5e45\u660e\u986f\u5927\u65bc\u6a19\u666e500\u6307\u6578\u76840.7%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u4e0d\u78ba\u5b9a\u5e02\u6cc1\u4e0b\uff0c\u50be\u5411\u6cbd\u552e\u4f30\u503c\u8f03\u9ad8\u3001\u98a8\u96aa\u8f03\u5927\u7684\u589e\u9577\u80a1\uff0c\u8f49\u800c\u6301\u6709\u9632\u5b88\u6027\u6216\u50f9\u503c\u578b\u80a1\u7968\u3002\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u4ee5\u78ba\u5b9a\u78ba\u5be6\u7684\u4e0b\u8dcc\u539f\u56e0\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often shown by tech-heavy indices like the NASDAQ falling more than broader markets. The right move on these days is usually to hold steady and avoid chasing new positions until conditions improve.",
-      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d(Risk-Off) \u6307\u6295\u8cc7\u8005\u666e\u904d\u8ce3\u51fa\u6210\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u5411\u8f03\u5b89\u5168\u7684\u8cc7\u7522\uff0c\u901a\u5e38\u8868\u73fe\u70ba\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u5927\u76e4\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u8f03\u6b63\u78ba\u7684\u505a\u6cd5\u901a\u5e38\u662f\u6309\u5175\u4e0d\u52d5,\u7b49\u5f85\u5e02\u5834\u74b0\u5883\u6539\u5584\u5f8c\u518d\u8003\u616e\u65b0\u7684\u6295\u8cc7\u3002"
+      "explanation_en": "'Risk-off' describes a market mood where investors pull back from riskier assets like growth stocks and move toward safer holdings or cash. On days like this, it's often smarter to hold your existing positions and skip new purchases rather than chase falling prices.",
+      "explanation_zh": "\u300crisk-off\u300d\uff08\u907f\u96aa\u60c5\u7dd2\uff09\u662f\u6307\u6295\u8cc7\u8005\u5728\u5e02\u6cc1\u4e0d\u660e\u6717\u6642\uff0c\u50be\u5411\u6e1b\u6301\u589e\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u800c\u6301\u6709\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u6216\u73fe\u91d1\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u66ab\u7de9\u65b0\u8cb7\u5165\uff0c\u901a\u5e38\u6bd4\u8ffd\u9010\u4e0b\u8dcc\u80a1\u50f9\u66f4\u660e\u667a\u3002"
     }
   },
   "stats": {
