@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-23T20:01:02.469521+00:00",
+    "generated_at": "2026-10-23T21:01:11.464413+00:00",
     "date_et": "2026-10-23",
-    "run_id": "20261023T200102_027561"
+    "run_id": "20261023T210111_4d2ff7"
   },
   "account": {
     "total_value": 14655.735246181488,
@@ -11,8 +11,8 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4655.735246181488,
     "profit_percent": 46.55735246181488,
-    "vs_voo_dollars": 1500.9700958143912,
-    "vs_voo_percent": 11.410086600994962
+    "vs_voo_dollars": 1500.5931028103041,
+    "vs_voo_percent": 11.406893870519275
   },
   "positions": [
     {
@@ -23,17 +23,17 @@
       "market_value": 2113.2000732421875,
       "profit_dollars": 144.60003662109375,
       "profit_percent": 7.3453232719270565,
-      "portfolio_pct": 15.866229051313324
+      "portfolio_pct": 15.865597752875772
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 182.72000122070312,
-      "market_value": 2375.3600158691406,
-      "profit_dollars": 448.3700714111328,
-      "profit_percent": 23.26789886478847,
-      "portfolio_pct": 17.834565959146513
+      "current_price": 182.6999969482422,
+      "market_value": 2375.0999603271484,
+      "profit_dollars": 448.1100158691406,
+      "profit_percent": 23.254403436712156,
+      "portfolio_pct": 17.83190388386054
     },
     {
       "ticker": "OLED",
@@ -43,17 +43,17 @@
       "market_value": 1913.560073852539,
       "profit_dollars": -144.5399932861328,
       "profit_percent": -7.022981807054861,
-      "portfolio_pct": 14.367301430484497
+      "portfolio_pct": 14.36672977259934
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.190000534057617,
-      "market_value": 1674.0100421905518,
-      "profit_dollars": 126.4000301361084,
-      "profit_percent": 8.167434247101637,
-      "portfolio_pct": 12.568723189018169
+      "current_price": 21.200000762939453,
+      "market_value": 1674.8000602722168,
+      "profit_dollars": 127.19004821777344,
+      "profit_percent": 8.218481867336164,
+      "portfolio_pct": 12.574154434891401
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 1909.920021057129,
       "profit_dollars": -704.0300140380859,
       "profit_percent": -26.933568147274904,
-      "portfolio_pct": 14.339971357888844
+      "portfolio_pct": 14.339400787434862
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 1365.969985961914,
       "profit_dollars": -1197.3799438476562,
       "profit_percent": -46.71152892249123,
-      "portfolio_pct": 10.25591137768578
+      "portfolio_pct": 10.25550330713496
     },
     {
       "ticker": "MU",
@@ -83,7 +83,7 @@
       "market_value": 877.5499877929688,
       "profit_dollars": -10.30023193359375,
       "profit_percent": -1.1601317096892745,
-      "portfolio_pct": 6.588779399831458
+      "portfolio_pct": 6.588517240113037
     }
   ],
   "allocation": [
@@ -868,8 +868,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.83126030168039,
-    "voo_price": 698.5599975585938,
-    "total_value": 13154.765150367097,
+    "voo_price": 698.5800170898438,
+    "total_value": 13155.142143371184,
     "total_deposited": 12300.0,
     "snapshots": [
       {
@@ -1613,8 +1613,8 @@
       {
         "date": "2026-10-23",
         "voo_shares": 18.83126030168039,
-        "voo_price": 698.5599975585938,
-        "total_value": 13154.765150367097
+        "voo_price": 698.5800170898438,
+        "total_value": 13155.142143371184
       }
     ]
   },
@@ -2325,21 +2325,28 @@
     }
   ],
   "today_plan": {
-    "decisions": [],
+    "decisions": [
+      {
+        "action": "BUY",
+        "ticker": "FROG",
+        "conviction": "medium",
+        "reasoning": "FROG shows all five bullish signals (RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and volume surge), the strongest multi-signal confirmation on today's list even though the broader market is neutral."
+      }
+    ],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Markets were roughly flat today, with NASDAQ down 0.2% and the S&P 500 down 0.5% \u2014 not a risk-on signal. Despite several candidates (ZLAB, FROG) showing strong multi-signal setups, we're holding cash and existing positions rather than forcing a buy on a lukewarm day, per the lesson that risk-on deployment should wait for a clear signal like a NASDAQ move of +2% or more."
+    "briefing": "Markets were quiet and slightly negative today (NASDAQ -0.2%, S&P 500 -0.5%), not a clear risk-on day. Rather than force capital into the market, I picked only FROG, the one candidate showing full multi-signal confirmation, and left the other two open slots unfilled to wait for a genuine risk-on setup."
   },
   "education": {
     "market_education": {
-      "summary_en": "Today's modest pullback in both NASDAQ (-0.2%) and the S&P 500 (-0.5%) reflects a lack of strong directional conviction rather than any specific shock. Without a clear catalyst, broad indices tend to drift sideways as investors digest recent moves and wait for the next earnings or macro data point. This kind of quiet, low-volatility session is common between major news events.",
-      "summary_zh": "\u4eca\u65e5\u7d0d\u6307\uff08-0.2%\uff09\u53ca\u6a19\u666e500\uff08-0.5%\uff09\u540c\u6b65\u5c0f\u5e45\u56de\u843d\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u65b9\u5411\uff0c\u4e26\u975e\u53d7\u55ae\u4e00\u4e8b\u4ef6\u885d\u64ca\u6240\u81f4\u3002\u5728\u7f3a\u4e4f\u5177\u9ad4\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5927\u76e4\u6307\u6578\u50be\u5411\u6a6b\u5411\u6574\u7406\uff0c\u6295\u8cc7\u8005\u591a\u5728\u6d88\u5316\u8fd1\u671f\u8d70\u52e2\u4e26\u7b49\u5f85\u4e0b\u4e00\u8f2a\u8ca1\u5831\u6216\u5b8f\u89c0\u6578\u64da\u516c\u5e03\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u5e73\u975c\u4ea4\u6613\u65e5\u5728\u91cd\u5927\u6d88\u606f\u516c\u5e03\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
+      "summary_en": "Major indices drifted slightly lower today with no major catalyst, as NASDAQ slipped 0.2% and the S&P 500 fell 0.5% in a quiet, directionless session. With no strong risk-on or risk-off signal, most momentum candidates lacked full confirmation across RSI, MACD, and volume. One standout, FROG, showed all five bullish technical signals simultaneously, making it the clear exception worth acting on.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u6de1\uff0c\u7121\u91cd\u5927\u6d88\u606f\u523a\u6fc0\uff0cNASDAQ\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.5%\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u5f85\u89c0\u671b\u884c\u60c5\u3002\u7531\u65bc\u5e02\u5834\u672a\u898b\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\uff0c\u5927\u90e8\u5206\u5177\u52d5\u80fd\u7684\u5019\u9078\u80a1\u672a\u80fd\u540c\u6642\u7b26\u5408RSI\u3001MACD\u53ca\u6210\u4ea4\u91cf\u7684\u78ba\u8a8d\u689d\u4ef6\u3002\u552f\u7368FROG\u540c\u6642\u51fa\u73fe\u4e94\u9805\u5229\u597d\u6280\u8853\u8a0a\u865f\uff0c\u5c6c\u65bc\u4eca\u65e5\u5c11\u6578\u503c\u5f97\u9032\u5834\u7684\u4f8b\u5916\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a MACD crossover, healthy RSI, price above moving averages, and a volume surge \u2014 to all line up together before buying, rather than acting on just one promising sign. Today's candidates show strong setups, but without a broader risk-on market move, it's safer to let the signal strengthen before committing capital.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u770b\u4f3c\u6709\u5229\u7684\u8a0a\u865f\u5c31\u9032\u5834\u3002\u4eca\u65e5\u90e8\u5206\u5019\u9078\u80a1\u8868\u73fe\u5f37\u52e2\uff0c\u4f46\u5728\u5927\u76e4\u672a\u898b\u660e\u986f\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u7684\u60c5\u6cc1\u4e0b\uff0c\u66ab\u7de9\u9032\u5834\u3001\u5f85\u8a0a\u865f\u9032\u4e00\u6b65\u78ba\u8a8d\u6703\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators \u2014 like RSI, MACD, price trend, and trading volume \u2014 all point the same bullish direction at once. A single indicator can give a false signal, but when many agree, it's much more likely that real buying interest (not just noise) is driving the stock.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8d70\u52e2\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\u624d\u9032\u884c\u4ea4\u6613\u3002\u55ae\u4e00\u6307\u6a19\u5bb9\u6613\u51fa\u73fe\u5047\u8a0a\u865f\uff0c\u4f46\u7576\u591a\u500b\u6307\u6a19\u4e00\u81f4\u6642\uff0c\u66f4\u80fd\u53cd\u6620\u771f\u5be6\u7684\u8cb7\u76e4\u529b\u91cf\uff0c\u800c\u975e\u77ed\u66ab\u7684\u5e02\u5834\u566a\u97f3\u3002"
     }
   },
   "stats": {
