@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-10-27T15:01:07.021455+00:00",
+    "generated_at": "2026-10-27T16:01:06.574873+00:00",
     "date_et": "2026-10-27",
-    "run_id": "20261027T150107_973745"
+    "run_id": "20261027T160106_41ae01"
   },
   "account": {
     "total_value": 14755.735246181488,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4755.735246181488,
     "profit_percent": 47.55735246181488,
-    "vs_voo_dollars": 1340.4490544344517,
-    "vs_voo_percent": 9.991952726726637
+    "vs_voo_dollars": 1308.7598014227697,
+    "vs_voo_percent": 9.732744785615633
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 719.1099853515625,
-      "market_value": 2157.3299560546875,
-      "profit_dollars": 188.72991943359375,
-      "profit_percent": 9.587011882694561,
-      "portfolio_pct": 16.190099711065763
+      "current_price": 722.6400146484375,
+      "market_value": 2167.9200439453125,
+      "profit_dollars": 199.32000732421875,
+      "profit_percent": 10.124962085560647,
+      "portfolio_pct": 16.201548434042742
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 191.61000061035156,
-      "market_value": 2490.9300079345703,
-      "profit_dollars": 563.9400634765625,
-      "profit_percent": 29.265335042273836,
-      "portfolio_pct": 18.69366579208814
+      "current_price": 193.2218017578125,
+      "market_value": 2511.8834228515625,
+      "profit_dollars": 584.8934783935547,
+      "profit_percent": 30.352700078985826,
+      "portfolio_pct": 18.77209496247697
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 87.71499633789062,
-      "market_value": 1929.7299194335938,
-      "profit_dollars": -128.37014770507812,
-      "profit_percent": -6.23731322663762,
-      "portfolio_pct": 14.482031236516512
+      "current_price": 88.70999908447266,
+      "market_value": 1951.6199798583984,
+      "profit_dollars": -106.48008728027344,
+      "profit_percent": -5.173707973699753,
+      "portfolio_pct": 14.585070015303103
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.264999389648438,
-      "market_value": 1679.9349517822266,
-      "profit_dollars": 132.3249397277832,
-      "profit_percent": 8.550276794353547,
-      "portfolio_pct": 12.607396611318011
+      "current_price": 21.420000076293945,
+      "market_value": 1692.1800060272217,
+      "profit_dollars": 144.56999397277832,
+      "profit_percent": 9.341500303481656,
+      "portfolio_pct": 12.646193480860845
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 83.36000061035156,
-      "market_value": 1917.280014038086,
-      "profit_dollars": -696.6700210571289,
-      "profit_percent": -26.65200220752315,
-      "portfolio_pct": 14.388598514655445
+      "current_price": 83.51000213623047,
+      "market_value": 1920.7300491333008,
+      "profit_dollars": -693.2199859619141,
+      "profit_percent": -26.52001670478231,
+      "portfolio_pct": 14.354219846190722
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 44.95500183105469,
-      "market_value": 1033.9650421142578,
-      "profit_dollars": -1529.3848876953125,
-      "profit_percent": -59.66352349750896,
-      "portfolio_pct": 7.759590545064396
+      "current_price": 44.09000015258789,
+      "market_value": 1014.0700035095215,
+      "profit_dollars": -1549.2799263000488,
+      "profit_percent": -60.43965781976337,
+      "portfolio_pct": 7.578464124290302
     },
     {
       "ticker": "MU",
       "shares": 1.0,
       "avg_cost": 887.8502197265625,
-      "current_price": 926.5399780273438,
-      "market_value": 926.5399780273438,
-      "profit_dollars": 38.68975830078125,
-      "profit_percent": 4.357689781582395,
-      "portfolio_pct": 6.953398384169616
+      "current_price": 933.2550048828125,
+      "market_value": 933.2550048828125,
+      "profit_dollars": 45.40478515625,
+      "profit_percent": 5.11401406987697,
+      "portfolio_pct": 6.974508218211345
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 18.7
+      "pct": 18.8
     },
     {
       "label": "QQQ",
@@ -97,7 +97,7 @@
     },
     {
       "label": "OLED",
-      "pct": 14.5
+      "pct": 14.6
     },
     {
       "label": "ROAD",
@@ -109,7 +109,7 @@
     },
     {
       "label": "INOD",
-      "pct": 7.8
+      "pct": 7.6
     },
     {
       "label": "MU",
@@ -880,8 +880,8 @@
   ],
   "benchmark": {
     "voo_shares": 18.97440782602067,
-    "voo_price": 707.02001953125,
-    "total_value": 13415.286191747036,
+    "voo_price": 708.6901245117188,
+    "total_value": 13446.975444758718,
     "total_deposited": 12400.0,
     "snapshots": [
       {
@@ -1637,8 +1637,8 @@
       {
         "date": "2026-10-27",
         "voo_shares": 18.97440782602067,
-        "voo_price": 707.02001953125,
-        "total_value": 13415.286191747036
+        "voo_price": 708.6901245117188,
+        "total_value": 13446.975444758718
       }
     ]
   },
@@ -2352,37 +2352,37 @@
     "decisions": [
       {
         "action": "BUY",
+        "ticker": "CHRN",
+        "conviction": "high",
+        "reasoning": "Full signal confirmation (RSI 69.1 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      },
+      {
+        "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) plus top momentum score of 100."
+        "reasoning": "All five technical signals align with a volume surge confirming institutional participation during today's NASDAQ rally."
       },
       {
         "action": "BUY",
-        "ticker": "NBIS",
+        "ticker": "AEHR",
         "conviction": "medium",
-        "reasoning": "Strong four-signal momentum confirmation (score 95) and adds AI-infrastructure exposure distinct from existing holdings."
-      },
-      {
-        "action": "BUY",
-        "ticker": "BE",
-        "conviction": "medium",
-        "reasoning": "Score 95 with full bullish technical confirmation, diversifying into clean energy away from current tech/semis concentration."
+        "reasoning": "Strong bullish crossover and price well above SMA-20 fills the third open slot, though lacking the volume-surge confirmation of the top two picks."
       }
     ],
     "skip_new_buys": false,
-    "market_direction": "neutral",
-    "briefing": "Markets were modestly positive today with NASDAQ +0.9% and S&P 500 +0.5%, a neutral-to-slightly-bullish tape. With 3 open position slots and cash above the $500 threshold, we deployed into three high-conviction momentum names (NVDA, NBIS, BE) that each show multi-signal technical confirmation, while leaving existing positions untouched."
+    "market_direction": "risk_on",
+    "briefing": "NASDAQ +1.3% and S&P 500 +0.7% confirm a risk-on day, and with $1189 in cash and 3 open slots we deployed into our highest-conviction setups. CHRN and NVDA both show full five-signal confirmation including volume surges, with AEHR added as a solid secondary pick to fully utilize available slots per the risk rules."
   },
   "education": {
     "market_education": {
-      "summary_en": "Equities drifted modestly higher today, with tech-heavy NASDAQ outperforming the broader S&P 500, suggesting continued risk appetite in growth and AI-adjacent sectors. No major macro catalyst stood out, consistent with a steady grind-higher session rather than a news-driven spike. Breadth in momentum names like NVDA, NBIS, and BE reflected ongoing institutional interest in AI infrastructure and energy names supporting that buildout.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u5411\u4e0a\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u589e\u9577\u80a1\u53caAI\u76f8\u95dc\u677f\u584a\u4ecd\u4fdd\u6301\u4e00\u5b9a\u98a8\u96aa\u504f\u597d\u3002\u4eca\u65e5\u672a\u898b\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u523a\u6fc0\uff0c\u8d70\u52e2\u8f03\u4f3c\u7a69\u6b65\u4e0a\u63da\u7684\u4ea4\u6613\u65e5\u800c\u975e\u65b0\u805e\u9a45\u52d5\u7684\u6025\u5347\u3002NVDA\u3001NBIS\u53caBE\u7b49\u52d5\u80fd\u80a1\u8868\u73fe\u6d3b\u8e8d\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6301\u7e8c\u6d41\u5165AI\u57fa\u5efa\u53ca\u652f\u63f4\u76f8\u95dc\u767c\u5c55\u7684\u80fd\u6e90\u677f\u584a\u3002",
+      "summary_en": "Markets rallied broadly today with tech leading the way, as the NASDAQ outpaced the S&P 500, suggesting investors rotated into growth and momentum names. Semiconductor and AI-adjacent stocks like NVDA and CHRN saw particularly strong volume, hinting at renewed institutional buying interest. No major macro catalyst stands out from available data, so the move looks driven by sector-level momentum rather than a single headline event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u79d1\u6280\u80a1\u8868\u73fe\u9818\u5148\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\uff0c\u986f\u793a\u8cc7\u91d1\u518d\u6b21\u6d41\u5411\u589e\u9577\u53ca\u5f37\u52e2\u52d5\u80fd\u80a1\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u80a1\u4efd\u5982NVDA\u53caCHRN\u5747\u9304\u5f97\u660e\u986f\u653e\u91cf\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u6216\u91cd\u65b0\u5165\u5e02\u3002\u76ee\u524d\u672a\u898b\u660e\u986f\u5b8f\u89c0\u6d88\u606f\u523a\u6fc0\uff0c\u4eca\u6b21\u5347\u6d6a\u8f03\u4f3c\u662f\u677f\u584a\u6027\u52d5\u80fd\u5e36\u52d5\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u6240\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, bullish MACD crossovers, and healthy (not overbought) RSI levels. The idea is that stocks showing strong recent performance with confirming technical signals tend to keep performing well in the near term.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64da\u7684\u8a0a\u865f\u5305\u62ec\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53caRSI\u8655\u65bc\u5065\u5eb7\uff08\u975e\u8d85\u8cb7\uff09\u6c34\u5e73\u3002\u9019\u7a2e\u7b56\u7565\u7684\u6838\u5fc3\u7406\u5ff5\u662f\uff1a\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u4e26\u6709\u591a\u91cd\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u7684\u80a1\u7968\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u5176\u5347\u52e2\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests many investors \u2014 often institutions \u2014 are participating, not just a few random traders. A bullish signal paired with a volume surge is considered more reliable than the same signal on light volume.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u80a1\u50f9\u7684\u8b8a\u52d5\u4f34\u96a8\u8457\u7570\u5e38\u9ad8\u7684\u4ea4\u6613\u91cf\uff0c\u986f\u793a\u6709\u5927\u91cf\u6295\u8cc7\u8005\uff08\u901a\u5e38\u5305\u62ec\u6a5f\u69cb\u8cc7\u91d1\uff09\u53c3\u8207\u5176\u4e2d\uff0c\u800c\u975e\u50c5\u662f\u96f6\u661f\u4ea4\u6613\u3002\u7576\u5229\u597d\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u653e\u91cf\u60c5\u6cc1\uff0c\u5176\u53ef\u4fe1\u5ea6\u901a\u5e38\u6bd4\u4f4e\u6210\u4ea4\u91cf\u6642\u7684\u540c\u985e\u8a0a\u865f\u66f4\u9ad8\u3002"
     }
   },
   "stats": {
