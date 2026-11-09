@@ -1,18 +1,18 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-11-06T22:01:03.549601+00:00",
-    "date_et": "2026-11-06",
-    "run_id": "20261106T220103_861369"
+    "generated_at": "2026-11-09T14:00:49.252576+00:00",
+    "date_et": "2026-11-09",
+    "run_id": "20261109T140049_7b2769"
   },
   "account": {
-    "total_value": 14686.44502401352,
-    "cash": 345.87502813339233,
+    "total_value": 14786.44502401352,
+    "cash": 445.87502813339233,
     "starting_cash": 10000.0,
-    "profit_dollars": 4686.445024013519,
-    "profit_percent": 46.86445024013519,
+    "profit_dollars": 4786.445024013519,
+    "profit_percent": 47.86445024013519,
     "vs_voo_dollars": 1762.6439182268568,
-    "vs_voo_percent": 13.638742222964328
+    "vs_voo_percent": 13.53402055137105
   },
   "positions": [
     {
@@ -23,7 +23,7 @@
       "market_value": 1968.2999267578125,
       "profit_dollars": -0.30010986328125,
       "profit_percent": -0.015244836823042975,
-      "portfolio_pct": 15.47325932642208
+      "portfolio_pct": 15.352569241556427
     },
     {
       "ticker": "EAT",
@@ -33,7 +33,7 @@
       "market_value": 2685.4100952148438,
       "profit_dollars": 758.4201507568359,
       "profit_percent": 39.35776379830316,
-      "portfolio_pct": 21.110627621419308
+      "portfolio_pct": 20.94596655128229
     },
     {
       "ticker": "OLED",
@@ -43,7 +43,7 @@
       "market_value": 1942.8199462890625,
       "profit_dollars": -115.28012084960938,
       "profit_percent": -5.601288425682849,
-      "portfolio_pct": 15.272955327999155
+      "portfolio_pct": 15.15382759700211
     },
     {
       "ticker": "WT",
@@ -53,7 +53,7 @@
       "market_value": 1538.91996383667,
       "profit_dollars": -8.690048217773438,
       "profit_percent": -0.561514086241756,
-      "portfolio_pct": 12.097804485658967
+      "portfolio_pct": 12.003442656695821
     },
     {
       "ticker": "ROAD",
@@ -63,7 +63,7 @@
       "market_value": 1775.140007019043,
       "profit_dollars": -838.8100280761719,
       "profit_percent": -32.08974987334131,
-      "portfolio_pct": 13.954784682919938
+      "portfolio_pct": 13.84593856898016
     },
     {
       "ticker": "INOD",
@@ -73,7 +73,7 @@
       "market_value": 851.6899719238281,
       "profit_dollars": -1711.6599578857422,
       "profit_percent": -66.77433845377874,
-      "portfolio_pct": 6.695331144475553
+      "portfolio_pct": 6.643108140453992
     },
     {
       "ticker": "NET",
@@ -83,41 +83,41 @@
       "market_value": 1612.5,
       "profit_dollars": -49.469970703125,
       "profit_percent": -2.9765863147452585,
-      "portfolio_pct": 12.676234106737141
+      "portfolio_pct": 12.577360576742947
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 21.1
+      "pct": 20.9
     },
     {
       "label": "QQQ",
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "label": "OLED",
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "label": "ROAD",
-      "pct": 14.0
+      "pct": 13.8
     },
     {
       "label": "NET",
-      "pct": 12.7
+      "pct": 12.6
     },
     {
       "label": "WT",
-      "pct": 12.1
+      "pct": 12.0
     },
     {
       "label": "INOD",
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "label": "Cash",
-      "pct": 2.6
+      "pct": 3.5
     }
   ],
   "snapshots": [
@@ -918,13 +918,19 @@
       "total_value": 14686.44502401352,
       "cash": 345.87502813339233,
       "profit_percent": 46.86445024013519
+    },
+    {
+      "date": "2026-11-09",
+      "total_value": 14786.44502401352,
+      "cash": 445.87502813339233,
+      "profit_percent": 47.86445024013519
     }
   ],
   "benchmark": {
-    "voo_shares": 19.118332064807355,
+    "voo_shares": 19.26626324935837,
     "voo_price": 675.989990234375,
-    "total_value": 12923.801105786662,
-    "total_deposited": 12500.0,
+    "total_value": 13023.801105786662,
+    "total_deposited": 12600.0,
     "snapshots": [
       {
         "date": "2026-04-16",
@@ -1723,6 +1729,12 @@
         "voo_shares": 19.118332064807355,
         "voo_price": 675.989990234375,
         "total_value": 12923.801105786662
+      },
+      {
+        "date": "2026-11-09",
+        "voo_shares": 19.26626324935837,
+        "voo_price": 675.989990234375,
+        "total_value": 13023.801105786662
       }
     ]
   },
@@ -2458,18 +2470,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Tech stocks led today: the NASDAQ rose 1.1% and the S&P 500 rose 0.3%, which still counts as a neutral day overall. With only $345.88 in cash, we are below the $500 minimum for a new buy, so we are holding all 7 positions and keeping the cash for a stronger day. Our automatic profit targets and stop-losses will keep watching each position."
+    "briefing": "The market was mixed. The NASDAQ rose 1.1% and the S&P 500 gained only 0.3%, so the signal is neutral. Cash is $345.88, below the $500 buy threshold, so I'm not adding a new position even though IONQ and FRVO scored highly. I'm keeping all seven holdings and letting the automatic profit targets and stop-losses work."
   },
   "education": {
     "market_education": {
-      "summary_en": "Technology and growth stocks did better than the wider market today: the NASDAQ gained 1.1% while the S&P 500 added only 0.3%. Speculative names led the screener, including quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU, SMR) and bitcoin miners (RIOT, IREN, CIFR, WULF), which suggests traders were willing to take more risk in these themes. Large-cap names were mixed: NVDA, AAPL and MCHP stayed below their 20-day averages, so the gains were concentrated in a few areas rather than spread across the market. No news headlines were provided today, so no specific stories are cited.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u53ca\u6210\u9577\u80a1\u8868\u73fe\u8dd1\u8d0f\u5927\u5e02\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.1%\uff0c\u6a19\u666e500\u6307\u6578\u50c5\u53470.3%\u3002\u91cf\u5b50\u904b\u7b97\uff08IONQ\u3001RGTI\u3001QBTS\uff09\u3001\u6838\u80fd\uff08OKLO\u3001LEU\u3001SMR\uff09\u53ca\u6bd4\u7279\u5e63\u7926\u4f01\uff08RIOT\u3001IREN\u3001CIFR\u3001WULF\uff09\u7b49\u6295\u6a5f\u677f\u584a\u9818\u6f32\uff0c\u53cd\u6620\u8cc7\u91d1\u5c0d\u9019\u4e9b\u4e3b\u984c\u7684\u98a8\u96aa\u80c3\u7d0d\u56de\u5347\u3002\u4e0d\u904e\u5927\u578b\u80a1\u8868\u73fe\u53c3\u5dee\uff0cNVDA\u3001AAPL\u53caMCHP\u4ecd\u8655\u65bc20\u65e5\u5747\u7dda\u4e4b\u4e0b\uff0c\u986f\u793a\u5347\u52e2\u96c6\u4e2d\u65bc\u500b\u5225\u677f\u584a\uff0c\u4e26\u975e\u5168\u9762\u666e\u6f32\u3002\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u6a19\u984c\uff0c\u6545\u672a\u5f15\u7528\u5177\u9ad4\u5831\u9053\u3002",
+      "summary_en": "Tech stocks did better than the rest of the market today: the NASDAQ rose 1.1% while the broader S&P 500 gained only 0.3%. That gap suggests buyers are focusing on growth areas such as quantum computing, nuclear energy and crypto miners, which fill much of today's screener, rather than buying across the whole market. No news headlines came with today's data, so this explanation is based only on index moves and price momentum.",
+      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u8868\u73fe\u512a\u65bc\u5927\u5e02\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.1%\uff0c\u800c\u6a19\u666e500\u6307\u6578\u50c5\u53470.3%\u3002\u5169\u8005\u8868\u73fe\u5206\u5316\uff0c\u53cd\u6620\u8cc7\u91d1\u96c6\u4e2d\u6d41\u5165\u91cf\u5b50\u904b\u7b97\u3001\u6838\u80fd\u53ca\u52a0\u5bc6\u8ca8\u5e63\u7926\u4f01\u7b49\u589e\u9577\u677f\u584a\uff0c\u800c\u975e\u5168\u9762\u8cb7\u5165\u5927\u5e02\uff0c\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4ea6\u591a\u5c6c\u9019\u4e9b\u677f\u584a\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u6307\u6578\u8d70\u52e2\u53ca\u50f9\u683c\u52d5\u80fd\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder (Cash Reserve)",
-      "explanation_en": "Dry powder is cash an investor keeps on hand to use later, when a good opportunity comes along. Today our cash was too small to open a sensible new position, so we held it instead of forcing a trade on an ordinary day. Waiting for a clearly strong market signal before spending it usually leads to better entry prices than buying just to keep the money busy.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\u6307\u6295\u8cc7\u8005\u624b\u4e0a\u9810\u7559\u3001\u6e96\u5099\u65e5\u5f8c\u628a\u63e1\u6a5f\u6703\u6642\u52d5\u7528\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u6211\u5011\u7684\u73fe\u91d1\u4e0d\u8db3\u4ee5\u5efa\u7acb\u4e00\u500b\u5408\u7406\u898f\u6a21\u7684\u65b0\u5009\u4f4d\uff0c\u56e0\u6b64\u9078\u64c7\u6301\u6709\u73fe\u91d1\uff0c\u800c\u4e0d\u662f\u5728\u5e73\u6de1\u7684\u5e02\u6cc1\u4e0b\u52c9\u5f37\u5165\u5e02\u3002\u7b49\u5230\u5e02\u5834\u51fa\u73fe\u660e\u78ba\u7684\u5f37\u52e2\u8a0a\u865f\u624d\u52d5\u7528\u9019\u7b46\u8cc7\u91d1\uff0c\u5165\u5e02\u50f9\u4f4d\u901a\u5e38\u6703\u6bd4\u70ba\u4e86\u300c\u8b93\u9322\u4e0d\u9592\u8457\u300d\u800c\u8cb7\u5165\u66f4\u7406\u60f3\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the return you give up when part of a portfolio sits in cash instead of being invested. With only about 2% of this portfolio in cash, the drag is tiny. Forcing a small, poorly sized trade just to use that cash would add more risk than return.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u90e8\u5206\u8cc7\u91d1\u4ee5\u73fe\u91d1\u6301\u6709\u3001\u672a\u6709\u6295\u5165\u5e02\u5834\uff0c\u56e0\u800c\u5c11\u8cfa\u7684\u56de\u5831\u3002\u76ee\u524d\u9019\u500b\u7d44\u5408\u7684\u73fe\u91d1\u53ea\u4f54\u7d042%\uff0c\u5f71\u97ff\u8f15\u5fae\u3002\u82e5\u70ba\u4e86\u7528\u76e1\u9019\u7b46\u73fe\u91d1\u800c\u52c9\u5f37\u5efa\u7acb\u4e00\u500b\u898f\u6a21\u904e\u5c0f\u7684\u5009\u4f4d\uff0c\u589e\u52a0\u7684\u98a8\u96aa\u53cd\u800c\u6703\u5927\u65bc\u56de\u5831\u3002"
     }
   },
   "stats": {
@@ -2487,7 +2499,7 @@
       "realized_profit": -273.62986755371094
     },
     "max_drawdown_percent": 2.740851576155734,
-    "daily_volatility": 1.1725641333386145,
+    "daily_volatility": 1.1686121892155061,
     "total_realized_profit": 2186.4450240135193,
     "per_ticker_realized": {
       "MU": -169.29022216796875,
