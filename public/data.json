@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-11-09T19:00:56.393004+00:00",
+    "generated_at": "2026-11-09T20:00:54.638084+00:00",
     "date_et": "2026-11-09",
-    "run_id": "20261109T190056_823bf1"
+    "run_id": "20261109T200054_396ea6"
   },
   "account": {
     "total_value": 14786.44502401352,
@@ -11,85 +11,85 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4786.445024013519,
     "profit_percent": 47.86445024013519,
-    "vs_voo_dollars": 1453.803977978947,
-    "vs_voo_percent": 10.904095992379093
+    "vs_voo_dollars": 1431.553231323409,
+    "vs_voo_percent": 10.719317337389288
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 677.8499755859375,
-      "market_value": 2033.5499267578125,
-      "profit_dollars": 64.94989013671875,
-      "profit_percent": 3.2992933520512766,
-      "portfolio_pct": 15.232481154567386
+      "current_price": 679.3599853515625,
+      "market_value": 2038.0799560546875,
+      "profit_dollars": 69.47991943359375,
+      "profit_percent": 3.529407606475977,
+      "portfolio_pct": 15.176154260806097
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 203.77999877929688,
-      "market_value": 2649.1399841308594,
-      "profit_dollars": 722.1500396728516,
-      "profit_percent": 37.475547900483,
-      "portfolio_pct": 19.843611584408443
+      "current_price": 205.52999877929688,
+      "market_value": 2671.8899841308594,
+      "profit_dollars": 744.9000396728516,
+      "profit_percent": 38.65614565427143,
+      "portfolio_pct": 19.895693712413227
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 90.5199966430664,
-      "market_value": 1991.439926147461,
-      "profit_dollars": -66.66014099121094,
-      "profit_percent": -3.238916418864267,
-      "portfolio_pct": 14.917052562293442
+      "current_price": 90.80999755859375,
+      "market_value": 1997.8199462890625,
+      "profit_dollars": -60.280120849609375,
+      "profit_percent": -2.9289207950619915,
+      "portfolio_pct": 14.876366160280618
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 20.825000762939453,
-      "market_value": 1645.1750602722168,
-      "profit_dollars": 97.56504821777344,
-      "profit_percent": 6.304239922062561,
-      "portfolio_pct": 12.32332571323456
+      "current_price": 20.81999969482422,
+      "market_value": 1644.7799758911133,
+      "profit_dollars": 97.16996383666992,
+      "profit_percent": 6.278711243776288,
+      "portfolio_pct": 12.247524718082591
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 85.20999908447266,
-      "market_value": 1959.829978942871,
-      "profit_dollars": -654.1200561523438,
-      "profit_percent": -25.024198908550176,
-      "portfolio_pct": 14.680275525863134
+      "current_price": 86.16999816894531,
+      "market_value": 1981.9099578857422,
+      "profit_dollars": -632.0400772094727,
+      "profit_percent": -24.17950108929493,
+      "portfolio_pct": 14.757895617660774
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 37.779998779296875,
-      "market_value": 868.9399719238281,
-      "profit_dollars": -1694.4099578857422,
-      "profit_percent": -66.10139092525768,
-      "portfolio_pct": 6.508869820512843
+      "current_price": 37.70539855957031,
+      "market_value": 867.2241668701172,
+      "profit_dollars": -1696.1257629394531,
+      "profit_percent": -66.16832696991382,
+      "portfolio_pct": 6.45761109421695
     },
     {
       "ticker": "NET",
       "shares": 6.0,
       "avg_cost": 276.9949951171875,
-      "current_price": 292.69000244140625,
-      "market_value": 1756.1400146484375,
-      "profit_dollars": 94.1700439453125,
-      "profit_percent": 5.666170003388945,
-      "portfolio_pct": 13.154518276599894
+      "current_price": 296.9849853515625,
+      "market_value": 1781.909912109375,
+      "profit_dollars": 119.93994140625,
+      "profit_percent": 7.2167333658566255,
+      "portfolio_pct": 13.268635327428576
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.8
+      "pct": 19.9
     },
     {
       "label": "QQQ",
@@ -101,15 +101,15 @@
     },
     {
       "label": "ROAD",
-      "pct": 14.7
+      "pct": 14.8
     },
     {
       "label": "NET",
-      "pct": 13.2
+      "pct": 13.3
     },
     {
       "label": "WT",
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "label": "INOD",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 3.4
+      "pct": 3.2
     }
   ],
   "snapshots": [
@@ -928,8 +928,8 @@
   ],
   "benchmark": {
     "voo_shares": 19.26626324935837,
-    "voo_price": 692.0200805664062,
-    "total_value": 13332.641046034572,
+    "voo_price": 693.1749877929688,
+    "total_value": 13354.89179269011,
     "total_deposited": 12600.0,
     "snapshots": [
       {
@@ -1733,8 +1733,8 @@
       {
         "date": "2026-11-09",
         "voo_shares": 19.26626324935837,
-        "voo_price": 692.0200805664062,
-        "total_value": 13332.641046034572
+        "voo_price": 693.1749877929688,
+        "total_value": 13354.89179269011
       }
     ]
   },
@@ -2470,25 +2470,31 @@
     "decisions": [
       {
         "action": "BUY",
-        "ticker": "LGN",
+        "ticker": "AMZN",
         "conviction": "high",
-        "reasoning": "Top score of 95 with RSI at a healthy 55.8, a bullish MACD crossover with a rising histogram, and price about 12% above its 20-day average, so the trend is strong without being overbought."
+        "reasoning": "AMZN meets all four checks (RSI 62.3 below 70, MACD bullish crossover, price above SMA-20, volume surge), so big investors are likely buying, and it is a lower-risk large-cap way to use the cash left on a strong up day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SPCX",
+        "conviction": "medium",
+        "reasoning": "SPCX also meets all four checks (RSI 62.6, MACD crossover, price above SMA-20, volume surge), so it is a good second pick if any cash remains after AMZN."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "Stocks rallied broadly today: the NASDAQ rose 2.6% and the S&P 500 rose 2.4%, a clear risk-on signal. Our strategy says to put spare cash to work on days like this, so we're using the remaining $446 to start a position in LGN, the highest-scoring candidate that isn't overbought. All 7 existing positions stay as they are and will be handled by their automatic profit targets and stop-losses."
+    "briefing": "Stocks rose broadly today: the NASDAQ gained 2.8% and the S&P 500 gained 2.5%, a clear risk-on day. Following our rule of using spare cash on strong up days, we are putting the remaining $446 into AMZN first and SPCX second, because both pass all four buy checks. All seven current holdings stay as they are, and their automatic stop-losses and profit targets are still active."
   },
   "education": {
     "market_education": {
-      "summary_en": "US stocks rose sharply across the board, with the NASDAQ up 2.6% and the S&P 500 up 2.4%, a classic risk-on session in which investors move money into growth and higher-risk names. Gains were led by semiconductors, AI infrastructure and communications hardware (MPWR, AMD, TTMI and SMTC all show bullish momentum), while megacap NVDA lagged and is still below its 20-day average. No specific news headlines were included in today's data, so this explanation relies only on price and momentum signals, not on reported catalysts.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u6025\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f322.6%\uff0c\u6a19\u666e500\u6307\u6578\u53472.4%\uff0c\u5c6c\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u884c\u60c5\uff0c\u8cc7\u91d1\u660e\u986f\u6d41\u5411\u589e\u9577\u80a1\u53ca\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\u3002\u534a\u5c0e\u9ad4\u3001AI\u57fa\u5efa\u53ca\u901a\u8a0a\u786c\u4ef6\u677f\u584a\u9818\u6f32\uff0cMPWR\u3001AMD\u3001TTMI\u53caSMTC\u7b49\u500b\u80a1\u52d5\u80fd\u5f37\u52c1\uff1b\u53cd\u89c0\u9f8d\u982dNVDA\u8868\u73fe\u843d\u5f8c\uff0c\u80a1\u50f9\u4ecd\u4f4e\u65bc20\u65e5\u5747\u7dda\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u50f9\u683c\u53ca\u52d5\u80fd\u6307\u6a19\uff0c\u4e26\u975e\u57fa\u65bc\u5df2\u5831\u5c0e\u7684\u50ac\u5316\u56e0\u7d20\u3002",
+      "summary_en": "US stocks rose broadly today, with the NASDAQ up 2.8% and the S&P 500 up 2.5%, which shows investors were eager to take on risk. Growth and tech names led the move: chip and hardware stocks such as AMD, COHR and TTMI, and crypto-mining stocks such as MARA, WULF and CIFR, all showed bullish MACD crossovers. No news headlines were provided today, so this explanation is based only on price and volume data, not on a specific news event.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53472.8%\uff0c\u6a19\u666e500\u6307\u6578\u53472.5%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u660e\u986f\u56de\u5347\u3002\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\uff0cAMD\u3001COHR\u3001TTMI\u7b49\u6676\u7247\u8207\u786c\u4ef6\u80a1\uff0c\u4ee5\u53caMARA\u3001WULF\u3001CIFR\u7b49\u52a0\u5bc6\u8ca8\u5e63\u6316\u7926\u80a1\uff0c\u5747\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u7684\u770b\u6f32\u8a0a\u865f\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u8cc7\u6599\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u50f9\u683c\u53ca\u6210\u4ea4\u91cf\u6578\u64da\uff0c\u4e26\u975e\u91dd\u5c0d\u500b\u5225\u65b0\u805e\u4e8b\u4ef6\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-On",
-      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth and tech stocks, which pushes the major indexes up together. Strong broad gains like today's 2%+ moves are often a good time to put idle cash to work, because momentum is more likely to carry on in the short term. Even so, it pays to avoid stocks that are already overbought (RSI above 70), since they can pull back quickly.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u4e3b\u52d5\u628a\u8cc7\u91d1\u6295\u5411\u589e\u9577\u80a1\u3001\u79d1\u6280\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u7684\u8cc7\u7522\uff0c\u5e36\u52d5\u5404\u5927\u6307\u6578\u540c\u6b65\u4e0a\u63da\u3002\u50cf\u4eca\u65e5\u6307\u6578\u5347\u903e2%\u7684\u666e\u6f32\u884c\u60c5\uff0c\u5f80\u5f80\u662f\u52d5\u7528\u9592\u7f6e\u73fe\u91d1\u5165\u5e02\u7684\u597d\u6642\u6a5f\uff0c\u56e0\u70ba\u77ed\u671f\u52d5\u80fd\u8f03\u6709\u6a5f\u6703\u5ef6\u7e8c\u3002\u4e0d\u904e\uff0c\u4ecd\u61c9\u907f\u958bRSI\u9ad8\u65bc70\u3001\u5df2\u8655\u65bc\u8d85\u8cb7\u5340\u7684\u80a1\u7968\uff0c\u4ee5\u514d\u8ffd\u9ad8\u5f8c\u9047\u4e0a\u6025\u901f\u56de\u8abf\u3002"
+      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets such as tech and growth stocks, which pushes the major indexes up together. Today's 2.8% NASDAQ gain is a clear example. Active investors often use days like this to put idle cash to work, but they should still buy only stocks that pass several checks, not just any stock that is going up.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u8cc7\u91d1\u6d41\u5411\u79d1\u6280\u80a1\u53ca\u6210\u9577\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u4ee4\u4e3b\u8981\u6307\u6578\u540c\u6b65\u4e0a\u63da\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u5927\u53472.8%\u6b63\u662f\u5178\u578b\u4f8b\u5b50\u3002\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u5f80\u5f80\u8d81\u9019\u985e\u65e5\u5b50\u52d5\u7528\u9592\u7f6e\u8cc7\u91d1\uff0c\u4f46\u4ecd\u61c9\u53ea\u8cb7\u5165\u901a\u904e\u591a\u9805\u6307\u6a19\u78ba\u8a8d\u7684\u80a1\u7968\uff0c\u800c\u975e\u76f2\u76ee\u8ffd\u9010\u4efb\u4f55\u4e0a\u6f32\u7684\u80a1\u4efd\u3002"
     }
   },
   "stats": {
