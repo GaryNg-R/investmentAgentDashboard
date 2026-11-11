@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-11-11T17:00:52.118406+00:00",
+    "generated_at": "2026-11-11T18:00:57.489270+00:00",
     "date_et": "2026-11-11",
-    "run_id": "20261111T170052_1c062a"
+    "run_id": "20261111T180057_499495"
   },
   "account": {
     "total_value": 14786.44502401352,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4786.445024013519,
     "profit_percent": 47.86445024013519,
-    "vs_voo_dollars": 1322.1844968243186,
-    "vs_voo_percent": 9.819956277244856
+    "vs_voo_dollars": 1302.2279688943345,
+    "vs_voo_percent": 9.657423664801911
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 693.625,
-      "market_value": 2080.875,
-      "profit_dollars": 112.27496337890625,
-      "profit_percent": 5.7032897130092035,
-      "portfolio_pct": 15.425846794948022
+      "current_price": 694.1199951171875,
+      "market_value": 2082.3599853515625,
+      "profit_dollars": 113.75994873046875,
+      "profit_percent": 5.778723286306872,
+      "portfolio_pct": 15.405705831396755
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 196.0449981689453,
-      "market_value": 2548.584976196289,
-      "profit_dollars": 621.5950317382812,
-      "profit_percent": 32.25730541697836,
-      "portfolio_pct": 18.893052868005146
+      "current_price": 196.1649932861328,
+      "market_value": 2550.1449127197266,
+      "profit_dollars": 623.1549682617188,
+      "profit_percent": 32.3382573974453,
+      "portfolio_pct": 18.86647007681542
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 89.67500305175781,
-      "market_value": 1972.8500671386719,
-      "profit_dollars": -85.25,
-      "profit_percent": -4.142169827462329,
-      "portfolio_pct": 14.62504133361402
+      "current_price": 90.17500305175781,
+      "market_value": 1983.8500671386719,
+      "profit_dollars": -74.25,
+      "profit_percent": -3.6076963013381578,
+      "portfolio_pct": 14.676910218660023
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.469999313354492,
-      "market_value": 1696.1299457550049,
-      "profit_dollars": 148.51993370056152,
-      "profit_percent": 9.596728668316262,
-      "portfolio_pct": 12.57367246352626
+      "current_price": 21.530000686645508,
+      "market_value": 1700.8700542449951,
+      "profit_dollars": 153.26004219055176,
+      "profit_percent": 9.903014389723412,
+      "portfolio_pct": 12.58336882069235
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 83.83000183105469,
-      "market_value": 1928.0900421142578,
-      "profit_dollars": -685.859992980957,
-      "profit_percent": -26.238450765030564,
-      "portfolio_pct": 14.293228375812781
+      "current_price": 83.94999694824219,
+      "market_value": 1930.8499298095703,
+      "profit_dollars": -683.1001052856445,
+      "profit_percent": -26.132867733287114,
+      "portfolio_pct": 14.28480485241235
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 38.5099983215332,
-      "market_value": 885.7299613952637,
-      "profit_dollars": -1677.6199684143066,
-      "profit_percent": -65.4463890748984,
-      "portfolio_pct": 6.566052591423591
+      "current_price": 38.779998779296875,
+      "market_value": 891.9399719238281,
+      "profit_dollars": -1671.4099578857422,
+      "profit_percent": -65.20412755389626,
+      "portfolio_pct": 6.598746097401071
     },
     {
       "ticker": "NET",
       "shares": 6.0,
       "avg_cost": 276.9949951171875,
-      "current_price": 321.8999938964844,
-      "market_value": 1931.3999633789062,
-      "profit_dollars": 269.42999267578125,
-      "profit_percent": 16.211483806882157,
-      "portfolio_pct": 14.317765331820137
+      "current_price": 321.82000732421875,
+      "market_value": 1930.9200439453125,
+      "profit_dollars": 268.9500732421875,
+      "profit_percent": 16.182607266267485,
+      "portfolio_pct": 14.285323570481015
     }
   ],
   "allocation": [
@@ -97,7 +97,7 @@
     },
     {
       "label": "OLED",
-      "pct": 14.6
+      "pct": 14.7
     },
     {
       "label": "NET",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 3.3
+      "pct": 3.2
     }
   ],
   "snapshots": [
@@ -940,8 +940,8 @@
   ],
   "benchmark": {
     "voo_shares": 19.26626324935837,
-    "voo_price": 698.8516845703125,
-    "total_value": 13464.2605271892,
+    "voo_price": 699.8875122070312,
+    "total_value": 13484.217055119185,
     "total_deposited": 12600.0,
     "snapshots": [
       {
@@ -1757,8 +1757,8 @@
       {
         "date": "2026-11-11",
         "voo_shares": 19.26626324935837,
-        "voo_price": 698.8516845703125,
-        "total_value": 13464.2605271892
+        "voo_price": 699.8875122070312,
+        "total_value": 13484.217055119185
       }
     ]
   },
@@ -2496,23 +2496,23 @@
         "action": "BUY",
         "ticker": "EQPT",
         "conviction": "medium",
-        "reasoning": "EQPT has a bullish MACD crossover, a rising histogram and is trading above its SMA-20, and its RSI of 57.3 is well short of overbought, so it has more room to run than most of today's extended names and is cheap enough to buy with the remaining $445 in cash."
+        "reasoning": "Top score of 95 with all four momentum signals and the coolest RSI (59.5) among the 95-rated names, so it has room to run, and its low share price fits the roughly $446 of cash we have left."
       }
     ],
     "skip_new_buys": false,
     "market_direction": "risk_on",
-    "briefing": "It was a strong risk-on day: the NASDAQ rose 2.1% and the S&P 500 rose 1.4%, led by semiconductors, AI hardware and crypto-linked names. We are keeping all seven current positions and putting the small remaining cash into EQPT, one of the few top-scoring candidates that is not already overbought. We are avoiding the many names with RSI above 70 so we don't chase stocks that have already run hard."
+    "briefing": "Markets rallied: NASDAQ rose 2.2% and the S&P 500 rose 1.5%, a clear risk-on day that meets our trigger for putting leftover cash to work. All seven current holdings stay in place, and stop-losses and profit targets will manage exits. The roughly $446 of cash is going into EQPT, the 95-scored name with the most room before it looks overbought. We are avoiding the many candidates with RSI above 70 because they look stretched."
   },
   "education": {
     "market_education": {
-      "summary_en": "The market rallied broadly today, with the tech-heavy NASDAQ beating the S&P 500 because investors favored growth and AI-linked stocks. Strength in chips and AI infrastructure, including MU, AMD, ARM, MRVL, LITE and DELL, pushed many of them into overbought territory, and crypto miners such as MARA, WULF and CIFR moved up with them. No news headlines came with today's data, so this explanation is based only on price action and technical signals, not on any specific news event.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5168\u9762\u9020\u597d\uff0c\u79d1\u6280\u80a1\u6bd4\u91cd\u8f03\u9ad8\u7684\u7d0d\u65af\u9054\u514b\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\uff0c\u53cd\u6620\u8cc7\u91d1\u660e\u986f\u504f\u597d\u589e\u9577\u578b\u53caAI\u76f8\u95dc\u80a1\u4efd\u3002\u6676\u7247\u53caAI\u57fa\u5efa\u677f\u584a\u9818\u6f32\uff0c\u7f8e\u5149\u3001AMD\u3001ARM\u3001Marvell\u3001Lumentum\u53caDell\u7b49\u591a\u96bb\u80a1\u4efd\u7684RSI\u5df2\u5347\u81f3\u8d85\u8cb7\u6c34\u5e73\uff0c\u52a0\u5bc6\u8ca8\u5e63\u7926\u4f01\u5982MARA\u3001WULF\u53caCIFR\u4ea6\u540c\u6b65\u8d70\u9ad8\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u4e26\u672a\u9644\u5e36\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u80a1\u50f9\u8d70\u52e2\u53ca\u6280\u8853\u6307\u6a19\uff0c\u4e26\u975e\u6e90\u81ea\u7279\u5b9a\u6d88\u606f\u3002",
+      "summary_en": "US stocks rose broadly today: the tech-heavy NASDAQ gained 2.2% and the S&P 500 gained 1.5%. The screener shows the gains led by semiconductor, optical-networking and AI-infrastructure stocks such as SNDK, DELL, LITE, AMD and MU, many now trading well above their 20-day averages. No news headlines were provided today, so this is based only on price and momentum data, not on a specific news catalyst.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u8d70\u9ad8\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u63da2.2%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u53471.5%\u3002\u5f9e\u7be9\u9078\u7d50\u679c\u4f86\u770b\uff0c\u534a\u5c0e\u9ad4\u3001\u5149\u901a\u8a0a\u53caAI\u57fa\u5efa\u76f8\u95dc\u80a1\u4efd\u9818\u6f32\uff0c\u5305\u62ecSNDK\u3001DELL\u3001LITE\u3001AMD\u53caMU\u7b49\uff0c\u591a\u96bb\u80a1\u4efd\u80a1\u50f9\u5df2\u660e\u986f\u9ad8\u65bc20\u65e5\u5747\u7dda\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u50f9\u683c\u53ca\u52d5\u80fd\u6578\u64da\uff0c\u4e26\u7121\u7279\u5b9a\u6d88\u606f\u50ac\u5316\u5291\u53ef\u4f9b\u5f15\u8ff0\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-On",
-      "explanation_en": "Risk-on is a market mood where investors feel confident and move money into riskier, faster-growing assets like tech stocks, which is why the NASDAQ beat the S&P 500 today. On days like this it can make sense to put idle cash to work, but you still want to avoid stocks that are already overbought, because they are more likely to pull back.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u628a\u8cc7\u91d1\u8f49\u6295\u98a8\u96aa\u8f03\u9ad8\u3001\u589e\u9577\u8f03\u5feb\u7684\u8cc7\u7522\uff0c\u4f8b\u5982\u79d1\u6280\u80a1\uff0c\u9019\u6b63\u662f\u4eca\u65e5\u7d0d\u6307\u8dd1\u8d0f\u6a19\u666e500\u7684\u539f\u56e0\u3002\u5728\u9019\u985e\u65e5\u5b50\u9069\u5ea6\u52d5\u7528\u9592\u7f6e\u73fe\u91d1\u5165\u5e02\u662f\u5408\u7406\u7684\uff0c\u4f46\u4ecd\u61c9\u907f\u958b\u5df2\u7d93\u8d85\u8cb7\u7684\u80a1\u4efd\uff0c\u56e0\u70ba\u9019\u4e9b\u80a1\u4efd\u77ed\u671f\u56de\u8abf\u7684\u6a5f\u6703\u8f03\u5927\u3002"
+      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, pushing indexes such as the NASDAQ sharply higher. Strategies that wait for these days put idle cash to work when conditions favor buying, rather than forcing trades on flat, uncertain days.",
+      "explanation_zh": "\u6240\u8b02\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u5e02\u6cc1\uff0c\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u9ad8\u6f32\uff0c\u8cc7\u91d1\u6e67\u5411\u79d1\u6280\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u3001\u589e\u9577\u8f03\u5feb\u7684\u8cc7\u7522\uff0c\u5e36\u52d5\u7d0d\u65af\u9054\u514b\u7b49\u6307\u6578\u986f\u8457\u4e0a\u5347\u3002\u63a1\u7528\u9019\u985e\u7b56\u7565\u7684\u6295\u8cc7\u8005\u6703\u8010\u5fc3\u7b49\u5f85\u6b64\u985e\u4ea4\u6613\u65e5\uff0c\u624d\u628a\u9592\u7f6e\u8cc7\u91d1\u6295\u5165\u5e02\u5834\uff0c\u800c\u975e\u5728\u8d70\u52e2\u5e73\u6de1\u3001\u65b9\u5411\u672a\u660e\u6642\u52c9\u5f37\u5165\u5e02\u3002"
     }
   },
   "stats": {
