@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T15:00:47.767222+00:00",
+    "generated_at": "2026-11-12T16:00:46.179062+00:00",
     "date_et": "2026-11-12",
-    "run_id": "20261112T150047_d212be"
+    "run_id": "20261112T160046_051ace"
   },
   "account": {
     "total_value": 14786.44502401352,
@@ -11,97 +11,97 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4786.445024013519,
     "profit_percent": 47.86445024013519,
-    "vs_voo_dollars": 1378.4769338366496,
-    "vs_voo_percent": 10.281027852733104
+    "vs_voo_dollars": 1313.354518141492,
+    "vs_voo_percent": 9.747982599605386
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 686.5999755859375,
-      "market_value": 2059.7999267578125,
-      "profit_dollars": 91.19989013671875,
-      "profit_percent": 4.632728255621406,
-      "portfolio_pct": 15.402239005817847
+      "current_price": 691.4301147460938,
+      "market_value": 2074.2903442382812,
+      "profit_dollars": 105.6903076171875,
+      "profit_percent": 5.368805529364634,
+      "portfolio_pct": 15.455700907790904
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 198.58999633789062,
-      "market_value": 2581.669952392578,
-      "profit_dollars": 654.6800079345703,
-      "profit_percent": 33.97423062935121,
-      "portfolio_pct": 19.304543671616603
+      "current_price": 198.39999389648438,
+      "market_value": 2579.199920654297,
+      "profit_dollars": 652.2099761962891,
+      "profit_percent": 33.8460497976149,
+      "portfolio_pct": 19.217821972588613
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 89.73999786376953,
-      "market_value": 1974.2799530029297,
-      "profit_dollars": -83.82011413574219,
-      "profit_percent": -4.072693814750967,
-      "portfolio_pct": 14.7627598707655
+      "current_price": 90.6050033569336,
+      "market_value": 1993.310073852539,
+      "profit_dollars": -64.78999328613281,
+      "profit_percent": -3.148048742654618,
+      "portfolio_pct": 14.85231052804458
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.274999618530273,
-      "market_value": 1680.7249698638916,
-      "profit_dollars": 133.11495780944824,
-      "profit_percent": 8.601324414588072,
-      "portfolio_pct": 12.567690362838524
+      "current_price": 21.5,
+      "market_value": 1698.5,
+      "profit_dollars": 150.88998794555664,
+      "profit_percent": 9.749871529019837,
+      "portfolio_pct": 12.655657422694555
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 82.88999938964844,
-      "market_value": 1906.469985961914,
-      "profit_dollars": -707.4800491333008,
-      "profit_percent": -27.065553650015744,
-      "portfolio_pct": 14.25570804219965
+      "current_price": 82.5999984741211,
+      "market_value": 1899.7999649047852,
+      "profit_dollars": -714.1500701904297,
+      "profit_percent": -27.320723831831632,
+      "portfolio_pct": 14.155559333224671
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 36.220001220703125,
-      "market_value": 833.0600280761719,
-      "profit_dollars": -1730.2899017333984,
-      "profit_percent": -67.50111959399709,
-      "portfolio_pct": 6.229240758746356
+      "current_price": 36.34000015258789,
+      "market_value": 835.8200035095215,
+      "profit_dollars": -1727.5299263000488,
+      "profit_percent": -67.39344894781439,
+      "portfolio_pct": 6.227760748573368
     },
     {
       "ticker": "NET",
       "shares": 6.0,
       "avg_cost": 276.9949951171875,
-      "current_price": 315.25,
-      "market_value": 1891.5,
-      "profit_dollars": 229.530029296875,
-      "profit_percent": 13.81072061126161,
-      "portfolio_pct": 14.143769354027121
+      "current_price": 315.67999267578125,
+      "market_value": 1894.0799560546875,
+      "profit_dollars": 232.1099853515625,
+      "profit_percent": 13.965955428987947,
+      "portfolio_pct": 14.112939096273466
     }
   ],
   "allocation": [
     {
       "label": "EAT",
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "label": "QQQ",
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "label": "OLED",
-      "pct": 14.8
+      "pct": 14.9
     },
     {
       "label": "ROAD",
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "label": "NET",
@@ -109,7 +109,7 @@
     },
     {
       "label": "WT",
-      "pct": 12.6
+      "pct": 12.7
     },
     {
       "label": "INOD",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Cash",
-      "pct": 3.3
+      "pct": 3.2
     }
   ],
   "snapshots": [
@@ -946,8 +946,8 @@
   ],
   "benchmark": {
     "voo_shares": 19.26626324935837,
-    "voo_price": 695.9298706054688,
-    "total_value": 13407.96809017687,
+    "voo_price": 699.3099975585938,
+    "total_value": 13473.090505872027,
     "total_deposited": 12600.0,
     "snapshots": [
       {
@@ -1769,8 +1769,8 @@
       {
         "date": "2026-11-12",
         "voo_shares": 19.26626324935837,
-        "voo_price": 695.9298706054688,
-        "total_value": 13407.96809017687
+        "voo_price": 699.3099975585938,
+        "total_value": 13473.090505872027
       }
     ]
   },
@@ -2506,18 +2506,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Stocks slipped a little today, with both the NASDAQ and the S&P 500 down 0.3%, so the market had no clear direction. Cash is $445.88, which is below the $500 needed to open a new position, and today's signal does not justify selling a winner to raise money. We are holding all seven positions and waiting for a clear up day before using the remaining cash."
+    "briefing": "Markets were flat today, with the NASDAQ and S&P 500 each up just 0.1%. We have $445.88 in cash, which is under the $500 minimum for a new buy, so we are holding all 7 positions and not forcing a trade on a quiet day. Several strong candidates (HUBS, SANM, CRWV) are on the watchlist if cash frees up or the market turns clearly positive."
   },
   "education": {
     "market_education": {
-      "summary_en": "US stocks drifted slightly lower today, with the NASDAQ and the S&P 500 each down about 0.3%. A move this small usually means investors are taking a breather, with some taking profits and others waiting for the next news. No news headlines were provided today, so we can't link the move to a specific event, and it is best read as normal daily ups and downs.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u504f\u8edf\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u540c\u544a\u4e0b\u8dcc\u7d040.3%\u3002\u5982\u6b64\u8f15\u5fae\u7684\u8dcc\u5e45\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u66ab\u6642\u89c0\u671b\uff0c\u90e8\u5206\u8cc7\u91d1\u7372\u5229\u56de\u5410\uff0c\u5176\u9918\u5247\u975c\u5019\u4e0b\u4e00\u500b\u6d88\u606f\u51fa\u73fe\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u76f8\u95dc\u65b0\u805e\u8cc7\u6599\uff0c\u96e3\u4ee5\u5c07\u8d70\u52e2\u6b78\u56e0\u65bc\u500b\u5225\u4e8b\u4ef6\uff0c\u5b9c\u8996\u70ba\u4e00\u822c\u7684\u65e5\u5e38\u6ce2\u52d5\u3002",
+      "summary_en": "US stocks were nearly unchanged today, with both the NASDAQ and the S&P 500 up about 0.1%, which suggests investors were waiting for a clear catalyst. No news headlines came with today's data, so we can't link the move to a specific event. Under the surface, chip and tech names like AMD, AVGO and SWKS kept running into overbought territory while NVDA and NBIS stayed weak, which points to money moving between stocks rather than in or out of the market as a whole.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6574\u56fa\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u5747\u50c5\u5fae\u5347\u7d040.1%\uff0c\u53cd\u6620\u5e02\u5834\u89c0\u671b\u6c23\u6c1b\u6fc3\u539a\uff0c\u8cc7\u91d1\u975c\u5f85\u660e\u78ba\u50ac\u5316\u5291\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u5e36\u65b0\u805e\u982d\u689d\uff0c\u672a\u80fd\u5c07\u8d70\u52e2\u6b78\u56e0\u65bc\u7279\u5b9a\u6d88\u606f\u3002\u4e0d\u904e\u677f\u584a\u4e4b\u9593\u660e\u986f\u8f2a\u52d5\uff1aAMD\u3001\u535a\u901a\u53ca\u601d\u4f73\u8a0a\u7b49\u534a\u5c0e\u9ad4\u80a1\u6301\u7e8c\u8d70\u5f37\u81f3\u8d85\u8cb7\u5340\u57df\uff0c\u800c\u8f1d\u9054\u53caNBIS\u5247\u4ecd\u7136\u504f\u5f31\uff0c\u986f\u793a\u8cc7\u91d1\u53ea\u662f\u5728\u500b\u80a1\u4e4b\u9593\u8abf\u5009\uff0c\u800c\u975e\u5927\u8209\u5165\u5e02\u6216\u64a4\u96e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder (Cash Reserve)",
-      "explanation_en": "Dry powder is cash an investor holds on purpose so they can buy when a good opportunity comes along. On a flat, no-direction day it can be better to wait than to buy something just to use up the cash. Saving that money for a strong up day tends to give better entry points.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\u662f\u6307\u6295\u8cc7\u8005\u523b\u610f\u4fdd\u7559\u7684\u73fe\u91d1\uff0c\u4ee5\u4fbf\u5728\u51fa\u73fe\u826f\u6a5f\u6642\u5165\u5e02\u3002\u5728\u5927\u5e02\u65b9\u5411\u4e0d\u660e\u3001\u8868\u73fe\u5e73\u6de1\u7684\u65e5\u5b50\uff0c\u8207\u5176\u70ba\u4e86\u7528\u76e1\u73fe\u91d1\u800c\u52c9\u5f37\u8cb7\u5165\uff0c\u4e0d\u5982\u8010\u5fc3\u7b49\u5f85\u3002\u628a\u8cc7\u91d1\u7559\u5f85\u5f37\u52e2\u4e0a\u5347\u7684\u65e5\u5b50\u624d\u51fa\u624b\uff0c\u5f80\u5f80\u80fd\u53d6\u5f97\u8f03\u7406\u60f3\u7684\u5165\u5e02\u50f9\u4f4d\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. On flat, directionless days like today, holding that cash instead of forcing a trade is a deliberate choice. It lets you act on a strong risk-on day, when the odds are better.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u6295\u8cc7\u8005\u9810\u7559\u5728\u624b\u7684\u73fe\u91d1\uff0c\u4ee5\u4fbf\u5728\u51fa\u73fe\u7406\u60f3\u6a5f\u6703\u6642\u5165\u5e02\u3002\u5728\u4eca\u65e5\u9019\u985e\u65b9\u5411\u4e0d\u660e\u7684\u6a6b\u884c\u5e02\u6cc1\u4e0b\uff0c\u4fdd\u7559\u73fe\u91d1\u800c\u975e\u52c9\u5f37\u4ea4\u6613\uff0c\u672c\u8eab\u5c31\u662f\u4e00\u7a2e\u7d00\u5f8b\u3002\u9019\u6a23\u53ef\u4ee5\u5728\u5e02\u5834\u660e\u78ba\u8f49\u5f37\u3001\u52dd\u7b97\u8f03\u9ad8\u6642\u518d\u51fa\u64ca\u3002"
     }
   },
   "stats": {
