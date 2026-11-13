@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T20:00:47.421685+00:00",
+    "generated_at": "2026-11-13T21:00:46.067702+00:00",
     "date_et": "2026-11-13",
-    "run_id": "20261113T200047_2a9779"
+    "run_id": "20261113T210046_fb335e"
   },
   "account": {
     "total_value": 14786.44502401352,
@@ -11,79 +11,79 @@
     "starting_cash": 10000.0,
     "profit_dollars": 4786.445024013519,
     "profit_percent": 47.86445024013519,
-    "vs_voo_dollars": 1444.5577238328478,
-    "vs_voo_percent": 10.827236741935952
+    "vs_voo_dollars": 1428.3735452988567,
+    "vs_voo_percent": 10.692962285573104
   },
   "positions": [
     {
       "ticker": "QQQ",
       "shares": 3.0,
       "avg_cost": 656.2000122070312,
-      "current_price": 679.4400024414062,
-      "market_value": 2038.3200073242188,
-      "profit_dollars": 69.719970703125,
-      "profit_percent": 3.541601615673664,
-      "portfolio_pct": 15.36774733827877
+      "current_price": 679.8900146484375,
+      "market_value": 2039.6700439453125,
+      "profit_dollars": 71.07000732421875,
+      "profit_percent": 3.610180128118018,
+      "portfolio_pct": 15.399401828237039
     },
     {
       "ticker": "EAT",
       "shares": 13.0,
       "avg_cost": 148.22999572753906,
-      "current_price": 198.89999389648438,
-      "market_value": 2585.699920654297,
-      "profit_dollars": 658.7099761962891,
-      "profit_percent": 34.18336344155445,
-      "portfolio_pct": 19.494673520565684
+      "current_price": 198.31500244140625,
+      "market_value": 2578.0950317382812,
+      "profit_dollars": 651.1050872802734,
+      "profit_percent": 33.78871224278265,
+      "portfolio_pct": 19.464482239649826
     },
     {
       "ticker": "OLED",
       "shares": 22.0,
       "avg_cost": 93.55000305175781,
-      "current_price": 89.41000366210938,
-      "market_value": 1967.0200805664062,
-      "profit_dollars": -91.07998657226562,
-      "profit_percent": -4.425440143874637,
-      "portfolio_pct": 14.830187359612692
+      "current_price": 89.29000091552734,
+      "market_value": 1964.3800201416016,
+      "profit_dollars": -93.72004699707031,
+      "profit_percent": -4.553716726095203,
+      "portfolio_pct": 14.830966098324458
     },
     {
       "ticker": "WT",
       "shares": 79.0,
       "avg_cost": 19.59000015258789,
-      "current_price": 21.559999465942383,
-      "market_value": 1703.2399578094482,
-      "profit_dollars": 155.62994575500488,
-      "profit_percent": 10.056147514088968,
-      "portfolio_pct": 12.84143865243077
+      "current_price": 21.645000457763672,
+      "market_value": 1709.95503616333,
+      "profit_dollars": 162.34502410888672,
+      "profit_percent": 10.490047417913422,
+      "portfolio_pct": 12.910070816729972
     },
     {
       "ticker": "ROAD",
       "shares": 23.0,
       "avg_cost": 113.6500015258789,
-      "current_price": 80.4000015258789,
-      "market_value": 1849.2000350952148,
-      "profit_dollars": -764.75,
-      "profit_percent": -29.256488828492223,
-      "portfolio_pct": 13.941892742634144
+      "current_price": 80.75,
+      "market_value": 1857.25,
+      "profit_dollars": -756.7000350952148,
+      "profit_percent": -28.948527130804607,
+      "portfolio_pct": 14.02214006642541
     },
     {
       "ticker": "INOD",
       "shares": 23.0,
       "avg_cost": 111.44999694824219,
-      "current_price": 35.5099983215332,
-      "market_value": 816.7299613952637,
-      "profit_dollars": -1746.6199684143066,
-      "profit_percent": -68.13817918898268,
-      "portfolio_pct": 6.157668886742255
+      "current_price": 35.459999084472656,
+      "market_value": 815.5799789428711,
+      "profit_dollars": -1747.7699508666992,
+      "profit_percent": -68.18304167299311,
+      "portfolio_pct": 6.157586054709503
     },
     {
       "ticker": "NET",
       "shares": 6.0,
       "avg_cost": 276.9949951171875,
-      "current_price": 309.589599609375,
-      "market_value": 1857.53759765625,
-      "profit_dollars": 195.567626953125,
-      "profit_percent": 11.767217843917285,
-      "portfolio_pct": 14.004753115095129
+      "current_price": 305.7200012207031,
+      "market_value": 1834.3200073242188,
+      "profit_dollars": 172.35003662109375,
+      "profit_percent": 10.370225675508332,
+      "portfolio_pct": 13.849019824658326
     }
   ],
   "allocation": [
@@ -100,16 +100,16 @@
       "pct": 14.8
     },
     {
-      "label": "NET",
+      "label": "ROAD",
       "pct": 14.0
     },
     {
-      "label": "ROAD",
-      "pct": 13.9
+      "label": "NET",
+      "pct": 13.8
     },
     {
       "label": "WT",
-      "pct": 12.8
+      "pct": 12.9
     },
     {
       "label": "INOD",
@@ -952,8 +952,8 @@
   ],
   "benchmark": {
     "voo_shares": 19.26626324935837,
-    "voo_price": 692.5,
-    "total_value": 13341.887300180671,
+    "voo_price": 693.3400268554688,
+    "total_value": 13358.071478714663,
     "total_deposited": 12600.0,
     "snapshots": [
       {
@@ -1781,8 +1781,8 @@
       {
         "date": "2026-11-13",
         "voo_shares": 19.26626324935837,
-        "voo_price": 692.5,
-        "total_value": 13341.887300180671
+        "voo_price": 693.3400268554688,
+        "total_value": 13358.071478714663
       }
     ]
   },
@@ -2518,18 +2518,18 @@
     "decisions": [],
     "skip_new_buys": false,
     "market_direction": "neutral",
-    "briefing": "Stocks slipped modestly today: the NASDAQ fell 0.9% and the S&P 500 fell 0.5%, so the market is neutral, not risk-off. Cash is $445.88, below the $500 buy threshold, so we are not forcing a new position even though 3 slots are open. All 7 holdings stay in place and the automatic stop-loss and profit-target rules keep managing them. If a strong risk-on day comes, the best candidates to buy are CBRS, FOUR, VKTX and FRPT, which have clean momentum setups with RSI under 70."
+    "briefing": "Markets slipped modestly today, with the NASDAQ down 0.9% and the S&P 500 down 0.4%. That counts as a neutral session, not a clear risk-off signal. Cash is $445.88, just under the $500 minimum for a new buy, so I am holding all 7 positions and not forcing a trade. The automatic stop-losses and profit targets stay in place, and I will put cash to work on the next clear risk-on day."
   },
   "education": {
     "market_education": {
-      "summary_en": "US stocks drifted lower today. The tech-heavy NASDAQ lost 0.9%, more than the S&P 500's 0.5% drop, which suggests investors trimmed growth and tech names. Weakness in big chip and AI-infrastructure stocks such as NVDA, AMD, NBIS and CRWV, which are all trading below their 20-day averages, fits a cautious rotation rather than a broad sell-off. No specific news headlines were provided for today, so this explanation rests on price and technical data only.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u56de\u843d\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u8dcc0.9%\uff0c\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\u76840.5%\uff0c\u53cd\u6620\u8cc7\u91d1\u6e1b\u6301\u589e\u9577\u53ca\u79d1\u6280\u677f\u584a\u3002NVDA\u3001AMD\u3001NBIS\u53caCRWV\u7b49\u5927\u578b\u6676\u7247\u53caAI\u57fa\u5efa\u80a1\u5747\u8dcc\u7a7f20\u65e5\u5747\u7dda\uff0c\u8d70\u52e2\u8f03\u50cf\u5be9\u614e\u7684\u677f\u584a\u8f2a\u52d5\uff0c\u800c\u975e\u5168\u9762\u62cb\u552e\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u53ea\u6839\u64da\u50f9\u683c\u53ca\u6280\u8853\u6578\u64da\u3002",
+      "summary_en": "US stocks drifted lower today. The tech-heavy NASDAQ fell 0.9%, more than the 0.4% drop in the broader S&P 500, which suggests investors were trimming growth and tech names rather than leaving the market. Large chip and AI-infrastructure stocks such as NVDA, AMD and SMCI are trading below their 20-day averages, which points to continued rotation out of crowded semiconductor trades. No news headlines came with today's data, so this explanation rests only on price action, not on a specific catalyst.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u8d70\u4f4e\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u8dcc0.9%\uff0c\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u76840.4%\uff0c\u53cd\u6620\u8cc7\u91d1\u4e3b\u8981\u662f\u6e1b\u6301\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\uff0c\u4e26\u975e\u5168\u9762\u64a4\u96e2\u5e02\u5834\u3002NVDA\u3001AMD\u3001SMCI\u7b49\u5927\u578b\u6676\u7247\u53caAI\u57fa\u5efa\u80a1\u50f9\u683c\u4ecd\u4f4e\u65bc20\u65e5\u5747\u7dda\uff0c\u986f\u793a\u8cc7\u91d1\u6301\u7e8c\u5f9e\u64c1\u64e0\u7684\u534a\u5c0e\u9ad4\u4ea4\u6613\u4e2d\u8f2a\u52d5\u6d41\u51fa\u3002\u4eca\u65e5\u6578\u64da\u4e26\u672a\u9644\u5e36\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u89e3\u8b80\u50c5\u6839\u64da\u50f9\u683c\u8d70\u52e2\uff0c\u4e26\u7121\u7279\u5b9a\u6d88\u606f\u50ac\u5316\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder is cash an investor keeps on hand to buy when a good opportunity appears. Today we held our small cash balance instead of spending it on a weak, slightly negative day. Waiting for a strong market day usually leads to better entry prices and more reliable trends.",
-      "explanation_zh": "\u300c\u5f48\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u6295\u8cc7\u8005\u9810\u7559\u3001\u6e96\u5099\u5728\u51fa\u73fe\u826f\u597d\u6a5f\u6703\u6642\u5165\u5e02\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u5927\u5e02\u8f15\u5fae\u4e0b\u8dcc\u3001\u65b9\u5411\u672a\u660e\uff0c\u6211\u5011\u9078\u64c7\u4fdd\u7559\u624b\u4e0a\u5c11\u91cf\u73fe\u91d1\uff0c\u800c\u975e\u52c9\u5f37\u5165\u5e02\u3002\u8010\u5fc3\u7b49\u5f85\u5e02\u5834\u660e\u986f\u8f49\u5f37\u624d\u51fa\u624b\uff0c\u901a\u5e38\u80fd\u53d6\u5f97\u8f03\u4f73\u7684\u5165\u5e02\u50f9\u4f4d\uff0c\u8da8\u52e2\u4ea6\u8f03\u53ef\u9760\u3002"
+      "term": "Dry Powder (Cash Reserve)",
+      "explanation_en": "Dry powder is cash an investor keeps on hand on purpose so they can buy when a good opportunity comes. Today the portfolio's cash was slightly below the minimum for a new trade and the market was only mildly down. Waiting for a strong up day before buying is a disciplined choice, not a missed chance.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\u662f\u6307\u6295\u8cc7\u8005\u523b\u610f\u4fdd\u7559\u7684\u73fe\u91d1\uff0c\u7528\u4f86\u5728\u597d\u6a5f\u6703\u51fa\u73fe\u6642\u8cb7\u5165\u3002\u4eca\u65e5\u7d44\u5408\u7684\u73fe\u91d1\u7565\u4f4e\u65bc\u65b0\u958b\u5009\u7684\u6700\u4f4e\u9580\u6abb\uff0c\u5e02\u5834\u4ea6\u53ea\u662f\u8f15\u5fae\u4e0b\u8dcc\u3002\u7b49\u5f85\u660e\u78ba\u7684\u5f37\u52e2\u4e0a\u5347\u65e5\u624d\u5165\u5e02\u662f\u6709\u7d00\u5f8b\u7684\u9078\u64c7\uff0c\u4e26\u975e\u932f\u5931\u6a5f\u6703\u3002"
     }
   },
   "stats": {
